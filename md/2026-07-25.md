@@ -2,16 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 21
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 3篇
+  - BruceFeIix: 18篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 6篇
+- **威胁情报**: 3篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 2篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,11 +65,30 @@
 
 ### Doonsec
 
-- [重点监管“前沿模型”，美国伊利诺伊州通过《人工智能安全措施法案》](https://mp.weixin.qq.com/s/QngH9Us6iFJfHJOJc-NvZg) (发布日期: 2026-07-25)
-- [安天AVL SDK反病毒引擎升级通告（20260725）](https://mp.weixin.qq.com/s/gfKaq7ESW0Om0PVVRWyfSA) (发布日期: 2026-07-25)
-- [在网络架构与远程办公爆发的今天，选择合适的VPN协议已成为技术团队与极客们的必修课](https://mp.weixin.qq.com/s/-my3cSXgRI5RQ-EfgdHWiw) (发布日期: 2026-07-25)
-- [【热点安全风险】7月25日 | Clop 勒索团伙正针对互联网暴露的 PTC Windchill 和 FlexPLM 实例开展数据窃取勒索活动](https://mp.weixin.qq.com/s/QfMB0oA8mvJga20skcbLUA) (发布日期: 2026-07-25)
-- [IT信息安全培训](https://mp.weixin.qq.com/s/CXXNfSfuM2YZ5IE6MBmwSw) (发布日期: 2026-07-25)
+- [船舶可编程逻辑控制系统网络安全分析](https://mp.weixin.qq.com/s/3zVjnOnnKLG-WO-uUmRhqQ) (发布日期: 2026-07-25)
+- [CNCERT | 关于Dysphoria僵尸网络大范围传播的风险提示](https://mp.weixin.qq.com/s/QsUU88czgHXYs55q4YpPoQ) (发布日期: 2026-07-25)
+- [关注 | 国家网信办就数据出境安全管理政策法规问题解答](https://mp.weixin.qq.com/s/pNQPifPVhY0429BmZUn1Yw) (发布日期: 2026-07-25)
+
+### BruceFeIix
+
+- [ ] [新型恶意广告攻击:在浏览器里现场组装恶意软件](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187797&idx=1&sn=10be81e53cbb8e4b8c8268074191fe22) (发布日期: 2026-07-25)
+- [ ] [Exim 目录遍历漏洞可导致提权攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526724&idx=1&sn=e450a187189ae76bc556333fbc37648d) (发布日期: 2026-07-25)
+- [ ] [Claude Cowork 漏洞可导致虚拟机逃逸，访问Mac 文件](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526724&idx=2&sn=0a25dcdaee8bc34e615e2810c85393ef) (发布日期: 2026-07-25)
+- [ ] [招聘资深移动安全工程师](https://mp.weixin.qq.com/s?__biz=MzI1NTc1NTcwNg==&mid=2247484514&idx=1&sn=f53c5a5e98e6a9825ab38530636e0507) (发布日期: 2026-07-25)
+- [ ] [筑牢医疗网络防线：医院勒索病毒完整防护解决方案](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651143202&idx=1&sn=e97d71ab06a54748225bc078af16033f) (发布日期: 2026-07-25)
+- [ ] [AI代理90分钟挖出19个Redis零日？Kimi K3再曝RCE利用链](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617790&idx=2&sn=a5bd468f11bd6ba992a4c51df69aec0a) (发布日期: 2026-07-25)
+- [ ] [60-70K！高薪招智驾安全、IoT 渗透、大模型安全工程师](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617790&idx=3&sn=d9d9ba528a275b385fef04c094d6c3b9) (发布日期: 2026-07-25)
+- [ ] [通知 | 《网络安全标准实践指南——网络数据安全风险评估采信指南（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265034&idx=4&sn=88b0c551933d60ec9179dae9484e757f) (发布日期: 2026-07-25)
+- [ ] [OpenAI承认其模型失控 专家：AI安全治理迫在眉睫](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504505&idx=1&sn=5c30e75ca85f95ee69bb50e89853031e) (发布日期: 2026-07-25)
+- [ ] [G.O.S.S.I.P 特别推荐 2026-07-24 “千里码”安全漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501882&idx=1&sn=288ad43b9c6ea1554a94c7dd61473d7e) (发布日期: 2026-07-25)
+- [ ] [CNVD发布上周漏洞周报：上周新增漏洞 2613 个数量大幅反弹；Google将CodeMender推向企业，AI实现漏洞验证与自动修复| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142060&idx=2&sn=af18310d2c276b39f3d8578227ed9fa1) (发布日期: 2026-07-25)
+- [ ] [【安全圈】数百万辆车可被远程熄火！这个漏洞比你想的更恐怖](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077973&idx=3&sn=80897a1548847b963e2ede10cd064e0c) (发布日期: 2026-07-25)
+- [ ] [每周高级威胁情报解读(2026.07.17~07.23)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519588&idx=1&sn=3c8bf8f8a216731bcbb88404f15558fa) (发布日期: 2026-07-25)
+- [ ] [威胁情报｜从“合规邮件”到远程控制：一起 Web3 钱包钓鱼攻击调查](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505575&idx=1&sn=f5c8cbe11335ece187b152860e7314bd) (发布日期: 2026-07-25)
+- [ ] [吉尔吉斯斯坦2026年国家风险评估报告](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568857&idx=2&sn=4bb2dbd4bce7b23dd6719bcf2db24ba6) (发布日期: 2026-07-25)
+- [ ] [防窃密可溯源 火绒构建终端数据安全审计完整防线](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247535686&idx=1&sn=2892e1b840da29fdabe1cb065c14ffcc) (发布日期: 2026-07-25)
+- [ ] [关于Dysphoria僵尸网络大范围传播的风险提示](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501926&idx=1&sn=1e774dc00d4705bc952fef7bd9f05890) (发布日期: 2026-07-25)
+- [ ] [Wordpress7.0 wp2shell 未授权RCE（CVE-2026-63030 / CVE-2026-60137）](https://mp.weixin.qq.com/s?__biz=MzkwNzMyNjU0MQ==&mid=2247484346&idx=1&sn=749018d8cbde606a72975d9cdadd6915) (发布日期: 2026-07-25)
 
 
 ## 🎯 威胁详情分析
@@ -73,7 +97,27 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【热点安全风险】7月25日 | Clop 勒索团伙正针对互联网暴露的 PTC Windchill 和 FlexPLM 实例开展数据窃取勒索活动 | Doonsec | [https://mp.weixin.qq.com/s/QfMB0oA8mvJga20skcbLUA](https://mp.weixin.qq.com/s/QfMB0oA8mvJga20skcbLUA) |
+| 1 |  ] [Exim 目录遍历漏洞可导致提权攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526724&idx=1&sn=e450a187189ae76bc556333fbc37648d](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526724&idx=1&sn=e450a187189ae76bc556333fbc37648d) |
+| 2 |  ] [Claude Cowork 漏洞可导致虚拟机逃逸，访问Mac 文件 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526724&idx=2&sn=0a25dcdaee8bc34e615e2810c85393ef](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526724&idx=2&sn=0a25dcdaee8bc34e615e2810c85393ef) |
+| 3 |  ] [G.O.S.S.I.P 特别推荐 2026-07-24 “千里码”安全漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501882&idx=1&sn=288ad43b9c6ea1554a94c7dd61473d7e](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501882&idx=1&sn=288ad43b9c6ea1554a94c7dd61473d7e) |
+| 4 |  ] [CNVD发布上周漏洞周报：上周新增漏洞 2613 个数量大幅反弹；Google将CodeMender推向企业，AI实现漏洞验证与自动修复| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142060&idx=2&sn=af18310d2c276b39f3d8578227ed9fa1](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142060&idx=2&sn=af18310d2c276b39f3d8578227ed9fa1) |
+| 5 |  ] [【安全圈】数百万辆车可被远程熄火！这个漏洞比你想的更恐怖 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077973&idx=3&sn=80897a1548847b963e2ede10cd064e0c](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077973&idx=3&sn=80897a1548847b963e2ede10cd064e0c) |
+| 6 |  ] [Wordpress7.0 wp2shell 未授权RCE（CVE-2026-63030 / CVE-2026-60137） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkwNzMyNjU0MQ==&mid=2247484346&idx=1&sn=749018d8cbde606a72975d9cdadd6915](https://mp.weixin.qq.com/s?__biz=MzkwNzMyNjU0MQ==&mid=2247484346&idx=1&sn=749018d8cbde606a72975d9cdadd6915) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [AI代理90分钟挖出19个Redis零日？Kimi K3再曝RCE利用链 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617790&idx=2&sn=a5bd468f11bd6ba992a4c51df69aec0a](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617790&idx=2&sn=a5bd468f11bd6ba992a4c51df69aec0a) |
+| 2 |  ] [Wordpress7.0 wp2shell 未授权RCE（CVE-2026-63030 / CVE-2026-60137） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkwNzMyNjU0MQ==&mid=2247484346&idx=1&sn=749018d8cbde606a72975d9cdadd6915](https://mp.weixin.qq.com/s?__biz=MzkwNzMyNjU0MQ==&mid=2247484346&idx=1&sn=749018d8cbde606a72975d9cdadd6915) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [筑牢医疗网络防线：医院勒索病毒完整防护解决方案 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651143202&idx=1&sn=e97d71ab06a54748225bc078af16033f](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651143202&idx=1&sn=e97d71ab06a54748225bc078af16033f) |
+| 2 |  ] [每周高级威胁情报解读(2026.07.17~07.23) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519588&idx=1&sn=3c8bf8f8a216731bcbb88404f15558fa](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519588&idx=1&sn=3c8bf8f8a216731bcbb88404f15558fa) |
+| 3 |  ] [威胁情报｜从“合规邮件”到远程控制：一起 Web3 钱包钓鱼攻击调查 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505575&idx=1&sn=f5c8cbe11335ece187b152860e7314bd](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505575&idx=1&sn=f5c8cbe11335ece187b152860e7314bd) |
 
 
 ## 📁 归档路径
@@ -89,8 +133,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -99,5 +143,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-25 02:27:33*
+*生成时间: 2026-07-25 06:15:46*
 *报告工具: 微信文章安全归档系统*
