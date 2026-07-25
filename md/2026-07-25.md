@@ -2,16 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
+- **漏洞利用**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,8 +62,9 @@
 
 ### Doonsec
 
-- [KARR蓝牙漏洞危机：220万辆车陷远程控制风险，共用密钥暴露安全隐患](https://mp.weixin.qq.com/s/TIJAWL7rkG4JVEecTlnEMw) (发布日期: 2026-07-25)
-- [Chrome 150紧急修复四大高危漏洞](https://mp.weixin.qq.com/s/vuQ5d_37WtyD0Gkf7-mdhg) (发布日期: 2026-07-25)
+- [从低权限 shell 到 root 的路径映射——类似于 BloodHound，但用于本地 Linux 权限提升](https://mp.weixin.qq.com/s/cPvMrDQ1HUMpDe9Nj65Qog) (发布日期: 2026-07-25)
+- [opencode自动化渗透测试，给银手铐加一层限制](https://mp.weixin.qq.com/s/uwj0r3IQC3gjtIObPVU-MQ) (发布日期: 2026-07-25)
+- [SRC漏洞挖掘实战培训招生第一期｜附带文末抽奖](https://mp.weixin.qq.com/s/PnGTTACKPwU9dihhmsveeQ) (发布日期: 2026-07-25)
 
 
 ## 🎯 威胁详情分析
@@ -70,8 +73,13 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | KARR蓝牙漏洞危机：220万辆车陷远程控制风险，共用密钥暴露安全隐患 | Doonsec | [https://mp.weixin.qq.com/s/TIJAWL7rkG4JVEecTlnEMw](https://mp.weixin.qq.com/s/TIJAWL7rkG4JVEecTlnEMw) |
-| 2 | Chrome 150紧急修复四大高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s/vuQ5d_37WtyD0Gkf7-mdhg](https://mp.weixin.qq.com/s/vuQ5d_37WtyD0Gkf7-mdhg) |
+| 1 | SRC漏洞挖掘实战培训招生第一期｜附带文末抽奖 | Doonsec | [https://mp.weixin.qq.com/s/PnGTTACKPwU9dihhmsveeQ](https://mp.weixin.qq.com/s/PnGTTACKPwU9dihhmsveeQ) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | SRC漏洞挖掘实战培训招生第一期｜附带文末抽奖 | Doonsec | [https://mp.weixin.qq.com/s/PnGTTACKPwU9dihhmsveeQ](https://mp.weixin.qq.com/s/PnGTTACKPwU9dihhmsveeQ) |
 
 
 ## 📁 归档路径
@@ -87,8 +95,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -97,5 +105,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-25 13:20:21*
+*生成时间: 2026-07-25 16:54:30*
 *报告工具: 微信文章安全归档系统*
