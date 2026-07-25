@@ -1,10 +1,10 @@
-# 2026-07-24 安全威胁态势报告
+# 2026-07-25 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
@@ -60,8 +60,11 @@
 
 ### Doonsec
 
-- [Certighost（CVE-2026-54121）](https://mp.weixin.qq.com/s/YeqxnLoGDB1v6aCDYBgN3w) (发布日期: 2026-07-24)
-- [第171篇：蓝队分析取证工具箱 V4.36 AI智能研判增强版，大幅度更新](https://mp.weixin.qq.com/s/doozZsk3md7HNRnhHvwPWQ) (发布日期: 2026-07-24)
+- [重点监管“前沿模型”，美国伊利诺伊州通过《人工智能安全措施法案》](https://mp.weixin.qq.com/s/QngH9Us6iFJfHJOJc-NvZg) (发布日期: 2026-07-25)
+- [安天AVL SDK反病毒引擎升级通告（20260725）](https://mp.weixin.qq.com/s/gfKaq7ESW0Om0PVVRWyfSA) (发布日期: 2026-07-25)
+- [在网络架构与远程办公爆发的今天，选择合适的VPN协议已成为技术团队与极客们的必修课](https://mp.weixin.qq.com/s/-my3cSXgRI5RQ-EfgdHWiw) (发布日期: 2026-07-25)
+- [【热点安全风险】7月25日 | Clop 勒索团伙正针对互联网暴露的 PTC Windchill 和 FlexPLM 实例开展数据窃取勒索活动](https://mp.weixin.qq.com/s/QfMB0oA8mvJga20skcbLUA) (发布日期: 2026-07-25)
+- [IT信息安全培训](https://mp.weixin.qq.com/s/CXXNfSfuM2YZ5IE6MBmwSw) (发布日期: 2026-07-25)
 
 
 ## 🎯 威胁详情分析
@@ -70,12 +73,12 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Certighost（CVE-2026-54121） | Doonsec | [https://mp.weixin.qq.com/s/YeqxnLoGDB1v6aCDYBgN3w](https://mp.weixin.qq.com/s/YeqxnLoGDB1v6aCDYBgN3w) |
+| 1 | 【热点安全风险】7月25日 | Clop 勒索团伙正针对互联网暴露的 PTC Windchill 和 FlexPLM 实例开展数据窃取勒索活动 | Doonsec | [https://mp.weixin.qq.com/s/QfMB0oA8mvJga20skcbLUA](https://mp.weixin.qq.com/s/QfMB0oA8mvJga20skcbLUA) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W30/2026-07-24/`
+文章已归档到: `doc/2026/2026-07/2026-W30/2026-07-25/`
 
 ## 🔗 数据源说明
 
@@ -96,5 +99,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-24 17:28:18*
+*生成时间: 2026-07-25 02:27:33*
 *报告工具: 微信文章安全归档系统*
