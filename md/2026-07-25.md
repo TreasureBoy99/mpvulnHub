@@ -9,6 +9,7 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 2篇
 
 ### 漏洞类型分析
 
@@ -59,11 +60,18 @@
 
 ### Doonsec
 
-- [数据出境安全管理政策法规问答（2026年7月）](https://mp.weixin.qq.com/s/QjPjJiXOni73FjoEDU_6Ug) (发布日期: 2026-07-25)
-- [4名学生参加江苏省第四届数据安全技术应用职业技能竞赛](https://mp.weixin.qq.com/s/RTjqUukLV8tpFFyaDEPMEQ) (发布日期: 2026-07-25)
+- [KARR蓝牙漏洞危机：220万辆车陷远程控制风险，共用密钥暴露安全隐患](https://mp.weixin.qq.com/s/TIJAWL7rkG4JVEecTlnEMw) (发布日期: 2026-07-25)
+- [Chrome 150紧急修复四大高危漏洞](https://mp.weixin.qq.com/s/vuQ5d_37WtyD0Gkf7-mdhg) (发布日期: 2026-07-25)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | KARR蓝牙漏洞危机：220万辆车陷远程控制风险，共用密钥暴露安全隐患 | Doonsec | [https://mp.weixin.qq.com/s/TIJAWL7rkG4JVEecTlnEMw](https://mp.weixin.qq.com/s/TIJAWL7rkG4JVEecTlnEMw) |
+| 2 | Chrome 150紧急修复四大高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s/vuQ5d_37WtyD0Gkf7-mdhg](https://mp.weixin.qq.com/s/vuQ5d_37WtyD0Gkf7-mdhg) |
 
 
 ## 📁 归档路径
@@ -79,7 +87,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -89,5 +97,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-25 09:44:25*
+*生成时间: 2026-07-25 13:20:21*
 *报告工具: 微信文章安全归档系统*
