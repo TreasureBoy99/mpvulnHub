@@ -2,9 +2,9 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
@@ -60,8 +60,7 @@
 
 ### Doonsec
 
-- [【安全圈】Notepad++ 插件悄然安装恶意软件](https://mp.weixin.qq.com/s/MYmmH6mr90BGPHAJv_BK2Q) (发布日期: 2026-07-26)
-- [每周PDF资源：云安全漏洞挖掘与利用Skill；一周30个CVE；安卓逆向](https://mp.weixin.qq.com/s/qUY67yfynm9DmpGc6Wm0Ew) (发布日期: 2026-07-26)
+- [Claude Max 20x 订阅漏洞分析](https://mp.weixin.qq.com/s/YgyhwQm5rPYLQGCBm5b8mw) (发布日期: 2026-07-26)
 
 
 ## 🎯 威胁详情分析
@@ -70,7 +69,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 每周PDF资源：云安全漏洞挖掘与利用Skill；一周30个CVE；安卓逆向 | Doonsec | [https://mp.weixin.qq.com/s/qUY67yfynm9DmpGc6Wm0Ew](https://mp.weixin.qq.com/s/qUY67yfynm9DmpGc6Wm0Ew) |
+| 1 | Claude Max 20x 订阅漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/YgyhwQm5rPYLQGCBm5b8mw](https://mp.weixin.qq.com/s/YgyhwQm5rPYLQGCBm5b8mw) |
 
 
 ## 📁 归档路径
@@ -96,5 +95,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-26 13:16:22*
+*生成时间: 2026-07-26 16:57:14*
 *报告工具: 微信文章安全归档系统*
