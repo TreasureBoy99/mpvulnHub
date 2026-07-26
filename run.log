@@ -107286,3 +107286,46 @@
 2026-07-26 06:34:14,246 - INFO - 正在发送Discord日报通知: 2026-07-26
 2026-07-26 06:34:14,657 - INFO - Discord日报发送结果: 204
 2026-07-26 06:34:14,658 - INFO - === 执行完成 ===
+2026-07-26 09:56:44,905 - INFO - === 开始执行微信文章归档工具 ===
+2026-07-26 09:56:44,905 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-07-26 09:56:44,905 - INFO - 正在发送Discord启动通知...
+2026-07-26 09:56:45,248 - INFO - Discord启动通知发送结果: 204
+2026-07-26 09:56:45,250 - INFO - 数据文件: data.json
+2026-07-26 09:56:45,250 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-07-26 09:56:45,250 - INFO - 文档目录: doc
+2026-07-26 09:56:45,316 - INFO - 已加载 48258 条历史记录
+2026-07-26 09:56:45,316 - INFO - === 开始今日拉取 ===
+2026-07-26 09:56:45,316 - INFO - 开始获取Doonsec RSS
+2026-07-26 09:56:45,316 - INFO - 目标日期: 2026-07-26
+2026-07-26 09:56:48,543 - INFO - Doonsec RSS请求成功
+2026-07-26 09:56:48,544 - INFO - RSS中共有 200 个条目
+2026-07-26 09:56:48,545 - INFO - Doonsec获取到 47 个2026-07-26的微信文章URL
+2026-07-26 09:56:48,545 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-07-26.md
+2026-07-26 09:56:48,619 - INFO - ChainReactors md文件下载状态码: 404
+2026-07-26 09:56:48,619 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-07-26.md 状态码: 404
+2026-07-26 09:56:48,619 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-07-26.md
+2026-07-26 09:56:48,650 - INFO - BruceFeIix md文件下载状态码: 200
+2026-07-26 09:56:48,650 - INFO - BruceFeIix获取到 79 个URL
+2026-07-26 09:56:48,650 - INFO - === 开始处理 2026-07-26 的数据 ===
+2026-07-26 09:56:48,651 - INFO - Doonsec原始数据: 47 个
+2026-07-26 09:56:48,651 - INFO - ChainReactors原始数据: 0 个
+2026-07-26 09:56:48,651 - INFO - BruceFeIix原始数据: 79 个
+2026-07-26 09:56:48,651 - INFO - 开始处理Doonsec数据...
+2026-07-26 09:56:48,651 - INFO - 开始处理ChainReactors数据...
+2026-07-26 09:56:48,651 - INFO - 开始处理BruceFeIix数据...
+2026-07-26 09:56:48,651 - INFO - 去重后共 98 个URL待处理，跳过 28 个重复URL
+2026-07-26 09:56:48,651 - INFO - 去重后统计 - Doonsec: 39 个, ChainReactors: 0 个, BruceFeIix: 59 个
+2026-07-26 09:56:48,651 - INFO - === 开始关键词过滤 ===
+2026-07-26 09:56:48,655 - INFO - 关键词过滤: 匹配 2 个，跳过 96 个
+2026-07-26 09:56:48,655 - INFO - 关键词过滤后统计 - Doonsec: 2 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-07-26 09:56:48,668 - INFO - 已创建每日报告: md/2026-07-26.md
+2026-07-26 09:56:48,668 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-07-26 09:56:48,668 - INFO - 正在发送Discord通知: ClickHouse 数据库渗透测试指南
+2026-07-26 09:56:48,955 - INFO - Discord通知发送结果: 204
+2026-07-26 09:56:48,955 - INFO - 正在发送Discord通知: 研究人员公布usbliter8 硬件漏洞越狱iOS 27方案
+2026-07-26 09:56:49,184 - INFO - Discord通知发送结果: 204
+2026-07-26 09:56:49,257 - INFO - 已更新data.json，添加了 2 个URL
+2026-07-26 09:56:49,258 - INFO - 已创建每日报告: md/2026-07-26.md
+2026-07-26 09:56:49,258 - INFO - 正在发送Discord日报通知: 2026-07-26
+2026-07-26 09:56:49,547 - INFO - Discord日报发送结果: 204
+2026-07-26 09:56:49,547 - INFO - === 执行完成 ===
