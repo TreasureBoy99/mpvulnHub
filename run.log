@@ -107329,3 +107329,46 @@
 2026-07-26 09:56:49,258 - INFO - 正在发送Discord日报通知: 2026-07-26
 2026-07-26 09:56:49,547 - INFO - Discord日报发送结果: 204
 2026-07-26 09:56:49,547 - INFO - === 执行完成 ===
+2026-07-26 13:16:16,218 - INFO - === 开始执行微信文章归档工具 ===
+2026-07-26 13:16:16,218 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-07-26 13:16:16,218 - INFO - 正在发送Discord启动通知...
+2026-07-26 13:16:16,612 - INFO - Discord启动通知发送结果: 204
+2026-07-26 13:16:16,614 - INFO - 数据文件: data.json
+2026-07-26 13:16:16,614 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-07-26 13:16:16,614 - INFO - 文档目录: doc
+2026-07-26 13:16:16,681 - INFO - 已加载 48260 条历史记录
+2026-07-26 13:16:16,681 - INFO - === 开始今日拉取 ===
+2026-07-26 13:16:16,681 - INFO - 开始获取Doonsec RSS
+2026-07-26 13:16:16,681 - INFO - 目标日期: 2026-07-26
+2026-07-26 13:16:20,810 - INFO - Doonsec RSS请求成功
+2026-07-26 13:16:20,811 - INFO - RSS中共有 200 个条目
+2026-07-26 13:16:20,811 - INFO - Doonsec获取到 60 个2026-07-26的微信文章URL
+2026-07-26 13:16:20,812 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-07-26.md
+2026-07-26 13:16:20,848 - INFO - ChainReactors md文件下载状态码: 404
+2026-07-26 13:16:20,848 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-07-26.md 状态码: 404
+2026-07-26 13:16:20,849 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-07-26.md
+2026-07-26 13:16:20,882 - INFO - BruceFeIix md文件下载状态码: 200
+2026-07-26 13:16:20,883 - INFO - BruceFeIix获取到 79 个URL
+2026-07-26 13:16:20,883 - INFO - === 开始处理 2026-07-26 的数据 ===
+2026-07-26 13:16:20,883 - INFO - Doonsec原始数据: 60 个
+2026-07-26 13:16:20,883 - INFO - ChainReactors原始数据: 0 个
+2026-07-26 13:16:20,883 - INFO - BruceFeIix原始数据: 79 个
+2026-07-26 13:16:20,883 - INFO - 开始处理Doonsec数据...
+2026-07-26 13:16:20,883 - INFO - 开始处理ChainReactors数据...
+2026-07-26 13:16:20,884 - INFO - 开始处理BruceFeIix数据...
+2026-07-26 13:16:20,884 - INFO - 去重后共 109 个URL待处理，跳过 30 个重复URL
+2026-07-26 13:16:20,884 - INFO - 去重后统计 - Doonsec: 50 个, ChainReactors: 0 个, BruceFeIix: 59 个
+2026-07-26 13:16:20,884 - INFO - === 开始关键词过滤 ===
+2026-07-26 13:16:20,888 - INFO - 关键词过滤: 匹配 2 个，跳过 107 个
+2026-07-26 13:16:20,888 - INFO - 关键词过滤后统计 - Doonsec: 2 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-07-26 13:16:20,903 - INFO - 已创建每日报告: md/2026-07-26.md
+2026-07-26 13:16:20,903 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-07-26 13:16:20,904 - INFO - 正在发送Discord通知: 【安全圈】Notepad++ 插件悄然安装恶意软件
+2026-07-26 13:16:21,768 - INFO - Discord通知发送结果: 204
+2026-07-26 13:16:21,769 - INFO - 正在发送Discord通知: 每周PDF资源：云安全漏洞挖掘与利用Skill；一周30个CVE；安卓逆向
+2026-07-26 13:16:21,975 - INFO - Discord通知发送结果: 204
+2026-07-26 13:16:22,058 - INFO - 已更新data.json，添加了 2 个URL
+2026-07-26 13:16:22,058 - INFO - 已创建每日报告: md/2026-07-26.md
+2026-07-26 13:16:22,058 - INFO - 正在发送Discord日报通知: 2026-07-26
+2026-07-26 13:16:22,366 - INFO - Discord日报发送结果: 204
+2026-07-26 13:16:22,367 - INFO - === 执行完成 ===

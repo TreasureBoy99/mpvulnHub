@@ -60,8 +60,8 @@
 
 ### Doonsec
 
-- [ClickHouse 数据库渗透测试指南](https://mp.weixin.qq.com/s/JG3luvhVInqn4z7ZJ_rf7w) (发布日期: 2026-07-26)
-- [研究人员公布usbliter8 硬件漏洞越狱iOS 27方案](https://mp.weixin.qq.com/s/Oqw4Yq6aSgH0kuQ3kTsXmw) (发布日期: 2026-07-26)
+- [【安全圈】Notepad++ 插件悄然安装恶意软件](https://mp.weixin.qq.com/s/MYmmH6mr90BGPHAJv_BK2Q) (发布日期: 2026-07-26)
+- [每周PDF资源：云安全漏洞挖掘与利用Skill；一周30个CVE；安卓逆向](https://mp.weixin.qq.com/s/qUY67yfynm9DmpGc6Wm0Ew) (发布日期: 2026-07-26)
 
 
 ## 🎯 威胁详情分析
@@ -70,7 +70,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 研究人员公布usbliter8 硬件漏洞越狱iOS 27方案 | Doonsec | [https://mp.weixin.qq.com/s/Oqw4Yq6aSgH0kuQ3kTsXmw](https://mp.weixin.qq.com/s/Oqw4Yq6aSgH0kuQ3kTsXmw) |
+| 1 | 每周PDF资源：云安全漏洞挖掘与利用Skill；一周30个CVE；安卓逆向 | Doonsec | [https://mp.weixin.qq.com/s/qUY67yfynm9DmpGc6Wm0Ew](https://mp.weixin.qq.com/s/qUY67yfynm9DmpGc6Wm0Ew) |
 
 
 ## 📁 归档路径
@@ -96,5 +96,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-26 09:56:49*
+*生成时间: 2026-07-26 13:16:22*
 *报告工具: 微信文章安全归档系统*
