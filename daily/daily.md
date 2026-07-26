@@ -1,19 +1,19 @@
-# 2026-07-25 安全威胁态势报告
+# 2026-07-26 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 1篇
-- **安全运营**: 1篇
+- **攻击技术**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,9 +62,11 @@
 
 ### Doonsec
 
-- [从低权限 shell 到 root 的路径映射——类似于 BloodHound，但用于本地 Linux 权限提升](https://mp.weixin.qq.com/s/cPvMrDQ1HUMpDe9Nj65Qog) (发布日期: 2026-07-25)
-- [opencode自动化渗透测试，给银手铐加一层限制](https://mp.weixin.qq.com/s/uwj0r3IQC3gjtIObPVU-MQ) (发布日期: 2026-07-25)
-- [SRC漏洞挖掘实战培训招生第一期｜附带文末抽奖](https://mp.weixin.qq.com/s/PnGTTACKPwU9dihhmsveeQ) (发布日期: 2026-07-25)
+- [漏洞复现 | Langflow validate_code 远程命令执行漏洞](https://mp.weixin.qq.com/s/Oa9pVBMLUSGOzg0kV9y4tw) (发布日期: 2026-07-26)
+- [关于开展网络和数据安全赛事平台能力检测服务的通知](https://mp.weixin.qq.com/s/YuAQA5T3iSkGto5D-tidmw) (发布日期: 2026-07-26)
+- [关于第九届西湖论剑数据要素与数据安全创新实践征集活动延长征集期的公告](https://mp.weixin.qq.com/s/ADiTbs73gPIcW_P7_Wa3Cw) (发布日期: 2026-07-26)
+- [数据泄露情报，7.6亿领英+5.6亿脸书+2.3亿推特数据被关联，外贸信息宝藏站曝光](https://mp.weixin.qq.com/s/TnHVcCp79sZtU6hbHhX0-Q) (发布日期: 2026-07-26)
+- [一个真正改善渗透测试的模型升级](https://mp.weixin.qq.com/s/pqJ0lUjJLeyAuKhvHCnv1g) (发布日期: 2026-07-26)
 
 
 ## 🎯 威胁详情分析
@@ -73,18 +75,24 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SRC漏洞挖掘实战培训招生第一期｜附带文末抽奖 | Doonsec | [https://mp.weixin.qq.com/s/PnGTTACKPwU9dihhmsveeQ](https://mp.weixin.qq.com/s/PnGTTACKPwU9dihhmsveeQ) |
+| 1 | 漏洞复现 | Langflow validate_code 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Oa9pVBMLUSGOzg0kV9y4tw](https://mp.weixin.qq.com/s/Oa9pVBMLUSGOzg0kV9y4tw) |
 
-### 安全运营
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SRC漏洞挖掘实战培训招生第一期｜附带文末抽奖 | Doonsec | [https://mp.weixin.qq.com/s/PnGTTACKPwU9dihhmsveeQ](https://mp.weixin.qq.com/s/PnGTTACKPwU9dihhmsveeQ) |
+| 1 | 漏洞复现 | Langflow validate_code 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Oa9pVBMLUSGOzg0kV9y4tw](https://mp.weixin.qq.com/s/Oa9pVBMLUSGOzg0kV9y4tw) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 数据泄露情报，7.6亿领英+5.6亿脸书+2.3亿推特数据被关联，外贸信息宝藏站曝光 | Doonsec | [https://mp.weixin.qq.com/s/TnHVcCp79sZtU6hbHhX0-Q](https://mp.weixin.qq.com/s/TnHVcCp79sZtU6hbHhX0-Q) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W30/2026-07-25/`
+文章已归档到: `doc/2026/2026-07/2026-W30/2026-07-26/`
 
 ## 🔗 数据源说明
 
@@ -96,7 +104,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -105,5 +113,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-25 16:54:30*
+*生成时间: 2026-07-26 02:34:17*
 *报告工具: 微信文章安全归档系统*
