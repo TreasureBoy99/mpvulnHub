@@ -2,18 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 3篇
+  - BruceFeIix: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **攻击技术**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 3篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,11 +62,17 @@
 
 ### Doonsec
 
-- [漏洞复现 | Langflow validate_code 远程命令执行漏洞](https://mp.weixin.qq.com/s/Oa9pVBMLUSGOzg0kV9y4tw) (发布日期: 2026-07-26)
-- [关于开展网络和数据安全赛事平台能力检测服务的通知](https://mp.weixin.qq.com/s/YuAQA5T3iSkGto5D-tidmw) (发布日期: 2026-07-26)
-- [关于第九届西湖论剑数据要素与数据安全创新实践征集活动延长征集期的公告](https://mp.weixin.qq.com/s/ADiTbs73gPIcW_P7_Wa3Cw) (发布日期: 2026-07-26)
-- [数据泄露情报，7.6亿领英+5.6亿脸书+2.3亿推特数据被关联，外贸信息宝藏站曝光](https://mp.weixin.qq.com/s/TnHVcCp79sZtU6hbHhX0-Q) (发布日期: 2026-07-26)
-- [一个真正改善渗透测试的模型升级](https://mp.weixin.qq.com/s/pqJ0lUjJLeyAuKhvHCnv1g) (发布日期: 2026-07-26)
+- [国内挖漏洞众测平台最全合集，拿赏金必看](https://mp.weixin.qq.com/s/1WX1ihuin8GEHFesJFKJVQ) (发布日期: 2026-07-26)
+- [一图读懂 | 国家标准GB/T 41400-2026《网络安全技术 工业控制系统网络安全防护能力成熟度模型》](https://mp.weixin.qq.com/s/LdwLxJEJFTEIRDxpun1HWg) (发布日期: 2026-07-26)
+- [【成功复现】Linux Kernel XFS Reflink本地权限提升漏洞(CVE-2026-64600)](https://mp.weixin.qq.com/s/rig5KozDcNQgz-A_sH1K8w) (发布日期: 2026-07-26)
+
+### BruceFeIix
+
+- [ ] [研究人员公布usbliter8 硬件漏洞越狱iOS 27方案](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187808&idx=1&sn=2607e55afbe7f12de9eaa6b9a738fe80) (发布日期: 2026-07-26)
+- [ ] [智能入侵检测IDS与IPS](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496942&idx=1&sn=b7a621ba7861d0fe5a9bf8cd290ff165) (发布日期: 2026-07-26)
+- [ ] [CNCERT | 关于Dysphoria僵尸网络大范围传播的风险提示](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265059&idx=4&sn=8a91a5e3158daddc251e91f7c310a3fb) (发布日期: 2026-07-26)
+- [ ] [关注 | 国家网信办就数据出境安全管理政策法规问题解答](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265059&idx=5&sn=5914bd29a7900d8e4cb55902727ee684) (发布日期: 2026-07-26)
+- [ ] [【安全圈】新型 Dolphin X 恶意软件利用 AI 对高价值目标进行评分排名](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077986&idx=3&sn=7212e4b798829226046df566ed3e65d8) (发布日期: 2026-07-26)
 
 
 ## 🎯 威胁详情分析
@@ -75,19 +81,9 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞复现 | Langflow validate_code 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Oa9pVBMLUSGOzg0kV9y4tw](https://mp.weixin.qq.com/s/Oa9pVBMLUSGOzg0kV9y4tw) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 漏洞复现 | Langflow validate_code 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Oa9pVBMLUSGOzg0kV9y4tw](https://mp.weixin.qq.com/s/Oa9pVBMLUSGOzg0kV9y4tw) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 数据泄露情报，7.6亿领英+5.6亿脸书+2.3亿推特数据被关联，外贸信息宝藏站曝光 | Doonsec | [https://mp.weixin.qq.com/s/TnHVcCp79sZtU6hbHhX0-Q](https://mp.weixin.qq.com/s/TnHVcCp79sZtU6hbHhX0-Q) |
+| 1 | 国内挖漏洞众测平台最全合集，拿赏金必看 | Doonsec | [https://mp.weixin.qq.com/s/1WX1ihuin8GEHFesJFKJVQ](https://mp.weixin.qq.com/s/1WX1ihuin8GEHFesJFKJVQ) |
+| 2 | 【成功复现】Linux Kernel XFS Reflink本地权限提升漏洞(CVE-2026-64600) | Doonsec | [https://mp.weixin.qq.com/s/rig5KozDcNQgz-A_sH1K8w](https://mp.weixin.qq.com/s/rig5KozDcNQgz-A_sH1K8w) |
+| 3 |  ] [研究人员公布usbliter8 硬件漏洞越狱iOS 27方案 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187808&idx=1&sn=2607e55afbe7f12de9eaa6b9a738fe80](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187808&idx=1&sn=2607e55afbe7f12de9eaa6b9a738fe80) |
 
 
 ## 📁 归档路径
@@ -103,8 +99,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -113,5 +109,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-26 02:34:17*
+*生成时间: 2026-07-26 06:34:14*
 *报告工具: 微信文章安全归档系统*
