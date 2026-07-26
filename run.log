@@ -107372,3 +107372,44 @@
 2026-07-26 13:16:22,058 - INFO - 正在发送Discord日报通知: 2026-07-26
 2026-07-26 13:16:22,366 - INFO - Discord日报发送结果: 204
 2026-07-26 13:16:22,367 - INFO - === 执行完成 ===
+2026-07-26 16:57:11,208 - INFO - === 开始执行微信文章归档工具 ===
+2026-07-26 16:57:11,208 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-07-26 16:57:11,208 - INFO - 正在发送Discord启动通知...
+2026-07-26 16:57:11,620 - INFO - Discord启动通知发送结果: 204
+2026-07-26 16:57:11,622 - INFO - 数据文件: data.json
+2026-07-26 16:57:11,622 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-07-26 16:57:11,622 - INFO - 文档目录: doc
+2026-07-26 16:57:11,690 - INFO - 已加载 48262 条历史记录
+2026-07-26 16:57:11,690 - INFO - === 开始今日拉取 ===
+2026-07-26 16:57:11,690 - INFO - 开始获取Doonsec RSS
+2026-07-26 16:57:11,690 - INFO - 目标日期: 2026-07-26
+2026-07-26 16:57:14,119 - INFO - Doonsec RSS请求成功
+2026-07-26 16:57:14,120 - INFO - RSS中共有 200 个条目
+2026-07-26 16:57:14,121 - INFO - Doonsec获取到 66 个2026-07-26的微信文章URL
+2026-07-26 16:57:14,122 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-07-26.md
+2026-07-26 16:57:14,171 - INFO - ChainReactors md文件下载状态码: 404
+2026-07-26 16:57:14,171 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-07-26.md 状态码: 404
+2026-07-26 16:57:14,171 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-07-26.md
+2026-07-26 16:57:14,207 - INFO - BruceFeIix md文件下载状态码: 200
+2026-07-26 16:57:14,208 - INFO - BruceFeIix获取到 79 个URL
+2026-07-26 16:57:14,208 - INFO - === 开始处理 2026-07-26 的数据 ===
+2026-07-26 16:57:14,208 - INFO - Doonsec原始数据: 66 个
+2026-07-26 16:57:14,208 - INFO - ChainReactors原始数据: 0 个
+2026-07-26 16:57:14,208 - INFO - BruceFeIix原始数据: 79 个
+2026-07-26 16:57:14,208 - INFO - 开始处理Doonsec数据...
+2026-07-26 16:57:14,208 - INFO - 开始处理ChainReactors数据...
+2026-07-26 16:57:14,209 - INFO - 开始处理BruceFeIix数据...
+2026-07-26 16:57:14,209 - INFO - 去重后共 113 个URL待处理，跳过 32 个重复URL
+2026-07-26 16:57:14,209 - INFO - 去重后统计 - Doonsec: 54 个, ChainReactors: 0 个, BruceFeIix: 59 个
+2026-07-26 16:57:14,209 - INFO - === 开始关键词过滤 ===
+2026-07-26 16:57:14,213 - INFO - 关键词过滤: 匹配 1 个，跳过 112 个
+2026-07-26 16:57:14,213 - INFO - 关键词过滤后统计 - Doonsec: 1 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-07-26 16:57:14,230 - INFO - 已创建每日报告: md/2026-07-26.md
+2026-07-26 16:57:14,230 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-07-26 16:57:14,230 - INFO - 正在发送Discord通知: Claude Max 20x 订阅漏洞分析
+2026-07-26 16:57:14,473 - INFO - Discord通知发送结果: 204
+2026-07-26 16:57:14,546 - INFO - 已更新data.json，添加了 1 个URL
+2026-07-26 16:57:14,547 - INFO - 已创建每日报告: md/2026-07-26.md
+2026-07-26 16:57:14,547 - INFO - 正在发送Discord日报通知: 2026-07-26
+2026-07-26 16:57:14,796 - INFO - Discord日报发送结果: 204
+2026-07-26 16:57:14,797 - INFO - === 执行完成 ===
