@@ -2,19 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 13
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 11篇
+  - BruceFeIix: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 2篇
+- **安全运营**: 2篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 1篇
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,13 +65,22 @@
 
 ### Doonsec
 
-- [AI红队通用越狱技术，可突破GPT-5.6、Opus 5和Fable](https://mp.weixin.qq.com/s/8KLql2kk5BZPV27yYPVCXQ) (发布日期: 2026-07-27)
-- [Claude Max 20x 订阅漏洞分析](https://mp.weixin.qq.com/s/OODDmAA5v8Wb0tN1jvUtMQ) (发布日期: 2026-07-27)
-- [澳大利亚能源供应商 Origin Energy 披露发生数据泄露事件，大量客户信息遭到波及。](https://mp.weixin.qq.com/s/HIBDFntk_-6rnq7JASegmg) (发布日期: 2026-07-27)
-- [国际顶尖安全专家打造的Windows AAA体系权威实战指南上市了！](https://mp.weixin.qq.com/s/lGZKgJh6xU9URDf-UYu4fA) (发布日期: 2026-07-27)
-- [教育行业SRC供应商漏洞变化 (2026-07-27)](https://mp.weixin.qq.com/s/8EoP3RnjXrsoEcbz5ddHkw) (发布日期: 2026-07-27)
-- [域渗透、Kerberos、NTLM看不懂？免费送4本Windows安全圣经](https://mp.weixin.qq.com/s/w1NorX4kzCCjdflqEMKdgA) (发布日期: 2026-07-27)
-- [吃透APP逻辑漏洞挖掘思路：汇总越权、信息泄露、重放刷VIP、加固后仍挖出高危逻辑漏洞等真实实战案例](https://mp.weixin.qq.com/s/kX3gnGpTPU06rrJTsEyb6A) (发布日期: 2026-07-27)
+- [NodeBB 修复由AI发现的8个漏洞，可暴露管理员访问权限和私密聊天记录](https://mp.weixin.qq.com/s/mVz8_Lg6xOkFjzMCExk2Tg) (发布日期: 2026-07-27)
+- [【edu通杀刷分】CVE-2026-63030/60137-Wp2Shell命令执行+SQL注入](https://mp.weixin.qq.com/s/ueK61lTVaHIWmD86XvyNEQ) (发布日期: 2026-07-27)
+- [荣获浙江省安防科学技术进步奖！迪普科技视频网安全运营技术再获权威认可](https://mp.weixin.qq.com/s/55yZ6vqhRLYf4p2dR1Ph7g) (发布日期: 2026-07-27)
+- [某SRC连环druid下的全回显SSRF](https://mp.weixin.qq.com/s/R0N2Poeb-H-DravhW2InAw) (发布日期: 2026-07-27)
+- [2026HVV红蓝情报分析交流群（广告勿扰）](https://mp.weixin.qq.com/s/OWxz8hsQEpsueCuR-CHjqw) (发布日期: 2026-07-27)
+- [刚升到 Gitea 1.27.0 以为安全了？两个 0day 直接 RCE](https://mp.weixin.qq.com/s/PONVOe9ehMxbB86HiVKSQw) (发布日期: 2026-07-27)
+- [俄语黑客利用谷歌Gemini命令行界面控制了八台牙科诊所电脑的僵尸网络](https://mp.weixin.qq.com/s/SiBq_7ltYzWbbaInPeIzOQ) (发布日期: 2026-07-27)
+- [广东省安全智能新技术重点实验室陈斌课题组在 CCF A 类会议 KDD 2026 发表3DGS 后门攻击研究成果](https://mp.weixin.qq.com/s/XwoCYBo8M0xJoTRem2t54w) (发布日期: 2026-07-27)
+- [你的硬盘，真的在加密吗？—一场38块固态硬盘的跨品牌测试，撕开\"硬件加密\"的信任黑箱](https://mp.weixin.qq.com/s/ZdyaJqbk7USFG9I1bmAr9A) (发布日期: 2026-07-27)
+- [智能自动化漏洞挖掘平台 -- AutoHunter](https://mp.weixin.qq.com/s/-8C2V0a_pNmNfZXhcoxpgw) (发布日期: 2026-07-27)
+- [谁在给美国情报系统换血，普尔特上任四十天观察](https://mp.weixin.qq.com/s/MjrepDPCgS5M9-XydQlHdQ) (发布日期: 2026-07-27)
+
+### BruceFeIix
+
+- [ ] [恶意代码分析与检测](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496946&idx=1&sn=d0f999efc5af4a5c44c3be232d54e657) (发布日期: 2026-07-27)
+- [ ] [【安全圈】Notepad++ 插件悄然安装恶意软件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078019&idx=3&sn=90187063089624728ea3d48fac253b91) (发布日期: 2026-07-27)
 
 
 ## 🎯 威胁详情分析
@@ -78,21 +89,24 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Claude Max 20x 订阅漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/OODDmAA5v8Wb0tN1jvUtMQ](https://mp.weixin.qq.com/s/OODDmAA5v8Wb0tN1jvUtMQ) |
-| 2 | 教育行业SRC供应商漏洞变化 (2026-07-27) | Doonsec | [https://mp.weixin.qq.com/s/8EoP3RnjXrsoEcbz5ddHkw](https://mp.weixin.qq.com/s/8EoP3RnjXrsoEcbz5ddHkw) |
-| 3 | 吃透APP逻辑漏洞挖掘思路：汇总越权、信息泄露、重放刷VIP、加固后仍挖出高危逻辑漏洞等真实实战案例 | Doonsec | [https://mp.weixin.qq.com/s/kX3gnGpTPU06rrJTsEyb6A](https://mp.weixin.qq.com/s/kX3gnGpTPU06rrJTsEyb6A) |
+| 1 | NodeBB 修复由AI发现的8个漏洞，可暴露管理员访问权限和私密聊天记录 | Doonsec | [https://mp.weixin.qq.com/s/mVz8_Lg6xOkFjzMCExk2Tg](https://mp.weixin.qq.com/s/mVz8_Lg6xOkFjzMCExk2Tg) |
+| 2 | 【edu通杀刷分】CVE-2026-63030/60137-Wp2Shell命令执行+SQL注入 | Doonsec | [https://mp.weixin.qq.com/s/ueK61lTVaHIWmD86XvyNEQ](https://mp.weixin.qq.com/s/ueK61lTVaHIWmD86XvyNEQ) |
+| 3 | 刚升到 Gitea 1.27.0 以为安全了？两个 0day 直接 RCE | Doonsec | [https://mp.weixin.qq.com/s/PONVOe9ehMxbB86HiVKSQw](https://mp.weixin.qq.com/s/PONVOe9ehMxbB86HiVKSQw) |
+| 4 | 智能自动化漏洞挖掘平台 -- AutoHunter | Doonsec | [https://mp.weixin.qq.com/s/-8C2V0a_pNmNfZXhcoxpgw](https://mp.weixin.qq.com/s/-8C2V0a_pNmNfZXhcoxpgw) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【edu通杀刷分】CVE-2026-63030/60137-Wp2Shell命令执行+SQL注入 | Doonsec | [https://mp.weixin.qq.com/s/ueK61lTVaHIWmD86XvyNEQ](https://mp.weixin.qq.com/s/ueK61lTVaHIWmD86XvyNEQ) |
+| 2 | 刚升到 Gitea 1.27.0 以为安全了？两个 0day 直接 RCE | Doonsec | [https://mp.weixin.qq.com/s/PONVOe9ehMxbB86HiVKSQw](https://mp.weixin.qq.com/s/PONVOe9ehMxbB86HiVKSQw) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 教育行业SRC供应商漏洞变化 (2026-07-27) | Doonsec | [https://mp.weixin.qq.com/s/8EoP3RnjXrsoEcbz5ddHkw](https://mp.weixin.qq.com/s/8EoP3RnjXrsoEcbz5ddHkw) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 澳大利亚能源供应商 Origin Energy 披露发生数据泄露事件，大量客户信息遭到波及。 | Doonsec | [https://mp.weixin.qq.com/s/HIBDFntk_-6rnq7JASegmg](https://mp.weixin.qq.com/s/HIBDFntk_-6rnq7JASegmg) |
+| 1 | 荣获浙江省安防科学技术进步奖！迪普科技视频网安全运营技术再获权威认可 | Doonsec | [https://mp.weixin.qq.com/s/55yZ6vqhRLYf4p2dR1Ph7g](https://mp.weixin.qq.com/s/55yZ6vqhRLYf4p2dR1Ph7g) |
+| 2 | 某SRC连环druid下的全回显SSRF | Doonsec | [https://mp.weixin.qq.com/s/R0N2Poeb-H-DravhW2InAw](https://mp.weixin.qq.com/s/R0N2Poeb-H-DravhW2InAw) |
 
 
 ## 📁 归档路径
@@ -108,8 +122,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -118,5 +132,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-27 02:42:19*
+*生成时间: 2026-07-27 07:28:30*
 *报告工具: 微信文章安全归档系统*
