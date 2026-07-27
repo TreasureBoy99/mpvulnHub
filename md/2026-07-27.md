@@ -2,20 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 13
+- **总文章数**: 10
 - **数据源分布**:
-  - Doonsec: 11篇
-  - BruceFeIix: 2篇
+  - Doonsec: 10篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 4篇
 - **攻击技术**: 2篇
-- **安全运营**: 2篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 - **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
@@ -65,22 +63,16 @@
 
 ### Doonsec
 
-- [NodeBB 修复由AI发现的8个漏洞，可暴露管理员访问权限和私密聊天记录](https://mp.weixin.qq.com/s/mVz8_Lg6xOkFjzMCExk2Tg) (发布日期: 2026-07-27)
-- [【edu通杀刷分】CVE-2026-63030/60137-Wp2Shell命令执行+SQL注入](https://mp.weixin.qq.com/s/ueK61lTVaHIWmD86XvyNEQ) (发布日期: 2026-07-27)
-- [荣获浙江省安防科学技术进步奖！迪普科技视频网安全运营技术再获权威认可](https://mp.weixin.qq.com/s/55yZ6vqhRLYf4p2dR1Ph7g) (发布日期: 2026-07-27)
-- [某SRC连环druid下的全回显SSRF](https://mp.weixin.qq.com/s/R0N2Poeb-H-DravhW2InAw) (发布日期: 2026-07-27)
-- [2026HVV红蓝情报分析交流群（广告勿扰）](https://mp.weixin.qq.com/s/OWxz8hsQEpsueCuR-CHjqw) (发布日期: 2026-07-27)
-- [刚升到 Gitea 1.27.0 以为安全了？两个 0day 直接 RCE](https://mp.weixin.qq.com/s/PONVOe9ehMxbB86HiVKSQw) (发布日期: 2026-07-27)
-- [俄语黑客利用谷歌Gemini命令行界面控制了八台牙科诊所电脑的僵尸网络](https://mp.weixin.qq.com/s/SiBq_7ltYzWbbaInPeIzOQ) (发布日期: 2026-07-27)
-- [广东省安全智能新技术重点实验室陈斌课题组在 CCF A 类会议 KDD 2026 发表3DGS 后门攻击研究成果](https://mp.weixin.qq.com/s/XwoCYBo8M0xJoTRem2t54w) (发布日期: 2026-07-27)
-- [你的硬盘，真的在加密吗？—一场38块固态硬盘的跨品牌测试，撕开\"硬件加密\"的信任黑箱](https://mp.weixin.qq.com/s/ZdyaJqbk7USFG9I1bmAr9A) (发布日期: 2026-07-27)
-- [智能自动化漏洞挖掘平台 -- AutoHunter](https://mp.weixin.qq.com/s/-8C2V0a_pNmNfZXhcoxpgw) (发布日期: 2026-07-27)
-- [谁在给美国情报系统换血，普尔特上任四十天观察](https://mp.weixin.qq.com/s/MjrepDPCgS5M9-XydQlHdQ) (发布日期: 2026-07-27)
-
-### BruceFeIix
-
-- [ ] [恶意代码分析与检测](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496946&idx=1&sn=d0f999efc5af4a5c44c3be232d54e657) (发布日期: 2026-07-27)
-- [ ] [【安全圈】Notepad++ 插件悄然安装恶意软件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078019&idx=3&sn=90187063089624728ea3d48fac253b91) (发布日期: 2026-07-27)
+- [PentesterFlow开源，AI打通渗透测试全流程](https://mp.weixin.qq.com/s/iKnl4WaJnAdFbkEaXUNALw) (发布日期: 2026-07-27)
+- [告警消减99.94%、年省800万成本，大型食品巨头如何用AISOC重塑安全运营?](https://mp.weixin.qq.com/s/mMvztx4Hf5t08aLRxpbz7w) (发布日期: 2026-07-27)
+- [【漏洞通告】Fastjson2 AutoType校验绕过远程代码执行漏洞](https://mp.weixin.qq.com/s/K9tzMuWWhMA_2Ls9JF4qIg) (发布日期: 2026-07-27)
+- [RoboSec 2026首届中国具身智能安全大会定档9月，开启具身AI安全守护元年](https://mp.weixin.qq.com/s/68i9WdhUL78z4cncMuJx-g) (发布日期: 2026-07-27)
+- [WAIC｜观安信息入选人工智能安全漏洞治理联盟首批成员](https://mp.weixin.qq.com/s/1aAYCJ_Wkph4m0T8EV1Nzg) (发布日期: 2026-07-27)
+- [Web常见漏洞合集，420页Web应用安全权威指南（附PDF）](https://mp.weixin.qq.com/s/RgweNfBqPltqeznbjzXsOA) (发布日期: 2026-07-27)
+- [我做了一个用自然语言挖漏洞的 AI 渗透工具：VulnClaw](https://mp.weixin.qq.com/s/fnuSmqUoRNglZ3tu4ceb6Q) (发布日期: 2026-07-27)
+- [CNCERT：关于Dysphoria僵尸网络大范围传播的风险提示](https://mp.weixin.qq.com/s/FKbHzhq9NPDqgafo5l4eEQ) (发布日期: 2026-07-27)
+- [Fastjson2劲爆RCE！！！官方临时缓解建议。](https://mp.weixin.qq.com/s/KNJxeZ8XfRukdKlWOe30ag) (发布日期: 2026-07-27)
+- [罚单| 未建立健全全流程数据安全管理制度，未开展风险评估，重庆企业被罚](https://mp.weixin.qq.com/s/9x-gt6IinQEb3CkdWItdYQ) (发布日期: 2026-07-27)
 
 
 ## 🎯 威胁详情分析
@@ -89,24 +81,23 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | NodeBB 修复由AI发现的8个漏洞，可暴露管理员访问权限和私密聊天记录 | Doonsec | [https://mp.weixin.qq.com/s/mVz8_Lg6xOkFjzMCExk2Tg](https://mp.weixin.qq.com/s/mVz8_Lg6xOkFjzMCExk2Tg) |
-| 2 | 【edu通杀刷分】CVE-2026-63030/60137-Wp2Shell命令执行+SQL注入 | Doonsec | [https://mp.weixin.qq.com/s/ueK61lTVaHIWmD86XvyNEQ](https://mp.weixin.qq.com/s/ueK61lTVaHIWmD86XvyNEQ) |
-| 3 | 刚升到 Gitea 1.27.0 以为安全了？两个 0day 直接 RCE | Doonsec | [https://mp.weixin.qq.com/s/PONVOe9ehMxbB86HiVKSQw](https://mp.weixin.qq.com/s/PONVOe9ehMxbB86HiVKSQw) |
-| 4 | 智能自动化漏洞挖掘平台 -- AutoHunter | Doonsec | [https://mp.weixin.qq.com/s/-8C2V0a_pNmNfZXhcoxpgw](https://mp.weixin.qq.com/s/-8C2V0a_pNmNfZXhcoxpgw) |
+| 1 | 【漏洞通告】Fastjson2 AutoType校验绕过远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/K9tzMuWWhMA_2Ls9JF4qIg](https://mp.weixin.qq.com/s/K9tzMuWWhMA_2Ls9JF4qIg) |
+| 2 | WAIC｜观安信息入选人工智能安全漏洞治理联盟首批成员 | Doonsec | [https://mp.weixin.qq.com/s/1aAYCJ_Wkph4m0T8EV1Nzg](https://mp.weixin.qq.com/s/1aAYCJ_Wkph4m0T8EV1Nzg) |
+| 3 | Web常见漏洞合集，420页Web应用安全权威指南（附PDF） | Doonsec | [https://mp.weixin.qq.com/s/RgweNfBqPltqeznbjzXsOA](https://mp.weixin.qq.com/s/RgweNfBqPltqeznbjzXsOA) |
+| 4 | 我做了一个用自然语言挖漏洞的 AI 渗透工具：VulnClaw | Doonsec | [https://mp.weixin.qq.com/s/fnuSmqUoRNglZ3tu4ceb6Q](https://mp.weixin.qq.com/s/fnuSmqUoRNglZ3tu4ceb6Q) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【edu通杀刷分】CVE-2026-63030/60137-Wp2Shell命令执行+SQL注入 | Doonsec | [https://mp.weixin.qq.com/s/ueK61lTVaHIWmD86XvyNEQ](https://mp.weixin.qq.com/s/ueK61lTVaHIWmD86XvyNEQ) |
-| 2 | 刚升到 Gitea 1.27.0 以为安全了？两个 0day 直接 RCE | Doonsec | [https://mp.weixin.qq.com/s/PONVOe9ehMxbB86HiVKSQw](https://mp.weixin.qq.com/s/PONVOe9ehMxbB86HiVKSQw) |
+| 1 | 【漏洞通告】Fastjson2 AutoType校验绕过远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/K9tzMuWWhMA_2Ls9JF4qIg](https://mp.weixin.qq.com/s/K9tzMuWWhMA_2Ls9JF4qIg) |
+| 2 | Fastjson2劲爆RCE！！！官方临时缓解建议。 | Doonsec | [https://mp.weixin.qq.com/s/KNJxeZ8XfRukdKlWOe30ag](https://mp.weixin.qq.com/s/KNJxeZ8XfRukdKlWOe30ag) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 荣获浙江省安防科学技术进步奖！迪普科技视频网安全运营技术再获权威认可 | Doonsec | [https://mp.weixin.qq.com/s/55yZ6vqhRLYf4p2dR1Ph7g](https://mp.weixin.qq.com/s/55yZ6vqhRLYf4p2dR1Ph7g) |
-| 2 | 某SRC连环druid下的全回显SSRF | Doonsec | [https://mp.weixin.qq.com/s/R0N2Poeb-H-DravhW2InAw](https://mp.weixin.qq.com/s/R0N2Poeb-H-DravhW2InAw) |
+| 1 | 告警消减99.94%、年省800万成本，大型食品巨头如何用AISOC重塑安全运营? | Doonsec | [https://mp.weixin.qq.com/s/mMvztx4Hf5t08aLRxpbz7w](https://mp.weixin.qq.com/s/mMvztx4Hf5t08aLRxpbz7w) |
 
 
 ## 📁 归档路径
@@ -123,7 +114,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -132,5 +123,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-27 07:28:30*
+*生成时间: 2026-07-27 11:18:04*
 *报告工具: 微信文章安全归档系统*
