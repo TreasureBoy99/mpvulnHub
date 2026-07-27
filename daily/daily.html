@@ -1,23 +1,394 @@
-
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>安全威胁态势报告 - 2026-07-27</title>
+    <title>2026-07-27 安全威胁态势报告 安全威胁态势报告</title>
     <style>
-        body { font-family: 'Microsoft YaHei', Arial, sans-serif; line-height: 1.6; margin: 20px; max-width: 800px; margin-left: auto; margin-right: auto; }
-        h1, h2, h3 { color: #333; }
-        pre { background-color: #f5f5f5; padding: 10px; border-radius: 5px; overflow-x: auto; }
-        code { background-color: #f5f5f5; padding: 2px 5px; border-radius: 3px; }
-        table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
-        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-        th { background-color: #f2f2f2; }
-        img { max-width: 100%; height: auto; }
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --bg-tertiary: #21262d;
+            --border-color: #30363d;
+            --text-primary: #e6edf3;
+            --text-secondary: #8b949e;
+            --text-muted: #6e7681;
+            --accent-blue: #58a6ff;
+            --accent-green: #3fb950;
+            --accent-red: #f85149;
+            --accent-orange: #d29922;
+            --accent-purple: #a371f7;
+            --accent-pink: #db61a2;
+            --code-bg: #161b22;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', Helvetica, Arial, sans-serif;
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.7;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        /* Header */
+        .report-header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 30px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .report-header h1 {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 8px;
+            letter-spacing: -0.5px;
+        }
+
+        .report-header .subtitle {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+        }
+
+        /* Cards */
+        .card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 24px;
+            margin-bottom: 24px;
+        }
+
+        .card-header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 20px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .card-header h2 {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        /* Stats Grid */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+
+        .stat-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .stat-card .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--accent-blue);
+            margin-bottom: 4px;
+        }
+
+        .stat-card .stat-label {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+        }
+
+        /* Threat type badges */
+        .threat-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .threat-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 14px;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 20px;
+            font-size: 0.85rem;
+            color: var(--text-primary);
+        }
+
+        .threat-badge .count {
+            background: var(--accent-blue);
+            color: #fff;
+            padding: 2px 8px;
+            border-radius: 10px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 16px 0;
+            font-size: 0.9rem;
+        }
+
+        thead {
+            background: var(--bg-tertiary);
+        }
+
+        th {
+            text-align: left;
+            padding: 12px 16px;
+            font-weight: 600;
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        td {
+            padding: 12px 16px;
+            border-bottom: 1px solid var(--border-color);
+            vertical-align: middle;
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        tbody tr {
+            transition: background 0.15s;
+        }
+
+        tbody tr:hover {
+            background: var(--bg-tertiary);
+        }
+
+        td a {
+            color: var(--accent-blue);
+            text-decoration: none;
+            transition: color 0.15s;
+        }
+
+        td a:hover {
+            color: var(--text-primary);
+            text-decoration: underline;
+        }
+
+        .source-tag {
+            display: inline-block;
+            padding: 2px 8px;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+        }
+
+        /* Category sections */
+        .category-section {
+            margin-bottom: 32px;
+        }
+
+        .category-section:last-child {
+            margin-bottom: 0;
+        }
+
+        .category-title {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 16px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid var(--accent-blue);
+        }
+
+        /* Article list */
+        .article-list {
+            list-style: none;
+        }
+
+        .article-list li {
+            padding: 10px 0;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .article-list li:last-child {
+            border-bottom: none;
+        }
+
+        .article-list a {
+            color: var(--accent-blue);
+            text-decoration: none;
+            font-size: 0.95rem;
+        }
+
+        .article-list a:hover {
+            text-decoration: underline;
+        }
+
+        .article-date {
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            margin-left: 8px;
+        }
+
+        /* Source group */
+        .source-group {
+            margin-bottom: 20px;
+        }
+
+        .source-title {
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: var(--accent-green);
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        /* Code blocks */
+        pre {
+            background: var(--code-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 16px;
+            overflow-x: auto;
+            font-size: 0.85rem;
+            line-height: 1.5;
+        }
+
+        code {
+            font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+            font-size: 0.85rem;
+        }
+
+        p code {
+            background: var(--code-bg);
+            padding: 2px 6px;
+            border-radius: 4px;
+            color: var(--accent-pink);
+        }
+
+        /* Blockquotes / notes */
+        blockquote {
+            border-left: 3px solid var(--accent-blue);
+            padding-left: 16px;
+            margin: 16px 0;
+            color: var(--text-secondary);
+        }
+
+        /* Footer */
+        .report-footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 24px;
+            border-top: 1px solid var(--border-color);
+            color: var(--text-muted);
+            font-size: 0.8rem;
+        }
+
+        .report-footer p {
+            margin-bottom: 4px;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px 16px;
+            }
+
+            .report-header h1 {
+                font-size: 1.5rem;
+            }
+
+            .stats-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+
+            table {
+                font-size: 0.8rem;
+            }
+
+            th, td {
+                padding: 8px 10px;
+            }
+        }
+
+        /* Markdown content styles */
+        body h1, body h2, body h3, body h4, body h5, body h6 {
+            color: var(--text-primary);
+            margin-top: 24px;
+            margin-bottom: 16px;
+            font-weight: 600;
+        }
+
+        body h1 { font-size: 1.6rem; border-bottom: 1px solid var(--border-color); padding-bottom: 8px; }
+        body h2 { font-size: 1.3rem; color: var(--accent-blue); }
+        body h3 { font-size: 1.1rem; color: var(--text-secondary); }
+        body h4 { font-size: 1rem; color: var(--text-secondary); }
+
+        body ul, body ol {
+            padding-left: 24px;
+            margin: 12px 0;
+        }
+
+        body li {
+            margin-bottom: 6px;
+        }
+
+        body strong {
+            color: var(--text-primary);
+            font-weight: 600;
+        }
+
+        body hr {
+            border: none;
+            border-top: 1px solid var(--border-color);
+            margin: 24px 0;
+        }
+
+        body em {
+            color: var(--text-secondary);
+        }
+
+        body p {
+            margin-bottom: 12px;
+        }
     </style>
 </head>
 <body>
-    <h1>2026-07-27 安全威胁态势报告</h1>
+    <div class="container">
+        <header class="report-header">
+            <h1>2026-07-27 安全威胁态势报告 安全威胁态势报告</h1>
+            <p class="subtitle">威胁情报聚合与可视化分析</p>
+        </header>
+
+        <h1>2026-07-27 安全威胁态势报告</h1>
 <h2>📊 数据概览</h2>
 <ul>
 <li><strong>总文章数</strong>: 7</li>
@@ -76,19 +447,74 @@
 </ul>
 <h2>🎯 威胁详情分析</h2>
 <h3>漏洞利用</h3>
-<p>| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | Claude Max 20x 订阅漏洞分析 | Doonsec | <a href="https://mp.weixin.qq.com/s/OODDmAA5v8Wb0tN1jvUtMQ">https://mp.weixin.qq.com/s/OODDmAA5v8Wb0tN1jvUtMQ</a> |
-| 2 | 教育行业SRC供应商漏洞变化 (2026-07-27) | Doonsec | <a href="https://mp.weixin.qq.com/s/8EoP3RnjXrsoEcbz5ddHkw">https://mp.weixin.qq.com/s/8EoP3RnjXrsoEcbz5ddHkw</a> |
-| 3 | 吃透APP逻辑漏洞挖掘思路：汇总越权、信息泄露、重放刷VIP、加固后仍挖出高危逻辑漏洞等真实实战案例 | Doonsec | <a href="https://mp.weixin.qq.com/s/kX3gnGpTPU06rrJTsEyb6A">https://mp.weixin.qq.com/s/kX3gnGpTPU06rrJTsEyb6A</a> |</p>
+<table>
+<thead>
+<tr>
+<th>序号</th>
+<th>文章标题</th>
+<th>来源</th>
+<th>链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Claude Max 20x 订阅漏洞分析</td>
+<td>Doonsec</td>
+<td><a href="https://mp.weixin.qq.com/s/OODDmAA5v8Wb0tN1jvUtMQ">https://mp.weixin.qq.com/s/OODDmAA5v8Wb0tN1jvUtMQ</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td>教育行业SRC供应商漏洞变化 (2026-07-27)</td>
+<td>Doonsec</td>
+<td><a href="https://mp.weixin.qq.com/s/8EoP3RnjXrsoEcbz5ddHkw">https://mp.weixin.qq.com/s/8EoP3RnjXrsoEcbz5ddHkw</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td>吃透APP逻辑漏洞挖掘思路：汇总越权、信息泄露、重放刷VIP、加固后仍挖出高危逻辑漏洞等真实实战案例</td>
+<td>Doonsec</td>
+<td><a href="https://mp.weixin.qq.com/s/kX3gnGpTPU06rrJTsEyb6A">https://mp.weixin.qq.com/s/kX3gnGpTPU06rrJTsEyb6A</a></td>
+</tr>
+</tbody>
+</table>
 <h3>安全运营</h3>
-<p>| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 教育行业SRC供应商漏洞变化 (2026-07-27) | Doonsec | <a href="https://mp.weixin.qq.com/s/8EoP3RnjXrsoEcbz5ddHkw">https://mp.weixin.qq.com/s/8EoP3RnjXrsoEcbz5ddHkw</a> |</p>
+<table>
+<thead>
+<tr>
+<th>序号</th>
+<th>文章标题</th>
+<th>来源</th>
+<th>链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>教育行业SRC供应商漏洞变化 (2026-07-27)</td>
+<td>Doonsec</td>
+<td><a href="https://mp.weixin.qq.com/s/8EoP3RnjXrsoEcbz5ddHkw">https://mp.weixin.qq.com/s/8EoP3RnjXrsoEcbz5ddHkw</a></td>
+</tr>
+</tbody>
+</table>
 <h3>信息泄露</h3>
-<p>| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 澳大利亚能源供应商 Origin Energy 披露发生数据泄露事件，大量客户信息遭到波及。 | Doonsec | <a href="https://mp.weixin.qq.com/s/HIBDFntk_-6rnq7JASegmg">https://mp.weixin.qq.com/s/HIBDFntk_-6rnq7JASegmg</a> |</p>
+<table>
+<thead>
+<tr>
+<th>序号</th>
+<th>文章标题</th>
+<th>来源</th>
+<th>链接</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>澳大利亚能源供应商 Origin Energy 披露发生数据泄露事件，大量客户信息遭到波及。</td>
+<td>Doonsec</td>
+<td><a href="https://mp.weixin.qq.com/s/HIBDFntk_-6rnq7JASegmg">https://mp.weixin.qq.com/s/HIBDFntk_-6rnq7JASegmg</a></td>
+</tr>
+</tbody>
+</table>
 <h2>📁 归档路径</h2>
 <p>文章已归档到: <code>doc/2026/2026-07/2026-W31/2026-07-27/</code></p>
 <h2>🔗 数据源说明</h2>
@@ -113,8 +539,11 @@
 <hr />
 <p><em>生成时间: 2026-07-27 02:42:19</em>
 <em>报告工具: 微信文章安全归档系统</em></p>
-    <footer>
-        <p>生成时间: 2026-07-27 02:43:08</p>
-    </footer>
+
+        <footer class="report-footer">
+            <p>生成时间: 2026-07-27 12:52:00</p>
+            <p>微信文章安全归档系统</p>
+        </footer>
+    </div>
 </body>
 </html>
