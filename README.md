@@ -1,6 +1,6 @@
 # 微信安全文章归档系统 v1.2
 
-[![GitHub Actions](https://github.com/adminlove520/mpVulnHub/actions/workflows/update_today.yml/badge.svg)](https://github.com/adminlove520/mpVulnHub/actions)
+[![GitHub Actions](https://github.com/anonymous99-Rise/mpVulnHub/actions/workflows/update_today.yml/badge.svg)](https://github.com/anonymous99-Rise/mpVulnHub/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 > 🚀 **微信公众号安全文章知识库** - 自动抓取、分类、归档微信公众号安全文章，构建专业安全知识库。支持 **Feishu** 和 **Discord** 实时推送！
