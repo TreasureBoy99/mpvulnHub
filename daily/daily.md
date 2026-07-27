@@ -1,17 +1,20 @@
-# 2026-07-26 安全威胁态势报告
+# 2026-07-27 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 3篇
+- **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,7 +63,13 @@
 
 ### Doonsec
 
-- [Claude Max 20x 订阅漏洞分析](https://mp.weixin.qq.com/s/YgyhwQm5rPYLQGCBm5b8mw) (发布日期: 2026-07-26)
+- [AI红队通用越狱技术，可突破GPT-5.6、Opus 5和Fable](https://mp.weixin.qq.com/s/8KLql2kk5BZPV27yYPVCXQ) (发布日期: 2026-07-27)
+- [Claude Max 20x 订阅漏洞分析](https://mp.weixin.qq.com/s/OODDmAA5v8Wb0tN1jvUtMQ) (发布日期: 2026-07-27)
+- [澳大利亚能源供应商 Origin Energy 披露发生数据泄露事件，大量客户信息遭到波及。](https://mp.weixin.qq.com/s/HIBDFntk_-6rnq7JASegmg) (发布日期: 2026-07-27)
+- [国际顶尖安全专家打造的Windows AAA体系权威实战指南上市了！](https://mp.weixin.qq.com/s/lGZKgJh6xU9URDf-UYu4fA) (发布日期: 2026-07-27)
+- [教育行业SRC供应商漏洞变化 (2026-07-27)](https://mp.weixin.qq.com/s/8EoP3RnjXrsoEcbz5ddHkw) (发布日期: 2026-07-27)
+- [域渗透、Kerberos、NTLM看不懂？免费送4本Windows安全圣经](https://mp.weixin.qq.com/s/w1NorX4kzCCjdflqEMKdgA) (发布日期: 2026-07-27)
+- [吃透APP逻辑漏洞挖掘思路：汇总越权、信息泄露、重放刷VIP、加固后仍挖出高危逻辑漏洞等真实实战案例](https://mp.weixin.qq.com/s/kX3gnGpTPU06rrJTsEyb6A) (发布日期: 2026-07-27)
 
 
 ## 🎯 威胁详情分析
@@ -69,12 +78,26 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Claude Max 20x 订阅漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/YgyhwQm5rPYLQGCBm5b8mw](https://mp.weixin.qq.com/s/YgyhwQm5rPYLQGCBm5b8mw) |
+| 1 | Claude Max 20x 订阅漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/OODDmAA5v8Wb0tN1jvUtMQ](https://mp.weixin.qq.com/s/OODDmAA5v8Wb0tN1jvUtMQ) |
+| 2 | 教育行业SRC供应商漏洞变化 (2026-07-27) | Doonsec | [https://mp.weixin.qq.com/s/8EoP3RnjXrsoEcbz5ddHkw](https://mp.weixin.qq.com/s/8EoP3RnjXrsoEcbz5ddHkw) |
+| 3 | 吃透APP逻辑漏洞挖掘思路：汇总越权、信息泄露、重放刷VIP、加固后仍挖出高危逻辑漏洞等真实实战案例 | Doonsec | [https://mp.weixin.qq.com/s/kX3gnGpTPU06rrJTsEyb6A](https://mp.weixin.qq.com/s/kX3gnGpTPU06rrJTsEyb6A) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 教育行业SRC供应商漏洞变化 (2026-07-27) | Doonsec | [https://mp.weixin.qq.com/s/8EoP3RnjXrsoEcbz5ddHkw](https://mp.weixin.qq.com/s/8EoP3RnjXrsoEcbz5ddHkw) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 澳大利亚能源供应商 Origin Energy 披露发生数据泄露事件，大量客户信息遭到波及。 | Doonsec | [https://mp.weixin.qq.com/s/HIBDFntk_-6rnq7JASegmg](https://mp.weixin.qq.com/s/HIBDFntk_-6rnq7JASegmg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W30/2026-07-26/`
+文章已归档到: `doc/2026/2026-07/2026-W31/2026-07-27/`
 
 ## 🔗 数据源说明
 
@@ -85,8 +108,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -95,5 +118,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-26 16:57:14*
+*生成时间: 2026-07-27 02:42:19*
 *报告工具: 微信文章安全归档系统*
