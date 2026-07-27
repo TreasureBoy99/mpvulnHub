@@ -20,8 +20,8 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    # 仅当触发的工作流成功时才运行，手动触发时也运行
-    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    # 仅当触发的工作流成功时才运行，手动触发和push时也运行
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' || github.event_name == 'push' }}
 
     steps:
     - name: Checkout repository
