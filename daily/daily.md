@@ -2,19 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 10篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 2篇
-- **安全运营**: 1篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,16 +60,8 @@
 
 ### Doonsec
 
-- [PentesterFlow开源，AI打通渗透测试全流程](https://mp.weixin.qq.com/s/iKnl4WaJnAdFbkEaXUNALw) (发布日期: 2026-07-27)
-- [告警消减99.94%、年省800万成本，大型食品巨头如何用AISOC重塑安全运营?](https://mp.weixin.qq.com/s/mMvztx4Hf5t08aLRxpbz7w) (发布日期: 2026-07-27)
-- [【漏洞通告】Fastjson2 AutoType校验绕过远程代码执行漏洞](https://mp.weixin.qq.com/s/K9tzMuWWhMA_2Ls9JF4qIg) (发布日期: 2026-07-27)
-- [RoboSec 2026首届中国具身智能安全大会定档9月，开启具身AI安全守护元年](https://mp.weixin.qq.com/s/68i9WdhUL78z4cncMuJx-g) (发布日期: 2026-07-27)
-- [WAIC｜观安信息入选人工智能安全漏洞治理联盟首批成员](https://mp.weixin.qq.com/s/1aAYCJ_Wkph4m0T8EV1Nzg) (发布日期: 2026-07-27)
-- [Web常见漏洞合集，420页Web应用安全权威指南（附PDF）](https://mp.weixin.qq.com/s/RgweNfBqPltqeznbjzXsOA) (发布日期: 2026-07-27)
-- [我做了一个用自然语言挖漏洞的 AI 渗透工具：VulnClaw](https://mp.weixin.qq.com/s/fnuSmqUoRNglZ3tu4ceb6Q) (发布日期: 2026-07-27)
-- [CNCERT：关于Dysphoria僵尸网络大范围传播的风险提示](https://mp.weixin.qq.com/s/FKbHzhq9NPDqgafo5l4eEQ) (发布日期: 2026-07-27)
-- [Fastjson2劲爆RCE！！！官方临时缓解建议。](https://mp.weixin.qq.com/s/KNJxeZ8XfRukdKlWOe30ag) (发布日期: 2026-07-27)
-- [罚单| 未建立健全全流程数据安全管理制度，未开展风险评估，重庆企业被罚](https://mp.weixin.qq.com/s/9x-gt6IinQEb3CkdWItdYQ) (发布日期: 2026-07-27)
+- [一名合格红队的成长之路](https://mp.weixin.qq.com/s/K-Goi1MoAcDJf_udcEuZJA) (发布日期: 2026-07-27)
+- [Invicti 26.7.0 更新 - 漏洞扫描神器！](https://mp.weixin.qq.com/s/ZZ_s9cBW5Y4QOauvjfgrPA) (发布日期: 2026-07-27)
 
 
 ## 🎯 威胁详情分析
@@ -81,23 +70,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【漏洞通告】Fastjson2 AutoType校验绕过远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/K9tzMuWWhMA_2Ls9JF4qIg](https://mp.weixin.qq.com/s/K9tzMuWWhMA_2Ls9JF4qIg) |
-| 2 | WAIC｜观安信息入选人工智能安全漏洞治理联盟首批成员 | Doonsec | [https://mp.weixin.qq.com/s/1aAYCJ_Wkph4m0T8EV1Nzg](https://mp.weixin.qq.com/s/1aAYCJ_Wkph4m0T8EV1Nzg) |
-| 3 | Web常见漏洞合集，420页Web应用安全权威指南（附PDF） | Doonsec | [https://mp.weixin.qq.com/s/RgweNfBqPltqeznbjzXsOA](https://mp.weixin.qq.com/s/RgweNfBqPltqeznbjzXsOA) |
-| 4 | 我做了一个用自然语言挖漏洞的 AI 渗透工具：VulnClaw | Doonsec | [https://mp.weixin.qq.com/s/fnuSmqUoRNglZ3tu4ceb6Q](https://mp.weixin.qq.com/s/fnuSmqUoRNglZ3tu4ceb6Q) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【漏洞通告】Fastjson2 AutoType校验绕过远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/K9tzMuWWhMA_2Ls9JF4qIg](https://mp.weixin.qq.com/s/K9tzMuWWhMA_2Ls9JF4qIg) |
-| 2 | Fastjson2劲爆RCE！！！官方临时缓解建议。 | Doonsec | [https://mp.weixin.qq.com/s/KNJxeZ8XfRukdKlWOe30ag](https://mp.weixin.qq.com/s/KNJxeZ8XfRukdKlWOe30ag) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 告警消减99.94%、年省800万成本，大型食品巨头如何用AISOC重塑安全运营? | Doonsec | [https://mp.weixin.qq.com/s/mMvztx4Hf5t08aLRxpbz7w](https://mp.weixin.qq.com/s/mMvztx4Hf5t08aLRxpbz7w) |
+| 1 | Invicti 26.7.0 更新 - 漏洞扫描神器！ | Doonsec | [https://mp.weixin.qq.com/s/ZZ_s9cBW5Y4QOauvjfgrPA](https://mp.weixin.qq.com/s/ZZ_s9cBW5Y4QOauvjfgrPA) |
 
 
 ## 📁 归档路径
@@ -113,8 +86,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -123,5 +96,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-27 11:18:04*
+*生成时间: 2026-07-27 14:28:23*
 *报告工具: 微信文章安全归档系统*
