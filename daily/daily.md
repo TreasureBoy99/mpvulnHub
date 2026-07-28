@@ -1,15 +1,16 @@
-# 2026-07-27 安全威胁态势报告
+# 2026-07-28 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
 
@@ -60,8 +61,10 @@
 
 ### Doonsec
 
-- [一名合格红队的成长之路](https://mp.weixin.qq.com/s/K-Goi1MoAcDJf_udcEuZJA) (发布日期: 2026-07-27)
-- [Invicti 26.7.0 更新 - 漏洞扫描神器！](https://mp.weixin.qq.com/s/ZZ_s9cBW5Y4QOauvjfgrPA) (发布日期: 2026-07-27)
+- [CSA预警| 智能体底层框架级漏洞--通过篡改元数据完美避开提示注入防护](https://mp.weixin.qq.com/s/OAWs3646H1y7W85v9igdYg) (发布日期: 2026-07-28)
+- [CNVD漏洞周报2026年第29期](https://mp.weixin.qq.com/s/Ql8ZFjGRTYDB7jYj4iyG5Q) (发布日期: 2026-07-28)
+- [第一届AI Safety&amp;Security人工智能安全与风险治理大会议程](https://mp.weixin.qq.com/s/yb-H9THQo37v8a4LWTWm3w) (发布日期: 2026-07-28)
+- [案例｜美创科技助力某商业银行全流程落地《数据安全管理能力提升专项行动》](https://mp.weixin.qq.com/s/tvKErBD5xFyCME4UT5Z_tg) (发布日期: 2026-07-28)
 
 
 ## 🎯 威胁详情分析
@@ -70,12 +73,19 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Invicti 26.7.0 更新 - 漏洞扫描神器！ | Doonsec | [https://mp.weixin.qq.com/s/ZZ_s9cBW5Y4QOauvjfgrPA](https://mp.weixin.qq.com/s/ZZ_s9cBW5Y4QOauvjfgrPA) |
+| 1 | CSA预警| 智能体底层框架级漏洞--通过篡改元数据完美避开提示注入防护 | Doonsec | [https://mp.weixin.qq.com/s/OAWs3646H1y7W85v9igdYg](https://mp.weixin.qq.com/s/OAWs3646H1y7W85v9igdYg) |
+| 2 | CNVD漏洞周报2026年第29期 | Doonsec | [https://mp.weixin.qq.com/s/Ql8ZFjGRTYDB7jYj4iyG5Q](https://mp.weixin.qq.com/s/Ql8ZFjGRTYDB7jYj4iyG5Q) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | CSA预警| 智能体底层框架级漏洞--通过篡改元数据完美避开提示注入防护 | Doonsec | [https://mp.weixin.qq.com/s/OAWs3646H1y7W85v9igdYg](https://mp.weixin.qq.com/s/OAWs3646H1y7W85v9igdYg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W31/2026-07-27/`
+文章已归档到: `doc/2026/2026-07/2026-W31/2026-07-28/`
 
 ## 🔗 数据源说明
 
@@ -86,7 +96,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -96,5 +106,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-27 14:28:23*
+*生成时间: 2026-07-28 02:22:08*
 *报告工具: 微信文章安全归档系统*
