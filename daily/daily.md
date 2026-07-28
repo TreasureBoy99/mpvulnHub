@@ -2,15 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 10篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **安全运营**: 2篇
+- **漏洞利用**: 3篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
 
@@ -61,16 +61,13 @@
 
 ### Doonsec
 
-- [史上最严重的汽车漏洞？数百万辆车可被任意解锁、追踪甚至驾驶中熄火](https://mp.weixin.qq.com/s/77P3-YR2DHmAj_r35hriAA) (发布日期: 2026-07-28)
-- [ARTEX：自主渗透测试系统](https://mp.weixin.qq.com/s/f3r-Tie_cft32obLvAILLg) (发布日期: 2026-07-28)
-- [90%企事业单位遭勒索失陷并非黑客技术碾压！一场真实攻防复盘，拆解安全运营六大致命短板→](https://mp.weixin.qq.com/s/LPsln5izbAgAe4gEveQHgQ) (发布日期: 2026-07-28)
-- [应急演练也能“自动打分”？神州希望开启演练新篇章！](https://mp.weixin.qq.com/s/w5MeI4QO_5KEBVe0R0bxDQ) (发布日期: 2026-07-28)
-- [动态｜全国网安标委开展《网络安全标准实践指南——工业企业数据安全能力成熟度模型》应用推广工作](https://mp.weixin.qq.com/s/4Xpst9EEenCxOBboBrw3fQ) (发布日期: 2026-07-28)
-- [动态｜《商用密码检测机构（商用密码应用安全性评估业务）质量管理体系建设指引》正式发布](https://mp.weixin.qq.com/s/8ovlivaoc43XwtaFXXjn7A) (发布日期: 2026-07-28)
-- [记第一次某大学支付漏洞](https://mp.weixin.qq.com/s/Dkkj_NMNqnc1Ft2NkxiQxQ) (发布日期: 2026-07-28)
-- [7月社区投稿活动 | 漏洞挖掘/AI渗透](https://mp.weixin.qq.com/s/wK0twtlscBq_2JDCjOoWjA) (发布日期: 2026-07-28)
-- [HSRC关于AI生成漏洞报告的处置公告](https://mp.weixin.qq.com/s/x7dVk4TbK1vmWH-EzhniCA) (发布日期: 2026-07-28)
-- [喜报 |2026年6月CISP考试南京地区通过名单](https://mp.weixin.qq.com/s/7WgSuDAi8AL4DO2azrr9FA) (发布日期: 2026-07-28)
+- [【转】Mythos向左，AiPy往右｜继Mythos之后，他们又发现100多个漏洞](https://mp.weixin.qq.com/s/O884mg-JECELA9Wwu6Bb6Q) (发布日期: 2026-07-28)
+- [AI安全风口红利期！CISP-AISA解锁网络安全新赛道](https://mp.weixin.qq.com/s/6UupyoceWTLB5lPo3qPBwA) (发布日期: 2026-07-28)
+- [AppScan 10.11.0 - 老牌Web漏洞扫描神器更新](https://mp.weixin.qq.com/s/88Q-bNvfrbHUpUg0fGWoLw) (发布日期: 2026-07-28)
+- [第五届中国IPv6创新发展大会IPv6行业赋能分论坛举办，华为携手产业共建人工智能防火墙安全技术规范](https://mp.weixin.qq.com/s/7hwhY2hKMTiVkD_gFGxZYg) (发布日期: 2026-07-28)
+- [DSRC | 平台维护通知](https://mp.weixin.qq.com/s/SI36c_2gY65LiCQPUOXiRg) (发布日期: 2026-07-28)
+- [AI 时代，一个安全工程师的自述](https://mp.weixin.qq.com/s/nMY6Mxw7qZdGR8Kz5KA2_A) (发布日期: 2026-07-28)
+- [焕新升级！捷普漏洞扫描系统（AI版本）新版本发布！](https://mp.weixin.qq.com/s/40jjNTlkZWGz7NysOfzAog) (发布日期: 2026-07-28)
 
 
 ## 🎯 威胁详情分析
@@ -79,17 +76,15 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 史上最严重的汽车漏洞？数百万辆车可被任意解锁、追踪甚至驾驶中熄火 | Doonsec | [https://mp.weixin.qq.com/s/77P3-YR2DHmAj_r35hriAA](https://mp.weixin.qq.com/s/77P3-YR2DHmAj_r35hriAA) |
-| 2 | 记第一次某大学支付漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Dkkj_NMNqnc1Ft2NkxiQxQ](https://mp.weixin.qq.com/s/Dkkj_NMNqnc1Ft2NkxiQxQ) |
-| 3 | 7月社区投稿活动 | 漏洞挖掘/AI渗透 | Doonsec | [https://mp.weixin.qq.com/s/wK0twtlscBq_2JDCjOoWjA](https://mp.weixin.qq.com/s/wK0twtlscBq_2JDCjOoWjA) |
-| 4 | HSRC关于AI生成漏洞报告的处置公告 | Doonsec | [https://mp.weixin.qq.com/s/x7dVk4TbK1vmWH-EzhniCA](https://mp.weixin.qq.com/s/x7dVk4TbK1vmWH-EzhniCA) |
+| 1 | 【转】Mythos向左，AiPy往右｜继Mythos之后，他们又发现100多个漏洞 | Doonsec | [https://mp.weixin.qq.com/s/O884mg-JECELA9Wwu6Bb6Q](https://mp.weixin.qq.com/s/O884mg-JECELA9Wwu6Bb6Q) |
+| 2 | AppScan 10.11.0 - 老牌Web漏洞扫描神器更新 | Doonsec | [https://mp.weixin.qq.com/s/88Q-bNvfrbHUpUg0fGWoLw](https://mp.weixin.qq.com/s/88Q-bNvfrbHUpUg0fGWoLw) |
+| 3 | 焕新升级！捷普漏洞扫描系统（AI版本）新版本发布！ | Doonsec | [https://mp.weixin.qq.com/s/40jjNTlkZWGz7NysOfzAog](https://mp.weixin.qq.com/s/40jjNTlkZWGz7NysOfzAog) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 90%企事业单位遭勒索失陷并非黑客技术碾压！一场真实攻防复盘，拆解安全运营六大致命短板→ | Doonsec | [https://mp.weixin.qq.com/s/LPsln5izbAgAe4gEveQHgQ](https://mp.weixin.qq.com/s/LPsln5izbAgAe4gEveQHgQ) |
-| 2 | HSRC关于AI生成漏洞报告的处置公告 | Doonsec | [https://mp.weixin.qq.com/s/x7dVk4TbK1vmWH-EzhniCA](https://mp.weixin.qq.com/s/x7dVk4TbK1vmWH-EzhniCA) |
+| 1 | DSRC | 平台维护通知 | Doonsec | [https://mp.weixin.qq.com/s/SI36c_2gY65LiCQPUOXiRg](https://mp.weixin.qq.com/s/SI36c_2gY65LiCQPUOXiRg) |
 
 
 ## 📁 归档路径
@@ -105,7 +100,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -115,5 +110,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-28 10:32:28*
+*生成时间: 2026-07-28 14:01:28*
 *报告工具: 微信文章安全归档系统*
