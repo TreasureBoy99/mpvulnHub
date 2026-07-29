@@ -2,17 +2,24 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 22
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 6篇
+  - BruceFeIix: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 2篇
+- **漏洞利用**: 12篇
+- **攻击技术**: 3篇
+- **安全运营**: 3篇
+- **威胁情报**: 1篇
+- **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,11 +68,31 @@
 
 ### Doonsec
 
-- [Fastjson2 AutoType 安全问题确认：现有版本尚无正式修复，公开 EXP 到底能走多远](https://mp.weixin.qq.com/s/6Ph43vq3XrBj5n3s21Cw_w) (发布日期: 2026-07-29)
-- [安全服务的“冰山”：你看到的只是十分之一](https://mp.weixin.qq.com/s/RtKroAZoANuePiK2v-n9cQ) (发布日期: 2026-07-29)
-- [漏洞通告|Microsoft Office代码执行漏洞(CVE-2026-55022)](https://mp.weixin.qq.com/s/SqsGBVNmPUSUQZYdkxTZag) (发布日期: 2026-07-29)
-- [一台没打补丁的虚拟机，攻穿了整家企业内网](https://mp.weixin.qq.com/s/pAoU6Yv77cyo5RlBxs8muA) (发布日期: 2026-07-29)
-- [VulnFlanker 漏洞监测平台 | WatchVuln 高价值漏洞采集与推送](https://mp.weixin.qq.com/s/s1vS1aW6lCzGn1Jd1rKXbw) (发布日期: 2026-07-29)
+- [黑客的漏洞监控平台，随时可能失效](https://mp.weixin.qq.com/s/HqYi_jNztyYug4DXLagQqA) (发布日期: 2026-07-29)
+- [GPT-5.6自主“破狱”！AI不仅学会了挖掘0-day漏洞，还洗劫了Hugging Face……](https://mp.weixin.qq.com/s/JEvGTDoJwSjmiJ9_6TOJsw) (发布日期: 2026-07-29)
+- [天融信：AI驱动医疗数据安全运营体系，实现从合规治理到智能运营](https://mp.weixin.qq.com/s/cBx4O4W5Ma19tpZHUZmkZA) (发布日期: 2026-07-29)
+- [授权培训机构2026年8月CISP培训开班计划公告](https://mp.weixin.qq.com/s/C_TAQaBJ11NpgWZM0zbZRA) (发布日期: 2026-07-29)
+- [AI代理全面渗透，企业安全治理是否到位](https://mp.weixin.qq.com/s/BTHh3Gn8IuU6S-sNaxcQ_w) (发布日期: 2026-07-29)
+- [7月社区投稿活动 | 漏洞挖掘/AI渗透](https://mp.weixin.qq.com/s/faKQy_zqQn0UyQakkYz-eA) (发布日期: 2026-07-29)
+
+### BruceFeIix
+
+- [ ] [原创漏洞 | macOS/iOS Libnotify 栈溢出漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508786&idx=1&sn=1767edab5eb87d5123429de2bd4749ae) (发布日期: 2026-07-29)
+- [ ] [无法快速修补漏洞的技术供应商，或将被禁止进入政府市场](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516333&idx=1&sn=935d953ebc91d33599251a5e208f9e17) (发布日期: 2026-07-29)
+- [ ] [2030冬奥会场馆遭网络攻击，内部敏感数据泄露](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516333&idx=2&sn=7803d0c6a42ec4c39b3d6289ee1f8a50) (发布日期: 2026-07-29)
+- [ ] [测试 XSS 弹窗被重置？绕过它只花了 3 毛钱！](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500637&idx=1&sn=7904dfb75f0b987d0c9fc7fd65913782) (发布日期: 2026-07-29)
+- [ ] [TSRC关于AI辅助漏洞挖掘报告的违规处理通告](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208514&idx=1&sn=a2490b5914b28f9534786c4126f39b2d) (发布日期: 2026-07-29)
+- [ ] [突发！libssh2曝四枚高危漏洞，恶意SSH服务器可操控客户端内存](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617841&idx=2&sn=03b8eba807a9925bd6c8f538ddaee869) (发布日期: 2026-07-29)
+- [ ] [内容更新！系统0day安全——主流企业防火墙漏洞挖掘（第11期）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617841&idx=3&sn=7faccad30acbaa141542da1dd08a7f9a) (发布日期: 2026-07-29)
+- [ ] [【转】Mythos向左，AiPy往右｜继Mythos之后，他们又发现100多个漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484581&idx=1&sn=eeec633b0d9a5c694ed33ba4e6ad5783) (发布日期: 2026-07-29)
+- [ ] [论坛·原创 | 我国支柱产业开源供应链安全风险与治理](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265136&idx=1&sn=de11f8cad7c42592ca8034ac2ad23f06) (发布日期: 2026-07-29)
+- [ ] [Microsoft 发布 MAI-Cyber-1-Flash 安全大模型，安全 AI 成本直降五成；CNVD漏洞周报2026年第29期| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142101&idx=2&sn=ae683cd5002e5ff7b5acda2871f9186c) (发布日期: 2026-07-29)
+- [ ] [【安全圈】Fastjson2紧急修复远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078052&idx=3&sn=1b7a5451da0901f8bfff2bc720e1cfce) (发布日期: 2026-07-29)
+- [ ] [hvv 2026 - 最近Redis的RCE 怎么看](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486289&idx=1&sn=7bdb8c282b7ff5ac348a4cb4650ad83d) (发布日期: 2026-07-29)
+- [ ] [DSRC | 平台维护通知](https://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651909246&idx=1&sn=fa1f677866987c090b2315a920fe76f1) (发布日期: 2026-07-29)
+- [ ] [威胁情报｜求职陷阱！面试软件暗藏窃密木马](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505604&idx=1&sn=4499c713f4d8776ec3fd93707c67ffce) (发布日期: 2026-07-29)
+- [ ] [防勒索阻入侵 火绒打造轻量化企业安全运维防线](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247535734&idx=1&sn=10b3649922843c2e7d9109c09c1a334b) (发布日期: 2026-07-29)
+- [ ] [CNVD漏洞周报2026年第29期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501929&idx=1&sn=6a609170a1a228d71e3ee8c86b5fdf19) (发布日期: 2026-07-29)
 
 
 ## 🎯 威胁详情分析
@@ -74,16 +101,52 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Fastjson2 AutoType 安全问题确认：现有版本尚无正式修复，公开 EXP 到底能走多远 | Doonsec | [https://mp.weixin.qq.com/s/6Ph43vq3XrBj5n3s21Cw_w](https://mp.weixin.qq.com/s/6Ph43vq3XrBj5n3s21Cw_w) |
-| 2 | 漏洞通告|Microsoft Office代码执行漏洞(CVE-2026-55022) | Doonsec | [https://mp.weixin.qq.com/s/SqsGBVNmPUSUQZYdkxTZag](https://mp.weixin.qq.com/s/SqsGBVNmPUSUQZYdkxTZag) |
-| 3 | VulnFlanker 漏洞监测平台 | WatchVuln 高价值漏洞采集与推送 | Doonsec | [https://mp.weixin.qq.com/s/s1vS1aW6lCzGn1Jd1rKXbw](https://mp.weixin.qq.com/s/s1vS1aW6lCzGn1Jd1rKXbw) |
+| 1 | 黑客的漏洞监控平台，随时可能失效 | Doonsec | [https://mp.weixin.qq.com/s/HqYi_jNztyYug4DXLagQqA](https://mp.weixin.qq.com/s/HqYi_jNztyYug4DXLagQqA) |
+| 2 | GPT-5.6自主“破狱”！AI不仅学会了挖掘0-day漏洞，还洗劫了Hugging Face…… | Doonsec | [https://mp.weixin.qq.com/s/JEvGTDoJwSjmiJ9_6TOJsw](https://mp.weixin.qq.com/s/JEvGTDoJwSjmiJ9_6TOJsw) |
+| 3 | 7月社区投稿活动 | 漏洞挖掘/AI渗透 | Doonsec | [https://mp.weixin.qq.com/s/faKQy_zqQn0UyQakkYz-eA](https://mp.weixin.qq.com/s/faKQy_zqQn0UyQakkYz-eA) |
+| 4 |  ] [原创漏洞 | macOS/iOS Libnotify 栈溢出漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508786&idx=1&sn=1767edab5eb87d5123429de2bd4749ae](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508786&idx=1&sn=1767edab5eb87d5123429de2bd4749ae) |
+| 5 |  ] [无法快速修补漏洞的技术供应商，或将被禁止进入政府市场 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516333&idx=1&sn=935d953ebc91d33599251a5e208f9e17](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516333&idx=1&sn=935d953ebc91d33599251a5e208f9e17) |
+| 6 |  ] [TSRC关于AI辅助漏洞挖掘报告的违规处理通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208514&idx=1&sn=a2490b5914b28f9534786c4126f39b2d](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208514&idx=1&sn=a2490b5914b28f9534786c4126f39b2d) |
+| 7 |  ] [突发！libssh2曝四枚高危漏洞，恶意SSH服务器可操控客户端内存 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617841&idx=2&sn=03b8eba807a9925bd6c8f538ddaee869](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617841&idx=2&sn=03b8eba807a9925bd6c8f538ddaee869) |
+| 8 |  ] [内容更新！系统0day安全——主流企业防火墙漏洞挖掘（第11期） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617841&idx=3&sn=7faccad30acbaa141542da1dd08a7f9a](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617841&idx=3&sn=7faccad30acbaa141542da1dd08a7f9a) |
+| 9 |  ] [【转】Mythos向左，AiPy往右｜继Mythos之后，他们又发现100多个漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484581&idx=1&sn=eeec633b0d9a5c694ed33ba4e6ad5783](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484581&idx=1&sn=eeec633b0d9a5c694ed33ba4e6ad5783) |
+| 10 |  ] [Microsoft 发布 MAI-Cyber-1-Flash 安全大模型，安全 AI 成本直降五成；CNVD漏洞周报2026年第29期| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142101&idx=2&sn=ae683cd5002e5ff7b5acda2871f9186c](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142101&idx=2&sn=ae683cd5002e5ff7b5acda2871f9186c) |
+| 11 |  ] [【安全圈】Fastjson2紧急修复远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078052&idx=3&sn=1b7a5451da0901f8bfff2bc720e1cfce](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078052&idx=3&sn=1b7a5451da0901f8bfff2bc720e1cfce) |
+| 12 |  ] [CNVD漏洞周报2026年第29期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501929&idx=1&sn=6a609170a1a228d71e3ee8c86b5fdf19](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501929&idx=1&sn=6a609170a1a228d71e3ee8c86b5fdf19) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞通告|Microsoft Office代码执行漏洞(CVE-2026-55022) | Doonsec | [https://mp.weixin.qq.com/s/SqsGBVNmPUSUQZYdkxTZag](https://mp.weixin.qq.com/s/SqsGBVNmPUSUQZYdkxTZag) |
-| 2 | 一台没打补丁的虚拟机，攻穿了整家企业内网 | Doonsec | [https://mp.weixin.qq.com/s/pAoU6Yv77cyo5RlBxs8muA](https://mp.weixin.qq.com/s/pAoU6Yv77cyo5RlBxs8muA) |
+| 1 |  ] [测试 XSS 弹窗被重置？绕过它只花了 3 毛钱！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500637&idx=1&sn=7904dfb75f0b987d0c9fc7fd65913782](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500637&idx=1&sn=7904dfb75f0b987d0c9fc7fd65913782) |
+| 2 |  ] [【安全圈】Fastjson2紧急修复远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078052&idx=3&sn=1b7a5451da0901f8bfff2bc720e1cfce](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078052&idx=3&sn=1b7a5451da0901f8bfff2bc720e1cfce) |
+| 3 |  ] [hvv 2026 - 最近Redis的RCE 怎么看 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486289&idx=1&sn=7bdb8c282b7ff5ac348a4cb4650ad83d](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486289&idx=1&sn=7bdb8c282b7ff5ac348a4cb4650ad83d) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [威胁情报｜求职陷阱！面试软件暗藏窃密木马 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505604&idx=1&sn=4499c713f4d8776ec3fd93707c67ffce](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505604&idx=1&sn=4499c713f4d8776ec3fd93707c67ffce) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 天融信：AI驱动医疗数据安全运营体系，实现从合规治理到智能运营 | Doonsec | [https://mp.weixin.qq.com/s/cBx4O4W5Ma19tpZHUZmkZA](https://mp.weixin.qq.com/s/cBx4O4W5Ma19tpZHUZmkZA) |
+| 2 |  ] [TSRC关于AI辅助漏洞挖掘报告的违规处理通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208514&idx=1&sn=a2490b5914b28f9534786c4126f39b2d](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208514&idx=1&sn=a2490b5914b28f9534786c4126f39b2d) |
+| 3 |  ] [DSRC | 平台维护通知 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651909246&idx=1&sn=fa1f677866987c090b2315a920fe76f1](https://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651909246&idx=1&sn=fa1f677866987c090b2315a920fe76f1) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [2030冬奥会场馆遭网络攻击，内部敏感数据泄露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516333&idx=2&sn=7803d0c6a42ec4c39b3d6289ee1f8a50](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516333&idx=2&sn=7803d0c6a42ec4c39b3d6289ee1f8a50) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [论坛·原创 | 我国支柱产业开源供应链安全风险与治理 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265136&idx=1&sn=de11f8cad7c42592ca8034ac2ad23f06](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265136&idx=1&sn=de11f8cad7c42592ca8034ac2ad23f06) |
 
 
 ## 📁 归档路径
@@ -99,8 +162,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 12 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -109,5 +172,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-29 02:26:22*
+*生成时间: 2026-07-29 06:29:09*
 *报告工具: 微信文章安全归档系统*
