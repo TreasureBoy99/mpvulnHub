@@ -1,15 +1,16 @@
-# 2026-07-28 安全威胁态势报告
+# 2026-07-29 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 3篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
 
@@ -60,7 +61,11 @@
 
 ### Doonsec
 
-- [俄情报部门劫持IP摄像头监视军运：87,000台设备暴露，默认密码是最大漏洞](https://mp.weixin.qq.com/s/A3VyGaxmz8SJFjsvryGbLg) (发布日期: 2026-07-28)
+- [Fastjson2 AutoType 安全问题确认：现有版本尚无正式修复，公开 EXP 到底能走多远](https://mp.weixin.qq.com/s/6Ph43vq3XrBj5n3s21Cw_w) (发布日期: 2026-07-29)
+- [安全服务的“冰山”：你看到的只是十分之一](https://mp.weixin.qq.com/s/RtKroAZoANuePiK2v-n9cQ) (发布日期: 2026-07-29)
+- [漏洞通告|Microsoft Office代码执行漏洞(CVE-2026-55022)](https://mp.weixin.qq.com/s/SqsGBVNmPUSUQZYdkxTZag) (发布日期: 2026-07-29)
+- [一台没打补丁的虚拟机，攻穿了整家企业内网](https://mp.weixin.qq.com/s/pAoU6Yv77cyo5RlBxs8muA) (发布日期: 2026-07-29)
+- [VulnFlanker 漏洞监测平台 | WatchVuln 高价值漏洞采集与推送](https://mp.weixin.qq.com/s/s1vS1aW6lCzGn1Jd1rKXbw) (发布日期: 2026-07-29)
 
 
 ## 🎯 威胁详情分析
@@ -69,12 +74,21 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 俄情报部门劫持IP摄像头监视军运：87,000台设备暴露，默认密码是最大漏洞 | Doonsec | [https://mp.weixin.qq.com/s/A3VyGaxmz8SJFjsvryGbLg](https://mp.weixin.qq.com/s/A3VyGaxmz8SJFjsvryGbLg) |
+| 1 | Fastjson2 AutoType 安全问题确认：现有版本尚无正式修复，公开 EXP 到底能走多远 | Doonsec | [https://mp.weixin.qq.com/s/6Ph43vq3XrBj5n3s21Cw_w](https://mp.weixin.qq.com/s/6Ph43vq3XrBj5n3s21Cw_w) |
+| 2 | 漏洞通告|Microsoft Office代码执行漏洞(CVE-2026-55022) | Doonsec | [https://mp.weixin.qq.com/s/SqsGBVNmPUSUQZYdkxTZag](https://mp.weixin.qq.com/s/SqsGBVNmPUSUQZYdkxTZag) |
+| 3 | VulnFlanker 漏洞监测平台 | WatchVuln 高价值漏洞采集与推送 | Doonsec | [https://mp.weixin.qq.com/s/s1vS1aW6lCzGn1Jd1rKXbw](https://mp.weixin.qq.com/s/s1vS1aW6lCzGn1Jd1rKXbw) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 漏洞通告|Microsoft Office代码执行漏洞(CVE-2026-55022) | Doonsec | [https://mp.weixin.qq.com/s/SqsGBVNmPUSUQZYdkxTZag](https://mp.weixin.qq.com/s/SqsGBVNmPUSUQZYdkxTZag) |
+| 2 | 一台没打补丁的虚拟机，攻穿了整家企业内网 | Doonsec | [https://mp.weixin.qq.com/s/pAoU6Yv77cyo5RlBxs8muA](https://mp.weixin.qq.com/s/pAoU6Yv77cyo5RlBxs8muA) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W31/2026-07-28/`
+文章已归档到: `doc/2026/2026-07/2026-W31/2026-07-29/`
 
 ## 🔗 数据源说明
 
@@ -85,7 +99,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -95,5 +109,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-28 17:24:23*
+*生成时间: 2026-07-29 02:26:22*
 *报告工具: 微信文章安全归档系统*
