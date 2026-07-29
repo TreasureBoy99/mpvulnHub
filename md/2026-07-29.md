@@ -2,24 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 22
+- **总文章数**: 9
 - **数据源分布**:
-  - Doonsec: 6篇
-  - BruceFeIix: 16篇
+  - Doonsec: 9篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 12篇
-- **攻击技术**: 3篇
-- **安全运营**: 3篇
-- **威胁情报**: 1篇
-- **信息泄露**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 3篇
+- **威胁情报**: 2篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -68,31 +62,15 @@
 
 ### Doonsec
 
-- [黑客的漏洞监控平台，随时可能失效](https://mp.weixin.qq.com/s/HqYi_jNztyYug4DXLagQqA) (发布日期: 2026-07-29)
-- [GPT-5.6自主“破狱”！AI不仅学会了挖掘0-day漏洞，还洗劫了Hugging Face……](https://mp.weixin.qq.com/s/JEvGTDoJwSjmiJ9_6TOJsw) (发布日期: 2026-07-29)
-- [天融信：AI驱动医疗数据安全运营体系，实现从合规治理到智能运营](https://mp.weixin.qq.com/s/cBx4O4W5Ma19tpZHUZmkZA) (发布日期: 2026-07-29)
-- [授权培训机构2026年8月CISP培训开班计划公告](https://mp.weixin.qq.com/s/C_TAQaBJ11NpgWZM0zbZRA) (发布日期: 2026-07-29)
-- [AI代理全面渗透，企业安全治理是否到位](https://mp.weixin.qq.com/s/BTHh3Gn8IuU6S-sNaxcQ_w) (发布日期: 2026-07-29)
-- [7月社区投稿活动 | 漏洞挖掘/AI渗透](https://mp.weixin.qq.com/s/faKQy_zqQn0UyQakkYz-eA) (发布日期: 2026-07-29)
-
-### BruceFeIix
-
-- [ ] [原创漏洞 | macOS/iOS Libnotify 栈溢出漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508786&idx=1&sn=1767edab5eb87d5123429de2bd4749ae) (发布日期: 2026-07-29)
-- [ ] [无法快速修补漏洞的技术供应商，或将被禁止进入政府市场](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516333&idx=1&sn=935d953ebc91d33599251a5e208f9e17) (发布日期: 2026-07-29)
-- [ ] [2030冬奥会场馆遭网络攻击，内部敏感数据泄露](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516333&idx=2&sn=7803d0c6a42ec4c39b3d6289ee1f8a50) (发布日期: 2026-07-29)
-- [ ] [测试 XSS 弹窗被重置？绕过它只花了 3 毛钱！](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500637&idx=1&sn=7904dfb75f0b987d0c9fc7fd65913782) (发布日期: 2026-07-29)
-- [ ] [TSRC关于AI辅助漏洞挖掘报告的违规处理通告](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208514&idx=1&sn=a2490b5914b28f9534786c4126f39b2d) (发布日期: 2026-07-29)
-- [ ] [突发！libssh2曝四枚高危漏洞，恶意SSH服务器可操控客户端内存](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617841&idx=2&sn=03b8eba807a9925bd6c8f538ddaee869) (发布日期: 2026-07-29)
-- [ ] [内容更新！系统0day安全——主流企业防火墙漏洞挖掘（第11期）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617841&idx=3&sn=7faccad30acbaa141542da1dd08a7f9a) (发布日期: 2026-07-29)
-- [ ] [【转】Mythos向左，AiPy往右｜继Mythos之后，他们又发现100多个漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484581&idx=1&sn=eeec633b0d9a5c694ed33ba4e6ad5783) (发布日期: 2026-07-29)
-- [ ] [论坛·原创 | 我国支柱产业开源供应链安全风险与治理](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265136&idx=1&sn=de11f8cad7c42592ca8034ac2ad23f06) (发布日期: 2026-07-29)
-- [ ] [Microsoft 发布 MAI-Cyber-1-Flash 安全大模型，安全 AI 成本直降五成；CNVD漏洞周报2026年第29期| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142101&idx=2&sn=ae683cd5002e5ff7b5acda2871f9186c) (发布日期: 2026-07-29)
-- [ ] [【安全圈】Fastjson2紧急修复远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078052&idx=3&sn=1b7a5451da0901f8bfff2bc720e1cfce) (发布日期: 2026-07-29)
-- [ ] [hvv 2026 - 最近Redis的RCE 怎么看](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486289&idx=1&sn=7bdb8c282b7ff5ac348a4cb4650ad83d) (发布日期: 2026-07-29)
-- [ ] [DSRC | 平台维护通知](https://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651909246&idx=1&sn=fa1f677866987c090b2315a920fe76f1) (发布日期: 2026-07-29)
-- [ ] [威胁情报｜求职陷阱！面试软件暗藏窃密木马](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505604&idx=1&sn=4499c713f4d8776ec3fd93707c67ffce) (发布日期: 2026-07-29)
-- [ ] [防勒索阻入侵 火绒打造轻量化企业安全运维防线](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247535734&idx=1&sn=10b3649922843c2e7d9109c09c1a334b) (发布日期: 2026-07-29)
-- [ ] [CNVD漏洞周报2026年第29期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501929&idx=1&sn=6a609170a1a228d71e3ee8c86b5fdf19) (发布日期: 2026-07-29)
+- [征求意见稿丨网络安全标准实践指南——网络数据安全风险评估采信指南（附下载）](https://mp.weixin.qq.com/s/pRlVpWS5hThxTM4kNWA7PA) (发布日期: 2026-07-29)
+- [开展“银狐”木马专项打击行动并公开征集威胁信息线索，中国互联网网络安全威胁治理联盟发布公告](https://mp.weixin.qq.com/s/So-BHkE1XhcP5jkeYgPWxw) (发布日期: 2026-07-29)
+- [阿里云联动百位企业安全专家，共识Agent防御最佳实践](https://mp.weixin.qq.com/s/zdEkLJbIGeycPaX-zR6zmA) (发布日期: 2026-07-29)
+- [本周回顾：失控AI代理、Check Point漏洞利用、Slopsquatting、ClickFix诱饵及其他事件](https://mp.weixin.qq.com/s/qn1BBn5wKtx6gfW0MForbw) (发布日期: 2026-07-29)
+- [倒计时3天｜第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛](https://mp.weixin.qq.com/s/WuqgVgPAmYCfs3xlv_jaUg) (发布日期: 2026-07-29)
+- [关于开展网络和数据安全赛事平台能力检测服务的通知](https://mp.weixin.qq.com/s/KOiMRuzjMjOYIEoYdan2rQ) (发布日期: 2026-07-29)
+- [关于第九届西湖论剑数据要素与数据安全创新实践征集活动延长征集期的公告](https://mp.weixin.qq.com/s/z7JCyQopaEJ-fjCOrwuf5A) (发布日期: 2026-07-29)
+- [OpenAI开源Codex Security CLI：用于发现、验证和修复安全漏洞](https://mp.weixin.qq.com/s/nnWfsr1tVIhdedn-oUgiSw) (发布日期: 2026-07-29)
+- [邀请函丨CISP 注册信息安全专业人员认证培训一合规刚需丨持证上岗丨职称等同丨地方补贴丨](https://mp.weixin.qq.com/s/gX2FFE7Ve2lSv8dGXpscFQ) (发布日期: 2026-07-29)
 
 
 ## 🎯 威胁详情分析
@@ -101,52 +79,16 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 黑客的漏洞监控平台，随时可能失效 | Doonsec | [https://mp.weixin.qq.com/s/HqYi_jNztyYug4DXLagQqA](https://mp.weixin.qq.com/s/HqYi_jNztyYug4DXLagQqA) |
-| 2 | GPT-5.6自主“破狱”！AI不仅学会了挖掘0-day漏洞，还洗劫了Hugging Face…… | Doonsec | [https://mp.weixin.qq.com/s/JEvGTDoJwSjmiJ9_6TOJsw](https://mp.weixin.qq.com/s/JEvGTDoJwSjmiJ9_6TOJsw) |
-| 3 | 7月社区投稿活动 | 漏洞挖掘/AI渗透 | Doonsec | [https://mp.weixin.qq.com/s/faKQy_zqQn0UyQakkYz-eA](https://mp.weixin.qq.com/s/faKQy_zqQn0UyQakkYz-eA) |
-| 4 |  ] [原创漏洞 | macOS/iOS Libnotify 栈溢出漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508786&idx=1&sn=1767edab5eb87d5123429de2bd4749ae](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508786&idx=1&sn=1767edab5eb87d5123429de2bd4749ae) |
-| 5 |  ] [无法快速修补漏洞的技术供应商，或将被禁止进入政府市场 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516333&idx=1&sn=935d953ebc91d33599251a5e208f9e17](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516333&idx=1&sn=935d953ebc91d33599251a5e208f9e17) |
-| 6 |  ] [TSRC关于AI辅助漏洞挖掘报告的违规处理通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208514&idx=1&sn=a2490b5914b28f9534786c4126f39b2d](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208514&idx=1&sn=a2490b5914b28f9534786c4126f39b2d) |
-| 7 |  ] [突发！libssh2曝四枚高危漏洞，恶意SSH服务器可操控客户端内存 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617841&idx=2&sn=03b8eba807a9925bd6c8f538ddaee869](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617841&idx=2&sn=03b8eba807a9925bd6c8f538ddaee869) |
-| 8 |  ] [内容更新！系统0day安全——主流企业防火墙漏洞挖掘（第11期） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617841&idx=3&sn=7faccad30acbaa141542da1dd08a7f9a](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617841&idx=3&sn=7faccad30acbaa141542da1dd08a7f9a) |
-| 9 |  ] [【转】Mythos向左，AiPy往右｜继Mythos之后，他们又发现100多个漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484581&idx=1&sn=eeec633b0d9a5c694ed33ba4e6ad5783](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484581&idx=1&sn=eeec633b0d9a5c694ed33ba4e6ad5783) |
-| 10 |  ] [Microsoft 发布 MAI-Cyber-1-Flash 安全大模型，安全 AI 成本直降五成；CNVD漏洞周报2026年第29期| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142101&idx=2&sn=ae683cd5002e5ff7b5acda2871f9186c](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142101&idx=2&sn=ae683cd5002e5ff7b5acda2871f9186c) |
-| 11 |  ] [【安全圈】Fastjson2紧急修复远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078052&idx=3&sn=1b7a5451da0901f8bfff2bc720e1cfce](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078052&idx=3&sn=1b7a5451da0901f8bfff2bc720e1cfce) |
-| 12 |  ] [CNVD漏洞周报2026年第29期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501929&idx=1&sn=6a609170a1a228d71e3ee8c86b5fdf19](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501929&idx=1&sn=6a609170a1a228d71e3ee8c86b5fdf19) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [测试 XSS 弹窗被重置？绕过它只花了 3 毛钱！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500637&idx=1&sn=7904dfb75f0b987d0c9fc7fd65913782](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500637&idx=1&sn=7904dfb75f0b987d0c9fc7fd65913782) |
-| 2 |  ] [【安全圈】Fastjson2紧急修复远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078052&idx=3&sn=1b7a5451da0901f8bfff2bc720e1cfce](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078052&idx=3&sn=1b7a5451da0901f8bfff2bc720e1cfce) |
-| 3 |  ] [hvv 2026 - 最近Redis的RCE 怎么看 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486289&idx=1&sn=7bdb8c282b7ff5ac348a4cb4650ad83d](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486289&idx=1&sn=7bdb8c282b7ff5ac348a4cb4650ad83d) |
+| 1 | 本周回顾：失控AI代理、Check Point漏洞利用、Slopsquatting、ClickFix诱饵及其他事件 | Doonsec | [https://mp.weixin.qq.com/s/qn1BBn5wKtx6gfW0MForbw](https://mp.weixin.qq.com/s/qn1BBn5wKtx6gfW0MForbw) |
+| 2 | 倒计时3天｜第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛 | Doonsec | [https://mp.weixin.qq.com/s/WuqgVgPAmYCfs3xlv_jaUg](https://mp.weixin.qq.com/s/WuqgVgPAmYCfs3xlv_jaUg) |
+| 3 | OpenAI开源Codex Security CLI：用于发现、验证和修复安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/nnWfsr1tVIhdedn-oUgiSw](https://mp.weixin.qq.com/s/nnWfsr1tVIhdedn-oUgiSw) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [威胁情报｜求职陷阱！面试软件暗藏窃密木马 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505604&idx=1&sn=4499c713f4d8776ec3fd93707c67ffce](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505604&idx=1&sn=4499c713f4d8776ec3fd93707c67ffce) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 天融信：AI驱动医疗数据安全运营体系，实现从合规治理到智能运营 | Doonsec | [https://mp.weixin.qq.com/s/cBx4O4W5Ma19tpZHUZmkZA](https://mp.weixin.qq.com/s/cBx4O4W5Ma19tpZHUZmkZA) |
-| 2 |  ] [TSRC关于AI辅助漏洞挖掘报告的违规处理通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208514&idx=1&sn=a2490b5914b28f9534786c4126f39b2d](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208514&idx=1&sn=a2490b5914b28f9534786c4126f39b2d) |
-| 3 |  ] [DSRC | 平台维护通知 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651909246&idx=1&sn=fa1f677866987c090b2315a920fe76f1](https://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651909246&idx=1&sn=fa1f677866987c090b2315a920fe76f1) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [2030冬奥会场馆遭网络攻击，内部敏感数据泄露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516333&idx=2&sn=7803d0c6a42ec4c39b3d6289ee1f8a50](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516333&idx=2&sn=7803d0c6a42ec4c39b3d6289ee1f8a50) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [论坛·原创 | 我国支柱产业开源供应链安全风险与治理 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265136&idx=1&sn=de11f8cad7c42592ca8034ac2ad23f06](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265136&idx=1&sn=de11f8cad7c42592ca8034ac2ad23f06) |
+| 1 | 开展“银狐”木马专项打击行动并公开征集威胁信息线索，中国互联网网络安全威胁治理联盟发布公告 | Doonsec | [https://mp.weixin.qq.com/s/So-BHkE1XhcP5jkeYgPWxw](https://mp.weixin.qq.com/s/So-BHkE1XhcP5jkeYgPWxw) |
+| 2 | 倒计时3天｜第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛 | Doonsec | [https://mp.weixin.qq.com/s/WuqgVgPAmYCfs3xlv_jaUg](https://mp.weixin.qq.com/s/WuqgVgPAmYCfs3xlv_jaUg) |
 
 
 ## 📁 归档路径
@@ -162,8 +104,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 12 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -172,5 +114,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-29 06:29:09*
+*生成时间: 2026-07-29 10:36:22*
 *报告工具: 微信文章安全归档系统*
