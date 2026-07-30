@@ -1,4 +1,4 @@
-# 2026-07-29 安全威胁态势报告
+# 2026-07-30 安全威胁态势报告
 
 ## 📊 数据概览
 
@@ -9,11 +9,11 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **威胁情报**: 2篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,15 +62,15 @@
 
 ### Doonsec
 
-- [征求意见稿丨网络安全标准实践指南——网络数据安全风险评估采信指南（附下载）](https://mp.weixin.qq.com/s/pRlVpWS5hThxTM4kNWA7PA) (发布日期: 2026-07-29)
-- [开展“银狐”木马专项打击行动并公开征集威胁信息线索，中国互联网网络安全威胁治理联盟发布公告](https://mp.weixin.qq.com/s/So-BHkE1XhcP5jkeYgPWxw) (发布日期: 2026-07-29)
-- [阿里云联动百位企业安全专家，共识Agent防御最佳实践](https://mp.weixin.qq.com/s/zdEkLJbIGeycPaX-zR6zmA) (发布日期: 2026-07-29)
-- [本周回顾：失控AI代理、Check Point漏洞利用、Slopsquatting、ClickFix诱饵及其他事件](https://mp.weixin.qq.com/s/qn1BBn5wKtx6gfW0MForbw) (发布日期: 2026-07-29)
-- [倒计时3天｜第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛](https://mp.weixin.qq.com/s/WuqgVgPAmYCfs3xlv_jaUg) (发布日期: 2026-07-29)
-- [关于开展网络和数据安全赛事平台能力检测服务的通知](https://mp.weixin.qq.com/s/KOiMRuzjMjOYIEoYdan2rQ) (发布日期: 2026-07-29)
-- [关于第九届西湖论剑数据要素与数据安全创新实践征集活动延长征集期的公告](https://mp.weixin.qq.com/s/z7JCyQopaEJ-fjCOrwuf5A) (发布日期: 2026-07-29)
-- [OpenAI开源Codex Security CLI：用于发现、验证和修复安全漏洞](https://mp.weixin.qq.com/s/nnWfsr1tVIhdedn-oUgiSw) (发布日期: 2026-07-29)
-- [邀请函丨CISP 注册信息安全专业人员认证培训一合规刚需丨持证上岗丨职称等同丨地方补贴丨](https://mp.weixin.qq.com/s/gX2FFE7Ve2lSv8dGXpscFQ) (发布日期: 2026-07-29)
+- [直播预告 | 基于 MT8676 座舱域控平台方案介绍](https://mp.weixin.qq.com/s/XlFGZYoDu9bPeW_ZsNslfQ) (发布日期: 2026-07-30)
+- [OpenAI开源Codex Security CLI：用于发现、验证和修复安全漏洞](https://mp.weixin.qq.com/s/wk2hAzMR0SU9CcwIlrp2hA) (发布日期: 2026-07-30)
+- [漏洞复现 | 大华ICC智能物联管理平台 upper-domains 存在信息泄露漏洞](https://mp.weixin.qq.com/s/Bh0mWMFAduJ2w_UZD5i2kg) (发布日期: 2026-07-30)
+- [除了大模型，AI渗透测试还差啥？](https://mp.weixin.qq.com/s/6Hs5k-sHOS5Qp4QaGAWEHw) (发布日期: 2026-07-30)
+- [网安独家！天融信获CCIA数据安全和个人信息保护社会责任评价“三星级”单位](https://mp.weixin.qq.com/s/i6KzNCF7yMcm57Tw3T7Ewg) (发布日期: 2026-07-30)
+- [重磅更新｜新版CCSP云安全认证全新开班！](https://mp.weixin.qq.com/s/tAjhpID_Y7C8eLGr4VNpXQ) (发布日期: 2026-07-30)
+- [软件供应链安全管理制度](https://mp.weixin.qq.com/s/8U8btdzmpXG3j4qlSfWSRg) (发布日期: 2026-07-30)
+- [一款红队后渗透平台，BOF 动态加载、多信道异步通信与内存免杀、AI 辅助自动执行后渗透任务](https://mp.weixin.qq.com/s/jSrhvl1NmPENlUMlsQSH6Q) (发布日期: 2026-07-30)
+- [2026年第十二届中国密码学与数据安全学术会议](https://mp.weixin.qq.com/s/m4msLwpK8aKi6q8mGjU3Sw) (发布日期: 2026-07-30)
 
 
 ## 🎯 威胁详情分析
@@ -79,21 +79,25 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 本周回顾：失控AI代理、Check Point漏洞利用、Slopsquatting、ClickFix诱饵及其他事件 | Doonsec | [https://mp.weixin.qq.com/s/qn1BBn5wKtx6gfW0MForbw](https://mp.weixin.qq.com/s/qn1BBn5wKtx6gfW0MForbw) |
-| 2 | 倒计时3天｜第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛 | Doonsec | [https://mp.weixin.qq.com/s/WuqgVgPAmYCfs3xlv_jaUg](https://mp.weixin.qq.com/s/WuqgVgPAmYCfs3xlv_jaUg) |
-| 3 | OpenAI开源Codex Security CLI：用于发现、验证和修复安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/nnWfsr1tVIhdedn-oUgiSw](https://mp.weixin.qq.com/s/nnWfsr1tVIhdedn-oUgiSw) |
+| 1 | OpenAI开源Codex Security CLI：用于发现、验证和修复安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/wk2hAzMR0SU9CcwIlrp2hA](https://mp.weixin.qq.com/s/wk2hAzMR0SU9CcwIlrp2hA) |
+| 2 | 漏洞复现 | 大华ICC智能物联管理平台 upper-domains 存在信息泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Bh0mWMFAduJ2w_UZD5i2kg](https://mp.weixin.qq.com/s/Bh0mWMFAduJ2w_UZD5i2kg) |
 
-### 威胁情报
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 开展“银狐”木马专项打击行动并公开征集威胁信息线索，中国互联网网络安全威胁治理联盟发布公告 | Doonsec | [https://mp.weixin.qq.com/s/So-BHkE1XhcP5jkeYgPWxw](https://mp.weixin.qq.com/s/So-BHkE1XhcP5jkeYgPWxw) |
-| 2 | 倒计时3天｜第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛 | Doonsec | [https://mp.weixin.qq.com/s/WuqgVgPAmYCfs3xlv_jaUg](https://mp.weixin.qq.com/s/WuqgVgPAmYCfs3xlv_jaUg) |
+| 1 | 直播预告 | 基于 MT8676 座舱域控平台方案介绍 | Doonsec | [https://mp.weixin.qq.com/s/XlFGZYoDu9bPeW_ZsNslfQ](https://mp.weixin.qq.com/s/XlFGZYoDu9bPeW_ZsNslfQ) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 软件供应链安全管理制度 | Doonsec | [https://mp.weixin.qq.com/s/8U8btdzmpXG3j4qlSfWSRg](https://mp.weixin.qq.com/s/8U8btdzmpXG3j4qlSfWSRg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W31/2026-07-29/`
+文章已归档到: `doc/2026/2026-07/2026-W31/2026-07-30/`
 
 ## 🔗 数据源说明
 
@@ -104,8 +108,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -114,5 +118,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-29 10:36:22*
+*生成时间: 2026-07-30 02:08:31*
 *报告工具: 微信文章安全归档系统*
