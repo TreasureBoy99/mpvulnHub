@@ -2,18 +2,22 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 17
 - **数据源分布**:
-  - Doonsec: 9篇
+  - Doonsec: 4篇
+  - BruceFeIix: 13篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 9篇
+- **威胁情报**: 5篇
+- **攻击技术**: 3篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,15 +66,26 @@
 
 ### Doonsec
 
-- [直播预告 | 基于 MT8676 座舱域控平台方案介绍](https://mp.weixin.qq.com/s/XlFGZYoDu9bPeW_ZsNslfQ) (发布日期: 2026-07-30)
-- [OpenAI开源Codex Security CLI：用于发现、验证和修复安全漏洞](https://mp.weixin.qq.com/s/wk2hAzMR0SU9CcwIlrp2hA) (发布日期: 2026-07-30)
-- [漏洞复现 | 大华ICC智能物联管理平台 upper-domains 存在信息泄露漏洞](https://mp.weixin.qq.com/s/Bh0mWMFAduJ2w_UZD5i2kg) (发布日期: 2026-07-30)
-- [除了大模型，AI渗透测试还差啥？](https://mp.weixin.qq.com/s/6Hs5k-sHOS5Qp4QaGAWEHw) (发布日期: 2026-07-30)
-- [网安独家！天融信获CCIA数据安全和个人信息保护社会责任评价“三星级”单位](https://mp.weixin.qq.com/s/i6KzNCF7yMcm57Tw3T7Ewg) (发布日期: 2026-07-30)
-- [重磅更新｜新版CCSP云安全认证全新开班！](https://mp.weixin.qq.com/s/tAjhpID_Y7C8eLGr4VNpXQ) (发布日期: 2026-07-30)
-- [软件供应链安全管理制度](https://mp.weixin.qq.com/s/8U8btdzmpXG3j4qlSfWSRg) (发布日期: 2026-07-30)
-- [一款红队后渗透平台，BOF 动态加载、多信道异步通信与内存免杀、AI 辅助自动执行后渗透任务](https://mp.weixin.qq.com/s/jSrhvl1NmPENlUMlsQSH6Q) (发布日期: 2026-07-30)
-- [2026年第十二届中国密码学与数据安全学术会议](https://mp.weixin.qq.com/s/m4msLwpK8aKi6q8mGjU3Sw) (发布日期: 2026-07-30)
+- [新一轮银狐攻击_管控终端再成控制工具](https://mp.weixin.qq.com/s/K_J65T1viZ6gctVX_iKtRQ) (发布日期: 2026-07-30)
+- [AI赋能威胁情报核武器！一键打通CTI到检测的完整闭环](https://mp.weixin.qq.com/s/Pt6g6UuIK-SyHy-VtyA5Lw) (发布日期: 2026-07-30)
+- [时空智友ERP workflow.sqlResult SQL注入](https://mp.weixin.qq.com/s/h058_bRpJtPeNynzT_7Mbw) (发布日期: 2026-07-30)
+- [如何用 20 年前的漏洞在几分钟内黑掉数千个数据中心](https://mp.weixin.qq.com/s/QBN7A8B8BohcTbVbjtHV-g) (发布日期: 2026-07-30)
+
+### BruceFeIix
+
+- [ ] [雷神众测漏洞周报2026.7.20-2026.7.26](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503889&idx=1&sn=4a1cc75b84e95e0eca72681aedaadb01) (发布日期: 2026-07-30)
+- [ ] [原创漏洞 | Apple macOS SMB 内核内存损坏漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508789&idx=1&sn=1b37679a0aa07a0b0486336a9bf731a1) (发布日期: 2026-07-30)
+- [ ] [信创背景下，工业安全架构如何实现国产化替换？](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651143263&idx=1&sn=ec1e0e90871f826e0ea856622b31ef35) (发布日期: 2026-07-30)
+- [ ] [OpenAI开源Codex Security CLI：用于发现、验证和修复安全漏洞](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790293&idx=1&sn=3dafe8f68a7666a50c6edd26cfbe7932) (发布日期: 2026-07-30)
+- [ ] [倒计时3天｜第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516616&idx=1&sn=8e356c728b7dec1f96753f0c92b3ddb7) (发布日期: 2026-07-30)
+- [ ] [2026Q2风险复盘：银狐诈骗邮件达2896万封，三大风险需警惕！](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543622&idx=2&sn=0178d0002f363d59552fe0ccb7ec2cbe) (发布日期: 2026-07-30)
+- [ ] [Fastjson2 AutoType 安全问题确认：现有版本尚无正式修复，公开 EXP 到底能走多远](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486291&idx=1&sn=a02060010a5e026011668cfa2072d079) (发布日期: 2026-07-30)
+- [ ] [【安全圈】Check Point 紧急修复！认证绕过漏洞 PoC 已公开，CVSS 9.3](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078064&idx=1&sn=79d6a8b9aa80aaae459d916c7b6cb35a) (发布日期: 2026-07-30)
+- [ ] [【安全圈】Gitea 紧急修复！CVSS 9.8 RCE 漏洞 PoC 已公开](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078064&idx=3&sn=305d40c9560536981df8cf7e2f5ab9a5) (发布日期: 2026-07-30)
+- [ ] [速更！iOS 26.6 修复内核代码执行、Root提权等高危漏洞](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617960&idx=3&sn=90434953831a389eb1c96a400518f879) (发布日期: 2026-07-30)
+- [ ] [国标委下达 29 项强制国标计划，《智能体应用安全基本要求》在列；Claude共享聊天记录可被Google搜索到，敏感信息暴露| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142106&idx=2&sn=72b55dec1e901b9b60341ded7dbed0c5) (发布日期: 2026-07-30)
+- [ ] [仅仅看到 AI 智能体并不够，安全团队必须控制它们的行为](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486857&idx=1&sn=10ecc4c36d65f7728cf0343a6977ec3c) (发布日期: 2026-07-30)
+- [ ] [关于开展“银狐”木马专项打击行动并公开征集威胁信息线索的公告](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501935&idx=1&sn=46603c4a37e00113b5e6b10c03a084af) (发布日期: 2026-07-30)
 
 
 ## 🎯 威胁详情分析
@@ -79,20 +94,33 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | OpenAI开源Codex Security CLI：用于发现、验证和修复安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/wk2hAzMR0SU9CcwIlrp2hA](https://mp.weixin.qq.com/s/wk2hAzMR0SU9CcwIlrp2hA) |
-| 2 | 漏洞复现 | 大华ICC智能物联管理平台 upper-domains 存在信息泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Bh0mWMFAduJ2w_UZD5i2kg](https://mp.weixin.qq.com/s/Bh0mWMFAduJ2w_UZD5i2kg) |
+| 1 | 如何用 20 年前的漏洞在几分钟内黑掉数千个数据中心 | Doonsec | [https://mp.weixin.qq.com/s/QBN7A8B8BohcTbVbjtHV-g](https://mp.weixin.qq.com/s/QBN7A8B8BohcTbVbjtHV-g) |
+| 2 |  ] [雷神众测漏洞周报2026.7.20-2026.7.26 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503889&idx=1&sn=4a1cc75b84e95e0eca72681aedaadb01](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503889&idx=1&sn=4a1cc75b84e95e0eca72681aedaadb01) |
+| 3 |  ] [原创漏洞 | Apple macOS SMB 内核内存损坏漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508789&idx=1&sn=1b37679a0aa07a0b0486336a9bf731a1](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508789&idx=1&sn=1b37679a0aa07a0b0486336a9bf731a1) |
+| 4 |  ] [OpenAI开源Codex Security CLI：用于发现、验证和修复安全漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790293&idx=1&sn=3dafe8f68a7666a50c6edd26cfbe7932](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790293&idx=1&sn=3dafe8f68a7666a50c6edd26cfbe7932) |
+| 5 |  ] [倒计时3天｜第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516616&idx=1&sn=8e356c728b7dec1f96753f0c92b3ddb7](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516616&idx=1&sn=8e356c728b7dec1f96753f0c92b3ddb7) |
+| 6 |  ] [Fastjson2 AutoType 安全问题确认：现有版本尚无正式修复，公开 EXP 到底能走多远 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486291&idx=1&sn=a02060010a5e026011668cfa2072d079](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486291&idx=1&sn=a02060010a5e026011668cfa2072d079) |
+| 7 |  ] [【安全圈】Check Point 紧急修复！认证绕过漏洞 PoC 已公开，CVSS 9.3 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078064&idx=1&sn=79d6a8b9aa80aaae459d916c7b6cb35a](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078064&idx=1&sn=79d6a8b9aa80aaae459d916c7b6cb35a) |
+| 8 |  ] [【安全圈】Gitea 紧急修复！CVSS 9.8 RCE 漏洞 PoC 已公开 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078064&idx=3&sn=305d40c9560536981df8cf7e2f5ab9a5](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078064&idx=3&sn=305d40c9560536981df8cf7e2f5ab9a5) |
+| 9 |  ] [速更！iOS 26.6 修复内核代码执行、Root提权等高危漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617960&idx=3&sn=90434953831a389eb1c96a400518f879](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617960&idx=3&sn=90434953831a389eb1c96a400518f879) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 直播预告 | 基于 MT8676 座舱域控平台方案介绍 | Doonsec | [https://mp.weixin.qq.com/s/XlFGZYoDu9bPeW_ZsNslfQ](https://mp.weixin.qq.com/s/XlFGZYoDu9bPeW_ZsNslfQ) |
+| 1 | 时空智友ERP workflow.sqlResult SQL注入 | Doonsec | [https://mp.weixin.qq.com/s/h058_bRpJtPeNynzT_7Mbw](https://mp.weixin.qq.com/s/h058_bRpJtPeNynzT_7Mbw) |
+| 2 |  ] [【安全圈】Gitea 紧急修复！CVSS 9.8 RCE 漏洞 PoC 已公开 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078064&idx=3&sn=305d40c9560536981df8cf7e2f5ab9a5](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078064&idx=3&sn=305d40c9560536981df8cf7e2f5ab9a5) |
+| 3 |  ] [速更！iOS 26.6 修复内核代码执行、Root提权等高危漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617960&idx=3&sn=90434953831a389eb1c96a400518f879](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617960&idx=3&sn=90434953831a389eb1c96a400518f879) |
 
-### 供应链
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 软件供应链安全管理制度 | Doonsec | [https://mp.weixin.qq.com/s/8U8btdzmpXG3j4qlSfWSRg](https://mp.weixin.qq.com/s/8U8btdzmpXG3j4qlSfWSRg) |
+| 1 | 新一轮银狐攻击_管控终端再成控制工具 | Doonsec | [https://mp.weixin.qq.com/s/K_J65T1viZ6gctVX_iKtRQ](https://mp.weixin.qq.com/s/K_J65T1viZ6gctVX_iKtRQ) |
+| 2 | AI赋能威胁情报核武器！一键打通CTI到检测的完整闭环 | Doonsec | [https://mp.weixin.qq.com/s/Pt6g6UuIK-SyHy-VtyA5Lw](https://mp.weixin.qq.com/s/Pt6g6UuIK-SyHy-VtyA5Lw) |
+| 3 |  ] [倒计时3天｜第二届OpenHarmony CTF（Capture The Flaw）智能漏洞挖掘赛 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516616&idx=1&sn=8e356c728b7dec1f96753f0c92b3ddb7](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516616&idx=1&sn=8e356c728b7dec1f96753f0c92b3ddb7) |
+| 4 |  ] [2026Q2风险复盘：银狐诈骗邮件达2896万封，三大风险需警惕！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543622&idx=2&sn=0178d0002f363d59552fe0ccb7ec2cbe](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543622&idx=2&sn=0178d0002f363d59552fe0ccb7ec2cbe) |
+| 5 |  ] [关于开展“银狐”木马专项打击行动并公开征集威胁信息线索的公告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501935&idx=1&sn=46603c4a37e00113b5e6b10c03a084af](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501935&idx=1&sn=46603c4a37e00113b5e6b10c03a084af) |
 
 
 ## 📁 归档路径
@@ -108,8 +136,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -118,5 +146,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-30 02:08:31*
+*生成时间: 2026-07-30 06:25:46*
 *报告工具: 微信文章安全归档系统*
