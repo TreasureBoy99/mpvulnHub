@@ -108358,3 +108358,60 @@
 2026-07-29 20:53:23,704 - INFO - === 跳过二进制文件处理，只更新data.json ===
 2026-07-29 20:53:23,777 - INFO - 已更新data.json，添加了 0 个URL
 2026-07-29 20:53:23,777 - INFO - === 执行完成 ===
+2026-07-30 02:08:26,047 - INFO - === 开始执行微信文章归档工具 ===
+2026-07-30 02:08:26,047 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-07-30 02:08:26,047 - INFO - 正在发送Discord启动通知...
+2026-07-30 02:08:26,414 - INFO - Discord启动通知发送结果: 204
+2026-07-30 02:08:26,416 - INFO - 数据文件: data.json
+2026-07-30 02:08:26,416 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-07-30 02:08:26,416 - INFO - 文档目录: doc
+2026-07-30 02:08:26,492 - INFO - 已加载 48379 条历史记录
+2026-07-30 02:08:26,493 - INFO - === 开始今日拉取 ===
+2026-07-30 02:08:26,493 - INFO - 开始获取Doonsec RSS
+2026-07-30 02:08:26,493 - INFO - 目标日期: 2026-07-30
+2026-07-30 02:08:28,064 - INFO - Doonsec RSS请求成功
+2026-07-30 02:08:28,065 - INFO - RSS中共有 200 个条目
+2026-07-30 02:08:28,065 - INFO - Doonsec获取到 21 个2026-07-30的微信文章URL
+2026-07-30 02:08:28,066 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-07-30.md
+2026-07-30 02:08:28,209 - INFO - ChainReactors md文件下载状态码: 404
+2026-07-30 02:08:28,209 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-07-30.md 状态码: 404
+2026-07-30 02:08:28,209 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-07-30.md
+2026-07-30 02:08:28,357 - INFO - BruceFeIix md文件下载状态码: 404
+2026-07-30 02:08:28,357 - WARNING - BruceFeIix md文件下载失败: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-07-30.md 状态码: 404
+2026-07-30 02:08:28,357 - INFO - === 开始处理 2026-07-30 的数据 ===
+2026-07-30 02:08:28,357 - INFO - Doonsec原始数据: 21 个
+2026-07-30 02:08:28,357 - INFO - ChainReactors原始数据: 0 个
+2026-07-30 02:08:28,358 - INFO - BruceFeIix原始数据: 0 个
+2026-07-30 02:08:28,358 - INFO - 开始处理Doonsec数据...
+2026-07-30 02:08:28,358 - INFO - 开始处理ChainReactors数据...
+2026-07-30 02:08:28,358 - INFO - 开始处理BruceFeIix数据...
+2026-07-30 02:08:28,358 - INFO - 去重后共 21 个URL待处理，跳过 0 个重复URL
+2026-07-30 02:08:28,358 - INFO - 去重后统计 - Doonsec: 21 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-07-30 02:08:28,358 - INFO - === 开始关键词过滤 ===
+2026-07-30 02:08:28,359 - INFO - 关键词过滤: 匹配 9 个，跳过 12 个
+2026-07-30 02:08:28,359 - INFO - 关键词过滤后统计 - Doonsec: 9 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-07-30 02:08:28,375 - INFO - 已创建每日报告: md/2026-07-30.md
+2026-07-30 02:08:28,375 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-07-30 02:08:28,375 - INFO - 正在发送Discord通知: 直播预告 | 基于 MT8676 座舱域控平台方案介绍
+2026-07-30 02:08:28,650 - INFO - Discord通知发送结果: 204
+2026-07-30 02:08:28,651 - INFO - 正在发送Discord通知: OpenAI开源Codex Security CLI：用于发现、验证和修复安全漏洞
+2026-07-30 02:08:29,232 - INFO - Discord通知发送结果: 204
+2026-07-30 02:08:29,234 - INFO - 正在发送Discord通知: 漏洞复现 | 大华ICC智能物联管理平台 upper-domains 存在信息泄露漏洞
+2026-07-30 02:08:29,512 - INFO - Discord通知发送结果: 204
+2026-07-30 02:08:29,513 - INFO - 正在发送Discord通知: 除了大模型，AI渗透测试还差啥？
+2026-07-30 02:08:29,753 - INFO - Discord通知发送结果: 204
+2026-07-30 02:08:29,754 - INFO - 正在发送Discord通知: 网安独家！天融信获CCIA数据安全和个人信息保护社会责任评价“三星级”单位
+2026-07-30 02:08:29,997 - INFO - Discord通知发送结果: 204
+2026-07-30 02:08:29,998 - INFO - 正在发送Discord通知: 重磅更新｜新版CCSP云安全认证全新开班！
+2026-07-30 02:08:30,324 - INFO - Discord通知发送结果: 204
+2026-07-30 02:08:30,325 - INFO - 正在发送Discord通知: 软件供应链安全管理制度
+2026-07-30 02:08:30,656 - INFO - Discord通知发送结果: 204
+2026-07-30 02:08:30,657 - INFO - 正在发送Discord通知: 一款红队后渗透平台，BOF 动态加载、多信道异步通信与内存免杀、AI 辅助自动执行后渗透任务
+2026-07-30 02:08:30,968 - INFO - Discord通知发送结果: 204
+2026-07-30 02:08:30,969 - INFO - 正在发送Discord通知: 2026年第十二届中国密码学与数据安全学术会议
+2026-07-30 02:08:31,226 - INFO - Discord通知发送结果: 204
+2026-07-30 02:08:31,300 - INFO - 已更新data.json，添加了 9 个URL
+2026-07-30 02:08:31,301 - INFO - 已创建每日报告: md/2026-07-30.md
+2026-07-30 02:08:31,301 - INFO - 正在发送Discord日报通知: 2026-07-30
+2026-07-30 02:08:31,611 - INFO - Discord日报发送结果: 204
+2026-07-30 02:08:31,612 - INFO - === 执行完成 ===
