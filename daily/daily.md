@@ -2,17 +2,14 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
 
@@ -63,39 +60,16 @@
 
 ### Doonsec
 
-- [11家未落实！上海通管局发布通信网络安全防护管理情况通报](https://mp.weixin.qq.com/s/-pCfEQiA55O67RO_OHrAiw) (发布日期: 2026-07-30)
-- [挖了几天0收获？新手SRC挖洞的【3大核心技巧】与【8大避坑指南】](https://mp.weixin.qq.com/s/I1aP1_eoD86Hgz75OicZUA) (发布日期: 2026-07-30)
-- [2030冬奥会场馆遭网络攻击，内部敏感数据泄露](https://mp.weixin.qq.com/s/oy_Ba8AALSE2ZufQbFzUZQ) (发布日期: 2026-07-30)
-- [黑客是如何入侵网站？为什么企业网站需要做渗透测试？](https://mp.weixin.qq.com/s/oxi3TxpoMBgNanXOdxPpmA) (发布日期: 2026-07-30)
-- [7月26日 威胁情报速览](https://mp.weixin.qq.com/s/JEEitLmKkyNjKutS8t4fJA) (发布日期: 2026-07-30)
-- [一张图片拿下 Rails 服务器，CVSS 9.5 命令执行零门槛](https://mp.weixin.qq.com/s/birSjBq7p5wjoxnPCUfFow) (发布日期: 2026-07-30)
+- [三大政企基础设施接连爆零日漏洞，企业补丁运维为何全面落后？](https://mp.weixin.qq.com/s/j58kM-hmMEnTrGpcoL9CHw) (发布日期: 2026-07-30)
 
 
 ## 🎯 威胁详情分析
 
-### 攻击技术
+### 漏洞利用
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 一张图片拿下 Rails 服务器，CVSS 9.5 命令执行零门槛 | Doonsec | [https://mp.weixin.qq.com/s/birSjBq7p5wjoxnPCUfFow](https://mp.weixin.qq.com/s/birSjBq7p5wjoxnPCUfFow) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 7月26日 威胁情报速览 | Doonsec | [https://mp.weixin.qq.com/s/JEEitLmKkyNjKutS8t4fJA](https://mp.weixin.qq.com/s/JEEitLmKkyNjKutS8t4fJA) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 挖了几天0收获？新手SRC挖洞的【3大核心技巧】与【8大避坑指南】 | Doonsec | [https://mp.weixin.qq.com/s/I1aP1_eoD86Hgz75OicZUA](https://mp.weixin.qq.com/s/I1aP1_eoD86Hgz75OicZUA) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 2030冬奥会场馆遭网络攻击，内部敏感数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/oy_Ba8AALSE2ZufQbFzUZQ](https://mp.weixin.qq.com/s/oy_Ba8AALSE2ZufQbFzUZQ) |
+| 1 | 三大政企基础设施接连爆零日漏洞，企业补丁运维为何全面落后？ | Doonsec | [https://mp.weixin.qq.com/s/j58kM-hmMEnTrGpcoL9CHw](https://mp.weixin.qq.com/s/j58kM-hmMEnTrGpcoL9CHw) |
 
 
 ## 📁 归档路径
@@ -111,7 +85,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -121,5 +95,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-30 10:22:52*
+*生成时间: 2026-07-30 13:54:19*
 *报告工具: 微信文章安全归档系统*
