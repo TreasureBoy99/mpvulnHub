@@ -1,15 +1,15 @@
-# 2026-07-30 安全威胁态势报告
+# 2026-07-31 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **威胁情报**: 2篇
 
 ### 漏洞类型分析
 
@@ -60,21 +60,24 @@
 
 ### Doonsec
 
-- [三大政企基础设施接连爆零日漏洞，企业补丁运维为何全面落后？](https://mp.weixin.qq.com/s/j58kM-hmMEnTrGpcoL9CHw) (发布日期: 2026-07-30)
+- [安信天行顺利通过信息安全服务风险评估、安全工程二级资质再认证](https://mp.weixin.qq.com/s/at5bHdBslZCmXbfDHFDjFA) (发布日期: 2026-07-31)
+- [银狐远控木马恶意IOC分享（二）](https://mp.weixin.qq.com/s/k6Ji4yXTeUEnA4tX3JyZEQ) (发布日期: 2026-07-31)
+- [关于开展“银狐”木马专项打击行动并公开征集威胁信息线索的公告](https://mp.weixin.qq.com/s/LoWTK5uxQT-5zYqSyo4xhw) (发布日期: 2026-07-31)
 
 
 ## 🎯 威胁详情分析
 
-### 漏洞利用
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 三大政企基础设施接连爆零日漏洞，企业补丁运维为何全面落后？ | Doonsec | [https://mp.weixin.qq.com/s/j58kM-hmMEnTrGpcoL9CHw](https://mp.weixin.qq.com/s/j58kM-hmMEnTrGpcoL9CHw) |
+| 1 | 银狐远控木马恶意IOC分享（二） | Doonsec | [https://mp.weixin.qq.com/s/k6Ji4yXTeUEnA4tX3JyZEQ](https://mp.weixin.qq.com/s/k6Ji4yXTeUEnA4tX3JyZEQ) |
+| 2 | 关于开展“银狐”木马专项打击行动并公开征集威胁信息线索的公告 | Doonsec | [https://mp.weixin.qq.com/s/LoWTK5uxQT-5zYqSyo4xhw](https://mp.weixin.qq.com/s/LoWTK5uxQT-5zYqSyo4xhw) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-07/2026-W31/2026-07-30/`
+文章已归档到: `doc/2026/2026-07/2026-W31/2026-07-31/`
 
 ## 🔗 数据源说明
 
@@ -85,7 +88,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **威胁情报** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -95,5 +98,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-07-30 13:54:19*
+*生成时间: 2026-07-31 02:36:16*
 *报告工具: 微信文章安全归档系统*
