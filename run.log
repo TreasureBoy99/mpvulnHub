@@ -108859,3 +108859,42 @@
 2026-08-06 14:25:01,477 - INFO - === 跳过二进制文件处理，只更新data.json ===
 2026-08-06 14:25:01,549 - INFO - 已更新data.json，添加了 0 个URL
 2026-08-06 14:25:01,549 - INFO - === 执行完成 ===
+2026-08-07 00:53:58,061 - INFO - === 开始执行微信文章归档工具 ===
+2026-08-07 00:53:58,061 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-08-07 00:53:58,061 - WARNING - Discord启动通知已开启，但未配置 Webhook (环境变量或 config.yaml)
+2026-08-07 00:53:58,062 - INFO - 数据文件: data.json
+2026-08-07 00:53:58,062 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-08-07 00:53:58,062 - INFO - 文档目录: doc
+2026-08-07 00:53:58,130 - INFO - 已加载 48473 条历史记录
+2026-08-07 00:53:58,131 - INFO - === 开始今日拉取 ===
+2026-08-07 00:53:58,131 - INFO - 开始获取Doonsec RSS
+2026-08-07 00:53:58,131 - INFO - 目标日期: 2026-08-07
+2026-08-07 00:54:01,597 - INFO - Doonsec RSS请求成功
+2026-08-07 00:54:01,598 - INFO - RSS中共有 200 个条目
+2026-08-07 00:54:01,598 - INFO - Doonsec获取到 17 个2026-08-07的微信文章URL
+2026-08-07 00:54:01,599 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-08-07.md
+2026-08-07 00:54:01,630 - INFO - ChainReactors md文件下载状态码: 404
+2026-08-07 00:54:01,630 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-08-07.md 状态码: 404
+2026-08-07 00:54:01,630 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-08-07.md
+2026-08-07 00:54:01,657 - INFO - BruceFeIix md文件下载状态码: 404
+2026-08-07 00:54:01,657 - WARNING - BruceFeIix md文件下载失败: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-08-07.md 状态码: 404
+2026-08-07 00:54:01,657 - INFO - === 开始处理 2026-08-07 的数据 ===
+2026-08-07 00:54:01,657 - INFO - Doonsec原始数据: 17 个
+2026-08-07 00:54:01,657 - INFO - ChainReactors原始数据: 0 个
+2026-08-07 00:54:01,657 - INFO - BruceFeIix原始数据: 0 个
+2026-08-07 00:54:01,657 - INFO - 开始处理Doonsec数据...
+2026-08-07 00:54:01,657 - INFO - 开始处理ChainReactors数据...
+2026-08-07 00:54:01,657 - INFO - 开始处理BruceFeIix数据...
+2026-08-07 00:54:01,658 - INFO - 去重后共 17 个URL待处理，跳过 0 个重复URL
+2026-08-07 00:54:01,658 - INFO - 去重后统计 - Doonsec: 17 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-08-07 00:54:01,658 - INFO - === 开始关键词过滤 ===
+2026-08-07 00:54:01,659 - INFO - 关键词过滤: 匹配 2 个，跳过 15 个
+2026-08-07 00:54:01,659 - INFO - 关键词过滤后统计 - Doonsec: 2 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-08-07 00:54:01,715 - INFO - 已创建每日报告: md/2026-08-07.md
+2026-08-07 00:54:01,715 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-08-07 00:54:01,715 - WARNING - Discord通知已开启，但未配置 Webhook (环境变量或 config.yaml)
+2026-08-07 00:54:01,715 - WARNING - Discord通知已开启，但未配置 Webhook (环境变量或 config.yaml)
+2026-08-07 00:54:01,788 - INFO - 已更新data.json，添加了 2 个URL
+2026-08-07 00:54:01,788 - INFO - 已创建每日报告: md/2026-08-07.md
+2026-08-07 00:54:01,789 - WARNING - Discord日报通知已开启，但未配置 Webhook (环境变量或 config.yaml)
+2026-08-07 00:54:01,789 - INFO - === 执行完成 ===
