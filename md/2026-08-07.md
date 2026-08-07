@@ -9,6 +9,7 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 1篇
 - **安全运营**: 1篇
 
 ### 漏洞类型分析
@@ -60,17 +61,23 @@
 
 ### Doonsec
 
-- [国家工业信息安全发展研究中心：我国智能网联汽车网络和数据安全态势分析与行业实践](https://mp.weixin.qq.com/s/LfDCPB2CnfI6gHyz_9qAAA) (发布日期: 2026-08-07)
-- [美创数据安全多智体获评「AI Agent标杆产品」：AI重塑数据安全运营闭环](https://mp.weixin.qq.com/s/6lCxRWdr48o9DgeopM4syw) (发布日期: 2026-08-07)
+- [CVE-2026-39868：公开概念验证代码披露 macOS 与 iOS 内核内存损坏漏洞](https://mp.weixin.qq.com/s/hFBsaaRM9xjNmqQzc3W5BA) (发布日期: 2026-08-07)
+- [16.96万中！中行基于AI智能体的智能化自动化安全运营项目](https://mp.weixin.qq.com/s/9MwTsSQSbbrrn1aZapxG4A) (发布日期: 2026-08-07)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | CVE-2026-39868：公开概念验证代码披露 macOS 与 iOS 内核内存损坏漏洞 | Doonsec | [https://mp.weixin.qq.com/s/hFBsaaRM9xjNmqQzc3W5BA](https://mp.weixin.qq.com/s/hFBsaaRM9xjNmqQzc3W5BA) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 美创数据安全多智体获评「AI Agent标杆产品」：AI重塑数据安全运营闭环 | Doonsec | [https://mp.weixin.qq.com/s/6lCxRWdr48o9DgeopM4syw](https://mp.weixin.qq.com/s/6lCxRWdr48o9DgeopM4syw) |
+| 1 | 16.96万中！中行基于AI智能体的智能化自动化安全运营项目 | Doonsec | [https://mp.weixin.qq.com/s/9MwTsSQSbbrrn1aZapxG4A](https://mp.weixin.qq.com/s/9MwTsSQSbbrrn1aZapxG4A) |
 
 
 ## 📁 归档路径
@@ -86,7 +93,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **安全运营** 是今日主要威胁类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -96,5 +103,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-07 00:54:01*
+*生成时间: 2026-08-07 02:07:16*
 *报告工具: 微信文章安全归档系统*
