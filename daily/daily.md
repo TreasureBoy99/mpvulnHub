@@ -1,20 +1,21 @@
-# 2026-08-07 安全威胁态势报告
+# 2026-08-08 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 5篇
+  - BruceFeIix: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
+- **漏洞利用**: 4篇
+- **供应链**: 2篇
 - **攻击技术**: 1篇
-- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,13 +62,16 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [\"中国版Mythos\"图龙锋接入山石网科，AI漏洞挖掘能力拓展至网安产品](https://mp.weixin.qq.com/s/VcVF1LrtIc2DL-1wgvYtuw) (发布日期: 2026-08-07)
-- [\"中国版Mythos\"图龙锋接入山石网科，AI漏洞挖掘能力拓展至网安产品](https://mp.weixin.qq.com/s/-gQNyUgJwENdpw6ce7MeqA) (发布日期: 2026-08-07)
-- [回顾：前沿AI突破约束，传统数据泄露隐患凸显](https://mp.weixin.qq.com/s/BKPqAHXul3-l9Wd20FO52g) (发布日期: 2026-08-07)
-- [云安全出问题有多恐怖：苹果员工离职后仍可访问公司机密文件](https://mp.weixin.qq.com/s/T0ZXuNgNJ6tZ3ND0AVnYHw) (发布日期: 2026-08-07)
-- [ChanCms search SQL注入](https://mp.weixin.qq.com/s/YZGp74kIysvCYRWzvOogaw) (发布日期: 2026-08-07)
+- [ ] [思科修复12个 SD-WAN 和 IOS XE 漏洞，含多个高危](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=1&sn=d925710bf66e2f5889e993d29d7d276c) (发布日期: 2026-08-08)
+- [ ] [Anthropic、谷歌和OpenAI 的编程代理严重漏洞可致RCE和供应链攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=2&sn=45556dffc35484aa67d144e24667f622) (发布日期: 2026-08-08)
+- [ ] [观点 | 加快推进能源行业数据安全治理体系建设](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265450&idx=5&sn=1345a46ca82bf97d923fcfbe0e5baf70) (发布日期: 2026-08-08)
+- [ ] [大厂招人啦！60-70K～招智驾安全、IoT 渗透、大模型安全工程师](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618431&idx=2&sn=e1cf49ee862fa2eee6fa6e85f94305d5) (发布日期: 2026-08-08)
+- [ ] [负7天：当攻击窗口倒转，防守者还剩多少时间？——漏洞利用平均发生在补丁发布前7天。这句话，正在重写网络安全的时间规则](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142202&idx=1&sn=406012da69a0d4835b8aa2f2af8ab9ef) (发布日期: 2026-08-08)
+- [ ] [【原创】AI时代下的国产Electron软件供应链攻击活动披露](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519723&idx=1&sn=c1ab9a85f341a22dc22c26e30966cc79) (发布日期: 2026-08-08)
+- [ ] [【火绒安全周报】网警紧急阻断境外钓鱼攻击/我国发现一批境外恶意网址和IP](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536388&idx=3&sn=00f8d25bc322d570dc0ce6fd019cc68d) (发布日期: 2026-08-08)
+- [ ] ["中国版Mythos"图龙锋接入山石网科，AI漏洞挖掘能力拓展至网安产品](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586711&idx=1&sn=add050ca4f00455c37e305e6c4809253) (发布日期: 2026-08-08)
 
 
 ## 🎯 威胁详情分析
@@ -76,25 +80,28 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | \"中国版Mythos\"图龙锋接入山石网科，AI漏洞挖掘能力拓展至网安产品 | Doonsec | [https://mp.weixin.qq.com/s/VcVF1LrtIc2DL-1wgvYtuw](https://mp.weixin.qq.com/s/VcVF1LrtIc2DL-1wgvYtuw) |
-| 2 | \"中国版Mythos\"图龙锋接入山石网科，AI漏洞挖掘能力拓展至网安产品 | Doonsec | [https://mp.weixin.qq.com/s/-gQNyUgJwENdpw6ce7MeqA](https://mp.weixin.qq.com/s/-gQNyUgJwENdpw6ce7MeqA) |
+| 1 |  ] [思科修复12个 SD-WAN 和 IOS XE 漏洞，含多个高危 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=1&sn=d925710bf66e2f5889e993d29d7d276c](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=1&sn=d925710bf66e2f5889e993d29d7d276c) |
+| 2 |  ] [Anthropic、谷歌和OpenAI 的编程代理严重漏洞可致RCE和供应链攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=2&sn=45556dffc35484aa67d144e24667f622](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=2&sn=45556dffc35484aa67d144e24667f622) |
+| 3 |  ] [负7天：当攻击窗口倒转，防守者还剩多少时间？——漏洞利用平均发生在补丁发布前7天。这句话，正在重写网络安全的时间规则 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142202&idx=1&sn=406012da69a0d4835b8aa2f2af8ab9ef](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142202&idx=1&sn=406012da69a0d4835b8aa2f2af8ab9ef) |
+| 4 |  ] ["中国版Mythos"图龙锋接入山石网科，AI漏洞挖掘能力拓展至网安产品 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586711&idx=1&sn=add050ca4f00455c37e305e6c4809253](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586711&idx=1&sn=add050ca4f00455c37e305e6c4809253) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | ChanCms search SQL注入 | Doonsec | [https://mp.weixin.qq.com/s/YZGp74kIysvCYRWzvOogaw](https://mp.weixin.qq.com/s/YZGp74kIysvCYRWzvOogaw) |
+| 1 |  ] [Anthropic、谷歌和OpenAI 的编程代理严重漏洞可致RCE和供应链攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=2&sn=45556dffc35484aa67d144e24667f622](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=2&sn=45556dffc35484aa67d144e24667f622) |
 
-### 信息泄露
+### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 回顾：前沿AI突破约束，传统数据泄露隐患凸显 | Doonsec | [https://mp.weixin.qq.com/s/BKPqAHXul3-l9Wd20FO52g](https://mp.weixin.qq.com/s/BKPqAHXul3-l9Wd20FO52g) |
+| 1 |  ] [Anthropic、谷歌和OpenAI 的编程代理严重漏洞可致RCE和供应链攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=2&sn=45556dffc35484aa67d144e24667f622](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=2&sn=45556dffc35484aa67d144e24667f622) |
+| 2 |  ] [【原创】AI时代下的国产Electron软件供应链攻击活动披露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519723&idx=1&sn=c1ab9a85f341a22dc22c26e30966cc79](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519723&idx=1&sn=c1ab9a85f341a22dc22c26e30966cc79) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-08/2026-W32/2026-08-07/`
+文章已归档到: `doc/2026/2026-08/2026-W32/2026-08-08/`
 
 ## 🔗 数据源说明
 
@@ -105,8 +112,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -115,5 +122,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-07 13:11:19*
+*生成时间: 2026-08-08 05:00:39*
 *报告工具: 微信文章安全归档系统*
