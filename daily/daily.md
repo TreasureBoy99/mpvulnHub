@@ -1,21 +1,20 @@
-# 2026-08-08 安全威胁态势报告
+# 2026-08-09 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 6
 - **数据源分布**:
-  - BruceFeIix: 8篇
+  - BruceFeIix: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **供应链**: 2篇
+- **漏洞利用**: 3篇
 - **攻击技术**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,14 +63,12 @@
 
 ### BruceFeIix
 
-- [ ] [思科修复12个 SD-WAN 和 IOS XE 漏洞，含多个高危](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=1&sn=d925710bf66e2f5889e993d29d7d276c) (发布日期: 2026-08-08)
-- [ ] [Anthropic、谷歌和OpenAI 的编程代理严重漏洞可致RCE和供应链攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=2&sn=45556dffc35484aa67d144e24667f622) (发布日期: 2026-08-08)
-- [ ] [观点 | 加快推进能源行业数据安全治理体系建设](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265450&idx=5&sn=1345a46ca82bf97d923fcfbe0e5baf70) (发布日期: 2026-08-08)
-- [ ] [大厂招人啦！60-70K～招智驾安全、IoT 渗透、大模型安全工程师](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618431&idx=2&sn=e1cf49ee862fa2eee6fa6e85f94305d5) (发布日期: 2026-08-08)
-- [ ] [负7天：当攻击窗口倒转，防守者还剩多少时间？——漏洞利用平均发生在补丁发布前7天。这句话，正在重写网络安全的时间规则](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142202&idx=1&sn=406012da69a0d4835b8aa2f2af8ab9ef) (发布日期: 2026-08-08)
-- [ ] [【原创】AI时代下的国产Electron软件供应链攻击活动披露](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519723&idx=1&sn=c1ab9a85f341a22dc22c26e30966cc79) (发布日期: 2026-08-08)
-- [ ] [【火绒安全周报】网警紧急阻断境外钓鱼攻击/我国发现一批境外恶意网址和IP](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536388&idx=3&sn=00f8d25bc322d570dc0ce6fd019cc68d) (发布日期: 2026-08-08)
-- [ ] ["中国版Mythos"图龙锋接入山石网科，AI漏洞挖掘能力拓展至网安产品](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586711&idx=1&sn=add050ca4f00455c37e305e6c4809253) (发布日期: 2026-08-08)
+- [ ] [数据泄露情报2026.8.8 - 共享印度最大的黑产蛇公哭近18亿条，文末有链接](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489893&idx=1&sn=beae31e13cca6fc62eacbfb5d0c9628b) (发布日期: 2026-08-09)
+- [ ] [【已复现】WordPress Core XSS2Shell 预认证 XSS 远程代码执行漏洞(CVE-2026-64638)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506994&idx=1&sn=40b43738c615a5624f431ef45b046b41) (发布日期: 2026-08-09)
+- [ ] [王兴兴回应 DeepSeek 投资宇树：将展开重点合作；微信内测朋友圈 AI 新功能；美国科学家首次用AI设计出新型病毒 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111701&idx=1&sn=ae12691e75b0add00fde5a58ac09027a) (发布日期: 2026-08-09)
+- [ ] [hvv 2026 -  今年攻防演练的新变量：WAF 看不见，后端却执行了](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486344&idx=1&sn=96ca8c8b2f31e0c963882434778c4fcd) (发布日期: 2026-08-09)
+- [ ] [【安全圈】电商平台前员工利用系统漏洞，0元购3000多件家电](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078200&idx=2&sn=3fc2c3a12c55a34bfab18b638219139a) (发布日期: 2026-08-09)
+- [ ] [【安全圈】WordPress再次爆出高危安全漏洞，全网约有5亿个网站受影响](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078200&idx=3&sn=49de3825deea363025a052d568a9baaa) (发布日期: 2026-08-09)
 
 
 ## 🎯 威胁详情分析
@@ -80,28 +77,26 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [思科修复12个 SD-WAN 和 IOS XE 漏洞，含多个高危 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=1&sn=d925710bf66e2f5889e993d29d7d276c](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=1&sn=d925710bf66e2f5889e993d29d7d276c) |
-| 2 |  ] [Anthropic、谷歌和OpenAI 的编程代理严重漏洞可致RCE和供应链攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=2&sn=45556dffc35484aa67d144e24667f622](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=2&sn=45556dffc35484aa67d144e24667f622) |
-| 3 |  ] [负7天：当攻击窗口倒转，防守者还剩多少时间？——漏洞利用平均发生在补丁发布前7天。这句话，正在重写网络安全的时间规则 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142202&idx=1&sn=406012da69a0d4835b8aa2f2af8ab9ef](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142202&idx=1&sn=406012da69a0d4835b8aa2f2af8ab9ef) |
-| 4 |  ] ["中国版Mythos"图龙锋接入山石网科，AI漏洞挖掘能力拓展至网安产品 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586711&idx=1&sn=add050ca4f00455c37e305e6c4809253](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586711&idx=1&sn=add050ca4f00455c37e305e6c4809253) |
+| 1 |  ] [【已复现】WordPress Core XSS2Shell 预认证 XSS 远程代码执行漏洞(CVE-2026-64638)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506994&idx=1&sn=40b43738c615a5624f431ef45b046b41](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506994&idx=1&sn=40b43738c615a5624f431ef45b046b41) |
+| 2 |  ] [【安全圈】电商平台前员工利用系统漏洞，0元购3000多件家电 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078200&idx=2&sn=3fc2c3a12c55a34bfab18b638219139a](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078200&idx=2&sn=3fc2c3a12c55a34bfab18b638219139a) |
+| 3 |  ] [【安全圈】WordPress再次爆出高危安全漏洞，全网约有5亿个网站受影响 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078200&idx=3&sn=49de3825deea363025a052d568a9baaa](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078200&idx=3&sn=49de3825deea363025a052d568a9baaa) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [Anthropic、谷歌和OpenAI 的编程代理严重漏洞可致RCE和供应链攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=2&sn=45556dffc35484aa67d144e24667f622](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=2&sn=45556dffc35484aa67d144e24667f622) |
+| 1 |  ] [【已复现】WordPress Core XSS2Shell 预认证 XSS 远程代码执行漏洞(CVE-2026-64638)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506994&idx=1&sn=40b43738c615a5624f431ef45b046b41](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506994&idx=1&sn=40b43738c615a5624f431ef45b046b41) |
 
-### 供应链
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [Anthropic、谷歌和OpenAI 的编程代理严重漏洞可致RCE和供应链攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=2&sn=45556dffc35484aa67d144e24667f622](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526840&idx=2&sn=45556dffc35484aa67d144e24667f622) |
-| 2 |  ] [【原创】AI时代下的国产Electron软件供应链攻击活动披露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519723&idx=1&sn=c1ab9a85f341a22dc22c26e30966cc79](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519723&idx=1&sn=c1ab9a85f341a22dc22c26e30966cc79) |
+| 1 |  ] [数据泄露情报2026.8.8 - 共享印度最大的黑产蛇公哭近18亿条，文末有链接 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489893&idx=1&sn=beae31e13cca6fc62eacbfb5d0c9628b](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489893&idx=1&sn=beae31e13cca6fc62eacbfb5d0c9628b) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-08/2026-W32/2026-08-08/`
+文章已归档到: `doc/2026/2026-08/2026-W32/2026-08-09/`
 
 ## 🔗 数据源说明
 
@@ -112,8 +107,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -122,5 +117,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-08 05:00:39*
+*生成时间: 2026-08-09 05:09:17*
 *报告工具: 微信文章安全归档系统*
