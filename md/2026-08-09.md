@@ -2,19 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 2
 - **数据源分布**:
-  - BruceFeIix: 6篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,14 +58,10 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [数据泄露情报2026.8.8 - 共享印度最大的黑产蛇公哭近18亿条，文末有链接](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489893&idx=1&sn=beae31e13cca6fc62eacbfb5d0c9628b) (发布日期: 2026-08-09)
-- [ ] [【已复现】WordPress Core XSS2Shell 预认证 XSS 远程代码执行漏洞(CVE-2026-64638)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506994&idx=1&sn=40b43738c615a5624f431ef45b046b41) (发布日期: 2026-08-09)
-- [ ] [王兴兴回应 DeepSeek 投资宇树：将展开重点合作；微信内测朋友圈 AI 新功能；美国科学家首次用AI设计出新型病毒 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111701&idx=1&sn=ae12691e75b0add00fde5a58ac09027a) (发布日期: 2026-08-09)
-- [ ] [hvv 2026 -  今年攻防演练的新变量：WAF 看不见，后端却执行了](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486344&idx=1&sn=96ca8c8b2f31e0c963882434778c4fcd) (发布日期: 2026-08-09)
-- [ ] [【安全圈】电商平台前员工利用系统漏洞，0元购3000多件家电](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078200&idx=2&sn=3fc2c3a12c55a34bfab18b638219139a) (发布日期: 2026-08-09)
-- [ ] [【安全圈】WordPress再次爆出高危安全漏洞，全网约有5亿个网站受影响](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078200&idx=3&sn=49de3825deea363025a052d568a9baaa) (发布日期: 2026-08-09)
+- [【安全圈】模块化电脑厂商 Framework 通知全部用户信息泄露](https://mp.weixin.qq.com/s/aqmP3FFVA-QOScO9Eau8WA) (发布日期: 2026-08-09)
+- [漏洞预警： 普华PowerPMS两漏洞组合 无需账号拿下服务器](https://mp.weixin.qq.com/s/Fqby_u4cAGcGi_cR578zmA) (发布日期: 2026-08-09)
 
 
 ## 🎯 威胁详情分析
@@ -77,21 +70,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【已复现】WordPress Core XSS2Shell 预认证 XSS 远程代码执行漏洞(CVE-2026-64638)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506994&idx=1&sn=40b43738c615a5624f431ef45b046b41](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506994&idx=1&sn=40b43738c615a5624f431ef45b046b41) |
-| 2 |  ] [【安全圈】电商平台前员工利用系统漏洞，0元购3000多件家电 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078200&idx=2&sn=3fc2c3a12c55a34bfab18b638219139a](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078200&idx=2&sn=3fc2c3a12c55a34bfab18b638219139a) |
-| 3 |  ] [【安全圈】WordPress再次爆出高危安全漏洞，全网约有5亿个网站受影响 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078200&idx=3&sn=49de3825deea363025a052d568a9baaa](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078200&idx=3&sn=49de3825deea363025a052d568a9baaa) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [【已复现】WordPress Core XSS2Shell 预认证 XSS 远程代码执行漏洞(CVE-2026-64638)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506994&idx=1&sn=40b43738c615a5624f431ef45b046b41](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506994&idx=1&sn=40b43738c615a5624f431ef45b046b41) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [数据泄露情报2026.8.8 - 共享印度最大的黑产蛇公哭近18亿条，文末有链接 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489893&idx=1&sn=beae31e13cca6fc62eacbfb5d0c9628b](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489893&idx=1&sn=beae31e13cca6fc62eacbfb5d0c9628b) |
+| 1 | 漏洞预警： 普华PowerPMS两漏洞组合 无需账号拿下服务器 | Doonsec | [https://mp.weixin.qq.com/s/Fqby_u4cAGcGi_cR578zmA](https://mp.weixin.qq.com/s/Fqby_u4cAGcGi_cR578zmA) |
 
 
 ## 📁 归档路径
@@ -107,8 +86,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -117,5 +96,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-09 05:09:17*
+*生成时间: 2026-08-09 16:39:03*
 *报告工具: 微信文章安全归档系统*
