@@ -2,15 +2,14 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **安全运营**: 2篇
-- **漏洞利用**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
 
@@ -61,25 +60,16 @@
 
 ### Doonsec
 
-- [【OSRC助力】全网诚邀AI高手应战！\"Agent+\"攻防挑战赛正式开启！](https://mp.weixin.qq.com/s/2rvNDiwilKT3_t7A_oSL8A) (发布日期: 2026-08-10)
-- [“中国版Mythos”图龙锋开放试用首月：近500家企业申请接入，累计发现近9000漏洞](https://mp.weixin.qq.com/s/8TeqsZLiR6LlWRVeXFdz7A) (发布日期: 2026-08-10)
-- [XPSRC助力|百度\"Agent+\"攻防能力挑战赛！](https://mp.weixin.qq.com/s/yReTCCBUyi_xTi1aqhU9Gg) (发布日期: 2026-08-10)
+- [【SFSRC助力】全网诚邀AI高手应战！\"Agent+\"攻防挑战赛正式开启！](https://mp.weixin.qq.com/s/Y7xsdkaKjASVTiaRZhwTsA) (发布日期: 2026-08-10)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | “中国版Mythos”图龙锋开放试用首月：近500家企业申请接入，累计发现近9000漏洞 | Doonsec | [https://mp.weixin.qq.com/s/8TeqsZLiR6LlWRVeXFdz7A](https://mp.weixin.qq.com/s/8TeqsZLiR6LlWRVeXFdz7A) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【OSRC助力】全网诚邀AI高手应战！\"Agent+\"攻防挑战赛正式开启！ | Doonsec | [https://mp.weixin.qq.com/s/2rvNDiwilKT3_t7A_oSL8A](https://mp.weixin.qq.com/s/2rvNDiwilKT3_t7A_oSL8A) |
-| 2 | XPSRC助力|百度\"Agent+\"攻防能力挑战赛！ | Doonsec | [https://mp.weixin.qq.com/s/yReTCCBUyi_xTi1aqhU9Gg](https://mp.weixin.qq.com/s/yReTCCBUyi_xTi1aqhU9Gg) |
+| 1 | 【SFSRC助力】全网诚邀AI高手应战！\"Agent+\"攻防挑战赛正式开启！ | Doonsec | [https://mp.weixin.qq.com/s/Y7xsdkaKjASVTiaRZhwTsA](https://mp.weixin.qq.com/s/Y7xsdkaKjASVTiaRZhwTsA) |
 
 
 ## 📁 归档路径
@@ -95,7 +85,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **安全运营** 是今日主要威胁类型，共 2 篇相关文章
+- **安全运营** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -105,5 +95,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-10 13:15:50*
+*生成时间: 2026-08-10 16:56:41*
 *报告工具: 微信文章安全归档系统*
