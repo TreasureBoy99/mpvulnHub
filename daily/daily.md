@@ -1,10 +1,10 @@
-# 2026-08-09 安全威胁态势报告
+# 2026-08-10 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
@@ -60,8 +60,10 @@
 
 ### Doonsec
 
-- [【安全圈】模块化电脑厂商 Framework 通知全部用户信息泄露](https://mp.weixin.qq.com/s/aqmP3FFVA-QOScO9Eau8WA) (发布日期: 2026-08-09)
-- [漏洞预警： 普华PowerPMS两漏洞组合 无需账号拿下服务器](https://mp.weixin.qq.com/s/Fqby_u4cAGcGi_cR578zmA) (发布日期: 2026-08-09)
+- [当“事后发现”已成常态——从两起数据安全案例看企业防护盲区](https://mp.weixin.qq.com/s/SidA8Zz-m-CCHzCQlJo00g) (发布日期: 2026-08-10)
+- [紧跟商务部33号令落地：企事业单位进口打印、复印设备安全检测实操指南](https://mp.weixin.qq.com/s/zj-ycvHT9J9B9TNfdbwvkw) (发布日期: 2026-08-10)
+- [【AI复盘】ChatGPT AgentForger 漏洞事件](https://mp.weixin.qq.com/s/cEG8ZT5DUW7p2mQ58eh0Pg) (发布日期: 2026-08-10)
+- [以色列初创公司Irregular：三家 AI 巨头安全测试失守的共同节点](https://mp.weixin.qq.com/s/OKJON7EoSKsjPGP30iFmew) (发布日期: 2026-08-10)
 
 
 ## 🎯 威胁详情分析
@@ -70,12 +72,12 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞预警： 普华PowerPMS两漏洞组合 无需账号拿下服务器 | Doonsec | [https://mp.weixin.qq.com/s/Fqby_u4cAGcGi_cR578zmA](https://mp.weixin.qq.com/s/Fqby_u4cAGcGi_cR578zmA) |
+| 1 | 【AI复盘】ChatGPT AgentForger 漏洞事件 | Doonsec | [https://mp.weixin.qq.com/s/cEG8ZT5DUW7p2mQ58eh0Pg](https://mp.weixin.qq.com/s/cEG8ZT5DUW7p2mQ58eh0Pg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-08/2026-W32/2026-08-09/`
+文章已归档到: `doc/2026/2026-08/2026-W33/2026-08-10/`
 
 ## 🔗 数据源说明
 
@@ -96,5 +98,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-09 16:39:03*
+*生成时间: 2026-08-10 02:03:01*
 *报告工具: 微信文章安全归档系统*
