@@ -2,20 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 1篇
-  - BruceFeIix: 5篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **信息泄露**: 2篇
 - **漏洞利用**: 1篇
-- **攻击技术**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,15 +61,9 @@
 
 ### Doonsec
 
-- [自动挖上传漏洞，这款工具真的强](https://mp.weixin.qq.com/s/eH9vKnecA8Ajq-4w2nhdsQ) (发布日期: 2026-08-10)
-
-### BruceFeIix
-
-- [ ] [第6篇-勒索软件常见攻击入口TOP10](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496994&idx=1&sn=ac058af740608ff4c8d95a1569f6ad43) (发布日期: 2026-08-10)
-- [ ] [数据泄露情报2026.8.9 - 做成人用品的有福](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489914&idx=1&sn=57ff26e44c631edd70a7c846bb7f0f68) (发布日期: 2026-08-10)
-- [ ] [数据泄露情报2026.8.9 - 做成人用品的有福了](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489907&idx=1&sn=2aab0684978a5b51c9528b0ddb2a7f30) (发布日期: 2026-08-10)
-- [ ] [HTTP请求头提示词注入在野利用分析](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514356&idx=1&sn=6cb4d2880f18c3b570bf28c13c07655b) (发布日期: 2026-08-10)
-- [ ] [【安全圈】模块化电脑厂商 Framework 通知全部用户信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078212&idx=2&sn=dc80e0650a9d79fdcba243267e8ea9d5) (发布日期: 2026-08-10)
+- [最全红队被动信息收集技巧](https://mp.weixin.qq.com/s/Ow7jUVUiDUFXLajCUuZwgw) (发布日期: 2026-08-10)
+- [“漏洞清零” 从数量合规到结果合规](https://mp.weixin.qq.com/s/MlbLQTc0AWo4eIqlANimQw) (发布日期: 2026-08-10)
+- [LLSRC助力\"Agent+\"攻防能力挑战赛！](https://mp.weixin.qq.com/s/c9igsqSCmeWjojA-aOoQ0A) (发布日期: 2026-08-10)
 
 
 ## 🎯 威胁详情分析
@@ -81,20 +72,13 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 自动挖上传漏洞，这款工具真的强 | Doonsec | [https://mp.weixin.qq.com/s/eH9vKnecA8Ajq-4w2nhdsQ](https://mp.weixin.qq.com/s/eH9vKnecA8Ajq-4w2nhdsQ) |
+| 1 | “漏洞清零” 从数量合规到结果合规 | Doonsec | [https://mp.weixin.qq.com/s/MlbLQTc0AWo4eIqlANimQw](https://mp.weixin.qq.com/s/MlbLQTc0AWo4eIqlANimQw) |
 
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [HTTP请求头提示词注入在野利用分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514356&idx=1&sn=6cb4d2880f18c3b570bf28c13c07655b](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514356&idx=1&sn=6cb4d2880f18c3b570bf28c13c07655b) |
-
-### 信息泄露
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [数据泄露情报2026.8.9 - 做成人用品的有福 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489914&idx=1&sn=57ff26e44c631edd70a7c846bb7f0f68](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489914&idx=1&sn=57ff26e44c631edd70a7c846bb7f0f68) |
-| 2 |  ] [数据泄露情报2026.8.9 - 做成人用品的有福了 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489907&idx=1&sn=2aab0684978a5b51c9528b0ddb2a7f30](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489907&idx=1&sn=2aab0684978a5b51c9528b0ddb2a7f30) |
+| 1 | LLSRC助力\"Agent+\"攻防能力挑战赛！ | Doonsec | [https://mp.weixin.qq.com/s/c9igsqSCmeWjojA-aOoQ0A](https://mp.weixin.qq.com/s/c9igsqSCmeWjojA-aOoQ0A) |
 
 
 ## 📁 归档路径
@@ -110,8 +94,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **信息泄露** 是今日主要威胁类型，共 2 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -120,5 +104,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-10 05:36:31*
+*生成时间: 2026-08-10 09:26:11*
 *报告工具: 微信文章安全归档系统*
