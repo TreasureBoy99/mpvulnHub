@@ -109799,3 +109799,48 @@
 2026-08-10 09:26:11,320 - INFO - 正在发送Discord日报通知: 2026-08-10
 2026-08-10 09:26:11,536 - INFO - Discord日报发送结果: 204
 2026-08-10 09:26:11,537 - INFO - === 执行完成 ===
+2026-08-10 13:15:45,261 - INFO - === 开始执行微信文章归档工具 ===
+2026-08-10 13:15:45,261 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-08-10 13:15:45,261 - INFO - 正在发送Discord启动通知...
+2026-08-10 13:15:45,564 - INFO - Discord启动通知发送结果: 204
+2026-08-10 13:15:45,566 - INFO - 数据文件: data.json
+2026-08-10 13:15:45,566 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-08-10 13:15:45,566 - INFO - 文档目录: doc
+2026-08-10 13:15:45,632 - INFO - 已加载 48541 条历史记录
+2026-08-10 13:15:45,633 - INFO - === 开始今日拉取 ===
+2026-08-10 13:15:45,633 - INFO - 开始获取Doonsec RSS
+2026-08-10 13:15:45,633 - INFO - 目标日期: 2026-08-10
+2026-08-10 13:15:48,803 - INFO - Doonsec RSS请求成功
+2026-08-10 13:15:48,804 - INFO - RSS中共有 200 个条目
+2026-08-10 13:15:48,804 - INFO - Doonsec获取到 47 个2026-08-10的微信文章URL
+2026-08-10 13:15:48,805 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-08-10.md
+2026-08-10 13:15:48,916 - INFO - ChainReactors md文件下载状态码: 404
+2026-08-10 13:15:48,916 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-08-10.md 状态码: 404
+2026-08-10 13:15:48,916 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-08-10.md
+2026-08-10 13:15:49,058 - INFO - BruceFeIix md文件下载状态码: 200
+2026-08-10 13:15:49,059 - INFO - BruceFeIix获取到 13 个URL
+2026-08-10 13:15:49,059 - INFO - === 开始处理 2026-08-10 的数据 ===
+2026-08-10 13:15:49,059 - INFO - Doonsec原始数据: 47 个
+2026-08-10 13:15:49,059 - INFO - ChainReactors原始数据: 0 个
+2026-08-10 13:15:49,059 - INFO - BruceFeIix原始数据: 13 个
+2026-08-10 13:15:49,059 - INFO - 开始处理Doonsec数据...
+2026-08-10 13:15:49,059 - INFO - 开始处理ChainReactors数据...
+2026-08-10 13:15:49,059 - INFO - 开始处理BruceFeIix数据...
+2026-08-10 13:15:49,059 - INFO - 去重后共 47 个URL待处理，跳过 13 个重复URL
+2026-08-10 13:15:49,059 - INFO - 去重后统计 - Doonsec: 39 个, ChainReactors: 0 个, BruceFeIix: 8 个
+2026-08-10 13:15:49,059 - INFO - === 开始关键词过滤 ===
+2026-08-10 13:15:49,061 - INFO - 关键词过滤: 匹配 3 个，跳过 44 个
+2026-08-10 13:15:49,061 - INFO - 关键词过滤后统计 - Doonsec: 3 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-08-10 13:15:49,067 - INFO - 已创建每日报告: md/2026-08-10.md
+2026-08-10 13:15:49,067 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-08-10 13:15:49,067 - INFO - 正在发送Discord通知: 【OSRC助力】全网诚邀AI高手应战！\"Agent+\"攻防挑战赛正式开启！
+2026-08-10 13:15:49,612 - INFO - Discord通知发送结果: 204
+2026-08-10 13:15:49,613 - INFO - 正在发送Discord通知: “中国版Mythos”图龙锋开放试用首月：近500家企业申请接入，累计发现近9000漏洞
+2026-08-10 13:15:50,015 - INFO - Discord通知发送结果: 204
+2026-08-10 13:15:50,016 - INFO - 正在发送Discord通知: XPSRC助力|百度\"Agent+\"攻防能力挑战赛！
+2026-08-10 13:15:50,330 - INFO - Discord通知发送结果: 204
+2026-08-10 13:15:50,404 - INFO - 已更新data.json，添加了 3 个URL
+2026-08-10 13:15:50,405 - INFO - 已创建每日报告: md/2026-08-10.md
+2026-08-10 13:15:50,405 - INFO - 正在发送Discord日报通知: 2026-08-10
+2026-08-10 13:15:51,014 - INFO - Discord日报发送结果: 204
+2026-08-10 13:15:51,015 - INFO - === 执行完成 ===

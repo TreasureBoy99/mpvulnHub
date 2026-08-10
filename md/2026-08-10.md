@@ -9,8 +9,8 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **安全运营**: 2篇
 - **漏洞利用**: 1篇
-- **安全运营**: 1篇
 
 ### 漏洞类型分析
 
@@ -61,9 +61,9 @@
 
 ### Doonsec
 
-- [最全红队被动信息收集技巧](https://mp.weixin.qq.com/s/Ow7jUVUiDUFXLajCUuZwgw) (发布日期: 2026-08-10)
-- [“漏洞清零” 从数量合规到结果合规](https://mp.weixin.qq.com/s/MlbLQTc0AWo4eIqlANimQw) (发布日期: 2026-08-10)
-- [LLSRC助力\"Agent+\"攻防能力挑战赛！](https://mp.weixin.qq.com/s/c9igsqSCmeWjojA-aOoQ0A) (发布日期: 2026-08-10)
+- [【OSRC助力】全网诚邀AI高手应战！\"Agent+\"攻防挑战赛正式开启！](https://mp.weixin.qq.com/s/2rvNDiwilKT3_t7A_oSL8A) (发布日期: 2026-08-10)
+- [“中国版Mythos”图龙锋开放试用首月：近500家企业申请接入，累计发现近9000漏洞](https://mp.weixin.qq.com/s/8TeqsZLiR6LlWRVeXFdz7A) (发布日期: 2026-08-10)
+- [XPSRC助力|百度\"Agent+\"攻防能力挑战赛！](https://mp.weixin.qq.com/s/yReTCCBUyi_xTi1aqhU9Gg) (发布日期: 2026-08-10)
 
 
 ## 🎯 威胁详情分析
@@ -72,13 +72,14 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | “漏洞清零” 从数量合规到结果合规 | Doonsec | [https://mp.weixin.qq.com/s/MlbLQTc0AWo4eIqlANimQw](https://mp.weixin.qq.com/s/MlbLQTc0AWo4eIqlANimQw) |
+| 1 | “中国版Mythos”图龙锋开放试用首月：近500家企业申请接入，累计发现近9000漏洞 | Doonsec | [https://mp.weixin.qq.com/s/8TeqsZLiR6LlWRVeXFdz7A](https://mp.weixin.qq.com/s/8TeqsZLiR6LlWRVeXFdz7A) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | LLSRC助力\"Agent+\"攻防能力挑战赛！ | Doonsec | [https://mp.weixin.qq.com/s/c9igsqSCmeWjojA-aOoQ0A](https://mp.weixin.qq.com/s/c9igsqSCmeWjojA-aOoQ0A) |
+| 1 | 【OSRC助力】全网诚邀AI高手应战！\"Agent+\"攻防挑战赛正式开启！ | Doonsec | [https://mp.weixin.qq.com/s/2rvNDiwilKT3_t7A_oSL8A](https://mp.weixin.qq.com/s/2rvNDiwilKT3_t7A_oSL8A) |
+| 2 | XPSRC助力|百度\"Agent+\"攻防能力挑战赛！ | Doonsec | [https://mp.weixin.qq.com/s/yReTCCBUyi_xTi1aqhU9Gg](https://mp.weixin.qq.com/s/yReTCCBUyi_xTi1aqhU9Gg) |
 
 
 ## 📁 归档路径
@@ -94,7 +95,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **安全运营** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -104,5 +105,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-10 09:26:11*
+*生成时间: 2026-08-10 13:15:50*
 *报告工具: 微信文章安全归档系统*
