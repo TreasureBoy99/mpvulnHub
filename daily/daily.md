@@ -1,17 +1,19 @@
-# 2026-08-10 安全威胁态势报告
+# 2026-08-11 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 2篇
 - **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,21 +62,30 @@
 
 ### Doonsec
 
-- [【SFSRC助力】全网诚邀AI高手应战！\"Agent+\"攻防挑战赛正式开启！](https://mp.weixin.qq.com/s/Y7xsdkaKjASVTiaRZhwTsA) (发布日期: 2026-08-10)
+- [美国防制造商 IEH 遭遇钓鱼攻击](https://mp.weixin.qq.com/s/kSy5RJlYNelj2emUORuB2Q) (发布日期: 2026-08-11)
+- [如何实现「红牛自由」— 一次 LFI 漏洞挖掘的完整复盘](https://mp.weixin.qq.com/s/dE2v9q3BdmvRDBme_R5sSg) (发布日期: 2026-08-11)
+- [一套面向 SRC 漏洞挖掘的 Agent 提示词工程与技能知识体系 | 系统级提示词 + 14 个专项技能知识库(Skills)](https://mp.weixin.qq.com/s/g_pASa1fOVTfsqtFtTigBg) (发布日期: 2026-08-11)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 如何实现「红牛自由」— 一次 LFI 漏洞挖掘的完整复盘 | Doonsec | [https://mp.weixin.qq.com/s/dE2v9q3BdmvRDBme_R5sSg](https://mp.weixin.qq.com/s/dE2v9q3BdmvRDBme_R5sSg) |
+| 2 | 一套面向 SRC 漏洞挖掘的 Agent 提示词工程与技能知识体系 | 系统级提示词 + 14 个专项技能知识库(Skills) | Doonsec | [https://mp.weixin.qq.com/s/g_pASa1fOVTfsqtFtTigBg](https://mp.weixin.qq.com/s/g_pASa1fOVTfsqtFtTigBg) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【SFSRC助力】全网诚邀AI高手应战！\"Agent+\"攻防挑战赛正式开启！ | Doonsec | [https://mp.weixin.qq.com/s/Y7xsdkaKjASVTiaRZhwTsA](https://mp.weixin.qq.com/s/Y7xsdkaKjASVTiaRZhwTsA) |
+| 1 | 一套面向 SRC 漏洞挖掘的 Agent 提示词工程与技能知识体系 | 系统级提示词 + 14 个专项技能知识库(Skills) | Doonsec | [https://mp.weixin.qq.com/s/g_pASa1fOVTfsqtFtTigBg](https://mp.weixin.qq.com/s/g_pASa1fOVTfsqtFtTigBg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-08/2026-W33/2026-08-10/`
+文章已归档到: `doc/2026/2026-08/2026-W33/2026-08-11/`
 
 ## 🔗 数据源说明
 
@@ -85,8 +96,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **安全运营** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -95,5 +106,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-10 16:56:41*
+*生成时间: 2026-08-11 01:58:11*
 *报告工具: 微信文章安全归档系统*
