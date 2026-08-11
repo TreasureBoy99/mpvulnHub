@@ -2,14 +2,14 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 4篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
 
@@ -60,10 +60,7 @@
 
 ### Doonsec
 
-- [最新网络安全学习整合（挖漏洞、打CTF、护网、就业，工具）](https://mp.weixin.qq.com/s/GDnJe0b5cWPwi3tuZiob2w) (发布日期: 2026-08-11)
-- [【安全圈】字节跳动Coze CLI被吐槽像病毒](https://mp.weixin.qq.com/s/-e32vbzIy-mAAMkQO5VVOw) (发布日期: 2026-08-11)
-- [【安全圈】SharePoint 漏洞被用于入侵瑞士联邦 IT 机构](https://mp.weixin.qq.com/s/vQxfGlaMPaEC1ZqtMmcUKQ) (发布日期: 2026-08-11)
-- [关于开展网络和数据安全赛事平台能力检测服务的通知](https://mp.weixin.qq.com/s/_QAeRGocuXE0njBtgKphwQ) (发布日期: 2026-08-11)
+- [思科提醒注意多个高危 ClamAV 漏洞](https://mp.weixin.qq.com/s/k5W2oAbDaAT7-7lAN89-xg) (发布日期: 2026-08-11)
 
 
 ## 🎯 威胁详情分析
@@ -72,8 +69,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 最新网络安全学习整合（挖漏洞、打CTF、护网、就业，工具） | Doonsec | [https://mp.weixin.qq.com/s/GDnJe0b5cWPwi3tuZiob2w](https://mp.weixin.qq.com/s/GDnJe0b5cWPwi3tuZiob2w) |
-| 2 | 【安全圈】SharePoint 漏洞被用于入侵瑞士联邦 IT 机构 | Doonsec | [https://mp.weixin.qq.com/s/vQxfGlaMPaEC1ZqtMmcUKQ](https://mp.weixin.qq.com/s/vQxfGlaMPaEC1ZqtMmcUKQ) |
+| 1 | 思科提醒注意多个高危 ClamAV 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/k5W2oAbDaAT7-7lAN89-xg](https://mp.weixin.qq.com/s/k5W2oAbDaAT7-7lAN89-xg) |
 
 
 ## 📁 归档路径
@@ -89,7 +85,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -99,5 +95,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-11 13:13:12*
+*生成时间: 2026-08-11 20:50:49*
 *报告工具: 微信文章安全归档系统*
