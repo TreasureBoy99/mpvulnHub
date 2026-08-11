@@ -2,23 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 1篇
-  - BruceFeIix: 16篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
-- **攻击技术**: 2篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 2篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -67,26 +60,10 @@
 
 ### Doonsec
 
-- [Nature最新研究：新冠感染重新激活人体内慢性潜伏病毒](https://mp.weixin.qq.com/s/4rlpiibkWIgt98Wn4tMc8w) (发布日期: 2026-08-11)
-
-### BruceFeIix
-
-- [ ] [XSS2Shell：WordPress Core 漏洞利用预认证登录XSS实现 PHP RCE](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526848&idx=1&sn=b29b6dc57efb2687f969776b26ce49fe) (发布日期: 2026-08-11)
-- [ ] [第7篇-勒索软件检测与威胁狩猎](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496999&idx=1&sn=df826add1e8efdd7b537d8244c40c95e) (发布日期: 2026-08-11)
-- [ ] [【已复现】JetBrains TeamCity 远程代码执行漏洞(CVE-2026-63077)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507002&idx=1&sn=97e9f830d318a051a7e4e4acda250c68) (发布日期: 2026-08-11)
-- [ ] [AI安全案例分析 | AISI披露AI Agent在安全测试中自主攻击真实人员与系统](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495395&idx=1&sn=d6f7f1584e6d7bc3205c95bfd70b863b) (发布日期: 2026-08-11)
-- [ ] [腾讯云安全威胁情报新增 AI 中转站资产情报覆盖](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247512053&idx=1&sn=087baf856ae19173f403b0fe1f12971b) (发布日期: 2026-08-11)
-- [ ] [专题·量子安全 | 量子计算威胁下的密码安全治理：国际态势与中国路径](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265522&idx=1&sn=6e5ff5af78763cd65d16460752e1df4d) (发布日期: 2026-08-11)
-- [ ] [AI攻击AI：OpenAI内部红队GPT-Red工作原理拆解——四步攻击循环，人工红队已被超越](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142269&idx=1&sn=c873ab03b63644eeb5ebd1ba1b94dfa8) (发布日期: 2026-08-11)
-- [ ] [从“测漏洞”走向“管业务”：企业安全建设、资产测绘与零信任接入｜总第317周](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492511&idx=1&sn=1bdecc94bbd6bb2a0781509e819180f6) (发布日期: 2026-08-11)
-- [ ] [“漏洞清零” 从数量合规到结果合规](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543655&idx=2&sn=29b9e8f3b3d428dd37fe8276ec51cf41) (发布日期: 2026-08-11)
-- [ ] [【深度研判】美国参议院确认杰伊·克莱顿为新任美国情报总监，特朗普政府情报政策转向对我风险评估](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569009&idx=2&sn=7fa3eb988fdbaebc29595a893f8b7f5b) (发布日期: 2026-08-11)
-- [ ] [【安全圈】200万人身份告急！比利时电子身份证曝致命漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078224&idx=2&sn=cdb595c396ed85c7d7cbec78a2e74951) (发布日期: 2026-08-11)
-- [ ] [【安全圈】开发者小心！VS Code扩展暗中窃取加密钱包](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078224&idx=3&sn=27ac74789ce072180bb82f5b25e79d15) (发布日期: 2026-08-11)
-- [ ] [“中国版Mythos”图龙锋开放试用首月：近500家企业申请接入，累计发现近9000漏洞](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586720&idx=1&sn=457cc957fec98fdf1b310cd955da0783) (发布日期: 2026-08-11)
-- [ ] [【OSRC助力】全网诚邀AI高手应战！"Agent+"攻防挑战赛正式开启！](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495013&idx=1&sn=e6637929e5fe8fdfc922cca56ed05f85) (发布日期: 2026-08-11)
-- [ ] [CNVD漏洞周报2026年第31期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497175&idx=1&sn=240955573c2f01ac589a40ab5594978a) (发布日期: 2026-08-11)
-- [ ] [上周关注度较高的产品安全漏洞(20260803-20260809)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497175&idx=2&sn=20743fdb244c980dc4318b626b4c8440) (发布日期: 2026-08-11)
+- [最新网络安全学习整合（挖漏洞、打CTF、护网、就业，工具）](https://mp.weixin.qq.com/s/GDnJe0b5cWPwi3tuZiob2w) (发布日期: 2026-08-11)
+- [【安全圈】字节跳动Coze CLI被吐槽像病毒](https://mp.weixin.qq.com/s/-e32vbzIy-mAAMkQO5VVOw) (发布日期: 2026-08-11)
+- [【安全圈】SharePoint 漏洞被用于入侵瑞士联邦 IT 机构](https://mp.weixin.qq.com/s/vQxfGlaMPaEC1ZqtMmcUKQ) (发布日期: 2026-08-11)
+- [关于开展网络和数据安全赛事平台能力检测服务的通知](https://mp.weixin.qq.com/s/_QAeRGocuXE0njBtgKphwQ) (发布日期: 2026-08-11)
 
 
 ## 🎯 威胁详情分析
@@ -95,33 +72,8 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [XSS2Shell：WordPress Core 漏洞利用预认证登录XSS实现 PHP RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526848&idx=1&sn=b29b6dc57efb2687f969776b26ce49fe](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526848&idx=1&sn=b29b6dc57efb2687f969776b26ce49fe) |
-| 2 |  ] [【已复现】JetBrains TeamCity 远程代码执行漏洞(CVE-2026-63077)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507002&idx=1&sn=97e9f830d318a051a7e4e4acda250c68](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507002&idx=1&sn=97e9f830d318a051a7e4e4acda250c68) |
-| 3 |  ] [从“测漏洞”走向“管业务”：企业安全建设、资产测绘与零信任接入｜总第317周 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492511&idx=1&sn=1bdecc94bbd6bb2a0781509e819180f6](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492511&idx=1&sn=1bdecc94bbd6bb2a0781509e819180f6) |
-| 4 |  ] [“漏洞清零” 从数量合规到结果合规 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543655&idx=2&sn=29b9e8f3b3d428dd37fe8276ec51cf41](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543655&idx=2&sn=29b9e8f3b3d428dd37fe8276ec51cf41) |
-| 5 |  ] [【安全圈】200万人身份告急！比利时电子身份证曝致命漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078224&idx=2&sn=cdb595c396ed85c7d7cbec78a2e74951](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078224&idx=2&sn=cdb595c396ed85c7d7cbec78a2e74951) |
-| 6 |  ] [“中国版Mythos”图龙锋开放试用首月：近500家企业申请接入，累计发现近9000漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586720&idx=1&sn=457cc957fec98fdf1b310cd955da0783](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586720&idx=1&sn=457cc957fec98fdf1b310cd955da0783) |
-| 7 |  ] [CNVD漏洞周报2026年第31期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497175&idx=1&sn=240955573c2f01ac589a40ab5594978a](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497175&idx=1&sn=240955573c2f01ac589a40ab5594978a) |
-| 8 |  ] [上周关注度较高的产品安全漏洞(20260803-20260809) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497175&idx=2&sn=20743fdb244c980dc4318b626b4c8440](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497175&idx=2&sn=20743fdb244c980dc4318b626b4c8440) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [XSS2Shell：WordPress Core 漏洞利用预认证登录XSS实现 PHP RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526848&idx=1&sn=b29b6dc57efb2687f969776b26ce49fe](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526848&idx=1&sn=b29b6dc57efb2687f969776b26ce49fe) |
-| 2 |  ] [【已复现】JetBrains TeamCity 远程代码执行漏洞(CVE-2026-63077)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507002&idx=1&sn=97e9f830d318a051a7e4e4acda250c68](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507002&idx=1&sn=97e9f830d318a051a7e4e4acda250c68) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [腾讯云安全威胁情报新增 AI 中转站资产情报覆盖 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247512053&idx=1&sn=087baf856ae19173f403b0fe1f12971b](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247512053&idx=1&sn=087baf856ae19173f403b0fe1f12971b) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [【OSRC助力】全网诚邀AI高手应战！"Agent+"攻防挑战赛正式开启！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495013&idx=1&sn=e6637929e5fe8fdfc922cca56ed05f85](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495013&idx=1&sn=e6637929e5fe8fdfc922cca56ed05f85) |
+| 1 | 最新网络安全学习整合（挖漏洞、打CTF、护网、就业，工具） | Doonsec | [https://mp.weixin.qq.com/s/GDnJe0b5cWPwi3tuZiob2w](https://mp.weixin.qq.com/s/GDnJe0b5cWPwi3tuZiob2w) |
+| 2 | 【安全圈】SharePoint 漏洞被用于入侵瑞士联邦 IT 机构 | Doonsec | [https://mp.weixin.qq.com/s/vQxfGlaMPaEC1ZqtMmcUKQ](https://mp.weixin.qq.com/s/vQxfGlaMPaEC1ZqtMmcUKQ) |
 
 
 ## 📁 归档路径
@@ -137,8 +89,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -147,5 +99,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-11 05:12:56*
+*生成时间: 2026-08-11 13:13:12*
 *报告工具: 微信文章安全归档系统*
