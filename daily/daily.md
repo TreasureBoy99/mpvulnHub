@@ -2,18 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 14
+- **总文章数**: 2
 - **数据源分布**:
-  - BruceFeIix: 14篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
-- **威胁情报**: 2篇
-- **供应链**: 1篇
+- **漏洞利用**: 1篇
+- **攻击技术**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,22 +61,10 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [雷神众测漏洞周报2026.8.3-2026.8.9](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503903&idx=1&sn=1b9bd70ba166bdd46721e13658e84010) (发布日期: 2026-08-12)
-- [ ] [第8篇-勒索事件应急响应实战指南](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497003&idx=1&sn=250ad6466ae70ef59f454acc8919a794) (发布日期: 2026-08-12)
-- [ ] [ClamAV曝出7个高危漏洞，远程可触发杀毒引擎拒绝服务](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618507&idx=2&sn=238e162f45daadcdd87812141a952284) (发布日期: 2026-08-12)
-- [ ] [“Sorry”勒索病毒爆发,多个服务器沦陷!奇安信数字专家 T+1 交付防御报告、 IOC 全网共享](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507043&idx=1&sn=aeafd255cc29a13f87d364089c6a9285) (发布日期: 2026-08-12)
-- [ ] [【已复现】Docker cp 容器到主机任意文件写入漏洞(CVE-2026-17106)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507043&idx=2&sn=d63e9983c803ce4c3e5462036277f481) (发布日期: 2026-08-12)
-- [ ] [【安全圈】字节跳动Coze CLI被吐槽像病毒](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078235&idx=2&sn=ee24e0ad11439161151a87d4a774d2ad) (发布日期: 2026-08-12)
-- [ ] [【安全圈】SharePoint 漏洞被用于入侵瑞士联邦 IT 机构](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078235&idx=3&sn=f1a447a6e44f91a7769a0b4821676fc5) (发布日期: 2026-08-12)
-- [ ] [不容忽视的浏览器安全漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543663&idx=1&sn=5a8cbab044f06bbd3c5a2ded31807539) (发布日期: 2026-08-12)
-- [ ] [绕过IDE直连云端：PLC编程软件AI助手漏洞分析](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514371&idx=1&sn=d1dbddfd7f231df8354bf52925161a55) (发布日期: 2026-08-12)
-- [ ] [一个云安全老兵，说点不爱听的真话](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851680&idx=1&sn=334e287d7958a4b145e793fdacd102bf) (发布日期: 2026-08-12)
-- [ ] [Coldcard 1.11 亿美元被盗事件：私钥破解漏洞深度解析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505655&idx=1&sn=a5f18b42903c14b84d67001b665b5d0c) (发布日期: 2026-08-12)
-- [ ] [CNVD漏洞周报2026年第31期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501987&idx=1&sn=16975e5395e03b9d128963b0671533a7) (发布日期: 2026-08-12)
-- [ ] [月下载量超20亿次！TeamPcp高阶蠕虫再袭npm供应链](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536435&idx=1&sn=e20bc599f5c418d902bc27722eea9af1) (发布日期: 2026-08-12)
-- [ ] [Agentic SOC的真相：不是AI替代人，而是重新定义安全团队](https://mp.weixin.qq.com/s?__biz=MzUyNzMxOTAwMw==&mid=2247485272&idx=1&sn=23b93580c35d1e4305fd74792b26c07c) (发布日期: 2026-08-12)
+- [【漏洞通告】Hugging Face Accelerate存在目录遍历漏洞(CVE-2026-69112)](https://mp.weixin.qq.com/s/wFdqflfq67hVylV0jYcVAg) (发布日期: 2026-08-12)
+- [SRC只给30块的邮箱XSS，暴露了Webmail安全渲染的老难题](https://mp.weixin.qq.com/s/ezRqPku9JHV6o6No8CtPDQ) (发布日期: 2026-08-12)
 
 
 ## 🎯 威胁详情分析
@@ -84,27 +73,19 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [雷神众测漏洞周报2026.8.3-2026.8.9 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503903&idx=1&sn=1b9bd70ba166bdd46721e13658e84010](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503903&idx=1&sn=1b9bd70ba166bdd46721e13658e84010) |
-| 2 |  ] [ClamAV曝出7个高危漏洞，远程可触发杀毒引擎拒绝服务 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618507&idx=2&sn=238e162f45daadcdd87812141a952284](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618507&idx=2&sn=238e162f45daadcdd87812141a952284) |
-| 3 |  ] [【已复现】Docker cp 容器到主机任意文件写入漏洞(CVE-2026-17106)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507043&idx=2&sn=d63e9983c803ce4c3e5462036277f481](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507043&idx=2&sn=d63e9983c803ce4c3e5462036277f481) |
-| 4 |  ] [【安全圈】SharePoint 漏洞被用于入侵瑞士联邦 IT 机构 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078235&idx=3&sn=f1a447a6e44f91a7769a0b4821676fc5](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078235&idx=3&sn=f1a447a6e44f91a7769a0b4821676fc5) |
-| 5 |  ] [不容忽视的浏览器安全漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543663&idx=1&sn=5a8cbab044f06bbd3c5a2ded31807539](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543663&idx=1&sn=5a8cbab044f06bbd3c5a2ded31807539) |
-| 6 |  ] [绕过IDE直连云端：PLC编程软件AI助手漏洞分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514371&idx=1&sn=d1dbddfd7f231df8354bf52925161a55](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514371&idx=1&sn=d1dbddfd7f231df8354bf52925161a55) |
-| 7 |  ] [Coldcard 1.11 亿美元被盗事件：私钥破解漏洞深度解析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505655&idx=1&sn=a5f18b42903c14b84d67001b665b5d0c](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505655&idx=1&sn=a5f18b42903c14b84d67001b665b5d0c) |
-| 8 |  ] [CNVD漏洞周报2026年第31期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501987&idx=1&sn=16975e5395e03b9d128963b0671533a7](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501987&idx=1&sn=16975e5395e03b9d128963b0671533a7) |
+| 1 | 【漏洞通告】Hugging Face Accelerate存在目录遍历漏洞(CVE-2026-69112) | Doonsec | [https://mp.weixin.qq.com/s/wFdqflfq67hVylV0jYcVAg](https://mp.weixin.qq.com/s/wFdqflfq67hVylV0jYcVAg) |
 
-### 威胁情报
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [第8篇-勒索事件应急响应实战指南 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497003&idx=1&sn=250ad6466ae70ef59f454acc8919a794](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497003&idx=1&sn=250ad6466ae70ef59f454acc8919a794) |
-| 2 |  ] [“Sorry”勒索病毒爆发,多个服务器沦陷!奇安信数字专家 T+1 交付防御报告、 IOC 全网共享 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507043&idx=1&sn=aeafd255cc29a13f87d364089c6a9285](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507043&idx=1&sn=aeafd255cc29a13f87d364089c6a9285) |
+| 1 | SRC只给30块的邮箱XSS，暴露了Webmail安全渲染的老难题 | Doonsec | [https://mp.weixin.qq.com/s/ezRqPku9JHV6o6No8CtPDQ](https://mp.weixin.qq.com/s/ezRqPku9JHV6o6No8CtPDQ) |
 
-### 供应链
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [月下载量超20亿次！TeamPcp高阶蠕虫再袭npm供应链 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536435&idx=1&sn=e20bc599f5c418d902bc27722eea9af1](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536435&idx=1&sn=e20bc599f5c418d902bc27722eea9af1) |
+| 1 | SRC只给30块的邮箱XSS，暴露了Webmail安全渲染的老难题 | Doonsec | [https://mp.weixin.qq.com/s/ezRqPku9JHV6o6No8CtPDQ](https://mp.weixin.qq.com/s/ezRqPku9JHV6o6No8CtPDQ) |
 
 
 ## 📁 归档路径
@@ -120,8 +101,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -130,5 +111,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-12 05:40:15*
+*生成时间: 2026-08-12 13:16:51*
 *报告工具: 微信文章安全归档系统*
