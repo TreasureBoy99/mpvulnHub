@@ -1,17 +1,19 @@
-# 2026-08-11 安全威胁态势报告
+# 2026-08-12 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **攻击技术**: 2篇
 - **漏洞利用**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,7 +62,11 @@
 
 ### Doonsec
 
-- [思科提醒注意多个高危 ClamAV 漏洞](https://mp.weixin.qq.com/s/k5W2oAbDaAT7-7lAN89-xg) (发布日期: 2026-08-11)
+- [千人大帮会｜100T资源终身独享｜CISP/PTE考证底价｜18年网安大佬带队](https://mp.weixin.qq.com/s/QRZzzhHnYmI4X2rGTqJA0Q) (发布日期: 2026-08-12)
+- [锐捷网络公司安全服务专家岗位](https://mp.weixin.qq.com/s/jcTUf9czPbhb0yvDVy750w) (发布日期: 2026-08-12)
+- [梆梆安全公司中级渗透测试工程师岗位](https://mp.weixin.qq.com/s/V8v6sTOo_aq-C5Ejs3hvCQ) (发布日期: 2026-08-12)
+- [Pscan！基于Fscan魔改内网渗透扫描利器](https://mp.weixin.qq.com/s/kPQ6Wdr3ou6zar6Dlgep5w) (发布日期: 2026-08-12)
+- [漏洞通告|正方软件股份有限公司教学管理信息服务平台存在SQL注入漏洞(CNVD-2026-25909)](https://mp.weixin.qq.com/s/yBY_R4VNMnfVie4pkTMxFA) (发布日期: 2026-08-12)
 
 
 ## 🎯 威胁详情分析
@@ -69,12 +75,19 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 思科提醒注意多个高危 ClamAV 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/k5W2oAbDaAT7-7lAN89-xg](https://mp.weixin.qq.com/s/k5W2oAbDaAT7-7lAN89-xg) |
+| 1 | 漏洞通告|正方软件股份有限公司教学管理信息服务平台存在SQL注入漏洞(CNVD-2026-25909) | Doonsec | [https://mp.weixin.qq.com/s/yBY_R4VNMnfVie4pkTMxFA](https://mp.weixin.qq.com/s/yBY_R4VNMnfVie4pkTMxFA) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Pscan！基于Fscan魔改内网渗透扫描利器 | Doonsec | [https://mp.weixin.qq.com/s/kPQ6Wdr3ou6zar6Dlgep5w](https://mp.weixin.qq.com/s/kPQ6Wdr3ou6zar6Dlgep5w) |
+| 2 | 漏洞通告|正方软件股份有限公司教学管理信息服务平台存在SQL注入漏洞(CNVD-2026-25909) | Doonsec | [https://mp.weixin.qq.com/s/yBY_R4VNMnfVie4pkTMxFA](https://mp.weixin.qq.com/s/yBY_R4VNMnfVie4pkTMxFA) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-08/2026-W33/2026-08-11/`
+文章已归档到: `doc/2026/2026-08/2026-W33/2026-08-12/`
 
 ## 🔗 数据源说明
 
@@ -85,8 +98,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -95,5 +108,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-11 20:50:49*
+*生成时间: 2026-08-12 02:10:48*
 *报告工具: 微信文章安全归档系统*
