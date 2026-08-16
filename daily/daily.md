@@ -2,14 +2,13 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 1
 - **数据源分布**:
-  - BruceFeIix: 4篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
 
 ### 漏洞类型分析
 
@@ -58,23 +57,12 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [肉眼看不见的窃密通道：一款12KB后门把C2信息藏进空白空格](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188103&idx=1&sn=b4c0fe5ff7fb1c189608de7406e80a5f) (发布日期: 2026-08-16)
-- [ ] [【安全圈】macOS屏幕共享漏洞遭利用，被植入门罗币挖矿程序](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=1&sn=4b5441fb275403e73cf04d21dc5c6dbe) (发布日期: 2026-08-16)
-- [ ] [【安全圈】AI让漏洞暴增72%，NIST求助AI管理漏洞库](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=2&sn=59601ed506d26630b5fd959967127d4d) (发布日期: 2026-08-16)
-- [ ] [【安全圈】SAP云端漏洞评分满分，补丁发布3天就被利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=3&sn=197f827e1231607636b09c2de8831b96) (发布日期: 2026-08-16)
+- [腾讯_Physical AI Agent：人形机器人平台的具身智能安全威胁建模](https://mp.weixin.qq.com/s/4JoYU1_bxfG8PwrqUbzSeA) (发布日期: 2026-08-16)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [【安全圈】macOS屏幕共享漏洞遭利用，被植入门罗币挖矿程序 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=1&sn=4b5441fb275403e73cf04d21dc5c6dbe](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=1&sn=4b5441fb275403e73cf04d21dc5c6dbe) |
-| 2 |  ] [【安全圈】AI让漏洞暴增72%，NIST求助AI管理漏洞库 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=2&sn=59601ed506d26630b5fd959967127d4d](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=2&sn=59601ed506d26630b5fd959967127d4d) |
-| 3 |  ] [【安全圈】SAP云端漏洞评分满分，补丁发布3天就被利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=3&sn=197f827e1231607636b09c2de8831b96](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=3&sn=197f827e1231607636b09c2de8831b96) |
 
 
 ## 📁 归档路径
@@ -90,7 +78,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -100,5 +88,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-16 04:39:03*
+*生成时间: 2026-08-16 12:44:55*
 *报告工具: 微信文章安全归档系统*
