@@ -111501,3 +111501,54 @@
 2026-08-17 01:26:19,554 - INFO - === 跳过二进制文件处理，只更新data.json ===
 2026-08-17 01:26:19,627 - INFO - 已更新data.json，添加了 0 个URL
 2026-08-17 01:26:19,627 - INFO - === 执行完成 ===
+2026-08-17 04:46:05,994 - INFO - === 开始执行微信文章归档工具 ===
+2026-08-17 04:46:05,994 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-08-17 04:46:05,994 - INFO - 正在发送Discord启动通知...
+2026-08-17 04:46:06,308 - INFO - Discord启动通知发送结果: 204
+2026-08-17 04:46:06,311 - INFO - 数据文件: data.json
+2026-08-17 04:46:06,311 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-08-17 04:46:06,311 - INFO - 文档目录: doc
+2026-08-17 04:46:06,376 - INFO - 已加载 48658 条历史记录
+2026-08-17 04:46:06,376 - INFO - === 开始今日拉取 ===
+2026-08-17 04:46:06,376 - INFO - 开始获取Doonsec RSS
+2026-08-17 04:46:06,377 - INFO - 目标日期: 2026-08-17
+2026-08-17 04:46:08,073 - INFO - Doonsec RSS请求成功
+2026-08-17 04:46:08,074 - INFO - RSS中共有 200 个条目
+2026-08-17 04:46:08,074 - INFO - Doonsec获取到 6 个2026-08-17的微信文章URL
+2026-08-17 04:46:08,075 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-08-17.md
+2026-08-17 04:46:08,218 - INFO - ChainReactors md文件下载状态码: 404
+2026-08-17 04:46:08,218 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-08-17.md 状态码: 404
+2026-08-17 04:46:08,218 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-08-17.md
+2026-08-17 04:46:08,356 - INFO - BruceFeIix md文件下载状态码: 200
+2026-08-17 04:46:08,357 - INFO - BruceFeIix获取到 20 个URL
+2026-08-17 04:46:08,357 - INFO - === 开始处理 2026-08-17 的数据 ===
+2026-08-17 04:46:08,357 - INFO - Doonsec原始数据: 6 个
+2026-08-17 04:46:08,357 - INFO - ChainReactors原始数据: 0 个
+2026-08-17 04:46:08,358 - INFO - BruceFeIix原始数据: 20 个
+2026-08-17 04:46:08,358 - INFO - 开始处理Doonsec数据...
+2026-08-17 04:46:08,358 - INFO - 开始处理ChainReactors数据...
+2026-08-17 04:46:08,358 - INFO - 开始处理BruceFeIix数据...
+2026-08-17 04:46:08,358 - INFO - 去重后共 24 个URL待处理，跳过 2 个重复URL
+2026-08-17 04:46:08,358 - INFO - 去重后统计 - Doonsec: 6 个, ChainReactors: 0 个, BruceFeIix: 18 个
+2026-08-17 04:46:08,358 - INFO - === 开始关键词过滤 ===
+2026-08-17 04:46:08,359 - INFO - 关键词过滤: 匹配 6 个，跳过 18 个
+2026-08-17 04:46:08,359 - INFO - 关键词过滤后统计 - Doonsec: 3 个, ChainReactors: 0 个, BruceFeIix: 3 个
+2026-08-17 04:46:08,374 - INFO - 已创建每日报告: md/2026-08-17.md
+2026-08-17 04:46:08,374 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-08-17 04:46:08,374 - INFO - 正在发送Discord通知: 8月17日高危CVE漏洞速报
+2026-08-17 04:46:08,904 - INFO - Discord通知发送结果: 204
+2026-08-17 04:46:08,905 - INFO - 正在发送Discord通知: AI让漏洞暴增72%，NIST求助AI管理漏洞库
+2026-08-17 04:46:09,189 - INFO - Discord通知发送结果: 204
+2026-08-17 04:46:09,190 - INFO - 正在发送Discord通知: 漏洞复现 | 聚恒中台 data.aspx 任意文件上传漏洞
+2026-08-17 04:46:09,522 - INFO - Discord通知发送结果: 204
+2026-08-17 04:46:09,523 - INFO - 正在发送Discord通知:  ] [【AI复盘】AI Agent元编排框架满分漏洞事件
+2026-08-17 04:46:09,883 - INFO - Discord通知发送结果: 204
+2026-08-17 04:46:09,884 - INFO - 正在发送Discord通知:  ] [【安全圈】爱快路由系统突发漏洞，速升级！
+2026-08-17 04:46:10,169 - INFO - Discord通知发送结果: 204
+2026-08-17 04:46:10,170 - INFO - 正在发送Discord通知:  ] [【安全圈】FFmpeg紧急修复CVE-2026-8461：CVSS 8.8
+2026-08-17 04:46:10,414 - INFO - Discord通知发送结果: 204
+2026-08-17 04:46:10,487 - INFO - 已更新data.json，添加了 6 个URL
+2026-08-17 04:46:10,488 - INFO - 已创建每日报告: md/2026-08-17.md
+2026-08-17 04:46:10,488 - INFO - 正在发送Discord日报通知: 2026-08-17
+2026-08-17 04:46:10,799 - INFO - Discord日报发送结果: 204
+2026-08-17 04:46:10,800 - INFO - === 执行完成 ===
