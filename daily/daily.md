@@ -2,19 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 16
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 2篇
-  - BruceFeIix: 14篇
+  - Doonsec: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
+- **漏洞利用**: 1篇
+- **威胁情报**: 1篇
 - **安全运营**: 1篇
+- **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,25 +64,14 @@
 
 ### Doonsec
 
-- [SRC保姆级教程：一篇学会信息收集](https://mp.weixin.qq.com/s/ToQALoBT1JoxyKgEGJrQHw) (发布日期: 2026-08-18)
-- [加密钱包提供商SafePal泄露近4万名用户订单信息](https://mp.weixin.qq.com/s/VSbU64KQ8FqZUkSZQB3auA) (发布日期: 2026-08-18)
-
-### BruceFeIix
-
-- [ ] [一梳理汇总Windows内核驱动漏洞数据的项目](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188129&idx=1&sn=de3e34dbedd4dad61192e0f42219e693) (发布日期: 2026-08-18)
-- [ ] [今年首家民营银行因网络安全、数据安全等问题被罚](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516436&idx=2&sn=2efde59f62d3056cef5dcab84fdbd69a) (发布日期: 2026-08-18)
-- [ ] [隐私加密通讯平台Threema遭大规模DDoS攻击，服务大面积瘫痪](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618719&idx=3&sn=d1b68fa20048db75baf1f4f0de3fb73c) (发布日期: 2026-08-18)
-- [ ] [AI安全案例分析 | 专有LLM加密推理块可被跨模型重放窃取](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495414&idx=1&sn=a6fc2b5a59e87a901d122671bceaaef7) (发布日期: 2026-08-18)
-- [ ] [【安全圈】微软紧急修复Defender零日漏洞ShieldBreak](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078325&idx=1&sn=93bd6a880d3d68bdabd3da207d8c6ee7) (发布日期: 2026-08-18)
-- [ ] [【安全圈】Fortinet修复FortiWeb和FortiManager严重认证漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078325&idx=3&sn=d8bf16a89aca711acbbae0a6ed783ed1) (发布日期: 2026-08-18)
-- [ ] [第12篇-勒索软件加密技术解析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497023&idx=1&sn=5d76544728b68e8852818cafa2bd527b) (发布日期: 2026-08-18)
-- [ ] [AI自动化漏洞挖掘赚取赏金实战（一）](https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485867&idx=1&sn=71591fffff53c435f10fcd1f75474af3) (发布日期: 2026-08-18)
-- [ ] [红队实战利器：RapidDNS CLI + Nuclei/Httpx 打造自动化漏洞挖掘流水线](https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485867&idx=2&sn=7e4072cd9c51be194ff1d6444991083d) (发布日期: 2026-08-18)
-- [ ] [快更新修复，龙芯处理器存在架构层面漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543687&idx=1&sn=318b3875f74e2ea841085eb5de8afb17) (发布日期: 2026-08-18)
-- [ ] [CNVD漏洞周报2026年第32期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497192&idx=1&sn=70b7291295f9b75bcae014ed7bb5cbe7) (发布日期: 2026-08-18)
-- [ ] [上周关注度较高的产品安全漏洞(20260810-20260816)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497192&idx=2&sn=76f390eaef8d560891eedf139f70d14d) (发布日期: 2026-08-18)
-- [ ] [CNNVD发布信息安全漏洞周报第845期；Meta押注“人人可用”AI，Glimmer开放背后的安全与信任挑战| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142368&idx=2&sn=911a98d80b027e5d1cd0916f01d35108) (发布日期: 2026-08-18)
-- [ ] [大模型安全治理面临“大考”](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504683&idx=1&sn=a69b35a668395233168e9f846ca94dd3) (发布日期: 2026-08-18)
+- [神州希望协助三亚市住房和城乡建设局开展网络安全意识培训](https://mp.weixin.qq.com/s/VB_6_qmFYqn57Jn4hmuQ9Q) (发布日期: 2026-08-18)
+- [洞察｜Sorry勒索病毒逆向分析与防护指南](https://mp.weixin.qq.com/s/PoONNkh72pR_L7ea72ZTUg) (发布日期: 2026-08-18)
+- [腾讯云AIxa0Agent安全网关护航银河证券启睿Skill上架WorkBuddy ——从“能查询”走向“放心调用”](https://mp.weixin.qq.com/s/exzBrAr2oSrGdXHfF2VINg) (发布日期: 2026-08-18)
+- [AI 渗透测试工程化第四篇——MCP 安全接入](https://mp.weixin.qq.com/s/Q2mLrKpiYa09MPUGpsyREg) (发布日期: 2026-08-18)
+- [宝可梦确认数据泄露：客户数据遭攻击者窃取，订单被迫取消](https://mp.weixin.qq.com/s/eF1wGd2QA31Z1jz2Hh0sTQ) (发布日期: 2026-08-18)
+- [SANDCLOCK后门入侵LiteLLM供应链，2500+组织凭证泄露](https://mp.weixin.qq.com/s/92dyiBFlu1vZVGuXQKccGQ) (发布日期: 2026-08-18)
+- [关于顺丰SRC平台升级维护及暂停漏洞测试的公告](https://mp.weixin.qq.com/s/aKwnS6l5Hcw-_IG--B_hpg) (发布日期: 2026-08-18)
+- [震惊安全圈！这款自动化 reconnaissance 神器让渗透测试效率提升 1000%](https://mp.weixin.qq.com/s/sceYwiKoT2t1XNC6S5N0Mg) (发布日期: 2026-08-18)
 
 
 ## 🎯 威胁详情分析
@@ -90,21 +80,31 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [一梳理汇总Windows内核驱动漏洞数据的项目 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188129&idx=1&sn=de3e34dbedd4dad61192e0f42219e693](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188129&idx=1&sn=de3e34dbedd4dad61192e0f42219e693) |
-| 2 |  ] [【安全圈】微软紧急修复Defender零日漏洞ShieldBreak | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078325&idx=1&sn=93bd6a880d3d68bdabd3da207d8c6ee7](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078325&idx=1&sn=93bd6a880d3d68bdabd3da207d8c6ee7) |
-| 3 |  ] [【安全圈】Fortinet修复FortiWeb和FortiManager严重认证漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078325&idx=3&sn=d8bf16a89aca711acbbae0a6ed783ed1](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078325&idx=3&sn=d8bf16a89aca711acbbae0a6ed783ed1) |
-| 4 |  ] [AI自动化漏洞挖掘赚取赏金实战（一） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485867&idx=1&sn=71591fffff53c435f10fcd1f75474af3](https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485867&idx=1&sn=71591fffff53c435f10fcd1f75474af3) |
-| 5 |  ] [红队实战利器：RapidDNS CLI + Nuclei/Httpx 打造自动化漏洞挖掘流水线 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485867&idx=2&sn=7e4072cd9c51be194ff1d6444991083d](https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485867&idx=2&sn=7e4072cd9c51be194ff1d6444991083d) |
-| 6 |  ] [快更新修复，龙芯处理器存在架构层面漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543687&idx=1&sn=318b3875f74e2ea841085eb5de8afb17](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543687&idx=1&sn=318b3875f74e2ea841085eb5de8afb17) |
-| 7 |  ] [CNVD漏洞周报2026年第32期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497192&idx=1&sn=70b7291295f9b75bcae014ed7bb5cbe7](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497192&idx=1&sn=70b7291295f9b75bcae014ed7bb5cbe7) |
-| 8 |  ] [上周关注度较高的产品安全漏洞(20260810-20260816) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497192&idx=2&sn=76f390eaef8d560891eedf139f70d14d](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497192&idx=2&sn=76f390eaef8d560891eedf139f70d14d) |
-| 9 |  ] [CNNVD发布信息安全漏洞周报第845期；Meta押注“人人可用”AI，Glimmer开放背后的安全与信任挑战| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142368&idx=2&sn=911a98d80b027e5d1cd0916f01d35108](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142368&idx=2&sn=911a98d80b027e5d1cd0916f01d35108) |
+| 1 | 关于顺丰SRC平台升级维护及暂停漏洞测试的公告 | Doonsec | [https://mp.weixin.qq.com/s/aKwnS6l5Hcw-_IG--B_hpg](https://mp.weixin.qq.com/s/aKwnS6l5Hcw-_IG--B_hpg) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 洞察｜Sorry勒索病毒逆向分析与防护指南 | Doonsec | [https://mp.weixin.qq.com/s/PoONNkh72pR_L7ea72ZTUg](https://mp.weixin.qq.com/s/PoONNkh72pR_L7ea72ZTUg) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SRC保姆级教程：一篇学会信息收集 | Doonsec | [https://mp.weixin.qq.com/s/ToQALoBT1JoxyKgEGJrQHw](https://mp.weixin.qq.com/s/ToQALoBT1JoxyKgEGJrQHw) |
+| 1 | 关于顺丰SRC平台升级维护及暂停漏洞测试的公告 | Doonsec | [https://mp.weixin.qq.com/s/aKwnS6l5Hcw-_IG--B_hpg](https://mp.weixin.qq.com/s/aKwnS6l5Hcw-_IG--B_hpg) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 宝可梦确认数据泄露：客户数据遭攻击者窃取，订单被迫取消 | Doonsec | [https://mp.weixin.qq.com/s/eF1wGd2QA31Z1jz2Hh0sTQ](https://mp.weixin.qq.com/s/eF1wGd2QA31Z1jz2Hh0sTQ) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | SANDCLOCK后门入侵LiteLLM供应链，2500+组织凭证泄露 | Doonsec | [https://mp.weixin.qq.com/s/92dyiBFlu1vZVGuXQKccGQ](https://mp.weixin.qq.com/s/92dyiBFlu1vZVGuXQKccGQ) |
 
 
 ## 📁 归档路径
@@ -120,8 +120,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -130,5 +130,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-18 04:38:23*
+*生成时间: 2026-08-18 08:40:52*
 *报告工具: 微信文章安全归档系统*
