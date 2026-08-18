@@ -2,20 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 10
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 10篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 1篇
 - **威胁情报**: 1篇
 - **安全运营**: 1篇
-- **信息泄露**: 1篇
 - **供应链**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,14 +65,16 @@
 
 ### Doonsec
 
-- [神州希望协助三亚市住房和城乡建设局开展网络安全意识培训](https://mp.weixin.qq.com/s/VB_6_qmFYqn57Jn4hmuQ9Q) (发布日期: 2026-08-18)
-- [洞察｜Sorry勒索病毒逆向分析与防护指南](https://mp.weixin.qq.com/s/PoONNkh72pR_L7ea72ZTUg) (发布日期: 2026-08-18)
-- [腾讯云AIxa0Agent安全网关护航银河证券启睿Skill上架WorkBuddy ——从“能查询”走向“放心调用”](https://mp.weixin.qq.com/s/exzBrAr2oSrGdXHfF2VINg) (发布日期: 2026-08-18)
-- [AI 渗透测试工程化第四篇——MCP 安全接入](https://mp.weixin.qq.com/s/Q2mLrKpiYa09MPUGpsyREg) (发布日期: 2026-08-18)
-- [宝可梦确认数据泄露：客户数据遭攻击者窃取，订单被迫取消](https://mp.weixin.qq.com/s/eF1wGd2QA31Z1jz2Hh0sTQ) (发布日期: 2026-08-18)
-- [SANDCLOCK后门入侵LiteLLM供应链，2500+组织凭证泄露](https://mp.weixin.qq.com/s/92dyiBFlu1vZVGuXQKccGQ) (发布日期: 2026-08-18)
-- [关于顺丰SRC平台升级维护及暂停漏洞测试的公告](https://mp.weixin.qq.com/s/aKwnS6l5Hcw-_IG--B_hpg) (发布日期: 2026-08-18)
-- [震惊安全圈！这款自动化 reconnaissance 神器让渗透测试效率提升 1000%](https://mp.weixin.qq.com/s/sceYwiKoT2t1XNC6S5N0Mg) (发布日期: 2026-08-18)
+- [【0DAY漏洞】xa0全球5G手机芯片厂商之一u200c的紫光展锐SOC存在RCE漏洞，影响数十家手机厂商，还未发布补丁](https://mp.weixin.qq.com/s/3BMvBXIW9MNgnyNTcKPZKg) (发布日期: 2026-08-18)
+- [#渗透测试实践笔记（开发者版）](https://mp.weixin.qq.com/s/yBx555I8fIPJkgpzxMuMWw) (发布日期: 2026-08-18)
+- [【重要通知】2026年上海市工程系列数字技术专业（大数据、区块链、数据安全方向）高级职称评审网申启动！](https://mp.weixin.qq.com/s/QU2Z10p9DQQ77xGbEIQShA) (发布日期: 2026-08-18)
+- [从\"人\"的漏洞到\"人\"的防线：安在携手HumanRisk重塑企业安全意识教育](https://mp.weixin.qq.com/s/pSUVzv0kyLBzO7HHUFMKwA) (发布日期: 2026-08-18)
+- [SRC漏洞挖掘新手入门指南：怎么挖、去哪挖？一篇文章带你零基础入门到精通！](https://mp.weixin.qq.com/s/zX6Ie2KIzY3O4BTGjoKK5Q) (发布日期: 2026-08-18)
+- [启明星辰周涛：AI重塑漏洞攻防范式](https://mp.weixin.qq.com/s/zTsMaHKh4UynXXbbK1g8kg) (发布日期: 2026-08-18)
+- [歉意为引，数据为食：Sorry勒索病毒分析与当前威胁态势](https://mp.weixin.qq.com/s/GpiopX0jHObgDVYzLF6aww) (发布日期: 2026-08-18)
+- [告别“带病上线”，代码审计智能体必备的核心能力](https://mp.weixin.qq.com/s/GXaokP2iSPjBBaSxKJDLRA) (发布日期: 2026-08-18)
+- [国际顶尖安全专家打造的实战指南](https://mp.weixin.qq.com/s/sH9p6SNUZbgFJLstCYjDIg) (发布日期: 2026-08-18)
+- [LiteLLM 供应链攻击——科技、银行和医疗受影响最大](https://mp.weixin.qq.com/s/sEE53wyyvR2jz5rfH6nWYA) (发布日期: 2026-08-18)
 
 
 ## 🎯 威胁详情分析
@@ -80,31 +83,34 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 关于顺丰SRC平台升级维护及暂停漏洞测试的公告 | Doonsec | [https://mp.weixin.qq.com/s/aKwnS6l5Hcw-_IG--B_hpg](https://mp.weixin.qq.com/s/aKwnS6l5Hcw-_IG--B_hpg) |
+| 1 | 【0DAY漏洞】xa0全球5G手机芯片厂商之一u200c的紫光展锐SOC存在RCE漏洞，影响数十家手机厂商，还未发布补丁 | Doonsec | [https://mp.weixin.qq.com/s/3BMvBXIW9MNgnyNTcKPZKg](https://mp.weixin.qq.com/s/3BMvBXIW9MNgnyNTcKPZKg) |
+| 2 | 从\"人\"的漏洞到\"人\"的防线：安在携手HumanRisk重塑企业安全意识教育 | Doonsec | [https://mp.weixin.qq.com/s/pSUVzv0kyLBzO7HHUFMKwA](https://mp.weixin.qq.com/s/pSUVzv0kyLBzO7HHUFMKwA) |
+| 3 | SRC漏洞挖掘新手入门指南：怎么挖、去哪挖？一篇文章带你零基础入门到精通！ | Doonsec | [https://mp.weixin.qq.com/s/zX6Ie2KIzY3O4BTGjoKK5Q](https://mp.weixin.qq.com/s/zX6Ie2KIzY3O4BTGjoKK5Q) |
+| 4 | 启明星辰周涛：AI重塑漏洞攻防范式 | Doonsec | [https://mp.weixin.qq.com/s/zTsMaHKh4UynXXbbK1g8kg](https://mp.weixin.qq.com/s/zTsMaHKh4UynXXbbK1g8kg) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【0DAY漏洞】xa0全球5G手机芯片厂商之一u200c的紫光展锐SOC存在RCE漏洞，影响数十家手机厂商，还未发布补丁 | Doonsec | [https://mp.weixin.qq.com/s/3BMvBXIW9MNgnyNTcKPZKg](https://mp.weixin.qq.com/s/3BMvBXIW9MNgnyNTcKPZKg) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 洞察｜Sorry勒索病毒逆向分析与防护指南 | Doonsec | [https://mp.weixin.qq.com/s/PoONNkh72pR_L7ea72ZTUg](https://mp.weixin.qq.com/s/PoONNkh72pR_L7ea72ZTUg) |
+| 1 | 歉意为引，数据为食：Sorry勒索病毒分析与当前威胁态势 | Doonsec | [https://mp.weixin.qq.com/s/GpiopX0jHObgDVYzLF6aww](https://mp.weixin.qq.com/s/GpiopX0jHObgDVYzLF6aww) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 关于顺丰SRC平台升级维护及暂停漏洞测试的公告 | Doonsec | [https://mp.weixin.qq.com/s/aKwnS6l5Hcw-_IG--B_hpg](https://mp.weixin.qq.com/s/aKwnS6l5Hcw-_IG--B_hpg) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 宝可梦确认数据泄露：客户数据遭攻击者窃取，订单被迫取消 | Doonsec | [https://mp.weixin.qq.com/s/eF1wGd2QA31Z1jz2Hh0sTQ](https://mp.weixin.qq.com/s/eF1wGd2QA31Z1jz2Hh0sTQ) |
+| 1 | SRC漏洞挖掘新手入门指南：怎么挖、去哪挖？一篇文章带你零基础入门到精通！ | Doonsec | [https://mp.weixin.qq.com/s/zX6Ie2KIzY3O4BTGjoKK5Q](https://mp.weixin.qq.com/s/zX6Ie2KIzY3O4BTGjoKK5Q) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SANDCLOCK后门入侵LiteLLM供应链，2500+组织凭证泄露 | Doonsec | [https://mp.weixin.qq.com/s/92dyiBFlu1vZVGuXQKccGQ](https://mp.weixin.qq.com/s/92dyiBFlu1vZVGuXQKccGQ) |
+| 1 | LiteLLM 供应链攻击——科技、银行和医疗受影响最大 | Doonsec | [https://mp.weixin.qq.com/s/sEE53wyyvR2jz5rfH6nWYA](https://mp.weixin.qq.com/s/sEE53wyyvR2jz5rfH6nWYA) |
 
 
 ## 📁 归档路径
@@ -120,8 +126,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -130,5 +136,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-18 08:40:52*
+*生成时间: 2026-08-18 12:52:36*
 *报告工具: 微信文章安全归档系统*
