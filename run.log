@@ -111916,3 +111916,38 @@
 2026-08-18 12:52:36,709 - INFO - 正在发送Discord日报通知: 2026-08-18
 2026-08-18 12:52:37,223 - INFO - Discord日报发送结果: 204
 2026-08-18 12:52:37,224 - INFO - === 执行完成 ===
+2026-08-18 16:35:33,866 - INFO - === 开始执行微信文章归档工具 ===
+2026-08-18 16:35:33,866 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-08-18 16:35:33,866 - INFO - 正在发送Discord启动通知...
+2026-08-18 16:35:34,153 - INFO - Discord启动通知发送结果: 204
+2026-08-18 16:35:34,155 - INFO - 数据文件: data.json
+2026-08-18 16:35:34,155 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-08-18 16:35:34,156 - INFO - 文档目录: doc
+2026-08-18 16:35:34,240 - INFO - 已加载 48699 条历史记录
+2026-08-18 16:35:34,240 - INFO - === 开始今日拉取 ===
+2026-08-18 16:35:34,240 - INFO - 开始获取Doonsec RSS
+2026-08-18 16:35:34,240 - INFO - 目标日期: 2026-08-18
+2026-08-18 16:35:36,174 - INFO - Doonsec RSS请求成功
+2026-08-18 16:35:36,175 - INFO - RSS中共有 200 个条目
+2026-08-18 16:35:36,176 - INFO - Doonsec获取到 76 个2026-08-18的微信文章URL
+2026-08-18 16:35:36,177 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-08-18.md
+2026-08-18 16:35:36,346 - INFO - ChainReactors md文件下载状态码: 404
+2026-08-18 16:35:36,346 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-08-18.md 状态码: 404
+2026-08-18 16:35:36,346 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-08-18.md
+2026-08-18 16:35:36,540 - INFO - BruceFeIix md文件下载状态码: 200
+2026-08-18 16:35:36,541 - INFO - BruceFeIix获取到 50 个URL
+2026-08-18 16:35:36,542 - INFO - === 开始处理 2026-08-18 的数据 ===
+2026-08-18 16:35:36,542 - INFO - Doonsec原始数据: 76 个
+2026-08-18 16:35:36,542 - INFO - ChainReactors原始数据: 0 个
+2026-08-18 16:35:36,542 - INFO - BruceFeIix原始数据: 50 个
+2026-08-18 16:35:36,542 - INFO - 开始处理Doonsec数据...
+2026-08-18 16:35:36,542 - INFO - 开始处理ChainReactors数据...
+2026-08-18 16:35:36,542 - INFO - 开始处理BruceFeIix数据...
+2026-08-18 16:35:36,542 - INFO - 去重后共 88 个URL待处理，跳过 38 个重复URL
+2026-08-18 16:35:36,542 - INFO - 去重后统计 - Doonsec: 56 个, ChainReactors: 0 个, BruceFeIix: 32 个
+2026-08-18 16:35:36,542 - INFO - === 开始关键词过滤 ===
+2026-08-18 16:35:36,546 - INFO - 关键词过滤: 匹配 0 个，跳过 88 个
+2026-08-18 16:35:36,546 - INFO - 关键词过滤后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-08-18 16:35:36,546 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-08-18 16:35:36,619 - INFO - 已更新data.json，添加了 0 个URL
+2026-08-18 16:35:36,619 - INFO - === 执行完成 ===
