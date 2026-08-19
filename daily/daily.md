@@ -1,22 +1,24 @@
-# 2026-08-18 安全威胁态势报告
+# 2026-08-19 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 17
 - **数据源分布**:
-  - Doonsec: 10篇
+  - BruceFeIix: 17篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 10篇
+- **攻击技术**: 3篇
 - **威胁情报**: 1篇
 - **安全运营**: 1篇
+- **信息泄露**: 1篇
 - **供应链**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **系统漏洞**: 2篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,18 +65,25 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [【0DAY漏洞】xa0全球5G手机芯片厂商之一u200c的紫光展锐SOC存在RCE漏洞，影响数十家手机厂商，还未发布补丁](https://mp.weixin.qq.com/s/3BMvBXIW9MNgnyNTcKPZKg) (发布日期: 2026-08-18)
-- [#渗透测试实践笔记（开发者版）](https://mp.weixin.qq.com/s/yBx555I8fIPJkgpzxMuMWw) (发布日期: 2026-08-18)
-- [【重要通知】2026年上海市工程系列数字技术专业（大数据、区块链、数据安全方向）高级职称评审网申启动！](https://mp.weixin.qq.com/s/QU2Z10p9DQQ77xGbEIQShA) (发布日期: 2026-08-18)
-- [从\"人\"的漏洞到\"人\"的防线：安在携手HumanRisk重塑企业安全意识教育](https://mp.weixin.qq.com/s/pSUVzv0kyLBzO7HHUFMKwA) (发布日期: 2026-08-18)
-- [SRC漏洞挖掘新手入门指南：怎么挖、去哪挖？一篇文章带你零基础入门到精通！](https://mp.weixin.qq.com/s/zX6Ie2KIzY3O4BTGjoKK5Q) (发布日期: 2026-08-18)
-- [启明星辰周涛：AI重塑漏洞攻防范式](https://mp.weixin.qq.com/s/zTsMaHKh4UynXXbbK1g8kg) (发布日期: 2026-08-18)
-- [歉意为引，数据为食：Sorry勒索病毒分析与当前威胁态势](https://mp.weixin.qq.com/s/GpiopX0jHObgDVYzLF6aww) (发布日期: 2026-08-18)
-- [告别“带病上线”，代码审计智能体必备的核心能力](https://mp.weixin.qq.com/s/GXaokP2iSPjBBaSxKJDLRA) (发布日期: 2026-08-18)
-- [国际顶尖安全专家打造的实战指南](https://mp.weixin.qq.com/s/sH9p6SNUZbgFJLstCYjDIg) (发布日期: 2026-08-18)
-- [LiteLLM 供应链攻击——科技、银行和医疗受影响最大](https://mp.weixin.qq.com/s/sEE53wyyvR2jz5rfH6nWYA) (发布日期: 2026-08-18)
+- [ ] [勒索软件花招：重启进安全模式绕过EDR，却意外搞崩自身加密程序](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188142&idx=1&sn=47333a892e8bb380b1d0c411e6b35bdc) (发布日期: 2026-08-19)
+- [ ] [雷神众测漏洞周报2026.8.10-2026.8.16](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503913&idx=1&sn=ec84b81685e12bd1601a9ecaa0cd8dbd) (发布日期: 2026-08-19)
+- [ ] [满分10.0的漏洞，补丁发布3天就被打穿](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790378&idx=1&sn=70d4a5bd0229de6e9bb1fe3a4a6eb2bf) (发布日期: 2026-08-19)
+- [ ] [GitLab GraphQL 严重漏洞可使未认证攻击者删除公开项目](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526883&idx=1&sn=80604cef5784651f30751cec579a2172) (发布日期: 2026-08-19)
+- [ ] [CISA：Ray 严重漏洞可触发基于浏览器的 RCE 攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526883&idx=2&sn=adfc2a9b47df4c9153c9478ceb011b11) (发布日期: 2026-08-19)
+- [ ] [【安全圈】Cisco 防火墙零日漏洞遭野利用，企业边界防御要重新审视](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078333&idx=1&sn=8661fbfdba0a2e5dd3f3f0bbd96ead7b) (发布日期: 2026-08-19)
+- [ ] [【安全圈】AI 工具热潮下，数据泄露与供应链风险正在悄悄升级](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078333&idx=2&sn=49328a5c7430718272f856907efe1682) (发布日期: 2026-08-19)
+- [ ] [【安全圈】GitLab 关键 GraphQL 漏洞可能允许未认证攻击者删除公共项目](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078333&idx=3&sn=04c4e92193066da60476ed0f40b2d749) (发布日期: 2026-08-19)
+- [ ] [【已复现】PostgreSQL 远程代码执行漏洞(CVE-2026-14669)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507128&idx=1&sn=5a09999ea6e550e3265d69024d1d4a15) (发布日期: 2026-08-19)
+- [ ] [导致个人信息泄露的常见原因有哪些?](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504715&idx=1&sn=4834b97e53f81b145aea0add428e7295) (发布日期: 2026-08-19)
+- [ ] [麦当劳为用户建立515页画像：忠诚度App如何变成“商业监控”系统；CNVD发布漏洞周报2026年第32期| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142379&idx=2&sn=b3e78afbebf8db425d11aba22558b53c) (发布日期: 2026-08-19)
+- [ ] [论坛·原创 | 我国人工智能安全治理的制度安排与实践逻辑](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265696&idx=1&sn=957ffba70fea138bce67868a118aa60b) (发布日期: 2026-08-19)
+- [ ] [全球工控防火墙市场预计到2034年将达到31.9亿美元](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543695&idx=1&sn=1ca130b6eac7ce740746c38558109baa) (发布日期: 2026-08-19)
+- [ ] [关于“Sorry”勒索病毒，你想知道的都在这里](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543695&idx=2&sn=3709f45e0e9b5c6ac5fd1ce925b095ef) (发布日期: 2026-08-19)
+- [ ] [【通知】关于中通SRC暂停接收漏洞测试的通知](https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486666&idx=1&sn=103bab8f07e1a52ed09af6fdc22e504d) (发布日期: 2026-08-19)
+- [ ] [5000字分享：Mythos/GPT-5对企业安全架构影响思考](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851700&idx=1&sn=6d9e27238d63740e428f0ce4cca0081e) (发布日期: 2026-08-19)
+- [ ] [PostgreSQL 曝高危 RCE 漏洞，腾讯云安全已支持检测](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497886&idx=1&sn=7bd38d30924639bd4c6fe960e64b0b99) (发布日期: 2026-08-19)
 
 
 ## 🎯 威胁详情分析
@@ -83,39 +92,53 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【0DAY漏洞】xa0全球5G手机芯片厂商之一u200c的紫光展锐SOC存在RCE漏洞，影响数十家手机厂商，还未发布补丁 | Doonsec | [https://mp.weixin.qq.com/s/3BMvBXIW9MNgnyNTcKPZKg](https://mp.weixin.qq.com/s/3BMvBXIW9MNgnyNTcKPZKg) |
-| 2 | 从\"人\"的漏洞到\"人\"的防线：安在携手HumanRisk重塑企业安全意识教育 | Doonsec | [https://mp.weixin.qq.com/s/pSUVzv0kyLBzO7HHUFMKwA](https://mp.weixin.qq.com/s/pSUVzv0kyLBzO7HHUFMKwA) |
-| 3 | SRC漏洞挖掘新手入门指南：怎么挖、去哪挖？一篇文章带你零基础入门到精通！ | Doonsec | [https://mp.weixin.qq.com/s/zX6Ie2KIzY3O4BTGjoKK5Q](https://mp.weixin.qq.com/s/zX6Ie2KIzY3O4BTGjoKK5Q) |
-| 4 | 启明星辰周涛：AI重塑漏洞攻防范式 | Doonsec | [https://mp.weixin.qq.com/s/zTsMaHKh4UynXXbbK1g8kg](https://mp.weixin.qq.com/s/zTsMaHKh4UynXXbbK1g8kg) |
+| 1 |  ] [雷神众测漏洞周报2026.8.10-2026.8.16 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503913&idx=1&sn=ec84b81685e12bd1601a9ecaa0cd8dbd](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503913&idx=1&sn=ec84b81685e12bd1601a9ecaa0cd8dbd) |
+| 2 |  ] [满分10.0的漏洞，补丁发布3天就被打穿 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790378&idx=1&sn=70d4a5bd0229de6e9bb1fe3a4a6eb2bf](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790378&idx=1&sn=70d4a5bd0229de6e9bb1fe3a4a6eb2bf) |
+| 3 |  ] [GitLab GraphQL 严重漏洞可使未认证攻击者删除公开项目 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526883&idx=1&sn=80604cef5784651f30751cec579a2172](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526883&idx=1&sn=80604cef5784651f30751cec579a2172) |
+| 4 |  ] [CISA：Ray 严重漏洞可触发基于浏览器的 RCE 攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526883&idx=2&sn=adfc2a9b47df4c9153c9478ceb011b11](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526883&idx=2&sn=adfc2a9b47df4c9153c9478ceb011b11) |
+| 5 |  ] [【安全圈】Cisco 防火墙零日漏洞遭野利用，企业边界防御要重新审视 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078333&idx=1&sn=8661fbfdba0a2e5dd3f3f0bbd96ead7b](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078333&idx=1&sn=8661fbfdba0a2e5dd3f3f0bbd96ead7b) |
+| 6 |  ] [【安全圈】GitLab 关键 GraphQL 漏洞可能允许未认证攻击者删除公共项目 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078333&idx=3&sn=04c4e92193066da60476ed0f40b2d749](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078333&idx=3&sn=04c4e92193066da60476ed0f40b2d749) |
+| 7 |  ] [【已复现】PostgreSQL 远程代码执行漏洞(CVE-2026-14669)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507128&idx=1&sn=5a09999ea6e550e3265d69024d1d4a15](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507128&idx=1&sn=5a09999ea6e550e3265d69024d1d4a15) |
+| 8 |  ] [麦当劳为用户建立515页画像：忠诚度App如何变成“商业监控”系统；CNVD发布漏洞周报2026年第32期| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142379&idx=2&sn=b3e78afbebf8db425d11aba22558b53c](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142379&idx=2&sn=b3e78afbebf8db425d11aba22558b53c) |
+| 9 |  ] [【通知】关于中通SRC暂停接收漏洞测试的通知 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486666&idx=1&sn=103bab8f07e1a52ed09af6fdc22e504d](https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486666&idx=1&sn=103bab8f07e1a52ed09af6fdc22e504d) |
+| 10 |  ] [PostgreSQL 曝高危 RCE 漏洞，腾讯云安全已支持检测 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497886&idx=1&sn=7bd38d30924639bd4c6fe960e64b0b99](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497886&idx=1&sn=7bd38d30924639bd4c6fe960e64b0b99) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【0DAY漏洞】xa0全球5G手机芯片厂商之一u200c的紫光展锐SOC存在RCE漏洞，影响数十家手机厂商，还未发布补丁 | Doonsec | [https://mp.weixin.qq.com/s/3BMvBXIW9MNgnyNTcKPZKg](https://mp.weixin.qq.com/s/3BMvBXIW9MNgnyNTcKPZKg) |
+| 1 |  ] [CISA：Ray 严重漏洞可触发基于浏览器的 RCE 攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526883&idx=2&sn=adfc2a9b47df4c9153c9478ceb011b11](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526883&idx=2&sn=adfc2a9b47df4c9153c9478ceb011b11) |
+| 2 |  ] [【已复现】PostgreSQL 远程代码执行漏洞(CVE-2026-14669)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507128&idx=1&sn=5a09999ea6e550e3265d69024d1d4a15](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507128&idx=1&sn=5a09999ea6e550e3265d69024d1d4a15) |
+| 3 |  ] [PostgreSQL 曝高危 RCE 漏洞，腾讯云安全已支持检测 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497886&idx=1&sn=7bd38d30924639bd4c6fe960e64b0b99](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497886&idx=1&sn=7bd38d30924639bd4c6fe960e64b0b99) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 歉意为引，数据为食：Sorry勒索病毒分析与当前威胁态势 | Doonsec | [https://mp.weixin.qq.com/s/GpiopX0jHObgDVYzLF6aww](https://mp.weixin.qq.com/s/GpiopX0jHObgDVYzLF6aww) |
+| 1 |  ] [关于“Sorry”勒索病毒，你想知道的都在这里 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543695&idx=2&sn=3709f45e0e9b5c6ac5fd1ce925b095ef](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543695&idx=2&sn=3709f45e0e9b5c6ac5fd1ce925b095ef) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SRC漏洞挖掘新手入门指南：怎么挖、去哪挖？一篇文章带你零基础入门到精通！ | Doonsec | [https://mp.weixin.qq.com/s/zX6Ie2KIzY3O4BTGjoKK5Q](https://mp.weixin.qq.com/s/zX6Ie2KIzY3O4BTGjoKK5Q) |
+| 1 |  ] [【通知】关于中通SRC暂停接收漏洞测试的通知 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486666&idx=1&sn=103bab8f07e1a52ed09af6fdc22e504d](https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486666&idx=1&sn=103bab8f07e1a52ed09af6fdc22e504d) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【安全圈】AI 工具热潮下，数据泄露与供应链风险正在悄悄升级 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078333&idx=2&sn=49328a5c7430718272f856907efe1682](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078333&idx=2&sn=49328a5c7430718272f856907efe1682) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | LiteLLM 供应链攻击——科技、银行和医疗受影响最大 | Doonsec | [https://mp.weixin.qq.com/s/sEE53wyyvR2jz5rfH6nWYA](https://mp.weixin.qq.com/s/sEE53wyyvR2jz5rfH6nWYA) |
+| 1 |  ] [【安全圈】AI 工具热潮下，数据泄露与供应链风险正在悄悄升级 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078333&idx=2&sn=49328a5c7430718272f856907efe1682](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078333&idx=2&sn=49328a5c7430718272f856907efe1682) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-08/2026-W34/2026-08-18/`
+文章已归档到: `doc/2026/2026-08/2026-W34/2026-08-19/`
 
 ## 🔗 数据源说明
 
@@ -126,8 +149,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -136,5 +159,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-18 12:52:36*
+*生成时间: 2026-08-19 04:40:40*
 *报告工具: 微信文章安全归档系统*
