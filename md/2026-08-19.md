@@ -2,20 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 10篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 1篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,48 +59,10 @@
 
 ### Doonsec
 
-- [Cursor 0-day 漏洞预警：打开文件夹即中招，开发者该如何紧急防护？](https://mp.weixin.qq.com/s/mm9jwOIAHRdu73zzBZ5vvw) (发布日期: 2026-08-19)
-- [线上会议预告｜2026年上海市工程系列数字技术专业（大数据、区块链、数据安全方向）高级职称宣贯暨申报辅导会](https://mp.weixin.qq.com/s/HoqTuNhyctUODdiVTXbCDA) (发布日期: 2026-08-19)
-- [WiFiSRC｜AI生成漏洞报告提交规范公告](https://mp.weixin.qq.com/s/_wbUVPRvkaY6n4wyNbSBZQ) (发布日期: 2026-08-19)
-- [告别告警疲劳：AI代码审计智能体如何实现“降噪纠错+填补盲区”？](https://mp.weixin.qq.com/s/wTafbS3HAyAmxWVo5OAS0Q) (发布日期: 2026-08-19)
-- [关键供应商被黑，上万家医疗机构1800余万患者数据泄露](https://mp.weixin.qq.com/s/uG478HTirh-0St8_jZ-kRA) (发布日期: 2026-08-19)
-- [【CVE-2026-22078】关于Webview任意URL加载导致Token泄露风险的致谢公告](https://mp.weixin.qq.com/s/k6c4LF0xqpq0VHX2rx4U_A) (发布日期: 2026-08-19)
-- [【免费领】国内第一部XSS跨站脚本攻防技术教程](https://mp.weixin.qq.com/s/1tyDsUn57lP3c3W80b2l4g) (发布日期: 2026-08-19)
-- [【CVE-2026-22078】关于O+互联未对IPC通道进行身份校验导致本地提权漏洞的致谢公告](https://mp.weixin.qq.com/s/HMFAhBF3P-xcJBpEutcVMw) (发布日期: 2026-08-19)
-- [CNNVD | 人工智能重要漏洞通报（2026年第十二期）](https://mp.weixin.qq.com/s/TdQovX34rdzHOv4UbJF1gQ) (发布日期: 2026-08-19)
-- [一个公共软件漏洞，批量击穿几十家大厂](https://mp.weixin.qq.com/s/T5RqQ6lQ54lG6KVnfVClHw) (发布日期: 2026-08-19)
+- [AI Agent安全治理第二步：Agent运行过程中到底做了什么？](https://mp.weixin.qq.com/s/ujbA27CUZRpquiH1SKsquQ) (发布日期: 2026-08-19)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | Cursor 0-day 漏洞预警：打开文件夹即中招，开发者该如何紧急防护？ | Doonsec | [https://mp.weixin.qq.com/s/mm9jwOIAHRdu73zzBZ5vvw](https://mp.weixin.qq.com/s/mm9jwOIAHRdu73zzBZ5vvw) |
-| 2 | WiFiSRC｜AI生成漏洞报告提交规范公告 | Doonsec | [https://mp.weixin.qq.com/s/_wbUVPRvkaY6n4wyNbSBZQ](https://mp.weixin.qq.com/s/_wbUVPRvkaY6n4wyNbSBZQ) |
-| 3 | 【CVE-2026-22078】关于Webview任意URL加载导致Token泄露风险的致谢公告 | Doonsec | [https://mp.weixin.qq.com/s/k6c4LF0xqpq0VHX2rx4U_A](https://mp.weixin.qq.com/s/k6c4LF0xqpq0VHX2rx4U_A) |
-| 4 | 【CVE-2026-22078】关于O+互联未对IPC通道进行身份校验导致本地提权漏洞的致谢公告 | Doonsec | [https://mp.weixin.qq.com/s/HMFAhBF3P-xcJBpEutcVMw](https://mp.weixin.qq.com/s/HMFAhBF3P-xcJBpEutcVMw) |
-| 5 | CNNVD | 人工智能重要漏洞通报（2026年第十二期） | Doonsec | [https://mp.weixin.qq.com/s/TdQovX34rdzHOv4UbJF1gQ](https://mp.weixin.qq.com/s/TdQovX34rdzHOv4UbJF1gQ) |
-| 6 | 一个公共软件漏洞，批量击穿几十家大厂 | Doonsec | [https://mp.weixin.qq.com/s/T5RqQ6lQ54lG6KVnfVClHw](https://mp.weixin.qq.com/s/T5RqQ6lQ54lG6KVnfVClHw) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【免费领】国内第一部XSS跨站脚本攻防技术教程 | Doonsec | [https://mp.weixin.qq.com/s/1tyDsUn57lP3c3W80b2l4g](https://mp.weixin.qq.com/s/1tyDsUn57lP3c3W80b2l4g) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | WiFiSRC｜AI生成漏洞报告提交规范公告 | Doonsec | [https://mp.weixin.qq.com/s/_wbUVPRvkaY6n4wyNbSBZQ](https://mp.weixin.qq.com/s/_wbUVPRvkaY6n4wyNbSBZQ) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 关键供应商被黑，上万家医疗机构1800余万患者数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/uG478HTirh-0St8_jZ-kRA](https://mp.weixin.qq.com/s/uG478HTirh-0St8_jZ-kRA) |
 
 
 ## 📁 归档路径
@@ -121,8 +78,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -131,5 +88,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-19 12:53:29*
+*生成时间: 2026-08-19 16:35:11*
 *报告工具: 微信文章安全归档系统*
