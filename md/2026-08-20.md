@@ -2,15 +2,22 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 22
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 7篇
+  - BruceFeIix: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 13篇
+- **攻击技术**: 3篇
+- **信息泄露**: 2篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -59,10 +66,73 @@
 
 ### Doonsec
 
-- [数据安全||《网络数据安全风险评估办法》今天落地，评估行业新赛道，40张图多角度个人解读](https://mp.weixin.qq.com/s/H8UPsAxVL08PL6IMICW7BQ) (发布日期: 2026-08-20)
+- [今日起，《网络数据安全风险评估办法》正式施行！](https://mp.weixin.qq.com/s/JhVw9xVqlZT4F06SnduYag) (发布日期: 2026-08-20)
+- [《网络数据安全风险评估办法》实施有关事项答记者问](https://mp.weixin.qq.com/s/DeIlGGiskrKWQG2ByOm2FA) (发布日期: 2026-08-20)
+- [吊打所有传统扫描器！这款开源工具让漏洞挖掘效率提升1000%](https://mp.weixin.qq.com/s/8qgRMizqCfzhcs1K5V_oQA) (发布日期: 2026-08-20)
+- [8月20日高危CVE漏洞速报](https://mp.weixin.qq.com/s/DAiN8DCWXcmVQJslL171Hg) (发布日期: 2026-08-20)
+- [《网络数据安全风险评估办法》来了！企业数据合规迎来\"硬指标\"](https://mp.weixin.qq.com/s/qfMUSmXsKk9aUi2rkG89Ig) (发布日期: 2026-08-20)
+- [Web漏洞扫描工具 -- Webscanner](https://mp.weixin.qq.com/s/cEWF0XVx5NW4qTzkIFoy2g) (发布日期: 2026-08-20)
+- [CNVD漏洞周报2026年第32期](https://mp.weixin.qq.com/s/-StXHrFyKVizNKs1MITHYg) (发布日期: 2026-08-20)
+
+### BruceFeIix
+
+- [ ] [斯洛伐克交通摄像头后门事件：3000万欧元买来的279个监控节点](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188155&idx=1&sn=631a2526078a7c7d6c3f84c0237aa235) (发布日期: 2026-08-20)
+- [ ] [1.1万个网站正被围攻！WordPress登录页惊现XSS2Shell漏洞，无需账号就能摸到服务器](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790383&idx=1&sn=ec0014e8946a4142e1473376f84b7b90) (发布日期: 2026-08-20)
+- [ ] [关键供应商被黑，上万家医疗机构1800余万患者数据泄露](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516454&idx=1&sn=0817649658b3568df4e64b81090b5b48) (发布日期: 2026-08-20)
+- [ ] [微软 Copilot Personal 存在多个漏洞，一次点击即可提取联网app数据](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526917&idx=1&sn=821be304e4284650201a625c79ab5fca) (发布日期: 2026-08-20)
+- [ ] [攻击者利用 MLflow 漏洞窃取云凭据和机密信息](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526917&idx=2&sn=7ad6ae2c6597942ccfbe3c8431060d95) (发布日期: 2026-08-20)
+- [ ] [【已复现】CVE-2026-23479 未完全修复变种——Redis 远程代码执行漏洞(QVD-2026-55651)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507148&idx=1&sn=ab4a29b67662e66d96b9a389b874869b) (发布日期: 2026-08-20)
+- [ ] [一台"干净"的 Mac：当入侵不需要恶意软件](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519883&idx=1&sn=8617ac55ce05fba60513e2f075e6756e) (发布日期: 2026-08-20)
+- [ ] [【安全圈】PTC工业软件曝高危漏洞可窃工业设计与凭证](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078343&idx=1&sn=6b3ceb26bf870d1243e0d94832a74579) (发布日期: 2026-08-20)
+- [ ] [【安全圈】医疗云巨头数据泄露扩大波及超370万人](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078343&idx=2&sn=f8f4b5ecf02ceaf2c86892b7a814ef24) (发布日期: 2026-08-20)
+- [ ] [【安全圈】CISA紧急通报四项高危在野利用漏洞要求严查](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078343&idx=3&sn=d22a51f0f51c4bf79eeb278f77bb5830) (发布日期: 2026-08-20)
+- [ ] [潜伏40年、影响全球九成DNS系统的漏洞，被一个开源模型找到了](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543704&idx=1&sn=a3d0aff7adff887d3958c2bde712b1e1) (发布日期: 2026-08-20)
+- [ ] [第十届安全开发者峰会（SDC2026）合作招募正式启动！](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618790&idx=1&sn=12f694f5dda7123fbad22f0ea95eca91) (发布日期: 2026-08-20)
+- [ ] [Redis RCE 漏洞预警：CVE-2026-23479 修复不完整再现新漏洞](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497900&idx=1&sn=b111fbf25f84d17b0f0e736eeb9ee274) (发布日期: 2026-08-20)
+- [ ] [威胁情报｜小心 Solidity Pro 定向投毒 Web3 开发者](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505716&idx=1&sn=63c28207988a8ec4120ce027964839a3) (发布日期: 2026-08-20)
+- [ ] [XCon2026议题||从发现到复现：AI 驱动的 Web 漏洞挖掘验证工程](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587798&idx=1&sn=f0a8f2f643c8c75a764a60ad04c37238) (发布日期: 2026-08-20)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 吊打所有传统扫描器！这款开源工具让漏洞挖掘效率提升1000% | Doonsec | [https://mp.weixin.qq.com/s/8qgRMizqCfzhcs1K5V_oQA](https://mp.weixin.qq.com/s/8qgRMizqCfzhcs1K5V_oQA) |
+| 2 | 8月20日高危CVE漏洞速报 | Doonsec | [https://mp.weixin.qq.com/s/DAiN8DCWXcmVQJslL171Hg](https://mp.weixin.qq.com/s/DAiN8DCWXcmVQJslL171Hg) |
+| 3 | Web漏洞扫描工具 -- Webscanner | Doonsec | [https://mp.weixin.qq.com/s/cEWF0XVx5NW4qTzkIFoy2g](https://mp.weixin.qq.com/s/cEWF0XVx5NW4qTzkIFoy2g) |
+| 4 | CNVD漏洞周报2026年第32期 | Doonsec | [https://mp.weixin.qq.com/s/-StXHrFyKVizNKs1MITHYg](https://mp.weixin.qq.com/s/-StXHrFyKVizNKs1MITHYg) |
+| 5 |  ] [1.1万个网站正被围攻！WordPress登录页惊现XSS2Shell漏洞，无需账号就能摸到服务器 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790383&idx=1&sn=ec0014e8946a4142e1473376f84b7b90](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790383&idx=1&sn=ec0014e8946a4142e1473376f84b7b90) |
+| 6 |  ] [微软 Copilot Personal 存在多个漏洞，一次点击即可提取联网app数据 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526917&idx=1&sn=821be304e4284650201a625c79ab5fca](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526917&idx=1&sn=821be304e4284650201a625c79ab5fca) |
+| 7 |  ] [攻击者利用 MLflow 漏洞窃取云凭据和机密信息 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526917&idx=2&sn=7ad6ae2c6597942ccfbe3c8431060d95](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526917&idx=2&sn=7ad6ae2c6597942ccfbe3c8431060d95) |
+| 8 |  ] [【已复现】CVE-2026-23479 未完全修复变种——Redis 远程代码执行漏洞(QVD-2026-55651)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507148&idx=1&sn=ab4a29b67662e66d96b9a389b874869b](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507148&idx=1&sn=ab4a29b67662e66d96b9a389b874869b) |
+| 9 |  ] [【安全圈】PTC工业软件曝高危漏洞可窃工业设计与凭证 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078343&idx=1&sn=6b3ceb26bf870d1243e0d94832a74579](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078343&idx=1&sn=6b3ceb26bf870d1243e0d94832a74579) |
+| 10 |  ] [【安全圈】CISA紧急通报四项高危在野利用漏洞要求严查 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078343&idx=3&sn=d22a51f0f51c4bf79eeb278f77bb5830](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078343&idx=3&sn=d22a51f0f51c4bf79eeb278f77bb5830) |
+| 11 |  ] [潜伏40年、影响全球九成DNS系统的漏洞，被一个开源模型找到了 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543704&idx=1&sn=a3d0aff7adff887d3958c2bde712b1e1](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543704&idx=1&sn=a3d0aff7adff887d3958c2bde712b1e1) |
+| 12 |  ] [Redis RCE 漏洞预警：CVE-2026-23479 修复不完整再现新漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497900&idx=1&sn=b111fbf25f84d17b0f0e736eeb9ee274](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497900&idx=1&sn=b111fbf25f84d17b0f0e736eeb9ee274) |
+| 13 |  ] [XCon2026议题||从发现到复现：AI 驱动的 Web 漏洞挖掘验证工程 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587798&idx=1&sn=f0a8f2f643c8c75a764a60ad04c37238](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587798&idx=1&sn=f0a8f2f643c8c75a764a60ad04c37238) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [1.1万个网站正被围攻！WordPress登录页惊现XSS2Shell漏洞，无需账号就能摸到服务器 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790383&idx=1&sn=ec0014e8946a4142e1473376f84b7b90](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790383&idx=1&sn=ec0014e8946a4142e1473376f84b7b90) |
+| 2 |  ] [【已复现】CVE-2026-23479 未完全修复变种——Redis 远程代码执行漏洞(QVD-2026-55651)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507148&idx=1&sn=ab4a29b67662e66d96b9a389b874869b](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507148&idx=1&sn=ab4a29b67662e66d96b9a389b874869b) |
+| 3 |  ] [Redis RCE 漏洞预警：CVE-2026-23479 修复不完整再现新漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497900&idx=1&sn=b111fbf25f84d17b0f0e736eeb9ee274](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497900&idx=1&sn=b111fbf25f84d17b0f0e736eeb9ee274) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [威胁情报｜小心 Solidity Pro 定向投毒 Web3 开发者 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505716&idx=1&sn=63c28207988a8ec4120ce027964839a3](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505716&idx=1&sn=63c28207988a8ec4120ce027964839a3) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [关键供应商被黑，上万家医疗机构1800余万患者数据泄露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516454&idx=1&sn=0817649658b3568df4e64b81090b5b48](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516454&idx=1&sn=0817649658b3568df4e64b81090b5b48) |
+| 2 |  ] [【安全圈】医疗云巨头数据泄露扩大波及超370万人 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078343&idx=2&sn=f8f4b5ecf02ceaf2c86892b7a814ef24](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078343&idx=2&sn=f8f4b5ecf02ceaf2c86892b7a814ef24) |
 
 
 ## 📁 归档路径
@@ -78,8 +148,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -88,5 +158,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-20 01:23:43*
+*生成时间: 2026-08-20 04:40:31*
 *报告工具: 微信文章安全归档系统*
