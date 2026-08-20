@@ -112282,3 +112282,44 @@
 2026-08-19 20:31:41,332 - INFO - === 跳过二进制文件处理，只更新data.json ===
 2026-08-19 20:31:41,406 - INFO - 已更新data.json，添加了 0 个URL
 2026-08-19 20:31:41,406 - INFO - === 执行完成 ===
+2026-08-20 01:23:41,224 - INFO - === 开始执行微信文章归档工具 ===
+2026-08-20 01:23:41,224 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-08-20 01:23:41,224 - INFO - 正在发送Discord启动通知...
+2026-08-20 01:23:41,517 - INFO - Discord启动通知发送结果: 204
+2026-08-20 01:23:41,518 - INFO - 数据文件: data.json
+2026-08-20 01:23:41,518 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-08-20 01:23:41,518 - INFO - 文档目录: doc
+2026-08-20 01:23:41,572 - INFO - 已加载 48734 条历史记录
+2026-08-20 01:23:41,572 - INFO - === 开始今日拉取 ===
+2026-08-20 01:23:41,572 - INFO - 开始获取Doonsec RSS
+2026-08-20 01:23:41,572 - INFO - 目标日期: 2026-08-20
+2026-08-20 01:23:43,215 - INFO - Doonsec RSS请求成功
+2026-08-20 01:23:43,216 - INFO - RSS中共有 200 个条目
+2026-08-20 01:23:43,217 - INFO - Doonsec获取到 13 个2026-08-20的微信文章URL
+2026-08-20 01:23:43,217 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-08-20.md
+2026-08-20 01:23:43,302 - INFO - ChainReactors md文件下载状态码: 404
+2026-08-20 01:23:43,302 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-08-20.md 状态码: 404
+2026-08-20 01:23:43,302 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-08-20.md
+2026-08-20 01:23:43,383 - INFO - BruceFeIix md文件下载状态码: 404
+2026-08-20 01:23:43,383 - WARNING - BruceFeIix md文件下载失败: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-08-20.md 状态码: 404
+2026-08-20 01:23:43,383 - INFO - === 开始处理 2026-08-20 的数据 ===
+2026-08-20 01:23:43,383 - INFO - Doonsec原始数据: 13 个
+2026-08-20 01:23:43,383 - INFO - ChainReactors原始数据: 0 个
+2026-08-20 01:23:43,383 - INFO - BruceFeIix原始数据: 0 个
+2026-08-20 01:23:43,383 - INFO - 开始处理Doonsec数据...
+2026-08-20 01:23:43,383 - INFO - 开始处理ChainReactors数据...
+2026-08-20 01:23:43,383 - INFO - 开始处理BruceFeIix数据...
+2026-08-20 01:23:43,383 - INFO - 去重后共 13 个URL待处理，跳过 0 个重复URL
+2026-08-20 01:23:43,383 - INFO - 去重后统计 - Doonsec: 13 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-08-20 01:23:43,383 - INFO - === 开始关键词过滤 ===
+2026-08-20 01:23:43,384 - INFO - 关键词过滤: 匹配 1 个，跳过 12 个
+2026-08-20 01:23:43,384 - INFO - 关键词过滤后统计 - Doonsec: 1 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-08-20 01:23:43,388 - INFO - 已创建每日报告: md/2026-08-20.md
+2026-08-20 01:23:43,388 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-08-20 01:23:43,389 - INFO - 正在发送Discord通知: 数据安全||《网络数据安全风险评估办法》今天落地，评估行业新赛道，40张图多角度个人解读
+2026-08-20 01:23:43,680 - INFO - Discord通知发送结果: 204
+2026-08-20 01:23:43,781 - INFO - 已更新data.json，添加了 1 个URL
+2026-08-20 01:23:43,782 - INFO - 已创建每日报告: md/2026-08-20.md
+2026-08-20 01:23:43,782 - INFO - 正在发送Discord日报通知: 2026-08-20
+2026-08-20 01:23:44,247 - INFO - Discord日报发送结果: 204
+2026-08-20 01:23:44,247 - INFO - === 执行完成 ===
