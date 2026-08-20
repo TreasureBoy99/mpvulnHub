@@ -2,15 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **攻击技术**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -59,14 +62,28 @@
 
 ### Doonsec
 
-- [天融信AI安全防护产品获推技术发明奖！](https://mp.weixin.qq.com/s/asNSAiOjEvW8MIMtenmRyQ) (发布日期: 2026-08-20)
-- [天融信：网络数据安全风险评估进入常态化、规范化，AI加持的全流程合规方案安排→](https://mp.weixin.qq.com/s/OuSgvg6wynUMPegYEa41sg) (发布日期: 2026-08-20)
-- [【01-好靶场月赛】重生为一个安全服务工程师](https://mp.weixin.qq.com/s/1cf9wqCvp-sXhT_vWDlx5w) (发布日期: 2026-08-20)
-- [安全牛十大产品创新：“问境+灵脉”系列持续引领智能体全生命周期安全治理！](https://mp.weixin.qq.com/s/w7klKPjwmH0Nspr32wN3bQ) (发布日期: 2026-08-20)
-- [基于合规性验证的汽车信息安全测试系统开发](https://mp.weixin.qq.com/s/x2BbpCcg38goIgBXoxgDzg) (发布日期: 2026-08-20)
+- [XCon2026议题||AI原生的安全运营观&amp;实践](https://mp.weixin.qq.com/s/6Akz7mdJF0L5whP1TY7xVw) (发布日期: 2026-08-20)
+- [数据安全风险评估今起施行](https://mp.weixin.qq.com/s/oYuqozqVdwb6DxRrZZJ2wQ) (发布日期: 2026-08-20)
+- [【免费领】SQL注入攻防实战技术教程（近400页）](https://mp.weixin.qq.com/s/s-3-zya8mxJssA8xd--LTg) (发布日期: 2026-08-20)
+- [新规今日施行 |《网络数据安全风险评估办法》学习理解划重点](https://mp.weixin.qq.com/s/3zpZWhU4RExkuutxvK-fKg) (发布日期: 2026-08-20)
+- [破局安全盲区与算力黑洞 AIStorm出席香港AI安全治理午宴 发布“安全+算力”双维治理方案](https://mp.weixin.qq.com/s/xasB1iBSaIusbBm91x4pVA) (发布日期: 2026-08-20)
+- [《网络数据安全风险评估办法》今日实施](https://mp.weixin.qq.com/s/Hi4RptNr5cCnYrzXqVnvgw) (发布日期: 2026-08-20)
+- [《网络数据安全风险评估办法》实施有关事项答记者问](https://mp.weixin.qq.com/s/leD-UOwa3Jn0gm5KGTOZ8A) (发布日期: 2026-08-20)
 
 
 ## 🎯 威胁详情分析
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【免费领】SQL注入攻防实战技术教程（近400页） | Doonsec | [https://mp.weixin.qq.com/s/s-3-zya8mxJssA8xd--LTg](https://mp.weixin.qq.com/s/s-3-zya8mxJssA8xd--LTg) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | XCon2026议题||AI原生的安全运营观&amp;实践 | Doonsec | [https://mp.weixin.qq.com/s/6Akz7mdJF0L5whP1TY7xVw](https://mp.weixin.qq.com/s/6Akz7mdJF0L5whP1TY7xVw) |
 
 
 ## 📁 归档路径
@@ -82,8 +99,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -92,5 +109,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-20 08:41:47*
+*生成时间: 2026-08-20 12:54:57*
 *报告工具: 微信文章安全归档系统*
