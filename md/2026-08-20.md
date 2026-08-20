@@ -2,18 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 1篇
-- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,28 +59,10 @@
 
 ### Doonsec
 
-- [XCon2026议题||AI原生的安全运营观&amp;实践](https://mp.weixin.qq.com/s/6Akz7mdJF0L5whP1TY7xVw) (发布日期: 2026-08-20)
-- [数据安全风险评估今起施行](https://mp.weixin.qq.com/s/oYuqozqVdwb6DxRrZZJ2wQ) (发布日期: 2026-08-20)
-- [【免费领】SQL注入攻防实战技术教程（近400页）](https://mp.weixin.qq.com/s/s-3-zya8mxJssA8xd--LTg) (发布日期: 2026-08-20)
-- [新规今日施行 |《网络数据安全风险评估办法》学习理解划重点](https://mp.weixin.qq.com/s/3zpZWhU4RExkuutxvK-fKg) (发布日期: 2026-08-20)
-- [破局安全盲区与算力黑洞 AIStorm出席香港AI安全治理午宴 发布“安全+算力”双维治理方案](https://mp.weixin.qq.com/s/xasB1iBSaIusbBm91x4pVA) (发布日期: 2026-08-20)
-- [《网络数据安全风险评估办法》今日实施](https://mp.weixin.qq.com/s/Hi4RptNr5cCnYrzXqVnvgw) (发布日期: 2026-08-20)
-- [《网络数据安全风险评估办法》实施有关事项答记者问](https://mp.weixin.qq.com/s/leD-UOwa3Jn0gm5KGTOZ8A) (发布日期: 2026-08-20)
+- [《网络数据安全风险评估办法》正式施行，奇安信：企业亟待做好这几件事](https://mp.weixin.qq.com/s/Gc7Ah1Y2g9j3_vVRb1ouwA) (发布日期: 2026-08-20)
 
 
 ## 🎯 威胁详情分析
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【免费领】SQL注入攻防实战技术教程（近400页） | Doonsec | [https://mp.weixin.qq.com/s/s-3-zya8mxJssA8xd--LTg](https://mp.weixin.qq.com/s/s-3-zya8mxJssA8xd--LTg) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | XCon2026议题||AI原生的安全运营观&amp;实践 | Doonsec | [https://mp.weixin.qq.com/s/6Akz7mdJF0L5whP1TY7xVw](https://mp.weixin.qq.com/s/6Akz7mdJF0L5whP1TY7xVw) |
 
 
 ## 📁 归档路径
@@ -99,8 +78,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -109,5 +88,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-20 12:54:57*
+*生成时间: 2026-08-20 16:38:40*
 *报告工具: 微信文章安全归档系统*
