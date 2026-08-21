@@ -2,15 +2,22 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 16
 - **数据源分布**:
-  - Doonsec: 1篇
+  - BruceFeIix: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 9篇
+- **攻击技术**: 3篇
+- **安全运营**: 2篇
+- **威胁情报**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 2篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -57,12 +64,68 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [DSH渗透测试插件dsh-pentest全新升级！适配DeepSeek Harness，可视化探索链路，一键搭建轻量化AI渗透测试环境。](https://mp.weixin.qq.com/s/TB7czIXIe-FnWFIDxuuGbA) (发布日期: 2026-08-21)
+- [ ] [新型安卓恶意软件能借附近中毒手机偷偷外传数据](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188167&idx=1&sn=8f5d8f79dbe4ba99c383c46405599001) (发布日期: 2026-08-21)
+- [ ] [原创漏洞 | Wireshark Bluetooth AVRCP 解析器堆缓冲区溢出漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508839&idx=1&sn=0e1f2177c941d178dacb82d2492d1850) (发布日期: 2026-08-21)
+- [ ] [不打招呼直接锁死服务器：Sorry勒索病毒国内多点爆发，专挑中小企业下手](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790393&idx=1&sn=6981729b0c19403787fe35e1a20c94f3) (发布日期: 2026-08-21)
+- [ ] [Citrix NetScaler 存在两个严重漏洞，无需凭证即可绕过认证机制](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526935&idx=1&sn=07147e7ec3cbfb9ffe750a7853798e1e) (发布日期: 2026-08-21)
+- [ ] [思科：注意 CVSS 满分 Crosswork SQL 命令注入漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526935&idx=2&sn=6df734eb52e6f93d21542cbc093f1c92) (发布日期: 2026-08-21)
+- [ ] [今日起，《网络数据安全风险评估办法》正式施行！](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504742&idx=1&sn=b7ab9f6eef064aecc8a3901b0b40e60c) (发布日期: 2026-08-21)
+- [ ] [【安全圈】40款火狐扩展暗藏黑手：伪装Web3钱包洗劫加密资产](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078369&idx=1&sn=79e2862e15803decb3b7269b26094c80) (发布日期: 2026-08-21)
+- [ ] [【安全圈】CISA警告多项0day遭野外利用：涵盖macOS与微软组件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078369&idx=2&sn=f702826e48d6e844afeb49bad9a1f7e9) (发布日期: 2026-08-21)
+- [ ] [【安全圈】Elementor Pro曝严重漏洞：未授权即可远程执行代码](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078369&idx=3&sn=1b94f45dc5a824daa1bf741c9527c26d) (发布日期: 2026-08-21)
+- [ ] [AI能找到零日漏洞 但仍无法写出安全的代码](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543709&idx=1&sn=d66d30bc0cb3746783aed237926e8a72) (发布日期: 2026-08-21)
+- [ ] [国家级认证+1！默安安全运营智能体入选网络安全优秀创新成果](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501978&idx=1&sn=3fa51e70dc73983dbcb474a4edb2a554) (发布日期: 2026-08-21)
+- [ ] [【已复现】JeecgBoot 权限绕过与SQL注入组合漏洞(QVD-2026-56312)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507173&idx=1&sn=31742a3353f86d4f518ddb16f2f7956f) (发布日期: 2026-08-21)
+- [ ] [《网络数据安全风险评估办法》今日实施；Google 为 Search 与 Gemini 上线多款 AI 学习工具，强化学生端 AI 能力 | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142404&idx=2&sn=b620ee0484fb712e6ae8c0ae4516fdbf) (发布日期: 2026-08-21)
+- [ ] [中秋第三弹|专属SRC活动来袭，交漏洞领中秋礼盒！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510952&idx=1&sn=e8dc73985c029551083aa9ec891e4a03) (发布日期: 2026-08-21)
+- [ ] [Splunk批量修复17个高危漏洞，含9.1分MCP Server远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618817&idx=2&sn=262cee74ca234824af3638c986cce363) (发布日期: 2026-08-21)
+- [ ] [安全牛十大产品创新：“问境+灵脉”系列持续引领智能体全生命周期安全治理！](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647800152&idx=1&sn=9b5a65cc1e62999d660ed2f985070f75) (发布日期: 2026-08-21)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [原创漏洞 | Wireshark Bluetooth AVRCP 解析器堆缓冲区溢出漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508839&idx=1&sn=0e1f2177c941d178dacb82d2492d1850](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508839&idx=1&sn=0e1f2177c941d178dacb82d2492d1850) |
+| 2 |  ] [Citrix NetScaler 存在两个严重漏洞，无需凭证即可绕过认证机制 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526935&idx=1&sn=07147e7ec3cbfb9ffe750a7853798e1e](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526935&idx=1&sn=07147e7ec3cbfb9ffe750a7853798e1e) |
+| 3 |  ] [思科：注意 CVSS 满分 Crosswork SQL 命令注入漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526935&idx=2&sn=6df734eb52e6f93d21542cbc093f1c92](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526935&idx=2&sn=6df734eb52e6f93d21542cbc093f1c92) |
+| 4 |  ] [【安全圈】CISA警告多项0day遭野外利用：涵盖macOS与微软组件 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078369&idx=2&sn=f702826e48d6e844afeb49bad9a1f7e9](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078369&idx=2&sn=f702826e48d6e844afeb49bad9a1f7e9) |
+| 5 |  ] [【安全圈】Elementor Pro曝严重漏洞：未授权即可远程执行代码 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078369&idx=3&sn=1b94f45dc5a824daa1bf741c9527c26d](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078369&idx=3&sn=1b94f45dc5a824daa1bf741c9527c26d) |
+| 6 |  ] [AI能找到零日漏洞 但仍无法写出安全的代码 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543709&idx=1&sn=d66d30bc0cb3746783aed237926e8a72](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543709&idx=1&sn=d66d30bc0cb3746783aed237926e8a72) |
+| 7 |  ] [【已复现】JeecgBoot 权限绕过与SQL注入组合漏洞(QVD-2026-56312)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507173&idx=1&sn=31742a3353f86d4f518ddb16f2f7956f](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507173&idx=1&sn=31742a3353f86d4f518ddb16f2f7956f) |
+| 8 |  ] [中秋第三弹|专属SRC活动来袭，交漏洞领中秋礼盒！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510952&idx=1&sn=e8dc73985c029551083aa9ec891e4a03](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510952&idx=1&sn=e8dc73985c029551083aa9ec891e4a03) |
+| 9 |  ] [Splunk批量修复17个高危漏洞，含9.1分MCP Server远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618817&idx=2&sn=262cee74ca234824af3638c986cce363](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618817&idx=2&sn=262cee74ca234824af3638c986cce363) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [思科：注意 CVSS 满分 Crosswork SQL 命令注入漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526935&idx=2&sn=6df734eb52e6f93d21542cbc093f1c92](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526935&idx=2&sn=6df734eb52e6f93d21542cbc093f1c92) |
+| 2 |  ] [【已复现】JeecgBoot 权限绕过与SQL注入组合漏洞(QVD-2026-56312)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507173&idx=1&sn=31742a3353f86d4f518ddb16f2f7956f](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507173&idx=1&sn=31742a3353f86d4f518ddb16f2f7956f) |
+| 3 |  ] [Splunk批量修复17个高危漏洞，含9.1分MCP Server远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618817&idx=2&sn=262cee74ca234824af3638c986cce363](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618817&idx=2&sn=262cee74ca234824af3638c986cce363) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [不打招呼直接锁死服务器：Sorry勒索病毒国内多点爆发，专挑中小企业下手 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790393&idx=1&sn=6981729b0c19403787fe35e1a20c94f3](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790393&idx=1&sn=6981729b0c19403787fe35e1a20c94f3) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [国家级认证+1！默安安全运营智能体入选网络安全优秀创新成果 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501978&idx=1&sn=3fa51e70dc73983dbcb474a4edb2a554](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501978&idx=1&sn=3fa51e70dc73983dbcb474a4edb2a554) |
+| 2 |  ] [中秋第三弹|专属SRC活动来袭，交漏洞领中秋礼盒！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510952&idx=1&sn=e8dc73985c029551083aa9ec891e4a03](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510952&idx=1&sn=e8dc73985c029551083aa9ec891e4a03) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【安全圈】CISA警告多项0day遭野外利用：涵盖macOS与微软组件 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078369&idx=2&sn=f702826e48d6e844afeb49bad9a1f7e9](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078369&idx=2&sn=f702826e48d6e844afeb49bad9a1f7e9) |
 
 
 ## 📁 归档路径
@@ -78,8 +141,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -88,5 +151,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-21 01:28:05*
+*生成时间: 2026-08-21 04:41:35*
 *报告工具: 微信文章安全归档系统*
