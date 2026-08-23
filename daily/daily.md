@@ -1,23 +1,18 @@
-# 2026-08-22 安全威胁态势报告
+# 2026-08-23 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 16
+- **总文章数**: 2
 - **数据源分布**:
-  - BruceFeIix: 16篇
+  - BruceFeIix: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 3篇
-- **供应链**: 2篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,22 +61,8 @@
 
 ### BruceFeIix
 
-- [ ] [保镖成了内鬼：微软Defender再曝零日漏洞，普通账户一键提权SYSTEM，补丁还没用](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790398&idx=1&sn=09a5b3324cc9783656c9f5b7a4cf0e8c) (发布日期: 2026-08-22)
-- [ ] [没有 0day，也能瘫痪一座电厂](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165799&idx=1&sn=946395dfdb6f9b9c1eefb1a9a532671f) (发布日期: 2026-08-22)
-- [ ] [Zimbra SNMP 未认证 RCE 漏洞已遭利用](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526941&idx=1&sn=11e4c40814e3f01c72e6879ff92a5b4c) (发布日期: 2026-08-22)
-- [ ] [Rust 三个热门crate遭投毒，被用于供应链攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526941&idx=2&sn=788a548f95d9b2c816994f379dbef5d5) (发布日期: 2026-08-22)
-- [ ] [AI与云安全事件案例分析周报｜2026.08.17 - 2026.08.21](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500228&idx=1&sn=5a4c60d70f5f377f8eb3ce4961b91b8b) (发布日期: 2026-08-22)
-- [ ] [人工智能加剧网络攻击 思科防火墙订单增长超30%](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543725&idx=1&sn=17c960413426c0e034c90882d1576c75) (发布日期: 2026-08-22)
-- [ ] [新规今日施行 |《网络数据安全风险评估办法》学习理解划重点](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543725&idx=3&sn=361bb2493a49f87a5cb2a1a58a5cfc8c) (发布日期: 2026-08-22)
-- [ ] [【安全圈】微软Entra_ID曝满分漏洞：无需凭据远程代码执行](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078384&idx=1&sn=a9a371c2b58a0b4e29ce4be72c93ae9f) (发布日期: 2026-08-22)
-- [ ] [【安全圈】Rust生态遭供应链投毒：编译即触发执行恶意后门](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078384&idx=2&sn=584bb5bc43fa1c97b2c06330516c2e27) (发布日期: 2026-08-22)
-- [ ] [【安全圈】GitLab曝严重代码注入：公开项目面临任意篡改](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078384&idx=3&sn=7ff2787dd6ecc28cbc0d963d8d2b7940) (发布日期: 2026-08-22)
-- [ ] [关于 VSRC 例行维护的通知](https://mp.weixin.qq.com/s?__biz=MzI5ODE0ODA5MQ==&mid=2652281765&idx=1&sn=c961e1014f7385ebd8683615102ab0b5) (发布日期: 2026-08-22)
-- [ ] [安全热点周报：黑客利用 macOS 屏幕共享漏洞部署门罗币挖矿程序](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507178&idx=1&sn=11d97e33c51432a1d87745724fb2c4e8) (发布日期: 2026-08-22)
-- [ ] [每周高级威胁情报解读(2026.08.14~08.20)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519957&idx=2&sn=aafeada85716143c834687ec457e4034) (发布日期: 2026-08-22)
-- [ ] [AI 蠕虫已现形：AI 基建成为攻击者的循环攻击温床](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247512062&idx=1&sn=4b18cf041e6f0fa7f68cdc87f745adc3) (发布日期: 2026-08-22)
-- [ ] [安全预警：360签名漏洞驱动被恶意利用 可致终端安全防护失效](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536697&idx=1&sn=3a18cfe3988300974634b7172c086e5f) (发布日期: 2026-08-22)
-- [ ] [【火绒安全周报】西安某公司遭勒索攻击/宝可梦确认数据泄露](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536697&idx=3&sn=67877d1affbcccd3492b1ae83bbd1cc0) (发布日期: 2026-08-22)
+- [ ] [当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618875&idx=2&sn=2c1e91df59b1d650e8d6965f888a94ae) (发布日期: 2026-08-23)
+- [ ] [第17篇-勒索软件IOC与YARA规则实战](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497043&idx=1&sn=aab534cfe5f82cc2e82ec4a025447fc1) (发布日期: 2026-08-23)
 
 
 ## 🎯 威胁详情分析
@@ -90,50 +71,12 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [保镖成了内鬼：微软Defender再曝零日漏洞，普通账户一键提权SYSTEM，补丁还没用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790398&idx=1&sn=09a5b3324cc9783656c9f5b7a4cf0e8c](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790398&idx=1&sn=09a5b3324cc9783656c9f5b7a4cf0e8c) |
-| 2 |  ] [没有 0day，也能瘫痪一座电厂 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165799&idx=1&sn=946395dfdb6f9b9c1eefb1a9a532671f](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165799&idx=1&sn=946395dfdb6f9b9c1eefb1a9a532671f) |
-| 3 |  ] [Zimbra SNMP 未认证 RCE 漏洞已遭利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526941&idx=1&sn=11e4c40814e3f01c72e6879ff92a5b4c](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526941&idx=1&sn=11e4c40814e3f01c72e6879ff92a5b4c) |
-| 4 |  ] [【安全圈】微软Entra_ID曝满分漏洞：无需凭据远程代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078384&idx=1&sn=a9a371c2b58a0b4e29ce4be72c93ae9f](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078384&idx=1&sn=a9a371c2b58a0b4e29ce4be72c93ae9f) |
-| 5 |  ] [安全热点周报：黑客利用 macOS 屏幕共享漏洞部署门罗币挖矿程序 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507178&idx=1&sn=11d97e33c51432a1d87745724fb2c4e8](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507178&idx=1&sn=11d97e33c51432a1d87745724fb2c4e8) |
-| 6 |  ] [安全预警：360签名漏洞驱动被恶意利用 可致终端安全防护失效 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536697&idx=1&sn=3a18cfe3988300974634b7172c086e5f](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536697&idx=1&sn=3a18cfe3988300974634b7172c086e5f) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [Zimbra SNMP 未认证 RCE 漏洞已遭利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526941&idx=1&sn=11e4c40814e3f01c72e6879ff92a5b4c](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526941&idx=1&sn=11e4c40814e3f01c72e6879ff92a5b4c) |
-| 2 |  ] [【安全圈】微软Entra_ID曝满分漏洞：无需凭据远程代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078384&idx=1&sn=a9a371c2b58a0b4e29ce4be72c93ae9f](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078384&idx=1&sn=a9a371c2b58a0b4e29ce4be72c93ae9f) |
-| 3 |  ] [【安全圈】GitLab曝严重代码注入：公开项目面临任意篡改 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078384&idx=3&sn=7ff2787dd6ecc28cbc0d963d8d2b7940](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078384&idx=3&sn=7ff2787dd6ecc28cbc0d963d8d2b7940) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [每周高级威胁情报解读(2026.08.14~08.20) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519957&idx=2&sn=aafeada85716143c834687ec457e4034](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519957&idx=2&sn=aafeada85716143c834687ec457e4034) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [关于 VSRC 例行维护的通知 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5ODE0ODA5MQ==&mid=2652281765&idx=1&sn=c961e1014f7385ebd8683615102ab0b5](https://mp.weixin.qq.com/s?__biz=MzI5ODE0ODA5MQ==&mid=2652281765&idx=1&sn=c961e1014f7385ebd8683615102ab0b5) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [【火绒安全周报】西安某公司遭勒索攻击/宝可梦确认数据泄露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536697&idx=3&sn=67877d1affbcccd3492b1ae83bbd1cc0](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536697&idx=3&sn=67877d1affbcccd3492b1ae83bbd1cc0) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [Rust 三个热门crate遭投毒，被用于供应链攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526941&idx=2&sn=788a548f95d9b2c816994f379dbef5d5](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526941&idx=2&sn=788a548f95d9b2c816994f379dbef5d5) |
-| 2 |  ] [【安全圈】Rust生态遭供应链投毒：编译即触发执行恶意后门 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078384&idx=2&sn=584bb5bc43fa1c97b2c06330516c2e27](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078384&idx=2&sn=584bb5bc43fa1c97b2c06330516c2e27) |
+| 1 |  ] [当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618875&idx=2&sn=2c1e91df59b1d650e8d6965f888a94ae](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618875&idx=2&sn=2c1e91df59b1d650e8d6965f888a94ae) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-08/2026-W34/2026-08-22/`
+文章已归档到: `doc/2026/2026-08/2026-W34/2026-08-23/`
 
 ## 🔗 数据源说明
 
@@ -144,8 +87,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -154,5 +97,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-22 04:36:34*
+*生成时间: 2026-08-23 04:40:27*
 *报告工具: 微信文章安全归档系统*
