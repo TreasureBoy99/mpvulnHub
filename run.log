@@ -113117,3 +113117,46 @@
 2026-08-23 01:36:27,004 - INFO - === 跳过二进制文件处理，只更新data.json ===
 2026-08-23 01:36:27,079 - INFO - 已更新data.json，添加了 0 个URL
 2026-08-23 01:36:27,079 - INFO - === 执行完成 ===
+2026-08-23 04:40:23,421 - INFO - === 开始执行微信文章归档工具 ===
+2026-08-23 04:40:23,421 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-08-23 04:40:23,421 - INFO - 正在发送Discord启动通知...
+2026-08-23 04:40:23,824 - INFO - Discord启动通知发送结果: 204
+2026-08-23 04:40:23,827 - INFO - 数据文件: data.json
+2026-08-23 04:40:23,827 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-08-23 04:40:23,827 - INFO - 文档目录: doc
+2026-08-23 04:40:23,922 - INFO - 已加载 48803 条历史记录
+2026-08-23 04:40:23,922 - INFO - === 开始今日拉取 ===
+2026-08-23 04:40:23,922 - INFO - 开始获取Doonsec RSS
+2026-08-23 04:40:23,923 - INFO - 目标日期: 2026-08-23
+2026-08-23 04:40:26,428 - INFO - Doonsec RSS请求成功
+2026-08-23 04:40:26,429 - INFO - RSS中共有 200 个条目
+2026-08-23 04:40:26,430 - INFO - Doonsec获取到 0 个2026-08-23的微信文章URL
+2026-08-23 04:40:26,431 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-08-23.md
+2026-08-23 04:40:26,606 - INFO - ChainReactors md文件下载状态码: 404
+2026-08-23 04:40:26,606 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-08-23.md 状态码: 404
+2026-08-23 04:40:26,606 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-08-23.md
+2026-08-23 04:40:26,941 - INFO - BruceFeIix md文件下载状态码: 200
+2026-08-23 04:40:26,942 - INFO - BruceFeIix获取到 13 个URL
+2026-08-23 04:40:26,942 - INFO - === 开始处理 2026-08-23 的数据 ===
+2026-08-23 04:40:26,943 - INFO - Doonsec原始数据: 0 个
+2026-08-23 04:40:26,943 - INFO - ChainReactors原始数据: 0 个
+2026-08-23 04:40:26,943 - INFO - BruceFeIix原始数据: 13 个
+2026-08-23 04:40:26,943 - INFO - 开始处理Doonsec数据...
+2026-08-23 04:40:26,943 - INFO - 开始处理ChainReactors数据...
+2026-08-23 04:40:26,943 - INFO - 开始处理BruceFeIix数据...
+2026-08-23 04:40:26,943 - INFO - 去重后共 13 个URL待处理，跳过 0 个重复URL
+2026-08-23 04:40:26,943 - INFO - 去重后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 13 个
+2026-08-23 04:40:26,943 - INFO - === 开始关键词过滤 ===
+2026-08-23 04:40:26,944 - INFO - 关键词过滤: 匹配 2 个，跳过 11 个
+2026-08-23 04:40:26,944 - INFO - 关键词过滤后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 2 个
+2026-08-23 04:40:26,957 - INFO - 已创建每日报告: md/2026-08-23.md
+2026-08-23 04:40:26,957 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-08-23 04:40:26,957 - INFO - 正在发送Discord通知:  ] [当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战
+2026-08-23 04:40:27,397 - INFO - Discord通知发送结果: 204
+2026-08-23 04:40:27,398 - INFO - 正在发送Discord通知:  ] [第17篇-勒索软件IOC与YARA规则实战
+2026-08-23 04:40:27,794 - INFO - Discord通知发送结果: 204
+2026-08-23 04:40:27,893 - INFO - 已更新data.json，添加了 2 个URL
+2026-08-23 04:40:27,893 - INFO - 已创建每日报告: md/2026-08-23.md
+2026-08-23 04:40:27,893 - INFO - 正在发送Discord日报通知: 2026-08-23
+2026-08-23 04:40:28,328 - INFO - Discord日报发送结果: 204
+2026-08-23 04:40:28,329 - INFO - === 执行完成 ===
