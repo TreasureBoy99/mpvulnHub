@@ -2,14 +2,14 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 10篇
+  - Doonsec: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
 
@@ -60,27 +60,23 @@
 
 ### Doonsec
 
-- [2026 HW | 攻防演练全流程：蓝队防守实战手册](https://mp.weixin.qq.com/s/WtrbUeZH4I5SB_64Bg1i_g) (发布日期: 2026-08-24)
-- [国舜AI研发安全平台荣获CCIA 2026网络安全优秀创新成果大赛优胜奖](https://mp.weixin.qq.com/s/gDCkVKMMBMK4ctq7DgDsGg) (发布日期: 2026-08-24)
-- [信息安全保障人员认证（CISAW）考试大纲-安全集成方向](https://mp.weixin.qq.com/s/-xRntPpTJuOR161TEdSU0w) (发布日期: 2026-08-24)
-- [信息安全保障人员认证（CISAW）考试大纲-风险管理方向](https://mp.weixin.qq.com/s/gUczqNxQ82sr63ww4IJUVQ) (发布日期: 2026-08-24)
-- [信息安全保障人员认证（CISAW）考试大纲-安全运维方向](https://mp.weixin.qq.com/s/h_6WcMQZVybHwwlU5UsacQ) (发布日期: 2026-08-24)
-- [信息安全保障人员认证（CISAW）考试大纲-安全软件方向](https://mp.weixin.qq.com/s/ZQ_WZyYTV4i--k3XVdVUQA) (发布日期: 2026-08-24)
-- [信息安全保障人员认证（CISAW）考试大纲-渗透测试方向](https://mp.weixin.qq.com/s/OrwMaCSX-4p0RA4cCgnKgA) (发布日期: 2026-08-24)
-- [AI能找到零日漏洞 但仍无法写出安全的代码](https://mp.weixin.qq.com/s/9bneN_4_er7aEt0zGZhlBg) (发布日期: 2026-08-24)
-- [BYOVD 过时了？无需漏洞，微软签名驱动如何被 “合法” 武器化？](https://mp.weixin.qq.com/s/fwcren6Sj_4ZVufzV92T5w) (发布日期: 2026-08-24)
-- [TSE 2024 | LIVABLE：破解软件漏洞类型识别中的“长尾”难题](https://mp.weixin.qq.com/s/6J6nKF0Sya1WK4G0joSoCg) (发布日期: 2026-08-24)
+- [小红书SRC「焕新加码季」开启｜基础安全币最高2倍，累计3份有效报告再获定制T恤](https://mp.weixin.qq.com/s/AyQ0vMBdWBoism9rZl3gbA) (发布日期: 2026-08-24)
+- [新课速递 | CISP-AISE 国家注册人工智能安全应用专业人员认证](https://mp.weixin.qq.com/s/KvuaBhrcIlJNge-7vAp7ug) (发布日期: 2026-08-24)
+- [看不见的车上乘客：安卓车机正悄悄沦为僵尸网络节点](https://mp.weixin.qq.com/s/rOfOALsb6NBCTNqSHJL--w) (发布日期: 2026-08-24)
+- [关于天空卫士 UCS 统一内容安全系统根证书到期处置暨 V4.0 版本即将发布的通知](https://mp.weixin.qq.com/s/YeSrZqVurZOk911mYH9bmw) (发布日期: 2026-08-24)
+- [AI代码审计智能体：基于GB/T 34944-2017的落地实践](https://mp.weixin.qq.com/s/q2m8XyazkWSpGu_Zvn39XA) (发布日期: 2026-08-24)
+- [关于发布实施新版信息安全保障人员认证（CISAW）考试大纲的通知](https://mp.weixin.qq.com/s/2Y2_hxeIK2xPblbSruvbXQ) (发布日期: 2026-08-24)
+- [3分钟搞懂代码审计：技术原理+岗位画像+职业前景，看这一篇就够！](https://mp.weixin.qq.com/s/VXLZjM6_1taLfxfmx3rBPQ) (发布日期: 2026-08-24)
+- [信息安全保障人员认证（CISAW）考试大纲-工业控制系统网络安全方向](https://mp.weixin.qq.com/s/wW_qaZD5oiRkzAXhcZYWiA) (发布日期: 2026-08-24)
 
 
 ## 🎯 威胁详情分析
 
-### 漏洞利用
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI能找到零日漏洞 但仍无法写出安全的代码 | Doonsec | [https://mp.weixin.qq.com/s/9bneN_4_er7aEt0zGZhlBg](https://mp.weixin.qq.com/s/9bneN_4_er7aEt0zGZhlBg) |
-| 2 | BYOVD 过时了？无需漏洞，微软签名驱动如何被 “合法” 武器化？ | Doonsec | [https://mp.weixin.qq.com/s/fwcren6Sj_4ZVufzV92T5w](https://mp.weixin.qq.com/s/fwcren6Sj_4ZVufzV92T5w) |
-| 3 | TSE 2024 | LIVABLE：破解软件漏洞类型识别中的“长尾”难题 | Doonsec | [https://mp.weixin.qq.com/s/6J6nKF0Sya1WK4G0joSoCg](https://mp.weixin.qq.com/s/6J6nKF0Sya1WK4G0joSoCg) |
+| 1 | 小红书SRC「焕新加码季」开启｜基础安全币最高2倍，累计3份有效报告再获定制T恤 | Doonsec | [https://mp.weixin.qq.com/s/AyQ0vMBdWBoism9rZl3gbA](https://mp.weixin.qq.com/s/AyQ0vMBdWBoism9rZl3gbA) |
 
 
 ## 📁 归档路径
@@ -96,7 +92,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **安全运营** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -106,5 +102,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-24 08:51:53*
+*生成时间: 2026-08-24 12:56:20*
 *报告工具: 微信文章安全归档系统*
