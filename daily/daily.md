@@ -2,22 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 16
+- **总文章数**: 10
 - **数据源分布**:
-  - Doonsec: 12篇
-  - BruceFeIix: 4篇
+  - Doonsec: 10篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 3篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 3篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,25 +60,16 @@
 
 ### Doonsec
 
-- [【深度研判】俄罗斯军方黑客（Sandworm）伪装招聘人员以乌克兰IT从业人员为目标，其社会工程招聘手法对我IT人才与供应链安全风险研判](https://mp.weixin.qq.com/s/9CKOJyF05reBPSHpciOXjA) (发布日期: 2026-08-24)
-- [3.61美元一个PoC，21分钟出利用：微软MSRC内部数据曝光，漏洞响应团队正在失效\"](https://mp.weixin.qq.com/s/gHb_zj88a3EjmGCj0TFkEw) (发布日期: 2026-08-24)
-- [OWASP 发布全新安全蓝图，揭示 AI 技能十大安全风险](https://mp.weixin.qq.com/s/CHEs-qm_JnHxNNWfxhVIdA) (发布日期: 2026-08-24)
-- [攻防演练实战｜默安智能体：让蓝队专家聚焦高价值深度研判](https://mp.weixin.qq.com/s/Nca87J1z1Exg_8NRU9_4Ow) (发布日期: 2026-08-24)
-- [内网资产信息收集 - neiwang_fscan](https://mp.weixin.qq.com/s/FwAmo9DuMshEZEX8MrYooA) (发布日期: 2026-08-24)
-- [漏洞复现 | 金和C6协同管理平台 AjaxForBudgetDecompose.aspx SQL注入漏洞](https://mp.weixin.qq.com/s/huGhgojDXfX44VuaMvZ9Pg) (发布日期: 2026-08-24)
-- [AI驱动的网络安全作战平台：CyberStrikeAI让你的渗透测试效率提升百倍](https://mp.weixin.qq.com/s/3Ig2uCxY95ICkKGFdgV_LQ) (发布日期: 2026-08-24)
-- [喜讯｜中科汇能科技斩获赣州市实网检测攻防演练第二名！](https://mp.weixin.qq.com/s/fp30zIA_Jod9ASchQpvAiw) (发布日期: 2026-08-24)
-- [速收藏！2026年网络安全与数据安全重点政策文件汇总（附原文下载）](https://mp.weixin.qq.com/s/EmpjuKIkdVn6P2smgXEIPg) (发布日期: 2026-08-24)
-- [一周4500万次攻击，全球wp2shell漏洞遭大规模利用](https://mp.weixin.qq.com/s/zh0szU9aOLkehqMBfvMBgg) (发布日期: 2026-08-24)
-- [阿波罗全球管理公司遭数据泄露，金融机构面临持续网络攻击风险](https://mp.weixin.qq.com/s/brcKORYyYgk_CI7XJdKZjQ) (发布日期: 2026-08-24)
-- [一个专门为网络安全人员/渗透测试工程师/红蓝对抗团队整理的Skills 集合](https://mp.weixin.qq.com/s/CHTaA2r1NspwCrJ9HoS50Q) (发布日期: 2026-08-24)
-
-### BruceFeIix
-
-- [ ] [看不见的车上乘客：安卓车机正悄悄沦为僵尸网络节点](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188210&idx=1&sn=700740b03b1037d3d4e45dbf11a0e045) (发布日期: 2026-08-24)
-- [ ] [【安全圈】NASA严重安全漏洞，可导致黑客向飞船发送任意指令](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=1&sn=47ca0c1187ff87e4599a50f3f5724193) (发布日期: 2026-08-24)
-- [ ] [【安全圈】WordPress 扩展 曝出 CVSS 满分重大漏洞，可允许黑客写入任意文件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=2&sn=1bd7cb253e8a95883d98fc32b18dae8b) (发布日期: 2026-08-24)
-- [ ] [【安全圈】Zimbra 高危远程代码执行漏洞现已遭到实际利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=3&sn=451af21916a0b7d0a23c16b2fb950fc0) (发布日期: 2026-08-24)
+- [2026 HW | 攻防演练全流程：蓝队防守实战手册](https://mp.weixin.qq.com/s/WtrbUeZH4I5SB_64Bg1i_g) (发布日期: 2026-08-24)
+- [国舜AI研发安全平台荣获CCIA 2026网络安全优秀创新成果大赛优胜奖](https://mp.weixin.qq.com/s/gDCkVKMMBMK4ctq7DgDsGg) (发布日期: 2026-08-24)
+- [信息安全保障人员认证（CISAW）考试大纲-安全集成方向](https://mp.weixin.qq.com/s/-xRntPpTJuOR161TEdSU0w) (发布日期: 2026-08-24)
+- [信息安全保障人员认证（CISAW）考试大纲-风险管理方向](https://mp.weixin.qq.com/s/gUczqNxQ82sr63ww4IJUVQ) (发布日期: 2026-08-24)
+- [信息安全保障人员认证（CISAW）考试大纲-安全运维方向](https://mp.weixin.qq.com/s/h_6WcMQZVybHwwlU5UsacQ) (发布日期: 2026-08-24)
+- [信息安全保障人员认证（CISAW）考试大纲-安全软件方向](https://mp.weixin.qq.com/s/ZQ_WZyYTV4i--k3XVdVUQA) (发布日期: 2026-08-24)
+- [信息安全保障人员认证（CISAW）考试大纲-渗透测试方向](https://mp.weixin.qq.com/s/OrwMaCSX-4p0RA4cCgnKgA) (发布日期: 2026-08-24)
+- [AI能找到零日漏洞 但仍无法写出安全的代码](https://mp.weixin.qq.com/s/9bneN_4_er7aEt0zGZhlBg) (发布日期: 2026-08-24)
+- [BYOVD 过时了？无需漏洞，微软签名驱动如何被 “合法” 武器化？](https://mp.weixin.qq.com/s/fwcren6Sj_4ZVufzV92T5w) (发布日期: 2026-08-24)
+- [TSE 2024 | LIVABLE：破解软件漏洞类型识别中的“长尾”难题](https://mp.weixin.qq.com/s/6J6nKF0Sya1WK4G0joSoCg) (发布日期: 2026-08-24)
 
 
 ## 🎯 威胁详情分析
@@ -93,38 +78,9 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 3.61美元一个PoC，21分钟出利用：微软MSRC内部数据曝光，漏洞响应团队正在失效\" | Doonsec | [https://mp.weixin.qq.com/s/gHb_zj88a3EjmGCj0TFkEw](https://mp.weixin.qq.com/s/gHb_zj88a3EjmGCj0TFkEw) |
-| 2 | 漏洞复现 | 金和C6协同管理平台 AjaxForBudgetDecompose.aspx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/huGhgojDXfX44VuaMvZ9Pg](https://mp.weixin.qq.com/s/huGhgojDXfX44VuaMvZ9Pg) |
-| 3 | 一周4500万次攻击，全球wp2shell漏洞遭大规模利用 | Doonsec | [https://mp.weixin.qq.com/s/zh0szU9aOLkehqMBfvMBgg](https://mp.weixin.qq.com/s/zh0szU9aOLkehqMBfvMBgg) |
-| 4 |  ] [【安全圈】NASA严重安全漏洞，可导致黑客向飞船发送任意指令 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=1&sn=47ca0c1187ff87e4599a50f3f5724193](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=1&sn=47ca0c1187ff87e4599a50f3f5724193) |
-| 5 |  ] [【安全圈】WordPress 扩展 曝出 CVSS 满分重大漏洞，可允许黑客写入任意文件 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=2&sn=1bd7cb253e8a95883d98fc32b18dae8b](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=2&sn=1bd7cb253e8a95883d98fc32b18dae8b) |
-| 6 |  ] [【安全圈】Zimbra 高危远程代码执行漏洞现已遭到实际利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=3&sn=451af21916a0b7d0a23c16b2fb950fc0](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=3&sn=451af21916a0b7d0a23c16b2fb950fc0) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 内网资产信息收集 - neiwang_fscan | Doonsec | [https://mp.weixin.qq.com/s/FwAmo9DuMshEZEX8MrYooA](https://mp.weixin.qq.com/s/FwAmo9DuMshEZEX8MrYooA) |
-| 2 | 漏洞复现 | 金和C6协同管理平台 AjaxForBudgetDecompose.aspx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/huGhgojDXfX44VuaMvZ9Pg](https://mp.weixin.qq.com/s/huGhgojDXfX44VuaMvZ9Pg) |
-| 3 |  ] [【安全圈】Zimbra 高危远程代码执行漏洞现已遭到实际利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=3&sn=451af21916a0b7d0a23c16b2fb950fc0](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=3&sn=451af21916a0b7d0a23c16b2fb950fc0) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 3.61美元一个PoC，21分钟出利用：微软MSRC内部数据曝光，漏洞响应团队正在失效\" | Doonsec | [https://mp.weixin.qq.com/s/gHb_zj88a3EjmGCj0TFkEw](https://mp.weixin.qq.com/s/gHb_zj88a3EjmGCj0TFkEw) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 阿波罗全球管理公司遭数据泄露，金融机构面临持续网络攻击风险 | Doonsec | [https://mp.weixin.qq.com/s/brcKORYyYgk_CI7XJdKZjQ](https://mp.weixin.qq.com/s/brcKORYyYgk_CI7XJdKZjQ) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【深度研判】俄罗斯军方黑客（Sandworm）伪装招聘人员以乌克兰IT从业人员为目标，其社会工程招聘手法对我IT人才与供应链安全风险研判 | Doonsec | [https://mp.weixin.qq.com/s/9CKOJyF05reBPSHpciOXjA](https://mp.weixin.qq.com/s/9CKOJyF05reBPSHpciOXjA) |
+| 1 | AI能找到零日漏洞 但仍无法写出安全的代码 | Doonsec | [https://mp.weixin.qq.com/s/9bneN_4_er7aEt0zGZhlBg](https://mp.weixin.qq.com/s/9bneN_4_er7aEt0zGZhlBg) |
+| 2 | BYOVD 过时了？无需漏洞，微软签名驱动如何被 “合法” 武器化？ | Doonsec | [https://mp.weixin.qq.com/s/fwcren6Sj_4ZVufzV92T5w](https://mp.weixin.qq.com/s/fwcren6Sj_4ZVufzV92T5w) |
+| 3 | TSE 2024 | LIVABLE：破解软件漏洞类型识别中的“长尾”难题 | Doonsec | [https://mp.weixin.qq.com/s/6J6nKF0Sya1WK4G0joSoCg](https://mp.weixin.qq.com/s/6J6nKF0Sya1WK4G0joSoCg) |
 
 
 ## 📁 归档路径
@@ -140,8 +96,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -150,5 +106,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-24 04:49:48*
+*生成时间: 2026-08-24 08:51:53*
 *报告工具: 微信文章安全归档系统*
