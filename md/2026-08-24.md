@@ -2,14 +2,13 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **安全运营**: 1篇
 
 ### 漏洞类型分析
 
@@ -60,23 +59,10 @@
 
 ### Doonsec
 
-- [小红书SRC「焕新加码季」开启｜基础安全币最高2倍，累计3份有效报告再获定制T恤](https://mp.weixin.qq.com/s/AyQ0vMBdWBoism9rZl3gbA) (发布日期: 2026-08-24)
-- [新课速递 | CISP-AISE 国家注册人工智能安全应用专业人员认证](https://mp.weixin.qq.com/s/KvuaBhrcIlJNge-7vAp7ug) (发布日期: 2026-08-24)
-- [看不见的车上乘客：安卓车机正悄悄沦为僵尸网络节点](https://mp.weixin.qq.com/s/rOfOALsb6NBCTNqSHJL--w) (发布日期: 2026-08-24)
-- [关于天空卫士 UCS 统一内容安全系统根证书到期处置暨 V4.0 版本即将发布的通知](https://mp.weixin.qq.com/s/YeSrZqVurZOk911mYH9bmw) (发布日期: 2026-08-24)
-- [AI代码审计智能体：基于GB/T 34944-2017的落地实践](https://mp.weixin.qq.com/s/q2m8XyazkWSpGu_Zvn39XA) (发布日期: 2026-08-24)
-- [关于发布实施新版信息安全保障人员认证（CISAW）考试大纲的通知](https://mp.weixin.qq.com/s/2Y2_hxeIK2xPblbSruvbXQ) (发布日期: 2026-08-24)
-- [3分钟搞懂代码审计：技术原理+岗位画像+职业前景，看这一篇就够！](https://mp.weixin.qq.com/s/VXLZjM6_1taLfxfmx3rBPQ) (发布日期: 2026-08-24)
-- [信息安全保障人员认证（CISAW）考试大纲-工业控制系统网络安全方向](https://mp.weixin.qq.com/s/wW_qaZD5oiRkzAXhcZYWiA) (发布日期: 2026-08-24)
+- [区块链与数据安全全国重点实验室2026年开放课题申请指南](https://mp.weixin.qq.com/s/DR3U4ww_V-E7IUlO0mUBmA) (发布日期: 2026-08-24)
 
 
 ## 🎯 威胁详情分析
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 小红书SRC「焕新加码季」开启｜基础安全币最高2倍，累计3份有效报告再获定制T恤 | Doonsec | [https://mp.weixin.qq.com/s/AyQ0vMBdWBoism9rZl3gbA](https://mp.weixin.qq.com/s/AyQ0vMBdWBoism9rZl3gbA) |
 
 
 ## 📁 归档路径
@@ -92,7 +78,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **安全运营** 是今日主要威胁类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -102,5 +88,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-24 12:56:20*
+*生成时间: 2026-08-24 16:41:37*
 *报告工具: 微信文章安全归档系统*
