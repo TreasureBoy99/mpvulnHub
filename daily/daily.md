@@ -2,22 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 21
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 6篇
-  - BruceFeIix: 15篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
-- **攻击技术**: 2篇
-- **供应链**: 2篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,72 +59,13 @@
 
 ### Doonsec
 
-- [edu上海某xx大学 未授权访问](https://mp.weixin.qq.com/s/cwBevFfFrgMLnhf6L9Ywmw) (发布日期: 2026-08-25)
-- [【漏洞威胁】DeepSeek Harness（DSH）未授权远程代码执行漏洞](https://mp.weixin.qq.com/s/-_78BTpRTr2Glt1eDxGzLg) (发布日期: 2026-08-25)
-- [CNVD漏洞周报2026年第33期](https://mp.weixin.qq.com/s/VqMmpkrVZvO5EKth5z-cxw) (发布日期: 2026-08-25)
-- [微信小程序调试领域的现象级重磅利器：一站式解决所有安全分析难题](https://mp.weixin.qq.com/s/UKCxKKLxZ3cqQUi3FN6paw) (发布日期: 2026-08-25)
-- [2026-8月Solar应急响应公益月赛！](https://mp.weixin.qq.com/s/d-lWaFjpPBsQe_7I6hGSyw) (发布日期: 2026-08-25)
-- [若依专项漏洞扫描工具 -- Ruoyi-Scan](https://mp.weixin.qq.com/s/VAqE3rnRNnz8s0a1Zth6ig) (发布日期: 2026-08-25)
-
-### BruceFeIix
-
-- [ ] [威努特入选国家工业信息安全漏洞库技术支撑单位](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651143622&idx=1&sn=0a7f08da0509b024272f1f0d1705700d) (发布日期: 2026-08-25)
-- [ ] [2.45亿次下载的Rust crate被投毒：编译时恶意代码自动执行，朝鲜黑客又出手了](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790403&idx=1&sn=8cf1b30a38308f84623ec2faaf677312) (发布日期: 2026-08-25)
-- [ ] [CISA：速修复已遭活跃利用的 TrueConf Server 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526945&idx=1&sn=49c1fbcc51b2b499e529c7d3643569b9) (发布日期: 2026-08-25)
-- [ ] [【安全圈】三大网银木马升级肆虐：ToxicPanda与Manic全面突袭全球金融](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078426&idx=1&sn=9c781b0c6bda71d442785b08091428f1) (发布日期: 2026-08-25)
-- [ ] [AI安全案例分析 | 思维病毒在AI智能体间的跨会话传播与持久化注入](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495432&idx=1&sn=4d662e5c062b0f0455efa4dcd4a1a8d0) (发布日期: 2026-08-25)
-- [ ] [OWASP 发布全新安全蓝图，揭示 AI 技能十大安全风险](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543736&idx=1&sn=b0e44d6b4777578a2d45d47f3ae0b1c8) (发布日期: 2026-08-25)
-- [ ] [攻防演练实战｜默安智能体：让蓝队专家聚焦高价值深度研判](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501991&idx=1&sn=c145d41016fa7b25f59b757258c7568b) (发布日期: 2026-08-25)
-- [ ] [3.61美元一个PoC，21分钟出利用：微软MSRC内部数据曝光，漏洞响应团队正在失效"](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142427&idx=1&sn=159c96e993d96b605c5352d82a0647ae) (发布日期: 2026-08-25)
-- [ ] [每 3 天一起投毒：软件供应链攻击正式进入「蠕虫时代」](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519978&idx=1&sn=c3c6d5c7e21f72e966ef1702af707af7) (发布日期: 2026-08-25)
-- [ ] [第19篇-勒索软件解密技术原理与工具实战](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497051&idx=1&sn=8a16fc1132d731afb4a8e692306e7581) (发布日期: 2026-08-25)
-- [ ] [【深度研判】俄罗斯军方黑客（Sandworm）伪装招聘人员以乌克兰IT从业人员为目标，其社会工程招聘手法对我IT人才与供应链安全风险研判](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569181&idx=2&sn=da1baafa8f6eef20289943d89f9ad6a9) (发布日期: 2026-08-25)
-- [ ] [金融企业安全治理：AI攻击挑战与诈骗风险防护｜总第320周](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492540&idx=1&sn=f27ea19f8779e75004bdabe66174aac5) (发布日期: 2026-08-25)
-- [ ] [首个Android车机专项木马曝光：竟通过系统更新传播](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618893&idx=2&sn=87b86ef2b5b874ebb02680b120265e8f) (发布日期: 2026-08-25)
-- [ ] [CNVD漏洞周报2026年第33期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497211&idx=1&sn=e500b156de4162c48c92c789fbcc7997) (发布日期: 2026-08-25)
-- [ ] [上周关注度较高的产品安全漏洞(20260817-20260823)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497211&idx=2&sn=dfc810b8ce603541e6379dc692cf2178) (发布日期: 2026-08-25)
+- [AI Agent Skills安全开发指南](https://mp.weixin.qq.com/s/yG9_9VHjIL2KDpc9y_-0LQ) (发布日期: 2026-08-25)
+- [AI Agent Skills安全开发指南](https://mp.weixin.qq.com/s/qKHZKD5UVMGmDNLCL9LYjA) (发布日期: 2026-08-25)
+- [BinaryAI 全新升级：让二进制安全分析进入xa0AI-Nativexa0时代](https://mp.weixin.qq.com/s/bgv2DeBIA-PjoTOucxQ_gQ) (发布日期: 2026-08-25)
+- [第二届大学生人工智能安全竞赛决赛议程通知（内附决赛名单下载）](https://mp.weixin.qq.com/s/SsLNRxGKQLE1f1x1IdZRBQ) (发布日期: 2026-08-25)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【漏洞威胁】DeepSeek Harness（DSH）未授权远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/-_78BTpRTr2Glt1eDxGzLg](https://mp.weixin.qq.com/s/-_78BTpRTr2Glt1eDxGzLg) |
-| 2 | CNVD漏洞周报2026年第33期 | Doonsec | [https://mp.weixin.qq.com/s/VqMmpkrVZvO5EKth5z-cxw](https://mp.weixin.qq.com/s/VqMmpkrVZvO5EKth5z-cxw) |
-| 3 | 若依专项漏洞扫描工具 -- Ruoyi-Scan | Doonsec | [https://mp.weixin.qq.com/s/VAqE3rnRNnz8s0a1Zth6ig](https://mp.weixin.qq.com/s/VAqE3rnRNnz8s0a1Zth6ig) |
-| 4 |  ] [威努特入选国家工业信息安全漏洞库技术支撑单位 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651143622&idx=1&sn=0a7f08da0509b024272f1f0d1705700d](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651143622&idx=1&sn=0a7f08da0509b024272f1f0d1705700d) |
-| 5 |  ] [CISA：速修复已遭活跃利用的 TrueConf Server 漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526945&idx=1&sn=49c1fbcc51b2b499e529c7d3643569b9](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526945&idx=1&sn=49c1fbcc51b2b499e529c7d3643569b9) |
-| 6 |  ] [3.61美元一个PoC，21分钟出利用：微软MSRC内部数据曝光，漏洞响应团队正在失效" | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142427&idx=1&sn=159c96e993d96b605c5352d82a0647ae](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142427&idx=1&sn=159c96e993d96b605c5352d82a0647ae) |
-| 7 |  ] [CNVD漏洞周报2026年第33期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497211&idx=1&sn=e500b156de4162c48c92c789fbcc7997](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497211&idx=1&sn=e500b156de4162c48c92c789fbcc7997) |
-| 8 |  ] [上周关注度较高的产品安全漏洞(20260817-20260823) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497211&idx=2&sn=dfc810b8ce603541e6379dc692cf2178](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497211&idx=2&sn=dfc810b8ce603541e6379dc692cf2178) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【漏洞威胁】DeepSeek Harness（DSH）未授权远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/-_78BTpRTr2Glt1eDxGzLg](https://mp.weixin.qq.com/s/-_78BTpRTr2Glt1eDxGzLg) |
-| 2 |  ] [AI安全案例分析 | 思维病毒在AI智能体间的跨会话传播与持久化注入 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495432&idx=1&sn=4d662e5c062b0f0455efa4dcd4a1a8d0](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495432&idx=1&sn=4d662e5c062b0f0455efa4dcd4a1a8d0) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 2026-8月Solar应急响应公益月赛！ | Doonsec | [https://mp.weixin.qq.com/s/d-lWaFjpPBsQe_7I6hGSyw](https://mp.weixin.qq.com/s/d-lWaFjpPBsQe_7I6hGSyw) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [3.61美元一个PoC，21分钟出利用：微软MSRC内部数据曝光，漏洞响应团队正在失效" | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142427&idx=1&sn=159c96e993d96b605c5352d82a0647ae](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142427&idx=1&sn=159c96e993d96b605c5352d82a0647ae) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [每 3 天一起投毒：软件供应链攻击正式进入「蠕虫时代」 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519978&idx=1&sn=c3c6d5c7e21f72e966ef1702af707af7](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519978&idx=1&sn=c3c6d5c7e21f72e966ef1702af707af7) |
-| 2 |  ] [【深度研判】俄罗斯军方黑客（Sandworm）伪装招聘人员以乌克兰IT从业人员为目标，其社会工程招聘手法对我IT人才与供应链安全风险研判 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569181&idx=2&sn=da1baafa8f6eef20289943d89f9ad6a9](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569181&idx=2&sn=da1baafa8f6eef20289943d89f9ad6a9) |
 
 
 ## 📁 归档路径
@@ -147,8 +81,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -157,5 +91,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-25 04:41:52*
+*生成时间: 2026-08-25 08:47:00*
 *报告工具: 微信文章安全归档系统*
