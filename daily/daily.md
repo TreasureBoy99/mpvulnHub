@@ -2,13 +2,14 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 4篇
+  - Doonsec: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 4篇
 
 ### 漏洞类型分析
 
@@ -59,13 +60,26 @@
 
 ### Doonsec
 
-- [AI Agent Skills安全开发指南](https://mp.weixin.qq.com/s/yG9_9VHjIL2KDpc9y_-0LQ) (发布日期: 2026-08-25)
-- [AI Agent Skills安全开发指南](https://mp.weixin.qq.com/s/qKHZKD5UVMGmDNLCL9LYjA) (发布日期: 2026-08-25)
-- [BinaryAI 全新升级：让二进制安全分析进入xa0AI-Nativexa0时代](https://mp.weixin.qq.com/s/bgv2DeBIA-PjoTOucxQ_gQ) (发布日期: 2026-08-25)
-- [第二届大学生人工智能安全竞赛决赛议程通知（内附决赛名单下载）](https://mp.weixin.qq.com/s/SsLNRxGKQLE1f1x1IdZRBQ) (发布日期: 2026-08-25)
+- [360图龙锋发现Codex、Claude Code等高价值漏洞，入选工信部CAIVD最高级技术支撑单位](https://mp.weixin.qq.com/s/h-qy2_wC2EGNabtt__8NbQ) (发布日期: 2026-08-25)
+- [奇安信获评NVDB多个安全漏洞专业库年度技术支撑单位](https://mp.weixin.qq.com/s/wgrmSt4KemP6XKWhCABFqg) (发布日期: 2026-08-25)
+- [VARA 2026 | 数智拓远 善治久安 第十六届网络安全漏洞分析与风险评估大会展品征集](https://mp.weixin.qq.com/s/VOl8lkVxJI2VtsWqpbNusg) (发布日期: 2026-08-25)
+- [AES vs RSA vs ECC：三大加密算法终极对比，谁才是未来之王？](https://mp.weixin.qq.com/s/ZJqpmogbhrQtiI8O8frnBw) (发布日期: 2026-08-25)
+- [【免费领】渗透测试必学必会工具及实操教程](https://mp.weixin.qq.com/s/FTyZg6XguGbjuQQ8GanYQQ) (发布日期: 2026-08-25)
+- [《网络数据安全风险评估办法》解读：风险评估走向常态化](https://mp.weixin.qq.com/s/0gBQCbv4JibYEqAVFRDaqQ) (发布日期: 2026-08-25)
+- [网安行业首个！启明星辰集团AIDR获智能体安全管理系统认证](https://mp.weixin.qq.com/s/rR-C91x1otqtkpBshKjT7Q) (发布日期: 2026-08-25)
+- [RegPwn：Github再现exp投毒？](https://mp.weixin.qq.com/s/LmNR-zDC4J6ZVgfpjpJT1g) (发布日期: 2026-08-25)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 360图龙锋发现Codex、Claude Code等高价值漏洞，入选工信部CAIVD最高级技术支撑单位 | Doonsec | [https://mp.weixin.qq.com/s/h-qy2_wC2EGNabtt__8NbQ](https://mp.weixin.qq.com/s/h-qy2_wC2EGNabtt__8NbQ) |
+| 2 | 奇安信获评NVDB多个安全漏洞专业库年度技术支撑单位 | Doonsec | [https://mp.weixin.qq.com/s/wgrmSt4KemP6XKWhCABFqg](https://mp.weixin.qq.com/s/wgrmSt4KemP6XKWhCABFqg) |
+| 3 | VARA 2026 | 数智拓远 善治久安 第十六届网络安全漏洞分析与风险评估大会展品征集 | Doonsec | [https://mp.weixin.qq.com/s/VOl8lkVxJI2VtsWqpbNusg](https://mp.weixin.qq.com/s/VOl8lkVxJI2VtsWqpbNusg) |
+| 4 | RegPwn：Github再现exp投毒？ | Doonsec | [https://mp.weixin.qq.com/s/LmNR-zDC4J6ZVgfpjpJT1g](https://mp.weixin.qq.com/s/LmNR-zDC4J6ZVgfpjpJT1g) |
 
 
 ## 📁 归档路径
@@ -81,7 +95,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -91,5 +105,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-25 08:47:00*
+*生成时间: 2026-08-25 12:52:56*
 *报告工具: 微信文章安全归档系统*
