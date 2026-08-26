@@ -114014,3 +114014,56 @@
 2026-08-26 04:42:50,364 - INFO - 正在发送Discord日报通知: 2026-08-26
 2026-08-26 04:42:50,731 - INFO - Discord日报发送结果: 204
 2026-08-26 04:42:50,732 - INFO - === 执行完成 ===
+2026-08-26 08:48:57,163 - INFO - === 开始执行微信文章归档工具 ===
+2026-08-26 08:48:57,163 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-08-26 08:48:57,164 - INFO - 正在发送Discord启动通知...
+2026-08-26 08:48:57,455 - INFO - Discord启动通知发送结果: 204
+2026-08-26 08:48:57,457 - INFO - 数据文件: data.json
+2026-08-26 08:48:57,457 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-08-26 08:48:57,457 - INFO - 文档目录: doc
+2026-08-26 08:48:57,530 - INFO - 已加载 48898 条历史记录
+2026-08-26 08:48:57,530 - INFO - === 开始今日拉取 ===
+2026-08-26 08:48:57,530 - INFO - 开始获取Doonsec RSS
+2026-08-26 08:48:57,530 - INFO - 目标日期: 2026-08-26
+2026-08-26 08:48:59,760 - INFO - Doonsec RSS请求成功
+2026-08-26 08:48:59,761 - INFO - RSS中共有 200 个条目
+2026-08-26 08:48:59,761 - INFO - Doonsec获取到 27 个2026-08-26的微信文章URL
+2026-08-26 08:48:59,762 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-08-26.md
+2026-08-26 08:48:59,843 - INFO - ChainReactors md文件下载状态码: 404
+2026-08-26 08:48:59,843 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-08-26.md 状态码: 404
+2026-08-26 08:48:59,843 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-08-26.md
+2026-08-26 08:48:59,934 - INFO - BruceFeIix md文件下载状态码: 200
+2026-08-26 08:48:59,936 - INFO - BruceFeIix获取到 131 个URL
+2026-08-26 08:48:59,936 - INFO - === 开始处理 2026-08-26 的数据 ===
+2026-08-26 08:48:59,936 - INFO - Doonsec原始数据: 27 个
+2026-08-26 08:48:59,936 - INFO - ChainReactors原始数据: 0 个
+2026-08-26 08:48:59,936 - INFO - BruceFeIix原始数据: 131 个
+2026-08-26 08:48:59,936 - INFO - 开始处理Doonsec数据...
+2026-08-26 08:48:59,936 - INFO - 开始处理ChainReactors数据...
+2026-08-26 08:48:59,936 - INFO - 开始处理BruceFeIix数据...
+2026-08-26 08:48:59,936 - INFO - 去重后共 118 个URL待处理，跳过 40 个重复URL
+2026-08-26 08:48:59,936 - INFO - 去重后统计 - Doonsec: 26 个, ChainReactors: 0 个, BruceFeIix: 92 个
+2026-08-26 08:48:59,936 - INFO - === 开始关键词过滤 ===
+2026-08-26 08:48:59,940 - INFO - 关键词过滤: 匹配 7 个，跳过 111 个
+2026-08-26 08:48:59,941 - INFO - 关键词过滤后统计 - Doonsec: 7 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-08-26 08:48:59,954 - INFO - 已创建每日报告: md/2026-08-26.md
+2026-08-26 08:48:59,954 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-08-26 08:48:59,955 - INFO - 正在发送Discord通知: 继 AI 漏洞库之后，长亭再度入选 NVDB 两大安全漏洞专业库
+2026-08-26 08:49:00,248 - INFO - Discord通知发送结果: 204
+2026-08-26 08:49:00,249 - INFO - 正在发送Discord通知: 天融信：从大模型到智能体，AI 安全评估需要跳出单点思维
+2026-08-26 08:49:00,625 - INFO - Discord通知发送结果: 204
+2026-08-26 08:49:00,626 - INFO - 正在发送Discord通知: 四叶草安全再次获评NVDB通用网络产品安全漏洞专业库技术支撑单位
+2026-08-26 08:49:01,063 - INFO - Discord通知发送结果: 204
+2026-08-26 08:49:01,064 - INFO - 正在发送Discord通知: 逐级攀升！四叶草安全荣升国家信息安全漏洞库（CNNVD）一级技术支撑单位
+2026-08-26 08:49:01,359 - INFO - Discord通知发送结果: 204
+2026-08-26 08:49:01,360 - INFO - 正在发送Discord通知: 【漏洞预警】Redis 又双叒爆高危 TLS Pending-List UAF 漏洞，已公开完整EXP，速修！（已复现）
+2026-08-26 08:49:01,855 - INFO - Discord通知发送结果: 204
+2026-08-26 08:49:01,856 - INFO - 正在发送Discord通知: 白帽子的新战友：一个会自己找漏洞的 AI 智能体
+2026-08-26 08:49:02,173 - INFO - Discord通知发送结果: 204
+2026-08-26 08:49:02,174 - INFO - 正在发送Discord通知: 8月22日 威胁情报IOC分享
+2026-08-26 08:49:02,721 - INFO - Discord通知发送结果: 204
+2026-08-26 08:49:02,795 - INFO - 已更新data.json，添加了 7 个URL
+2026-08-26 08:49:02,796 - INFO - 已创建每日报告: md/2026-08-26.md
+2026-08-26 08:49:02,796 - INFO - 正在发送Discord日报通知: 2026-08-26
+2026-08-26 08:49:03,071 - INFO - Discord日报发送结果: 204
+2026-08-26 08:49:03,072 - INFO - === 执行完成 ===
