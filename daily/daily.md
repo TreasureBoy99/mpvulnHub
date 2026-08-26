@@ -1,17 +1,23 @@
-# 2026-08-25 安全威胁态势报告
+# 2026-08-26 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 18
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 1篇
+  - BruceFeIix: 17篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
+- **漏洞利用**: 10篇
+- **攻击技术**: 1篇
+- **威胁情报**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,14 +66,27 @@
 
 ### Doonsec
 
-- [360图龙锋发现Codex、Claude Code等高价值漏洞，入选工信部CAIVD最高级技术支撑单位](https://mp.weixin.qq.com/s/h-qy2_wC2EGNabtt__8NbQ) (发布日期: 2026-08-25)
-- [奇安信获评NVDB多个安全漏洞专业库年度技术支撑单位](https://mp.weixin.qq.com/s/wgrmSt4KemP6XKWhCABFqg) (发布日期: 2026-08-25)
-- [VARA 2026 | 数智拓远 善治久安 第十六届网络安全漏洞分析与风险评估大会展品征集](https://mp.weixin.qq.com/s/VOl8lkVxJI2VtsWqpbNusg) (发布日期: 2026-08-25)
-- [AES vs RSA vs ECC：三大加密算法终极对比，谁才是未来之王？](https://mp.weixin.qq.com/s/ZJqpmogbhrQtiI8O8frnBw) (发布日期: 2026-08-25)
-- [【免费领】渗透测试必学必会工具及实操教程](https://mp.weixin.qq.com/s/FTyZg6XguGbjuQQ8GanYQQ) (发布日期: 2026-08-25)
-- [《网络数据安全风险评估办法》解读：风险评估走向常态化](https://mp.weixin.qq.com/s/0gBQCbv4JibYEqAVFRDaqQ) (发布日期: 2026-08-25)
-- [网安行业首个！启明星辰集团AIDR获智能体安全管理系统认证](https://mp.weixin.qq.com/s/rR-C91x1otqtkpBshKjT7Q) (发布日期: 2026-08-25)
-- [RegPwn：Github再现exp投毒？](https://mp.weixin.qq.com/s/LmNR-zDC4J6ZVgfpjpJT1g) (发布日期: 2026-08-25)
+- [喜报！思维数据安全合规检查工具箱入选中国《“AI+网信安全”典型案例集》](https://mp.weixin.qq.com/s/KEg3ej0dzGGKVc_OCSr4Vw) (发布日期: 2026-08-26)
+
+### BruceFeIix
+
+- [ ] [雷神众测漏洞周报2026.8.17-2026.8.23](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503925&idx=1&sn=4d8c107fb18d83a82fd279cd59ef407b) (发布日期: 2026-08-26)
+- [ ] [TP-Link 修复 Archer 中的多个命令注入漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526953&idx=1&sn=36d043b6b2937bd49dea6c055012eb8a) (发布日期: 2026-08-26)
+- [ ] [Keycloak 密码重置严重漏洞可导致未认证攻击者接管任意账户](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526953&idx=2&sn=5ba43e487a9719c396ffa3f427f63626) (发布日期: 2026-08-26)
+- [ ] [第20篇-勒索软件攻防全景总结与未来展望](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497063&idx=1&sn=0d970290fa5fa4c91a47363878b67f3d) (发布日期: 2026-08-26)
+- [ ] [BinaryAI 全新升级：让二进制安全分析进入 AI-Native 时代](https://mp.weixin.qq.com/s?__biz=MzU1MjgwNzc4Ng==&mid=2247513041&idx=1&sn=e812106a01deff68457b8c3d32c0bc8c) (发布日期: 2026-08-26)
+- [ ] [Keycloak曝出致命高危漏洞！无认证可接管任意账号](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618913&idx=2&sn=4a4d9731c79fc341ccfbd6d65b10f7c1) (发布日期: 2026-08-26)
+- [ ] [【安全圈】Oracle爆出满分在野漏洞：黑客免密篡改核心数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078437&idx=1&sn=666c8067ea126a85aa67e27f53d07f2d) (发布日期: 2026-08-26)
+- [ ] [【安全圈】Weedhack木马伪装游戏客户端：SEO投毒劫持电脑](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078437&idx=3&sn=36d2256bc6a7af19fa430e14691fef3a) (发布日期: 2026-08-26)
+- [ ] [VARA 2026 | 数智拓远 善治久安 第十六届网络安全漏洞分析与风险评估大会展品征集](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265892&idx=1&sn=beaf9ca7e924d3401945ad9969288278) (发布日期: 2026-08-26)
+- [ ] [Zoom高危漏洞曝光：你的屏幕共享正在被黑客远程接管](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790408&idx=1&sn=9fa107ab9348504a36a1b426e55d1a40) (发布日期: 2026-08-26)
+- [ ] [【已复现】Keycloak 账户接管漏洞(CVE-2026-18963)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507190&idx=1&sn=8b9fe8e62247221fdb783948f5170562) (发布日期: 2026-08-26)
+- [ ] [BinaryAI 全新升级：让二进制安全分析进入 AI-Native 时代](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247512064&idx=1&sn=f6925fc9822e04d4f467e9b13064213d) (发布日期: 2026-08-26)
+- [ ] [周期性轮换样本 | 火绒带您揭秘银狐迭代逻辑与样本设计思路](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536799&idx=1&sn=02039655a328ed3a88e048b62b4723ee) (发布日期: 2026-08-26)
+- [ ] [下一代 AI SOC 长什么样：SOC 版的 Codex](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500644&idx=1&sn=13898d6e62619ba718d5b43a56468cc9) (发布日期: 2026-08-26)
+- [ ] [报告发布 |《全球数据泄露态势月度报告》（2026年7月）| 附下载地址](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543780&idx=1&sn=b03c5dfccf633dc6783cb49fed055b15) (发布日期: 2026-08-26)
+- [ ] [360图龙锋发现Codex、Claude Code等高价值漏洞，入选工信部CAIVD最高级技术支撑单位](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586769&idx=1&sn=0f567809a7e466240fcbd55ccd89b615) (发布日期: 2026-08-26)
+- [ ] [CNVD漏洞周报2026年第33期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502042&idx=1&sn=793ae1079a99485b21cc477123ff395a) (发布日期: 2026-08-26)
 
 
 ## 🎯 威胁详情分析
@@ -76,15 +95,39 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 360图龙锋发现Codex、Claude Code等高价值漏洞，入选工信部CAIVD最高级技术支撑单位 | Doonsec | [https://mp.weixin.qq.com/s/h-qy2_wC2EGNabtt__8NbQ](https://mp.weixin.qq.com/s/h-qy2_wC2EGNabtt__8NbQ) |
-| 2 | 奇安信获评NVDB多个安全漏洞专业库年度技术支撑单位 | Doonsec | [https://mp.weixin.qq.com/s/wgrmSt4KemP6XKWhCABFqg](https://mp.weixin.qq.com/s/wgrmSt4KemP6XKWhCABFqg) |
-| 3 | VARA 2026 | 数智拓远 善治久安 第十六届网络安全漏洞分析与风险评估大会展品征集 | Doonsec | [https://mp.weixin.qq.com/s/VOl8lkVxJI2VtsWqpbNusg](https://mp.weixin.qq.com/s/VOl8lkVxJI2VtsWqpbNusg) |
-| 4 | RegPwn：Github再现exp投毒？ | Doonsec | [https://mp.weixin.qq.com/s/LmNR-zDC4J6ZVgfpjpJT1g](https://mp.weixin.qq.com/s/LmNR-zDC4J6ZVgfpjpJT1g) |
+| 1 |  ] [雷神众测漏洞周报2026.8.17-2026.8.23 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503925&idx=1&sn=4d8c107fb18d83a82fd279cd59ef407b](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503925&idx=1&sn=4d8c107fb18d83a82fd279cd59ef407b) |
+| 2 |  ] [TP-Link 修复 Archer 中的多个命令注入漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526953&idx=1&sn=36d043b6b2937bd49dea6c055012eb8a](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526953&idx=1&sn=36d043b6b2937bd49dea6c055012eb8a) |
+| 3 |  ] [Keycloak 密码重置严重漏洞可导致未认证攻击者接管任意账户 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526953&idx=2&sn=5ba43e487a9719c396ffa3f427f63626](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526953&idx=2&sn=5ba43e487a9719c396ffa3f427f63626) |
+| 4 |  ] [Keycloak曝出致命高危漏洞！无认证可接管任意账号 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618913&idx=2&sn=4a4d9731c79fc341ccfbd6d65b10f7c1](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618913&idx=2&sn=4a4d9731c79fc341ccfbd6d65b10f7c1) |
+| 5 |  ] [【安全圈】Oracle爆出满分在野漏洞：黑客免密篡改核心数据 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078437&idx=1&sn=666c8067ea126a85aa67e27f53d07f2d](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078437&idx=1&sn=666c8067ea126a85aa67e27f53d07f2d) |
+| 6 |  ] [VARA 2026 | 数智拓远 善治久安 第十六届网络安全漏洞分析与风险评估大会展品征集 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265892&idx=1&sn=beaf9ca7e924d3401945ad9969288278](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265892&idx=1&sn=beaf9ca7e924d3401945ad9969288278) |
+| 7 |  ] [Zoom高危漏洞曝光：你的屏幕共享正在被黑客远程接管 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790408&idx=1&sn=9fa107ab9348504a36a1b426e55d1a40](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790408&idx=1&sn=9fa107ab9348504a36a1b426e55d1a40) |
+| 8 |  ] [【已复现】Keycloak 账户接管漏洞(CVE-2026-18963)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507190&idx=1&sn=8b9fe8e62247221fdb783948f5170562](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507190&idx=1&sn=8b9fe8e62247221fdb783948f5170562) |
+| 9 |  ] [360图龙锋发现Codex、Claude Code等高价值漏洞，入选工信部CAIVD最高级技术支撑单位 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586769&idx=1&sn=0f567809a7e466240fcbd55ccd89b615](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586769&idx=1&sn=0f567809a7e466240fcbd55ccd89b615) |
+| 10 |  ] [CNVD漏洞周报2026年第33期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502042&idx=1&sn=793ae1079a99485b21cc477123ff395a](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502042&idx=1&sn=793ae1079a99485b21cc477123ff395a) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [TP-Link 修复 Archer 中的多个命令注入漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526953&idx=1&sn=36d043b6b2937bd49dea6c055012eb8a](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526953&idx=1&sn=36d043b6b2937bd49dea6c055012eb8a) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [周期性轮换样本 | 火绒带您揭秘银狐迭代逻辑与样本设计思路 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536799&idx=1&sn=02039655a328ed3a88e048b62b4723ee](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536799&idx=1&sn=02039655a328ed3a88e048b62b4723ee) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [报告发布 |《全球数据泄露态势月度报告》（2026年7月）| 附下载地址 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543780&idx=1&sn=b03c5dfccf633dc6783cb49fed055b15](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543780&idx=1&sn=b03c5dfccf633dc6783cb49fed055b15) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-08/2026-W35/2026-08-25/`
+文章已归档到: `doc/2026/2026-08/2026-W35/2026-08-26/`
 
 ## 🔗 数据源说明
 
@@ -95,8 +138,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -105,5 +148,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-25 12:52:56*
+*生成时间: 2026-08-26 04:42:50*
 *报告工具: 微信文章安全归档系统*
