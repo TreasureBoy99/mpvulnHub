@@ -2,17 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 9
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 9篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 1篇
+- **攻击技术**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,13 +63,15 @@
 
 ### Doonsec
 
-- [继 AI 漏洞库之后，长亭再度入选 NVDB 两大安全漏洞专业库](https://mp.weixin.qq.com/s/Xo1--CZnpj6QK41d4-9-2w) (发布日期: 2026-08-26)
-- [天融信：从大模型到智能体，AI 安全评估需要跳出单点思维](https://mp.weixin.qq.com/s/cZuT5s4WSrWL9xyWTMG1UQ) (发布日期: 2026-08-26)
-- [四叶草安全再次获评NVDB通用网络产品安全漏洞专业库技术支撑单位](https://mp.weixin.qq.com/s/gwFtIAfo2rPbE8QYs2EffA) (发布日期: 2026-08-26)
-- [逐级攀升！四叶草安全荣升国家信息安全漏洞库（CNNVD）一级技术支撑单位](https://mp.weixin.qq.com/s/V9asCdjXqOx1tX8u2AyHjw) (发布日期: 2026-08-26)
-- [【漏洞预警】Redis 又双叒爆高危 TLS Pending-List UAF 漏洞，已公开完整EXP，速修！（已复现）](https://mp.weixin.qq.com/s/HrOvkBMJHANWmIjqyegTwQ) (发布日期: 2026-08-26)
-- [白帽子的新战友：一个会自己找漏洞的 AI 智能体](https://mp.weixin.qq.com/s/GfuUqAgDt3H8fa7f8v6_Xg) (发布日期: 2026-08-26)
-- [8月22日 威胁情报IOC分享](https://mp.weixin.qq.com/s/TlVBAhykHU6mSqOcAkcrFw) (发布日期: 2026-08-26)
+- [前沿AI正在重塑漏洞管理，传统修复体系面临系统性变革](https://mp.weixin.qq.com/s/yYeXBAqNB1nPAGC705esQg) (发布日期: 2026-08-26)
+- [CISA红队攻破关键基础设施，SOC与云安全盲区全面暴露](https://mp.weixin.qq.com/s/9tprh4L1lkBUjNmCpw5KLQ) (发布日期: 2026-08-26)
+- [bfs-clicker 获取动态加载的js-Ai渗透测试前置](https://mp.weixin.qq.com/s/P6c3h12gRKqNXal5Ry1U8Q) (发布日期: 2026-08-26)
+- [月神SRC培训课程停招了？](https://mp.weixin.qq.com/s/CUMFSiSjbpcQ51Fi2mgwAg) (发布日期: 2026-08-26)
+- [360 AI安全专家独立发现全新僵尸网络，攻击目标遍及全球近20国](https://mp.weixin.qq.com/s/E8IyOyoAqdcLhfCuG5gWmQ) (发布日期: 2026-08-26)
+- [RoboSec演讲嘉宾 | 吉林大学副教授，卓驭科技首席安全专家：《从自动驾驶SOTIF到Robot SOTIF：移动物理AI的场景、类人测评与安全证据链》](https://mp.weixin.qq.com/s/_Cw1PV4yB12bxIEorEbrNQ) (发布日期: 2026-08-26)
+- [奖项评选 | 天溯计量基于智能网联一站式安全检测与合规认证服务参评“第七届AutoSec &amp; RoboSec Awards 安全之星”](https://mp.weixin.qq.com/s/ExN4FoNl4pA0UFZ8JXG_Yw) (发布日期: 2026-08-26)
+- [一个晚上，AI 挖出 Call of Duty 1 埋了 20 年的 RCE](https://mp.weixin.qq.com/s/i4F3CGbVqusRNefTk7XYaQ) (发布日期: 2026-08-26)
+- [《网络数据安全风险评估办法》七问七答！理清合规要点与标准体系！](https://mp.weixin.qq.com/s/tc-KVVH8ftQ-l1eqVAql2A) (发布日期: 2026-08-26)
 
 
 ## 🎯 威胁详情分析
@@ -76,17 +80,19 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 继 AI 漏洞库之后，长亭再度入选 NVDB 两大安全漏洞专业库 | Doonsec | [https://mp.weixin.qq.com/s/Xo1--CZnpj6QK41d4-9-2w](https://mp.weixin.qq.com/s/Xo1--CZnpj6QK41d4-9-2w) |
-| 2 | 四叶草安全再次获评NVDB通用网络产品安全漏洞专业库技术支撑单位 | Doonsec | [https://mp.weixin.qq.com/s/gwFtIAfo2rPbE8QYs2EffA](https://mp.weixin.qq.com/s/gwFtIAfo2rPbE8QYs2EffA) |
-| 3 | 逐级攀升！四叶草安全荣升国家信息安全漏洞库（CNNVD）一级技术支撑单位 | Doonsec | [https://mp.weixin.qq.com/s/V9asCdjXqOx1tX8u2AyHjw](https://mp.weixin.qq.com/s/V9asCdjXqOx1tX8u2AyHjw) |
-| 4 | 【漏洞预警】Redis 又双叒爆高危 TLS Pending-List UAF 漏洞，已公开完整EXP，速修！（已复现） | Doonsec | [https://mp.weixin.qq.com/s/HrOvkBMJHANWmIjqyegTwQ](https://mp.weixin.qq.com/s/HrOvkBMJHANWmIjqyegTwQ) |
-| 5 | 白帽子的新战友：一个会自己找漏洞的 AI 智能体 | Doonsec | [https://mp.weixin.qq.com/s/GfuUqAgDt3H8fa7f8v6_Xg](https://mp.weixin.qq.com/s/GfuUqAgDt3H8fa7f8v6_Xg) |
+| 1 | 前沿AI正在重塑漏洞管理，传统修复体系面临系统性变革 | Doonsec | [https://mp.weixin.qq.com/s/yYeXBAqNB1nPAGC705esQg](https://mp.weixin.qq.com/s/yYeXBAqNB1nPAGC705esQg) |
 
-### 威胁情报
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 8月22日 威胁情报IOC分享 | Doonsec | [https://mp.weixin.qq.com/s/TlVBAhykHU6mSqOcAkcrFw](https://mp.weixin.qq.com/s/TlVBAhykHU6mSqOcAkcrFw) |
+| 1 | 一个晚上，AI 挖出 Call of Duty 1 埋了 20 年的 RCE | Doonsec | [https://mp.weixin.qq.com/s/i4F3CGbVqusRNefTk7XYaQ](https://mp.weixin.qq.com/s/i4F3CGbVqusRNefTk7XYaQ) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 月神SRC培训课程停招了？ | Doonsec | [https://mp.weixin.qq.com/s/CUMFSiSjbpcQ51Fi2mgwAg](https://mp.weixin.qq.com/s/CUMFSiSjbpcQ51Fi2mgwAg) |
 
 
 ## 📁 归档路径
@@ -102,8 +108,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -112,5 +118,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-26 08:49:02*
+*生成时间: 2026-08-26 12:58:18*
 *报告工具: 微信文章安全归档系统*
