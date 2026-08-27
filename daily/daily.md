@@ -1,20 +1,20 @@
-# 2026-08-26 安全威胁态势报告
+# 2026-08-27 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 16
 - **数据源分布**:
-  - Doonsec: 9篇
+  - Doonsec: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **攻击技术**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 5篇
+- **攻击技术**: 3篇
+- **安全运营**: 2篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,15 +63,22 @@
 
 ### Doonsec
 
-- [前沿AI正在重塑漏洞管理，传统修复体系面临系统性变革](https://mp.weixin.qq.com/s/yYeXBAqNB1nPAGC705esQg) (发布日期: 2026-08-26)
-- [CISA红队攻破关键基础设施，SOC与云安全盲区全面暴露](https://mp.weixin.qq.com/s/9tprh4L1lkBUjNmCpw5KLQ) (发布日期: 2026-08-26)
-- [bfs-clicker 获取动态加载的js-Ai渗透测试前置](https://mp.weixin.qq.com/s/P6c3h12gRKqNXal5Ry1U8Q) (发布日期: 2026-08-26)
-- [月神SRC培训课程停招了？](https://mp.weixin.qq.com/s/CUMFSiSjbpcQ51Fi2mgwAg) (发布日期: 2026-08-26)
-- [360 AI安全专家独立发现全新僵尸网络，攻击目标遍及全球近20国](https://mp.weixin.qq.com/s/E8IyOyoAqdcLhfCuG5gWmQ) (发布日期: 2026-08-26)
-- [RoboSec演讲嘉宾 | 吉林大学副教授，卓驭科技首席安全专家：《从自动驾驶SOTIF到Robot SOTIF：移动物理AI的场景、类人测评与安全证据链》](https://mp.weixin.qq.com/s/_Cw1PV4yB12bxIEorEbrNQ) (发布日期: 2026-08-26)
-- [奖项评选 | 天溯计量基于智能网联一站式安全检测与合规认证服务参评“第七届AutoSec &amp; RoboSec Awards 安全之星”](https://mp.weixin.qq.com/s/ExN4FoNl4pA0UFZ8JXG_Yw) (发布日期: 2026-08-26)
-- [一个晚上，AI 挖出 Call of Duty 1 埋了 20 年的 RCE](https://mp.weixin.qq.com/s/i4F3CGbVqusRNefTk7XYaQ) (发布日期: 2026-08-26)
-- [《网络数据安全风险评估办法》七问七答！理清合规要点与标准体系！](https://mp.weixin.qq.com/s/tc-KVVH8ftQ-l1eqVAql2A) (发布日期: 2026-08-26)
+- [数博会｜安恒信息今日开展，AI+动态数据安全“上新”了！](https://mp.weixin.qq.com/s/uex6ffyeQbJ4csw256dEYA) (发布日期: 2026-08-27)
+- [《数据安全技术 数据安全能力成熟度模型(征求意见稿)》等7项国标征求意见（附下载）](https://mp.weixin.qq.com/s/EDxKvZhMbgc5p4bwATh34Q) (发布日期: 2026-08-27)
+- [挪威政府数字服务遭大规模DDoS攻击 各类服务短暂停摆](https://mp.weixin.qq.com/s/-FZ66kJkrPUXOyaJPAMhhg) (发布日期: 2026-08-27)
+- [【漏洞案例】越权之修改HTML+CE绕过签名校验](https://mp.weixin.qq.com/s/xTs0_sXjxuEtQP-jh9xoBA) (发布日期: 2026-08-27)
+- [2人团队，用Flocks全自动安全运营！](https://mp.weixin.qq.com/s/NDa7QKtdpLUtKpRo4ooUQQ) (发布日期: 2026-08-27)
+- [以无厚入有间：CodeBuddy Security的漏洞发现思路与实践](https://mp.weixin.qq.com/s/xl3LEPsmiLLzIFkKnyxevw) (发布日期: 2026-08-27)
+- [甲方安全运营注意： AI把告警调查从30分钟压到60秒](https://mp.weixin.qq.com/s/w6ZNzKx4T0Mz9BDVi2jVZg) (发布日期: 2026-08-27)
+- [OpenShell存在危险行为漏洞(CVE-2026-65093)](https://mp.weixin.qq.com/s/TuBXG0JGwXICgsPc-qXZQA) (发布日期: 2026-08-27)
+- [炸裂！这款漏洞扫描器让安全圈彻底沸腾了](https://mp.weixin.qq.com/s/RBmdjtaXllVpFS1KsiOelQ) (发布日期: 2026-08-27)
+- [授权培训机构2026年9月CISP培训开班计划公告](https://mp.weixin.qq.com/s/EiEeGhXvf0vkZvrt0WoPgw) (发布日期: 2026-08-27)
+- [安全快报 | 斯洛伐克新采购的交通摄像头中发现俄罗斯黑客内置后门，279台设备可被短信远程控制](https://mp.weixin.qq.com/s/4KrX8gl2atxf4S-3wQ9ubg) (发布日期: 2026-08-27)
+- [【已复现】漏洞通告 | Next.js 远程代码执行漏洞(CVE-2026-75604)](https://mp.weixin.qq.com/s/J67yyQ3OhzpgCPlGT0fqRA) (发布日期: 2026-08-27)
+- [红队渗透工具 -- bface-agent](https://mp.weixin.qq.com/s/UD8iv_LmAQnGxTeFThV6dw) (发布日期: 2026-08-27)
+- [基于Gopher协议残存攻击面的SSRF内网协议链式探测](https://mp.weixin.qq.com/s/O1vSjOz3EjS3-0fx95HifA) (发布日期: 2026-08-27)
+- [GAT 2380—2026《信息安全技术 网络安全等级保护数据安全基本要求》（报批稿）](https://mp.weixin.qq.com/s/d_Bp0xLgkc-L688_j5RYAw) (发布日期: 2026-08-27)
+- [工具推荐 | SQL注入检测效率翻倍，一键配置自动化检测](https://mp.weixin.qq.com/s/ccbJdlj-25HhGylyMxoiUg) (发布日期: 2026-08-27)
 
 
 ## 🎯 威胁详情分析
@@ -80,24 +87,31 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 前沿AI正在重塑漏洞管理，传统修复体系面临系统性变革 | Doonsec | [https://mp.weixin.qq.com/s/yYeXBAqNB1nPAGC705esQg](https://mp.weixin.qq.com/s/yYeXBAqNB1nPAGC705esQg) |
+| 1 | 【漏洞案例】越权之修改HTML+CE绕过签名校验 | Doonsec | [https://mp.weixin.qq.com/s/xTs0_sXjxuEtQP-jh9xoBA](https://mp.weixin.qq.com/s/xTs0_sXjxuEtQP-jh9xoBA) |
+| 2 | 以无厚入有间：CodeBuddy Security的漏洞发现思路与实践 | Doonsec | [https://mp.weixin.qq.com/s/xl3LEPsmiLLzIFkKnyxevw](https://mp.weixin.qq.com/s/xl3LEPsmiLLzIFkKnyxevw) |
+| 3 | OpenShell存在危险行为漏洞(CVE-2026-65093) | Doonsec | [https://mp.weixin.qq.com/s/TuBXG0JGwXICgsPc-qXZQA](https://mp.weixin.qq.com/s/TuBXG0JGwXICgsPc-qXZQA) |
+| 4 | 炸裂！这款漏洞扫描器让安全圈彻底沸腾了 | Doonsec | [https://mp.weixin.qq.com/s/RBmdjtaXllVpFS1KsiOelQ](https://mp.weixin.qq.com/s/RBmdjtaXllVpFS1KsiOelQ) |
+| 5 | 【已复现】漏洞通告 | Next.js 远程代码执行漏洞(CVE-2026-75604) | Doonsec | [https://mp.weixin.qq.com/s/J67yyQ3OhzpgCPlGT0fqRA](https://mp.weixin.qq.com/s/J67yyQ3OhzpgCPlGT0fqRA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 一个晚上，AI 挖出 Call of Duty 1 埋了 20 年的 RCE | Doonsec | [https://mp.weixin.qq.com/s/i4F3CGbVqusRNefTk7XYaQ](https://mp.weixin.qq.com/s/i4F3CGbVqusRNefTk7XYaQ) |
+| 1 | 【已复现】漏洞通告 | Next.js 远程代码执行漏洞(CVE-2026-75604) | Doonsec | [https://mp.weixin.qq.com/s/J67yyQ3OhzpgCPlGT0fqRA](https://mp.weixin.qq.com/s/J67yyQ3OhzpgCPlGT0fqRA) |
+| 2 | 基于Gopher协议残存攻击面的SSRF内网协议链式探测 | Doonsec | [https://mp.weixin.qq.com/s/O1vSjOz3EjS3-0fx95HifA](https://mp.weixin.qq.com/s/O1vSjOz3EjS3-0fx95HifA) |
+| 3 | 工具推荐 | SQL注入检测效率翻倍，一键配置自动化检测 | Doonsec | [https://mp.weixin.qq.com/s/ccbJdlj-25HhGylyMxoiUg](https://mp.weixin.qq.com/s/ccbJdlj-25HhGylyMxoiUg) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 月神SRC培训课程停招了？ | Doonsec | [https://mp.weixin.qq.com/s/CUMFSiSjbpcQ51Fi2mgwAg](https://mp.weixin.qq.com/s/CUMFSiSjbpcQ51Fi2mgwAg) |
+| 1 | 2人团队，用Flocks全自动安全运营！ | Doonsec | [https://mp.weixin.qq.com/s/NDa7QKtdpLUtKpRo4ooUQQ](https://mp.weixin.qq.com/s/NDa7QKtdpLUtKpRo4ooUQQ) |
+| 2 | 甲方安全运营注意： AI把告警调查从30分钟压到60秒 | Doonsec | [https://mp.weixin.qq.com/s/w6ZNzKx4T0Mz9BDVi2jVZg](https://mp.weixin.qq.com/s/w6ZNzKx4T0Mz9BDVi2jVZg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-08/2026-W35/2026-08-26/`
+文章已归档到: `doc/2026/2026-08/2026-W35/2026-08-27/`
 
 ## 🔗 数据源说明
 
@@ -108,8 +122,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -118,5 +132,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-26 12:58:18*
+*生成时间: 2026-08-27 08:20:17*
 *报告工具: 微信文章安全归档系统*
