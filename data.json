@@ -48975,5 +48975,21 @@
     "https://mp.weixin.qq.com/s/S7hxvbIOjCC0Owy6GjNTsg": "Apache Log4j2 新问题曝光：不是所有 RCE 都普遍，但窄场景也不能忽略",
     "https://mp.weixin.qq.com/s/hkzOs_8bWIv-aIdVZRGnGQ": "AI 驱动的自主渗透测试平台",
     "https://mp.weixin.qq.com/s/6B-V4zg17ISJT3TNe_u10Q": "一个页面，看清应用从需求到上线的安全治理状态",
-    "https://mp.weixin.qq.com/s/13NlMfuexzdRauU51khU3w": "Agent一来，贵圈人人都是“安全专家”了？"
+    "https://mp.weixin.qq.com/s/13NlMfuexzdRauU51khU3w": "Agent一来，贵圈人人都是“安全专家”了？",
+    "https://mp.weixin.qq.com/s/9aK9ki7fgmwcz0Gq20RJxg": "Redstone 使用指南（二）丨渗透测试模块",
+    "https://mp.weixin.qq.com/s/LAm_4LEIRWMFJn2pR1dzrQ": "如何打造一款以实战环境为目标的漏洞研究专",
+    "https://mp.weixin.qq.com/s/XilZ0K35h_AAMvdru7FJiQ": "《国际金融报》再度采访CertiK，聚焦AI“越界”风险与安全治理",
+    "https://mp.weixin.qq.com/s/mYyTkLv21_d1XfFe7jqmTg": "覆盖车联网、信创、AI等领域，360入选工信部六大漏洞专业库技术支撑单位",
+    "https://mp.weixin.qq.com/s/WRW_zlX7HsQXwNklS6sQhw": "企业文档安全最佳实践（五）：业务系统集成——三种方式让加密文件在业务系统中照常应用",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790421&idx=1&sn=04d34797f18ebbbcc719392803a5cade": " ] [Redis补丁被绕过了：最新RCE的PoC已全网公开，你的缓存服务器还在裸奔吗",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526978&idx=1&sn=0b79f23829d11d3ffdf826da6b5075d2": " ] [OpenSSL 多个漏洞可导致服务器远程崩溃、堆内存损坏",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526978&idx=2&sn=43af008fe7c471a0e023d7056f53e66d": " ] [SonicWall NetExtender 多个漏洞可用于以root身份写入任意文件",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618994&idx=2&sn=f6d8e52efe0c96ba3684bce3529c3d30": " ] [D3CTF 2026 d3llvm.apk 反调试定位与加密 SO的Dump",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618994&idx=3&sn=0488a148cf4827e04a6ac7248fb80eea": " ] [Log4j2 新漏洞绕过安全白名单，部分部署可远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507249&idx=1&sn=abb209214149c740debd33859fd3e96d": " ] [Log4j2 Issue #4255 深度解析：技术真相与风险评估",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187785&idx=1&sn=6e3cded727785abec4375e15d23bab5d": " ] [2人团队，用Flocks全自动安全运营！",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514453&idx=1&sn=620c8da5e32a1fc8c142be0092a5e0a6": " ] [某国产PLC固件安全分析研究",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497935&idx=1&sn=4a79fa45de221104b0195b8d0bcd0234": " ] [以无厚入有间：CodeBuddy Security的漏洞发现思路与实践",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078465&idx=2&sn=40dc01c9d631dc45a8ac7ea0406d1a8f": " ] [【安全圈】CISA通报网关与数据库6大漏洞遭在野利用",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502071&idx=1&sn=40c30dbc916c2ee8c1873c9af86e69b5": " ] [中国—东盟网络安全应急响应能力建设研讨会在北京举办"
 }
