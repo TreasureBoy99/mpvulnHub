@@ -2,16 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 18
+- **总文章数**: 16
 - **数据源分布**:
-  - Doonsec: 18篇
+  - Doonsec: 5篇
+  - BruceFeIix: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **威胁情报**: 2篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 8篇
+- **攻击技术**: 2篇
+- **威胁情报**: 1篇
 - **安全运营**: 1篇
 
 ### 漏洞类型分析
@@ -64,24 +65,25 @@
 
 ### Doonsec
 
-- [企业文档安全最佳实践（五）：业务系统集成——三种方式让加密文件在业务系统中照常应用](https://mp.weixin.qq.com/s/5cNa7ubYWG-lM-sGjqfv-g) (发布日期: 2026-08-28)
-- [砸几万块考网安证书，面试却被当成“花瓶”？一文讲透CISP与OSCP的本质差异与职业规划](https://mp.weixin.qq.com/s/tPO1C5DU1KlWUmc5iAHgbQ) (发布日期: 2026-08-28)
-- [中国—东盟网络安全应急响应能力建设研讨会在北京举办，多国代表走进天融信实地参观](https://mp.weixin.qq.com/s/PNaY-QV6rJgAglq6VecBJw) (发布日期: 2026-08-28)
-- [常规操作下，安全漏洞无所遁形](https://mp.weixin.qq.com/s/EF3kM-xigIdm7F_VxcQ75Q) (发布日期: 2026-08-28)
-- [安全威胁情报周报（2026/08/22-2026/08/28）](https://mp.weixin.qq.com/s/WHaugebfQMbP0dTiOHZiHg) (发布日期: 2026-08-28)
-- [【漏洞通告】Nacos 管理接口权限绕过漏洞](https://mp.weixin.qq.com/s/yZ-wtOU99e5tqpSTNUNjig) (发布日期: 2026-08-28)
-- [红队专挑半夜上强度，长亭 AIMDR 这波顶住了](https://mp.weixin.qq.com/s/-o-n2LquzxyTmkzw9x_fXA) (发布日期: 2026-08-28)
-- [能信安：安全漏洞通报](https://mp.weixin.qq.com/s/fsunndt3L9ANweVxQp1-1Q) (发布日期: 2026-08-28)
-- [限时众测：赛力斯SRC 2026车端靶场众测项目火热开启](https://mp.weixin.qq.com/s/XCFzPrNNEWxFUwIBeFLUKA) (发布日期: 2026-08-28)
-- [国家安全部：境外间谍瞄准网联无人机巡检平台，多类安全漏洞亟待补齐；OpenAI等百余家机构，呼吁联合抵御失控AI带来的网络威胁| 牛览](https://mp.weixin.qq.com/s/Is8X1mg1NfQAdLSDoiJvQA) (发布日期: 2026-08-28)
-- [从告警积压到持续调查，AI Agent正在重写SOC工作流](https://mp.weixin.qq.com/s/MOUSekPpkWt_7lmIK4tjmw) (发布日期: 2026-08-28)
-- [实力认证｜华云安双向入选工信部 NVDB 两大漏洞专业库技术支撑单位](https://mp.weixin.qq.com/s/-THC_W6Ddc9sWb601Ze4Fw) (发布日期: 2026-08-28)
-- [最后一代应用安全工程师的自白](https://mp.weixin.qq.com/s/GzjDSFx4_uR7n2fO4jrFHw) (发布日期: 2026-08-28)
-- [数智赋能 安全守护，新华三出席2026教育数据安全专题研修班](https://mp.weixin.qq.com/s/LSMo3KiAE7dko_IXrQMUJg) (发布日期: 2026-08-28)
-- [Apache Log4j2 新问题曝光：不是所有 RCE 都普遍，但窄场景也不能忽略](https://mp.weixin.qq.com/s/S7hxvbIOjCC0Owy6GjNTsg) (发布日期: 2026-08-28)
-- [AI 驱动的自主渗透测试平台](https://mp.weixin.qq.com/s/hkzOs_8bWIv-aIdVZRGnGQ) (发布日期: 2026-08-28)
-- [一个页面，看清应用从需求到上线的安全治理状态](https://mp.weixin.qq.com/s/6B-V4zg17ISJT3TNe_u10Q) (发布日期: 2026-08-28)
-- [Agent一来，贵圈人人都是“安全专家”了？](https://mp.weixin.qq.com/s/13NlMfuexzdRauU51khU3w) (发布日期: 2026-08-28)
+- [Redstone 使用指南（二）丨渗透测试模块](https://mp.weixin.qq.com/s/9aK9ki7fgmwcz0Gq20RJxg) (发布日期: 2026-08-28)
+- [如何打造一款以实战环境为目标的漏洞研究专](https://mp.weixin.qq.com/s/LAm_4LEIRWMFJn2pR1dzrQ) (发布日期: 2026-08-28)
+- [《国际金融报》再度采访CertiK，聚焦AI“越界”风险与安全治理](https://mp.weixin.qq.com/s/XilZ0K35h_AAMvdru7FJiQ) (发布日期: 2026-08-28)
+- [覆盖车联网、信创、AI等领域，360入选工信部六大漏洞专业库技术支撑单位](https://mp.weixin.qq.com/s/mYyTkLv21_d1XfFe7jqmTg) (发布日期: 2026-08-28)
+- [企业文档安全最佳实践（五）：业务系统集成——三种方式让加密文件在业务系统中照常应用](https://mp.weixin.qq.com/s/WRW_zlX7HsQXwNklS6sQhw) (发布日期: 2026-08-28)
+
+### BruceFeIix
+
+- [ ] [Redis补丁被绕过了：最新RCE的PoC已全网公开，你的缓存服务器还在裸奔吗](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790421&idx=1&sn=04d34797f18ebbbcc719392803a5cade) (发布日期: 2026-08-28)
+- [ ] [OpenSSL 多个漏洞可导致服务器远程崩溃、堆内存损坏](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526978&idx=1&sn=0b79f23829d11d3ffdf826da6b5075d2) (发布日期: 2026-08-28)
+- [ ] [SonicWall NetExtender 多个漏洞可用于以root身份写入任意文件](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526978&idx=2&sn=43af008fe7c471a0e023d7056f53e66d) (发布日期: 2026-08-28)
+- [ ] [D3CTF 2026 d3llvm.apk 反调试定位与加密 SO的Dump](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618994&idx=2&sn=f6d8e52efe0c96ba3684bce3529c3d30) (发布日期: 2026-08-28)
+- [ ] [Log4j2 新漏洞绕过安全白名单，部分部署可远程代码执行](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618994&idx=3&sn=0488a148cf4827e04a6ac7248fb80eea) (发布日期: 2026-08-28)
+- [ ] [Log4j2 Issue #4255 深度解析：技术真相与风险评估](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507249&idx=1&sn=abb209214149c740debd33859fd3e96d) (发布日期: 2026-08-28)
+- [ ] [2人团队，用Flocks全自动安全运营！](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187785&idx=1&sn=6e3cded727785abec4375e15d23bab5d) (发布日期: 2026-08-28)
+- [ ] [某国产PLC固件安全分析研究](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514453&idx=1&sn=620c8da5e32a1fc8c142be0092a5e0a6) (发布日期: 2026-08-28)
+- [ ] [以无厚入有间：CodeBuddy Security的漏洞发现思路与实践](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497935&idx=1&sn=4a79fa45de221104b0195b8d0bcd0234) (发布日期: 2026-08-28)
+- [ ] [【安全圈】CISA通报网关与数据库6大漏洞遭在野利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078465&idx=2&sn=40dc01c9d631dc45a8ac7ea0406d1a8f) (发布日期: 2026-08-28)
+- [ ] [中国—东盟网络安全应急响应能力建设研讨会在北京举办](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502071&idx=1&sn=40c30dbc916c2ee8c1873c9af86e69b5) (发布日期: 2026-08-28)
 
 
 ## 🎯 威胁详情分析
@@ -90,30 +92,33 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 常规操作下，安全漏洞无所遁形 | Doonsec | [https://mp.weixin.qq.com/s/EF3kM-xigIdm7F_VxcQ75Q](https://mp.weixin.qq.com/s/EF3kM-xigIdm7F_VxcQ75Q) |
-| 2 | 【漏洞通告】Nacos 管理接口权限绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/yZ-wtOU99e5tqpSTNUNjig](https://mp.weixin.qq.com/s/yZ-wtOU99e5tqpSTNUNjig) |
-| 3 | 能信安：安全漏洞通报 | Doonsec | [https://mp.weixin.qq.com/s/fsunndt3L9ANweVxQp1-1Q](https://mp.weixin.qq.com/s/fsunndt3L9ANweVxQp1-1Q) |
-| 4 | 国家安全部：境外间谍瞄准网联无人机巡检平台，多类安全漏洞亟待补齐；OpenAI等百余家机构，呼吁联合抵御失控AI带来的网络威胁| 牛览 | Doonsec | [https://mp.weixin.qq.com/s/Is8X1mg1NfQAdLSDoiJvQA](https://mp.weixin.qq.com/s/Is8X1mg1NfQAdLSDoiJvQA) |
-| 5 | 实力认证｜华云安双向入选工信部 NVDB 两大漏洞专业库技术支撑单位 | Doonsec | [https://mp.weixin.qq.com/s/-THC_W6Ddc9sWb601Ze4Fw](https://mp.weixin.qq.com/s/-THC_W6Ddc9sWb601Ze4Fw) |
+| 1 | 如何打造一款以实战环境为目标的漏洞研究专 | Doonsec | [https://mp.weixin.qq.com/s/LAm_4LEIRWMFJn2pR1dzrQ](https://mp.weixin.qq.com/s/LAm_4LEIRWMFJn2pR1dzrQ) |
+| 2 | 覆盖车联网、信创、AI等领域，360入选工信部六大漏洞专业库技术支撑单位 | Doonsec | [https://mp.weixin.qq.com/s/mYyTkLv21_d1XfFe7jqmTg](https://mp.weixin.qq.com/s/mYyTkLv21_d1XfFe7jqmTg) |
+| 3 |  ] [Redis补丁被绕过了：最新RCE的PoC已全网公开，你的缓存服务器还在裸奔吗 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790421&idx=1&sn=04d34797f18ebbbcc719392803a5cade](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790421&idx=1&sn=04d34797f18ebbbcc719392803a5cade) |
+| 4 |  ] [OpenSSL 多个漏洞可导致服务器远程崩溃、堆内存损坏 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526978&idx=1&sn=0b79f23829d11d3ffdf826da6b5075d2](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526978&idx=1&sn=0b79f23829d11d3ffdf826da6b5075d2) |
+| 5 |  ] [SonicWall NetExtender 多个漏洞可用于以root身份写入任意文件 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526978&idx=2&sn=43af008fe7c471a0e023d7056f53e66d](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526978&idx=2&sn=43af008fe7c471a0e023d7056f53e66d) |
+| 6 |  ] [Log4j2 新漏洞绕过安全白名单，部分部署可远程代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618994&idx=3&sn=0488a148cf4827e04a6ac7248fb80eea](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618994&idx=3&sn=0488a148cf4827e04a6ac7248fb80eea) |
+| 7 |  ] [以无厚入有间：CodeBuddy Security的漏洞发现思路与实践 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497935&idx=1&sn=4a79fa45de221104b0195b8d0bcd0234](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497935&idx=1&sn=4a79fa45de221104b0195b8d0bcd0234) |
+| 8 |  ] [【安全圈】CISA通报网关与数据库6大漏洞遭在野利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078465&idx=2&sn=40dc01c9d631dc45a8ac7ea0406d1a8f](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078465&idx=2&sn=40dc01c9d631dc45a8ac7ea0406d1a8f) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Apache Log4j2 新问题曝光：不是所有 RCE 都普遍，但窄场景也不能忽略 | Doonsec | [https://mp.weixin.qq.com/s/S7hxvbIOjCC0Owy6GjNTsg](https://mp.weixin.qq.com/s/S7hxvbIOjCC0Owy6GjNTsg) |
+| 1 |  ] [Redis补丁被绕过了：最新RCE的PoC已全网公开，你的缓存服务器还在裸奔吗 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790421&idx=1&sn=04d34797f18ebbbcc719392803a5cade](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790421&idx=1&sn=04d34797f18ebbbcc719392803a5cade) |
+| 2 |  ] [Log4j2 新漏洞绕过安全白名单，部分部署可远程代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618994&idx=3&sn=0488a148cf4827e04a6ac7248fb80eea](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618994&idx=3&sn=0488a148cf4827e04a6ac7248fb80eea) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 中国—东盟网络安全应急响应能力建设研讨会在北京举办，多国代表走进天融信实地参观 | Doonsec | [https://mp.weixin.qq.com/s/PNaY-QV6rJgAglq6VecBJw](https://mp.weixin.qq.com/s/PNaY-QV6rJgAglq6VecBJw) |
-| 2 | 安全威胁情报周报（2026/08/22-2026/08/28） | Doonsec | [https://mp.weixin.qq.com/s/WHaugebfQMbP0dTiOHZiHg](https://mp.weixin.qq.com/s/WHaugebfQMbP0dTiOHZiHg) |
+| 1 |  ] [中国—东盟网络安全应急响应能力建设研讨会在北京举办 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502071&idx=1&sn=40c30dbc916c2ee8c1873c9af86e69b5](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502071&idx=1&sn=40c30dbc916c2ee8c1873c9af86e69b5) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 限时众测：赛力斯SRC 2026车端靶场众测项目火热开启 | Doonsec | [https://mp.weixin.qq.com/s/XCFzPrNNEWxFUwIBeFLUKA](https://mp.weixin.qq.com/s/XCFzPrNNEWxFUwIBeFLUKA) |
+| 1 |  ] [2人团队，用Flocks全自动安全运营！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187785&idx=1&sn=6e3cded727785abec4375e15d23bab5d](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187785&idx=1&sn=6e3cded727785abec4375e15d23bab5d) |
 
 
 ## 📁 归档路径
@@ -129,7 +134,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
 - **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -139,5 +144,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-28 10:21:27*
+*生成时间: 2026-08-28 21:55:21*
 *报告工具: 微信文章安全归档系统*
