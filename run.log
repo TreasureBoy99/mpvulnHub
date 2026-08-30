@@ -114767,3 +114767,58 @@
 2026-08-30 04:31:27,010 - INFO - 正在发送Discord日报通知: 2026-08-30
 2026-08-30 04:31:27,562 - INFO - Discord日报发送结果: 204
 2026-08-30 04:31:27,563 - INFO - === 执行完成 ===
+2026-08-30 13:40:15,912 - INFO - === 开始执行微信文章归档工具 ===
+2026-08-30 13:40:15,912 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-08-30 13:40:15,913 - INFO - 正在发送Discord启动通知...
+2026-08-30 13:40:16,636 - INFO - Discord启动通知发送结果: 204
+2026-08-30 13:40:16,639 - INFO - 数据文件: data.json
+2026-08-30 13:40:16,639 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-08-30 13:40:16,639 - INFO - 文档目录: doc
+2026-08-30 13:40:16,715 - INFO - 已加载 49028 条历史记录
+2026-08-30 13:40:16,716 - INFO - === 开始今日拉取 ===
+2026-08-30 13:40:16,716 - INFO - 开始获取Doonsec RSS
+2026-08-30 13:40:16,716 - INFO - 目标日期: 2026-08-30
+2026-08-30 13:40:20,548 - INFO - Doonsec RSS请求成功
+2026-08-30 13:40:20,549 - INFO - RSS中共有 200 个条目
+2026-08-30 13:40:20,550 - INFO - Doonsec获取到 43 个2026-08-30的微信文章URL
+2026-08-30 13:40:20,551 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-08-30.md
+2026-08-30 13:40:20,608 - INFO - ChainReactors md文件下载状态码: 404
+2026-08-30 13:40:20,608 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-08-30.md 状态码: 404
+2026-08-30 13:40:20,608 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-08-30.md
+2026-08-30 13:40:20,639 - INFO - BruceFeIix md文件下载状态码: 200
+2026-08-30 13:40:20,640 - INFO - BruceFeIix获取到 39 个URL
+2026-08-30 13:40:20,640 - INFO - === 开始处理 2026-08-30 的数据 ===
+2026-08-30 13:40:20,640 - INFO - Doonsec原始数据: 43 个
+2026-08-30 13:40:20,640 - INFO - ChainReactors原始数据: 0 个
+2026-08-30 13:40:20,640 - INFO - BruceFeIix原始数据: 39 个
+2026-08-30 13:40:20,640 - INFO - 开始处理Doonsec数据...
+2026-08-30 13:40:20,641 - INFO - 开始处理ChainReactors数据...
+2026-08-30 13:40:20,641 - INFO - 开始处理BruceFeIix数据...
+2026-08-30 13:40:20,641 - INFO - 去重后共 72 个URL待处理，跳过 10 个重复URL
+2026-08-30 13:40:20,641 - INFO - 去重后统计 - Doonsec: 37 个, ChainReactors: 0 个, BruceFeIix: 35 个
+2026-08-30 13:40:20,641 - INFO - === 开始关键词过滤 ===
+2026-08-30 13:40:20,644 - INFO - 关键词过滤: 匹配 8 个，跳过 64 个
+2026-08-30 13:40:20,644 - INFO - 关键词过滤后统计 - Doonsec: 4 个, ChainReactors: 0 个, BruceFeIix: 4 个
+2026-08-30 13:40:20,650 - INFO - 已创建每日报告: md/2026-08-30.md
+2026-08-30 13:40:20,650 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-08-30 13:40:20,650 - INFO - 正在发送Discord通知: 被动式 Web 安全扫描工具 AIFuzzing
+2026-08-30 13:40:21,009 - INFO - Discord通知发送结果: 204
+2026-08-30 13:40:21,010 - INFO - 正在发送Discord通知: AI Agent遭劫持后的24小时，传统应急响应正在失效
+2026-08-30 13:40:22,721 - INFO - Discord通知发送结果: 204
+2026-08-30 13:40:22,722 - INFO - 正在发送Discord通知: 柏林遭黑客窃取5.79TB数据，曼彻斯特机场确认客户数据泄露
+2026-08-30 13:40:23,150 - INFO - Discord通知发送结果: 204
+2026-08-30 13:40:23,151 - INFO - 正在发送Discord通知: 每周PDF资源：渗透测试技巧；监控Cobalt Strik；ARL分析与进阶使用
+2026-08-30 13:40:23,646 - INFO - Discord通知发送结果: 204
+2026-08-30 13:40:23,647 - INFO - 正在发送Discord通知:  ] [【安全圈】宇树人形机器人曝Root漏洞可蓝牙近场劫持
+2026-08-30 13:40:23,909 - INFO - Discord通知发送结果: 204
+2026-08-30 13:40:23,910 - INFO - 正在发送Discord通知:  ] [【安全圈】ZBT路由器曝出厂双后门可未授权获Root权限
+2026-08-30 13:40:24,126 - INFO - Discord通知发送结果: 204
+2026-08-30 13:40:24,127 - INFO - 正在发送Discord通知:  ] [【安全圈】ServiceNow曝3个满分10分漏洞可未授权RCE
+2026-08-30 13:40:24,441 - INFO - Discord通知发送结果: 204
+2026-08-30 13:40:24,442 - INFO - 正在发送Discord通知:  ] [HTB Nimbus渗透测试靶机 Writeup
+2026-08-30 13:40:24,678 - INFO - Discord通知发送结果: 204
+2026-08-30 13:40:24,754 - INFO - 已更新data.json，添加了 8 个URL
+2026-08-30 13:40:24,754 - INFO - 已创建每日报告: md/2026-08-30.md
+2026-08-30 13:40:24,754 - INFO - 正在发送Discord日报通知: 2026-08-30
+2026-08-30 13:40:24,966 - INFO - Discord日报发送结果: 204
+2026-08-30 13:40:24,968 - INFO - === 执行完成 ===
