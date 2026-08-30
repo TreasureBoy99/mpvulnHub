@@ -1,16 +1,21 @@
-# 2026-08-29 安全威胁态势报告
+# 2026-08-30 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 1篇
+- **攻击技术**: 1篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -59,17 +64,44 @@
 
 ### Doonsec
 
-- [分享一套很棒的渗透测试笔记合集，建议收藏！](https://mp.weixin.qq.com/s/vjGKu807u2V7dqhocMT7Ig) (发布日期: 2026-08-29)
-- [【喜讯】湖南金盾新增权威资质，筑牢数据安全合规服务硬实力](https://mp.weixin.qq.com/s/n-sz1pNb5KmbDdWC2HEX8w) (发布日期: 2026-08-29)
-- [见证青年力量！第二届大学生人工智能安全竞赛获奖名单明日揭晓！](https://mp.weixin.qq.com/s/bOvRfoSvnhmFuVcR2z9y5A) (发布日期: 2026-08-29)
+- [8月28日 威胁情报IOC分享](https://mp.weixin.qq.com/s/2VUQuOODCEc-ZjVGW_ZzUQ) (发布日期: 2026-08-30)
+- [甲方安全运营的切换税：每天几百次工具跳转，插件能省一半](https://mp.weixin.qq.com/s/25V_xdLBR0ij5oRy1aavGA) (发布日期: 2026-08-30)
+- [NASA严重安全漏洞，可导致黑客向飞船发送任意指令](https://mp.weixin.qq.com/s/ksVPDWmLnacL4HSHpsA2gg) (发布日期: 2026-08-30)
+- [首个Android车机专项木马曝光：竟通过系统更新传播](https://mp.weixin.qq.com/s/oAfFPdRbL2JaDXwJP4eZeQ) (发布日期: 2026-08-30)
+- [【众测实战】某APP存储型XSS完整挖掘&amp;WAF绕过思路复盘](https://mp.weixin.qq.com/s/9Gdh_bEoV_YkhYUdSqOKHA) (发布日期: 2026-08-30)
+- [2026年AI安全报告](https://mp.weixin.qq.com/s/hQcLBBuEvNW_PMo5Sti5nw) (发布日期: 2026-08-30)
 
 
 ## 🎯 威胁详情分析
 
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | NASA严重安全漏洞，可导致黑客向飞船发送任意指令 | Doonsec | [https://mp.weixin.qq.com/s/ksVPDWmLnacL4HSHpsA2gg](https://mp.weixin.qq.com/s/ksVPDWmLnacL4HSHpsA2gg) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【众测实战】某APP存储型XSS完整挖掘&amp;WAF绕过思路复盘 | Doonsec | [https://mp.weixin.qq.com/s/9Gdh_bEoV_YkhYUdSqOKHA](https://mp.weixin.qq.com/s/9Gdh_bEoV_YkhYUdSqOKHA) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 8月28日 威胁情报IOC分享 | Doonsec | [https://mp.weixin.qq.com/s/2VUQuOODCEc-ZjVGW_ZzUQ](https://mp.weixin.qq.com/s/2VUQuOODCEc-ZjVGW_ZzUQ) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 甲方安全运营的切换税：每天几百次工具跳转，插件能省一半 | Doonsec | [https://mp.weixin.qq.com/s/25V_xdLBR0ij5oRy1aavGA](https://mp.weixin.qq.com/s/25V_xdLBR0ij5oRy1aavGA) |
+
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-08/2026-W35/2026-08-29/`
+文章已归档到: `doc/2026/2026-08/2026-W35/2026-08-30/`
 
 ## 🔗 数据源说明
 
@@ -80,8 +112,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -90,5 +122,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-29 19:17:30*
+*生成时间: 2026-08-30 04:31:27*
 *报告工具: 微信文章安全归档系统*
