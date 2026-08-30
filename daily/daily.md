@@ -2,20 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 4篇
+  - BruceFeIix: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 2篇
 - **攻击技术**: 1篇
 - **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,12 +65,17 @@
 
 ### Doonsec
 
-- [8月28日 威胁情报IOC分享](https://mp.weixin.qq.com/s/2VUQuOODCEc-ZjVGW_ZzUQ) (发布日期: 2026-08-30)
-- [甲方安全运营的切换税：每天几百次工具跳转，插件能省一半](https://mp.weixin.qq.com/s/25V_xdLBR0ij5oRy1aavGA) (发布日期: 2026-08-30)
-- [NASA严重安全漏洞，可导致黑客向飞船发送任意指令](https://mp.weixin.qq.com/s/ksVPDWmLnacL4HSHpsA2gg) (发布日期: 2026-08-30)
-- [首个Android车机专项木马曝光：竟通过系统更新传播](https://mp.weixin.qq.com/s/oAfFPdRbL2JaDXwJP4eZeQ) (发布日期: 2026-08-30)
-- [【众测实战】某APP存储型XSS完整挖掘&amp;WAF绕过思路复盘](https://mp.weixin.qq.com/s/9Gdh_bEoV_YkhYUdSqOKHA) (发布日期: 2026-08-30)
-- [2026年AI安全报告](https://mp.weixin.qq.com/s/hQcLBBuEvNW_PMo5Sti5nw) (发布日期: 2026-08-30)
+- [被动式 Web 安全扫描工具 AIFuzzing](https://mp.weixin.qq.com/s/XrwkwwGu0flYevTqN7EtPQ) (发布日期: 2026-08-30)
+- [AI Agent遭劫持后的24小时，传统应急响应正在失效](https://mp.weixin.qq.com/s/06RigX49VjLyIm7xkarDLw) (发布日期: 2026-08-30)
+- [柏林遭黑客窃取5.79TB数据，曼彻斯特机场确认客户数据泄露](https://mp.weixin.qq.com/s/WrqlJwQH6DxxZgsgq0h22Q) (发布日期: 2026-08-30)
+- [每周PDF资源：渗透测试技巧；监控Cobalt Strik；ARL分析与进阶使用](https://mp.weixin.qq.com/s/SgMTI-OwptzvbvFgR8dTVg) (发布日期: 2026-08-30)
+
+### BruceFeIix
+
+- [ ] [【安全圈】宇树人形机器人曝Root漏洞可蓝牙近场劫持](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=1&sn=3fbeaecddf79cb3f00d718cff2d065ba) (发布日期: 2026-08-30)
+- [ ] [【安全圈】ZBT路由器曝出厂双后门可未授权获Root权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=2&sn=ecfcde083da2ce793130fc1236640841) (发布日期: 2026-08-30)
+- [ ] [【安全圈】ServiceNow曝3个满分10分漏洞可未授权RCE](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=3&sn=65f6ba777b56d6ba9c3032a22d80cb2d) (发布日期: 2026-08-30)
+- [ ] [HTB Nimbus渗透测试靶机 Writeup](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619031&idx=1&sn=c049e90e9e21461f5ce9db0847b5772d) (发布日期: 2026-08-30)
 
 
 ## 🎯 威胁详情分析
@@ -78,25 +84,26 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | NASA严重安全漏洞，可导致黑客向飞船发送任意指令 | Doonsec | [https://mp.weixin.qq.com/s/ksVPDWmLnacL4HSHpsA2gg](https://mp.weixin.qq.com/s/ksVPDWmLnacL4HSHpsA2gg) |
+| 1 |  ] [【安全圈】宇树人形机器人曝Root漏洞可蓝牙近场劫持 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=1&sn=3fbeaecddf79cb3f00d718cff2d065ba](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=1&sn=3fbeaecddf79cb3f00d718cff2d065ba) |
+| 2 |  ] [【安全圈】ServiceNow曝3个满分10分漏洞可未授权RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=3&sn=65f6ba777b56d6ba9c3032a22d80cb2d](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=3&sn=65f6ba777b56d6ba9c3032a22d80cb2d) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【众测实战】某APP存储型XSS完整挖掘&amp;WAF绕过思路复盘 | Doonsec | [https://mp.weixin.qq.com/s/9Gdh_bEoV_YkhYUdSqOKHA](https://mp.weixin.qq.com/s/9Gdh_bEoV_YkhYUdSqOKHA) |
+| 1 |  ] [【安全圈】ServiceNow曝3个满分10分漏洞可未授权RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=3&sn=65f6ba777b56d6ba9c3032a22d80cb2d](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=3&sn=65f6ba777b56d6ba9c3032a22d80cb2d) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 8月28日 威胁情报IOC分享 | Doonsec | [https://mp.weixin.qq.com/s/2VUQuOODCEc-ZjVGW_ZzUQ](https://mp.weixin.qq.com/s/2VUQuOODCEc-ZjVGW_ZzUQ) |
+| 1 | AI Agent遭劫持后的24小时，传统应急响应正在失效 | Doonsec | [https://mp.weixin.qq.com/s/06RigX49VjLyIm7xkarDLw](https://mp.weixin.qq.com/s/06RigX49VjLyIm7xkarDLw) |
 
-### 安全运营
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 甲方安全运营的切换税：每天几百次工具跳转，插件能省一半 | Doonsec | [https://mp.weixin.qq.com/s/25V_xdLBR0ij5oRy1aavGA](https://mp.weixin.qq.com/s/25V_xdLBR0ij5oRy1aavGA) |
+| 1 | 柏林遭黑客窃取5.79TB数据，曼彻斯特机场确认客户数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/WrqlJwQH6DxxZgsgq0h22Q](https://mp.weixin.qq.com/s/WrqlJwQH6DxxZgsgq0h22Q) |
 
 
 ## 📁 归档路径
@@ -112,8 +119,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -122,5 +129,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-08-30 04:31:27*
+*生成时间: 2026-08-30 13:40:24*
 *报告工具: 微信文章安全归档系统*
