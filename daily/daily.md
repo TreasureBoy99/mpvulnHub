@@ -1,22 +1,21 @@
-# 2026-09-01 安全威胁态势报告
+# 2026-09-02 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 28
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 12篇
-  - BruceFeIix: 16篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 12篇
-- **攻击技术**: 4篇
-- **安全运营**: 2篇
-- **威胁情报**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 2篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,37 +64,12 @@
 
 ### Doonsec
 
-- [关于举办人工智能安全工程师培训班的通知](https://mp.weixin.qq.com/s/lS8b_u19YmweCu9N641SrQ) (发布日期: 2026-09-01)
-- [【2026hvv】JeecgBoot 【0day】，文档细琐~【附验证exp】，速修~！](https://mp.weixin.qq.com/s/LCFrnxpW2_5c2l6ucedcvg) (发布日期: 2026-09-01)
-- [解锁渗透测试中的隐藏技能](https://mp.weixin.qq.com/s/Hw9VHjy-n_UktVsKjNG_Pg) (发布日期: 2026-09-01)
-- [【免费领】渗透测试必备工具：Nmap实战技术全解教程](https://mp.weixin.qq.com/s/R2A0c0LSnEo_IgxxPYi6cg) (发布日期: 2026-09-01)
-- [“银狐”木马专项——CCTGA公布恶意域名及恶意IP（二）](https://mp.weixin.qq.com/s/UA0urJ2RdOkPqAkfRjp48A) (发布日期: 2026-09-01)
-- [药明康德网络安全事件敲警钟 ：网络安全成产业“必修课”](https://mp.weixin.qq.com/s/ldsoeD0Qe-gGntj3RAA_Mw) (发布日期: 2026-09-01)
-- [加密失效：人工智能和量子技术如何为数据安全划定新界限](https://mp.weixin.qq.com/s/5LaXd4kuH7uwe62XWZyJ8A) (发布日期: 2026-09-01)
-- [一个 BOLA 漏洞](https://mp.weixin.qq.com/s/ECvtZO1iY2Xj7zDLilHsoA) (发布日期: 2026-09-01)
-- [韩国个人信息保护委员会：GS Retail因信息泄露被罚128.36亿韩元](https://mp.weixin.qq.com/s/GknQdGkVi2GembVmRM4tsA) (发布日期: 2026-09-01)
-- [深耕加密流量安全创新 | 观成瞰云获官方 “三新” 资质认可](https://mp.weixin.qq.com/s/QmUa0ANVupfcrAYaYxAsJg) (发布日期: 2026-09-01)
-- [Sign in with Apple 0day 复盘：十万美元赏金背后的认证绕过](https://mp.weixin.qq.com/s/hI_J8xEsFGdzZskpVlA-Ww) (发布日期: 2026-09-01)
-- [以智能体源代码审计领跑对抗性 AI](https://mp.weixin.qq.com/s/eX2_XXXU65TN4d5PLONAHA) (发布日期: 2026-09-01)
-
-### BruceFeIix
-
-- [ ] [IDC：威努特连续四年稳居中国工控安全审计市场份额前三](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651143732&idx=1&sn=0d2b988b16a75a67fc4b1b6754f6db2c) (发布日期: 2026-09-01)
-- [ ] [更优质的发现，更丰厚的回报｜严重漏洞额外奖励全面升级](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208677&idx=1&sn=c8b8447236999622d5ebec232e1a7425) (发布日期: 2026-09-01)
-- [ ] [微软UFO高危漏洞：无需认证即可远程接管安卓设备](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619143&idx=3&sn=37bbafc471b9233f1d5d0f24a2d66313) (发布日期: 2026-09-01)
-- [ ] [原创漏洞 | JeecgBoot 积木报表远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508861&idx=1&sn=2cf7864837777962955ea59ce173a1ce) (发布日期: 2026-09-01)
-- [ ] [【已复现】JimuReport 远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493359&idx=1&sn=35f7bcc61291616d4cc0201707eba82a) (发布日期: 2026-09-01)
-- [ ] [【已复现】JeecgBoot 积木报表 autoexport 远程代码执行漏洞(QVD-2026-56805)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507288&idx=1&sn=f926aec873d115cc70e7b2c61cb8fd50) (发布日期: 2026-09-01)
-- [ ] [代码“不落云”就安全吗？企业AI评审、SRC运营与邮件TLS的现实选择｜总第321周](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492553&idx=2&sn=363c4b0a62bced7b7dfc0d4c7d51ae9b) (发布日期: 2026-09-01)
-- [ ] [【安全圈】假冒CF验证码投毒终端反向隧道黑客打穿内网](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078558&idx=2&sn=9454912da70ce78d2b7c59008c65bf9d) (发布日期: 2026-09-01)
-- [ ] [ServiceNow 三个满分漏洞可使未认证攻击者执行代码和 SQL](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526993&idx=1&sn=31a1edf6c798f7b40a0cf0daf31816b7) (发布日期: 2026-09-01)
-- [ ] [95.02%漏洞成功率 | 绿盟科技NSFOCUS AI斩获CyberGym全球第一](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495478&idx=1&sn=0df36824e37db8e9e59ee27d743e5a91) (发布日期: 2026-09-01)
-- [ ] [ByteSRC中秋福利｜0 积分兑换「花渐满，好时长」限定礼盒](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496335&idx=1&sn=cbbfb4a7bfa345e9b5c5a5cd43d9680b) (发布日期: 2026-09-01)
-- [ ] [能源行业标杆落地｜360企业安全浏览器中标某头部能源央企客户](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586806&idx=1&sn=dd74fadd8e9c6cac6f0794e24bc6728e) (发布日期: 2026-09-01)
-- [ ] [前沿 | 智能眼镜安全风险分析及对策建议——以Meta智能眼镜跨境数据泄露事件为例](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664266056&idx=1&sn=2d0e1315079f9444e6297001f9b4fe85) (发布日期: 2026-09-01)
-- [ ] [盗签伪装 内存匿踪│Go语言双层窃密木马攻击分析](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536905&idx=1&sn=dd605be4c5aed7cbedf2e952be1e975f) (发布日期: 2026-09-01)
-- [ ] [CNVD漏洞周报2026年第34期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497251&idx=1&sn=9c68fb3e9c339921b35e16779ac3a787) (发布日期: 2026-09-01)
-- [ ] [上周关注度较高的产品安全漏洞(20260824-20260830)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497251&idx=2&sn=ac5ec45ceaf6e2c54443a1bc1eba1039) (发布日期: 2026-09-01)
+- [从 Halo 通知模板 SSTI 到 H2 Alias RCE：一次完整的踩坑记录](https://mp.weixin.qq.com/s/NFfmCp0_uMpccxUc-9DSLw) (发布日期: 2026-09-02)
+- [9月11日·东北专场 | AI安全运营实战研修班火热报名中！XDR+MSS一次讲透](https://mp.weixin.qq.com/s/kUoqXVjN5FO-vzdTdiOIAw) (发布日期: 2026-09-02)
+- [【安全速报】9月2日高危漏洞紧急预警](https://mp.weixin.qq.com/s/QeXmCZb0xcLFA6mrDXFh9A) (发布日期: 2026-09-02)
+- [字节实践 | Agent 提示词注入攻击：一场需要长期应对的安全挑战](https://mp.weixin.qq.com/s/VVrsdNncvV93OSGgNYJ6Sw) (发布日期: 2026-09-02)
+- [交通数据新规落地，迪普科技数据安全方案护航合规](https://mp.weixin.qq.com/s/0A6_iLnI_sfMqDQBz47Kfw) (发布日期: 2026-09-02)
+- [汉王e脸通综合管理平台 uploadMeetingFile.do 任意文件上传漏洞](https://mp.weixin.qq.com/s/AqB7dmY-ePSDJfg0kH3Rgw) (发布日期: 2026-09-02)
 
 
 ## 🎯 威胁详情分析
@@ -104,51 +78,26 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【2026hvv】JeecgBoot 【0day】，文档细琐~【附验证exp】，速修~！ | Doonsec | [https://mp.weixin.qq.com/s/LCFrnxpW2_5c2l6ucedcvg](https://mp.weixin.qq.com/s/LCFrnxpW2_5c2l6ucedcvg) |
-| 2 | 一个 BOLA 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ECvtZO1iY2Xj7zDLilHsoA](https://mp.weixin.qq.com/s/ECvtZO1iY2Xj7zDLilHsoA) |
-| 3 | Sign in with Apple 0day 复盘：十万美元赏金背后的认证绕过 | Doonsec | [https://mp.weixin.qq.com/s/hI_J8xEsFGdzZskpVlA-Ww](https://mp.weixin.qq.com/s/hI_J8xEsFGdzZskpVlA-Ww) |
-| 4 |  ] [更优质的发现，更丰厚的回报｜严重漏洞额外奖励全面升级 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208677&idx=1&sn=c8b8447236999622d5ebec232e1a7425](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208677&idx=1&sn=c8b8447236999622d5ebec232e1a7425) |
-| 5 |  ] [微软UFO高危漏洞：无需认证即可远程接管安卓设备 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619143&idx=3&sn=37bbafc471b9233f1d5d0f24a2d66313](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619143&idx=3&sn=37bbafc471b9233f1d5d0f24a2d66313) |
-| 6 |  ] [原创漏洞 | JeecgBoot 积木报表远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508861&idx=1&sn=2cf7864837777962955ea59ce173a1ce](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508861&idx=1&sn=2cf7864837777962955ea59ce173a1ce) |
-| 7 |  ] [【已复现】JimuReport 远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493359&idx=1&sn=35f7bcc61291616d4cc0201707eba82a](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493359&idx=1&sn=35f7bcc61291616d4cc0201707eba82a) |
-| 8 |  ] [【已复现】JeecgBoot 积木报表 autoexport 远程代码执行漏洞(QVD-2026-56805)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507288&idx=1&sn=f926aec873d115cc70e7b2c61cb8fd50](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507288&idx=1&sn=f926aec873d115cc70e7b2c61cb8fd50) |
-| 9 |  ] [ServiceNow 三个满分漏洞可使未认证攻击者执行代码和 SQL | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526993&idx=1&sn=31a1edf6c798f7b40a0cf0daf31816b7](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526993&idx=1&sn=31a1edf6c798f7b40a0cf0daf31816b7) |
-| 10 |  ] [95.02%漏洞成功率 | 绿盟科技NSFOCUS AI斩获CyberGym全球第一 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495478&idx=1&sn=0df36824e37db8e9e59ee27d743e5a91](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495478&idx=1&sn=0df36824e37db8e9e59ee27d743e5a91) |
-| 11 |  ] [CNVD漏洞周报2026年第34期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497251&idx=1&sn=9c68fb3e9c339921b35e16779ac3a787](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497251&idx=1&sn=9c68fb3e9c339921b35e16779ac3a787) |
-| 12 |  ] [上周关注度较高的产品安全漏洞(20260824-20260830) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497251&idx=2&sn=ac5ec45ceaf6e2c54443a1bc1eba1039](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497251&idx=2&sn=ac5ec45ceaf6e2c54443a1bc1eba1039) |
+| 1 | 【安全速报】9月2日高危漏洞紧急预警 | Doonsec | [https://mp.weixin.qq.com/s/QeXmCZb0xcLFA6mrDXFh9A](https://mp.weixin.qq.com/s/QeXmCZb0xcLFA6mrDXFh9A) |
+| 2 | 汉王e脸通综合管理平台 uploadMeetingFile.do 任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/AqB7dmY-ePSDJfg0kH3Rgw](https://mp.weixin.qq.com/s/AqB7dmY-ePSDJfg0kH3Rgw) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [原创漏洞 | JeecgBoot 积木报表远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508861&idx=1&sn=2cf7864837777962955ea59ce173a1ce](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508861&idx=1&sn=2cf7864837777962955ea59ce173a1ce) |
-| 2 |  ] [【已复现】JimuReport 远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493359&idx=1&sn=35f7bcc61291616d4cc0201707eba82a](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493359&idx=1&sn=35f7bcc61291616d4cc0201707eba82a) |
-| 3 |  ] [【已复现】JeecgBoot 积木报表 autoexport 远程代码执行漏洞(QVD-2026-56805)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507288&idx=1&sn=f926aec873d115cc70e7b2c61cb8fd50](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507288&idx=1&sn=f926aec873d115cc70e7b2c61cb8fd50) |
-| 4 |  ] [【安全圈】假冒CF验证码投毒终端反向隧道黑客打穿内网 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078558&idx=2&sn=9454912da70ce78d2b7c59008c65bf9d](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078558&idx=2&sn=9454912da70ce78d2b7c59008c65bf9d) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | “银狐”木马专项——CCTGA公布恶意域名及恶意IP（二） | Doonsec | [https://mp.weixin.qq.com/s/UA0urJ2RdOkPqAkfRjp48A](https://mp.weixin.qq.com/s/UA0urJ2RdOkPqAkfRjp48A) |
+| 1 | 从 Halo 通知模板 SSTI 到 H2 Alias RCE：一次完整的踩坑记录 | Doonsec | [https://mp.weixin.qq.com/s/NFfmCp0_uMpccxUc-9DSLw](https://mp.weixin.qq.com/s/NFfmCp0_uMpccxUc-9DSLw) |
+| 2 | 字节实践 | Agent 提示词注入攻击：一场需要长期应对的安全挑战 | Doonsec | [https://mp.weixin.qq.com/s/VVrsdNncvV93OSGgNYJ6Sw](https://mp.weixin.qq.com/s/VVrsdNncvV93OSGgNYJ6Sw) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [代码“不落云”就安全吗？企业AI评审、SRC运营与邮件TLS的现实选择｜总第321周 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492553&idx=2&sn=363c4b0a62bced7b7dfc0d4c7d51ae9b](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492553&idx=2&sn=363c4b0a62bced7b7dfc0d4c7d51ae9b) |
-| 2 |  ] [ByteSRC中秋福利｜0 积分兑换「花渐满，好时长」限定礼盒 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496335&idx=1&sn=cbbfb4a7bfa345e9b5c5a5cd43d9680b](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496335&idx=1&sn=cbbfb4a7bfa345e9b5c5a5cd43d9680b) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [前沿 | 智能眼镜安全风险分析及对策建议——以Meta智能眼镜跨境数据泄露事件为例 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664266056&idx=1&sn=2d0e1315079f9444e6297001f9b4fe85](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664266056&idx=1&sn=2d0e1315079f9444e6297001f9b4fe85) |
+| 1 | 9月11日·东北专场 | AI安全运营实战研修班火热报名中！XDR+MSS一次讲透 | Doonsec | [https://mp.weixin.qq.com/s/kUoqXVjN5FO-vzdTdiOIAw](https://mp.weixin.qq.com/s/kUoqXVjN5FO-vzdTdiOIAw) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-09/2026-W36/2026-09-01/`
+文章已归档到: `doc/2026/2026-09/2026-W36/2026-09-02/`
 
 ## 🔗 数据源说明
 
@@ -159,8 +108,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 12 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -169,5 +118,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-01 13:16:34*
+*生成时间: 2026-09-02 03:40:13*
 *报告工具: 微信文章安全归档系统*
