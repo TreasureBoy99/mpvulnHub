@@ -1,16 +1,18 @@
-# 2026-09-02 安全威胁态势报告
+# 2026-09-03 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 12
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 12篇
+  - Doonsec: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **安全运营**: 2篇
+- **漏洞利用**: 2篇
+- **信息泄露**: 2篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
 
@@ -61,18 +63,14 @@
 
 ### Doonsec
 
-- [启动报名！2026年国家网络安全宣传周人工智能安全治理分论坛邀请你来](https://mp.weixin.qq.com/s/9jYEMjNeE88YU9yVdiuAGQ) (发布日期: 2026-09-02)
-- [2026年9月05日数据安全风险评估实战培训，您来吗？](https://mp.weixin.qq.com/s/8ltDw-AlvIJZX6fivpcT8A) (发布日期: 2026-09-02)
-- [SonicWall 提醒注意已遭利用的 SMA1000 0day 漏洞](https://mp.weixin.qq.com/s/Fsyy1rsCWJqNBf2zKWmkvA) (发布日期: 2026-09-02)
-- [Langflow 严重漏洞被用于窃取 OpenAI 和 AWS 密钥](https://mp.weixin.qq.com/s/8o6hld9pVQPR1I34xOYttA) (发布日期: 2026-09-02)
-- [QFSRC 联合活动奖励公告](https://mp.weixin.qq.com/s/ujE4asz62uWR4C4rQR1TqA) (发布日期: 2026-09-02)
-- [关于举办人工智能安全工程师培训班的通知](https://mp.weixin.qq.com/s/1YBnbl-_cZvAu9b76YQjFQ) (发布日期: 2026-09-02)
-- [神漏洞！近距离劫持人形机器人实现完全控制，还能“人传人”感染](https://mp.weixin.qq.com/s/iUK_0wdVIu_TanleUUZEGg) (发布日期: 2026-09-02)
-- [2026 年第一期 CISP 讲师新申请考核通过名单](https://mp.weixin.qq.com/s/txPF3ahgHkh83DQrhWR9ow) (发布日期: 2026-09-02)
-- [包揽冠亚军！蚁景网安强势领跑网易SRC 8月贡献榜](https://mp.weixin.qq.com/s/HWZl1Fl7jySR4DP-lmZBHQ) (发布日期: 2026-09-02)
-- [半日漏洞登场：AI 时代的 0-day](https://mp.weixin.qq.com/s/rhAgrwZHUOrXMDwfrQwJpQ) (发布日期: 2026-09-02)
-- [【漏洞通告】Windows HTTP.sys 特权提升漏洞(CVE-2026-62735)](https://mp.weixin.qq.com/s/FGGb9RtQ4efQspzHvcLPqw) (发布日期: 2026-09-02)
-- [【漏洞通告】Proxmox VE身份认证绕过漏洞](https://mp.weixin.qq.com/s/AngwtKu2qZ04-tLfMnlZGQ) (发布日期: 2026-09-02)
+- [能信安亮相第四届网络空间安全（天津）论坛，首提移动应用安全“第三维度”引领行业新范式](https://mp.weixin.qq.com/s/C8PJkGgcGHzlfcgpOUwUYg) (发布日期: 2026-09-03)
+- [三个机制，让超大型集团敏捷迎战“银狐”](https://mp.weixin.qq.com/s/8lwiRrflyF5E2LtYVGzV5Q) (发布日期: 2026-09-03)
+- [分享几个没有ai很难挖到的edusrc案例](https://mp.weixin.qq.com/s/uJbXfgaJEb7JtcC_h---JQ) (发布日期: 2026-09-03)
+- [【漏洞预警】Linux三年前补上的洞，又一次被挖开了](https://mp.weixin.qq.com/s/9kUs7I3bOSwtVloaaSyyQg) (发布日期: 2026-09-03)
+- [美国博彩网站BodogLife.com25000赌博用户数据泄露](https://mp.weixin.qq.com/s/C5Q6j4SVUbqIqOQdqcR8pw) (发布日期: 2026-09-03)
+- [【热点安全风险】9月3日 | Langflow 漏洞遭利用，攻击者瞄准 AI 开发平台（CVE-2026-0768）](https://mp.weixin.qq.com/s/8_UkfV7G6-mDubFPX-7OCA) (发布日期: 2026-09-03)
+- [AI-PENTEST — AI 驱动的多Agent自动化渗透测试平台 Web渗透+C2双作业线，45+无缝工具，Docker一键部署](https://mp.weixin.qq.com/s/K9I4EtvxSKHJxl63kSDo6A) (发布日期: 2026-09-03)
+- [加密货币硬件钱包提供商 SafePal 数据泄露事件影响 39,798 名客户，被盗信息正在出售](https://mp.weixin.qq.com/s/UGInQv6bj1vl8vJ_CUHkFQ) (发布日期: 2026-09-03)
 
 
 ## 🎯 威胁详情分析
@@ -81,24 +79,32 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SonicWall 提醒注意已遭利用的 SMA1000 0day 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Fsyy1rsCWJqNBf2zKWmkvA](https://mp.weixin.qq.com/s/Fsyy1rsCWJqNBf2zKWmkvA) |
-| 2 | Langflow 严重漏洞被用于窃取 OpenAI 和 AWS 密钥 | Doonsec | [https://mp.weixin.qq.com/s/8o6hld9pVQPR1I34xOYttA](https://mp.weixin.qq.com/s/8o6hld9pVQPR1I34xOYttA) |
-| 3 | 神漏洞！近距离劫持人形机器人实现完全控制，还能“人传人”感染 | Doonsec | [https://mp.weixin.qq.com/s/iUK_0wdVIu_TanleUUZEGg](https://mp.weixin.qq.com/s/iUK_0wdVIu_TanleUUZEGg) |
-| 4 | 半日漏洞登场：AI 时代的 0-day | Doonsec | [https://mp.weixin.qq.com/s/rhAgrwZHUOrXMDwfrQwJpQ](https://mp.weixin.qq.com/s/rhAgrwZHUOrXMDwfrQwJpQ) |
-| 5 | 【漏洞通告】Windows HTTP.sys 特权提升漏洞(CVE-2026-62735) | Doonsec | [https://mp.weixin.qq.com/s/FGGb9RtQ4efQspzHvcLPqw](https://mp.weixin.qq.com/s/FGGb9RtQ4efQspzHvcLPqw) |
-| 6 | 【漏洞通告】Proxmox VE身份认证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/AngwtKu2qZ04-tLfMnlZGQ](https://mp.weixin.qq.com/s/AngwtKu2qZ04-tLfMnlZGQ) |
+| 1 | 【漏洞预警】Linux三年前补上的洞，又一次被挖开了 | Doonsec | [https://mp.weixin.qq.com/s/9kUs7I3bOSwtVloaaSyyQg](https://mp.weixin.qq.com/s/9kUs7I3bOSwtVloaaSyyQg) |
+| 2 | 【热点安全风险】9月3日 | Langflow 漏洞遭利用，攻击者瞄准 AI 开发平台（CVE-2026-0768） | Doonsec | [https://mp.weixin.qq.com/s/8_UkfV7G6-mDubFPX-7OCA](https://mp.weixin.qq.com/s/8_UkfV7G6-mDubFPX-7OCA) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 三个机制，让超大型集团敏捷迎战“银狐” | Doonsec | [https://mp.weixin.qq.com/s/8lwiRrflyF5E2LtYVGzV5Q](https://mp.weixin.qq.com/s/8lwiRrflyF5E2LtYVGzV5Q) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | QFSRC 联合活动奖励公告 | Doonsec | [https://mp.weixin.qq.com/s/ujE4asz62uWR4C4rQR1TqA](https://mp.weixin.qq.com/s/ujE4asz62uWR4C4rQR1TqA) |
-| 2 | 包揽冠亚军！蚁景网安强势领跑网易SRC 8月贡献榜 | Doonsec | [https://mp.weixin.qq.com/s/HWZl1Fl7jySR4DP-lmZBHQ](https://mp.weixin.qq.com/s/HWZl1Fl7jySR4DP-lmZBHQ) |
+| 1 | 分享几个没有ai很难挖到的edusrc案例 | Doonsec | [https://mp.weixin.qq.com/s/uJbXfgaJEb7JtcC_h---JQ](https://mp.weixin.qq.com/s/uJbXfgaJEb7JtcC_h---JQ) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 美国博彩网站BodogLife.com25000赌博用户数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/C5Q6j4SVUbqIqOQdqcR8pw](https://mp.weixin.qq.com/s/C5Q6j4SVUbqIqOQdqcR8pw) |
+| 2 | 加密货币硬件钱包提供商 SafePal 数据泄露事件影响 39,798 名客户，被盗信息正在出售 | Doonsec | [https://mp.weixin.qq.com/s/UGInQv6bj1vl8vJ_CUHkFQ](https://mp.weixin.qq.com/s/UGInQv6bj1vl8vJ_CUHkFQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-09/2026-W36/2026-09-02/`
+文章已归档到: `doc/2026/2026-09/2026-W36/2026-09-03/`
 
 ## 🔗 数据源说明
 
@@ -109,7 +115,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -119,5 +125,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-02 16:14:31*
+*生成时间: 2026-09-03 03:39:23*
 *报告工具: 微信文章安全归档系统*
