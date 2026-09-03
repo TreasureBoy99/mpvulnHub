@@ -115537,3 +115537,70 @@
 2026-09-03 03:39:23,344 - INFO - 正在发送Discord日报通知: 2026-09-03
 2026-09-03 03:39:23,716 - INFO - Discord日报发送结果: 204
 2026-09-03 03:39:23,717 - INFO - === 执行完成 ===
+2026-09-03 08:43:33,754 - INFO - === 开始执行微信文章归档工具 ===
+2026-09-03 08:43:33,754 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-09-03 08:43:33,754 - INFO - 正在发送Discord启动通知...
+2026-09-03 08:43:34,234 - INFO - Discord启动通知发送结果: 204
+2026-09-03 08:43:34,235 - INFO - 数据文件: data.json
+2026-09-03 08:43:34,236 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-09-03 08:43:34,236 - INFO - 文档目录: doc
+2026-09-03 08:43:34,317 - INFO - 已加载 49154 条历史记录
+2026-09-03 08:43:34,317 - INFO - === 开始今日拉取 ===
+2026-09-03 08:43:34,318 - INFO - 开始获取Doonsec RSS
+2026-09-03 08:43:34,318 - INFO - 目标日期: 2026-09-03
+2026-09-03 08:44:19,760 - ERROR - Doonsec RSS解析失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-09-03 08:44:19,760 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-09-03.md
+2026-09-03 08:44:19,948 - INFO - ChainReactors md文件下载状态码: 404
+2026-09-03 08:44:19,948 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-09-03.md 状态码: 404
+2026-09-03 08:44:19,948 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-09-03.md
+2026-09-03 08:44:20,426 - INFO - BruceFeIix md文件下载状态码: 200
+2026-09-03 08:44:20,427 - INFO - BruceFeIix获取到 113 个URL
+2026-09-03 08:44:20,427 - INFO - === 开始处理 2026-09-03 的数据 ===
+2026-09-03 08:44:20,427 - INFO - Doonsec原始数据: 0 个
+2026-09-03 08:44:20,427 - INFO - ChainReactors原始数据: 0 个
+2026-09-03 08:44:20,427 - INFO - BruceFeIix原始数据: 113 个
+2026-09-03 08:44:20,427 - INFO - 开始处理Doonsec数据...
+2026-09-03 08:44:20,427 - INFO - 开始处理ChainReactors数据...
+2026-09-03 08:44:20,427 - INFO - 开始处理BruceFeIix数据...
+2026-09-03 08:44:20,429 - INFO - 去重后共 90 个URL待处理，跳过 23 个重复URL
+2026-09-03 08:44:20,429 - INFO - 去重后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 90 个
+2026-09-03 08:44:20,429 - INFO - === 开始关键词过滤 ===
+2026-09-03 08:44:20,431 - INFO - 关键词过滤: 匹配 15 个，跳过 75 个
+2026-09-03 08:44:20,431 - INFO - 关键词过滤后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 15 个
+2026-09-03 08:44:20,445 - INFO - 已创建每日报告: md/2026-09-03.md
+2026-09-03 08:44:20,445 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-09-03 08:44:20,445 - INFO - 正在发送Discord通知:  ] [软件供应链攻击之王TeamPCP落网记
+2026-09-03 08:44:21,435 - INFO - Discord通知发送结果: 204
+2026-09-03 08:44:21,436 - INFO - 正在发送Discord通知:  ] [已复现 | 畅捷通T+ POSSyncService SQL注入漏洞
+2026-09-03 08:44:21,877 - INFO - Discord通知发送结果: 204
+2026-09-03 08:44:21,878 - INFO - 正在发送Discord通知:  ] [神漏洞！近距离劫持人形机器人实现完全控制，还能“人传人”感染
+2026-09-03 08:44:22,453 - INFO - Discord通知发送结果: 204
+2026-09-03 08:44:22,454 - INFO - 正在发送Discord通知:  ] [Silver Fox（银狐）组织发起虚假软件攻击，篡改Windows防御机制实现入侵
+2026-09-03 08:44:23,195 - INFO - Discord通知发送结果: 204
+2026-09-03 08:44:23,196 - INFO - 正在发送Discord通知:  ] [可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战
+2026-09-03 08:44:23,700 - INFO - Discord通知发送结果: 204
+2026-09-03 08:44:23,701 - INFO - 正在发送Discord通知:  ] [【已复现】Windows HTTP.sys 整数溢出漏洞(CVE-2026-62735)安全风险通告
+2026-09-03 08:44:23,974 - INFO - Discord通知发送结果: 204
+2026-09-03 08:44:23,976 - INFO - 正在发送Discord通知:  ] [【安全圈】PVE曝严重认证绕过漏洞免密即可夺取Root
+2026-09-03 08:44:24,391 - INFO - Discord通知发送结果: 204
+2026-09-03 08:44:24,392 - INFO - 正在发送Discord通知:  ] [【安全圈】多国联合行动利用P2P沉洞击溃Sality僵尸网络
+2026-09-03 08:44:24,654 - INFO - Discord通知发送结果: 204
+2026-09-03 08:44:24,655 - INFO - 正在发送Discord通知:  ] [【安全圈】安全专家用Claude将工控漏洞利用跨设备移植
+2026-09-03 08:44:25,023 - INFO - Discord通知发送结果: 204
+2026-09-03 08:44:25,024 - INFO - 正在发送Discord通知:  ] [【安全圈】SonicWall曝零日漏洞遭利用黑客可直接接管网关
+2026-09-03 08:44:25,314 - INFO - Discord通知发送结果: 204
+2026-09-03 08:44:25,315 - INFO - 正在发送Discord通知:  ] [LLM漏洞挖掘的自动化管线
+2026-09-03 08:44:25,622 - INFO - Discord通知发送结果: 204
+2026-09-03 08:44:25,623 - INFO - 正在发送Discord通知:  ] [字节实践 | Agent 提示词注入攻击：一场需要长期应对的安全挑战
+2026-09-03 08:44:25,962 - INFO - Discord通知发送结果: 204
+2026-09-03 08:44:25,963 - INFO - 正在发送Discord通知:  ] [[译苑雅集 Vol. 19] 把界面交给 AI，Salesforce 反而更难被替代？
+2026-09-03 08:44:26,428 - INFO - Discord通知发送结果: 204
+2026-09-03 08:44:26,429 - INFO - 正在发送Discord通知:  ] [利用自动化渗透测试实现常态自动化网络安全验证
+2026-09-03 08:44:26,756 - INFO - Discord通知发送结果: 204
+2026-09-03 08:44:26,757 - INFO - 正在发送Discord通知:  ] [【通知】关于中通SRC恢复接收漏洞测试的通知
+2026-09-03 08:44:27,130 - INFO - Discord通知发送结果: 204
+2026-09-03 08:44:27,203 - INFO - 已更新data.json，添加了 15 个URL
+2026-09-03 08:44:27,204 - INFO - 已创建每日报告: md/2026-09-03.md
+2026-09-03 08:44:27,204 - INFO - 正在发送Discord日报通知: 2026-09-03
+2026-09-03 08:44:27,506 - INFO - Discord日报发送结果: 204
+2026-09-03 08:44:27,507 - INFO - === 执行完成 ===

@@ -2,19 +2,22 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 8篇
+  - BruceFeIix: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **信息泄露**: 2篇
+- **漏洞利用**: 9篇
+- **攻击技术**: 3篇
 - **威胁情报**: 1篇
 - **安全运营**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 2篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,16 +64,23 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [能信安亮相第四届网络空间安全（天津）论坛，首提移动应用安全“第三维度”引领行业新范式](https://mp.weixin.qq.com/s/C8PJkGgcGHzlfcgpOUwUYg) (发布日期: 2026-09-03)
-- [三个机制，让超大型集团敏捷迎战“银狐”](https://mp.weixin.qq.com/s/8lwiRrflyF5E2LtYVGzV5Q) (发布日期: 2026-09-03)
-- [分享几个没有ai很难挖到的edusrc案例](https://mp.weixin.qq.com/s/uJbXfgaJEb7JtcC_h---JQ) (发布日期: 2026-09-03)
-- [【漏洞预警】Linux三年前补上的洞，又一次被挖开了](https://mp.weixin.qq.com/s/9kUs7I3bOSwtVloaaSyyQg) (发布日期: 2026-09-03)
-- [美国博彩网站BodogLife.com25000赌博用户数据泄露](https://mp.weixin.qq.com/s/C5Q6j4SVUbqIqOQdqcR8pw) (发布日期: 2026-09-03)
-- [【热点安全风险】9月3日 | Langflow 漏洞遭利用，攻击者瞄准 AI 开发平台（CVE-2026-0768）](https://mp.weixin.qq.com/s/8_UkfV7G6-mDubFPX-7OCA) (发布日期: 2026-09-03)
-- [AI-PENTEST — AI 驱动的多Agent自动化渗透测试平台 Web渗透+C2双作业线，45+无缝工具，Docker一键部署](https://mp.weixin.qq.com/s/K9I4EtvxSKHJxl63kSDo6A) (发布日期: 2026-09-03)
-- [加密货币硬件钱包提供商 SafePal 数据泄露事件影响 39,798 名客户，被盗信息正在出售](https://mp.weixin.qq.com/s/UGInQv6bj1vl8vJ_CUHkFQ) (发布日期: 2026-09-03)
+- [ ] [软件供应链攻击之王TeamPCP落网记](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188408&idx=1&sn=d492a25528a4bfa8111f644cb566f7ab) (发布日期: 2026-09-03)
+- [ ] [已复现 | 畅捷通T+ POSSyncService SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508891&idx=1&sn=97d3f461583b2fcfd1f9b9979c116adf) (发布日期: 2026-09-03)
+- [ ] [神漏洞！近距离劫持人形机器人实现完全控制，还能“人传人”感染](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516526&idx=1&sn=1947b36d4933a51e958157ee2b2aeddb) (发布日期: 2026-09-03)
+- [ ] [Silver Fox（银狐）组织发起虚假软件攻击，篡改Windows防御机制实现入侵](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619304&idx=2&sn=c67c60f5a7b426b8cd60d7b614638fa8) (发布日期: 2026-09-03)
+- [ ] [可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619304&idx=3&sn=26cef62fe07f9ed9fcaf516b3016d24f) (发布日期: 2026-09-03)
+- [ ] [【已复现】Windows HTTP.sys 整数溢出漏洞(CVE-2026-62735)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507393&idx=1&sn=59fae66c61e0a769810098e32c3de6e6) (发布日期: 2026-09-03)
+- [ ] [【安全圈】PVE曝严重认证绕过漏洞免密即可夺取Root](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078593&idx=1&sn=c3152f6b53652d610529496929c997df) (发布日期: 2026-09-03)
+- [ ] [【安全圈】多国联合行动利用P2P沉洞击溃Sality僵尸网络](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078593&idx=2&sn=28c0a354a796442f41698ab183fcb52d) (发布日期: 2026-09-03)
+- [ ] [【安全圈】安全专家用Claude将工控漏洞利用跨设备移植](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078593&idx=3&sn=b27684913ac539add1c5dbc2ff39eb66) (发布日期: 2026-09-03)
+- [ ] [【安全圈】SonicWall曝零日漏洞遭利用黑客可直接接管网关](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078593&idx=4&sn=9135a63b7adb577ed7c1f6efbe9b143c) (发布日期: 2026-09-03)
+- [ ] [LLM漏洞挖掘的自动化管线](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497095&idx=1&sn=8aac85715301ed47109796d8d713e9fd) (发布日期: 2026-09-03)
+- [ ] [字节实践 | Agent 提示词注入攻击：一场需要长期应对的安全挑战](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496345&idx=1&sn=b8ee32c02f3741e7d77cf306489477e9) (发布日期: 2026-09-03)
+- [ ] [[译苑雅集 Vol. 19] 把界面交给 AI，Salesforce 反而更难被替代？](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485197&idx=1&sn=17776eea48e067f5c3ce68b4fd591f34) (发布日期: 2026-09-03)
+- [ ] [利用自动化渗透测试实现常态自动化网络安全验证](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142551&idx=1&sn=84f49fbb986d032c82c3433428e0f4a5) (发布日期: 2026-09-03)
+- [ ] [【通知】关于中通SRC恢复接收漏洞测试的通知](https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486672&idx=1&sn=3e778aba95a45a2ca05da6259c7c08d1) (发布日期: 2026-09-03)
 
 
 ## 🎯 威胁详情分析
@@ -79,27 +89,41 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【漏洞预警】Linux三年前补上的洞，又一次被挖开了 | Doonsec | [https://mp.weixin.qq.com/s/9kUs7I3bOSwtVloaaSyyQg](https://mp.weixin.qq.com/s/9kUs7I3bOSwtVloaaSyyQg) |
-| 2 | 【热点安全风险】9月3日 | Langflow 漏洞遭利用，攻击者瞄准 AI 开发平台（CVE-2026-0768） | Doonsec | [https://mp.weixin.qq.com/s/8_UkfV7G6-mDubFPX-7OCA](https://mp.weixin.qq.com/s/8_UkfV7G6-mDubFPX-7OCA) |
+| 1 |  ] [已复现 | 畅捷通T+ POSSyncService SQL注入漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508891&idx=1&sn=97d3f461583b2fcfd1f9b9979c116adf](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508891&idx=1&sn=97d3f461583b2fcfd1f9b9979c116adf) |
+| 2 |  ] [神漏洞！近距离劫持人形机器人实现完全控制，还能“人传人”感染 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516526&idx=1&sn=1947b36d4933a51e958157ee2b2aeddb](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516526&idx=1&sn=1947b36d4933a51e958157ee2b2aeddb) |
+| 3 |  ] [可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619304&idx=3&sn=26cef62fe07f9ed9fcaf516b3016d24f](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619304&idx=3&sn=26cef62fe07f9ed9fcaf516b3016d24f) |
+| 4 |  ] [【已复现】Windows HTTP.sys 整数溢出漏洞(CVE-2026-62735)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507393&idx=1&sn=59fae66c61e0a769810098e32c3de6e6](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507393&idx=1&sn=59fae66c61e0a769810098e32c3de6e6) |
+| 5 |  ] [【安全圈】PVE曝严重认证绕过漏洞免密即可夺取Root | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078593&idx=1&sn=c3152f6b53652d610529496929c997df](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078593&idx=1&sn=c3152f6b53652d610529496929c997df) |
+| 6 |  ] [【安全圈】安全专家用Claude将工控漏洞利用跨设备移植 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078593&idx=3&sn=b27684913ac539add1c5dbc2ff39eb66](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078593&idx=3&sn=b27684913ac539add1c5dbc2ff39eb66) |
+| 7 |  ] [【安全圈】SonicWall曝零日漏洞遭利用黑客可直接接管网关 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078593&idx=4&sn=9135a63b7adb577ed7c1f6efbe9b143c](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078593&idx=4&sn=9135a63b7adb577ed7c1f6efbe9b143c) |
+| 8 |  ] [LLM漏洞挖掘的自动化管线 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497095&idx=1&sn=8aac85715301ed47109796d8d713e9fd](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497095&idx=1&sn=8aac85715301ed47109796d8d713e9fd) |
+| 9 |  ] [【通知】关于中通SRC恢复接收漏洞测试的通知 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486672&idx=1&sn=3e778aba95a45a2ca05da6259c7c08d1](https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486672&idx=1&sn=3e778aba95a45a2ca05da6259c7c08d1) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [已复现 | 畅捷通T+ POSSyncService SQL注入漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508891&idx=1&sn=97d3f461583b2fcfd1f9b9979c116adf](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508891&idx=1&sn=97d3f461583b2fcfd1f9b9979c116adf) |
+| 2 |  ] [字节实践 | Agent 提示词注入攻击：一场需要长期应对的安全挑战 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496345&idx=1&sn=b8ee32c02f3741e7d77cf306489477e9](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496345&idx=1&sn=b8ee32c02f3741e7d77cf306489477e9) |
+| 3 |  ] [[译苑雅集 Vol. 19] 把界面交给 AI，Salesforce 反而更难被替代？ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485197&idx=1&sn=17776eea48e067f5c3ce68b4fd591f34](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485197&idx=1&sn=17776eea48e067f5c3ce68b4fd591f34) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 三个机制，让超大型集团敏捷迎战“银狐” | Doonsec | [https://mp.weixin.qq.com/s/8lwiRrflyF5E2LtYVGzV5Q](https://mp.weixin.qq.com/s/8lwiRrflyF5E2LtYVGzV5Q) |
+| 1 |  ] [Silver Fox（银狐）组织发起虚假软件攻击，篡改Windows防御机制实现入侵 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619304&idx=2&sn=c67c60f5a7b426b8cd60d7b614638fa8](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619304&idx=2&sn=c67c60f5a7b426b8cd60d7b614638fa8) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 分享几个没有ai很难挖到的edusrc案例 | Doonsec | [https://mp.weixin.qq.com/s/uJbXfgaJEb7JtcC_h---JQ](https://mp.weixin.qq.com/s/uJbXfgaJEb7JtcC_h---JQ) |
+| 1 |  ] [【通知】关于中通SRC恢复接收漏洞测试的通知 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486672&idx=1&sn=3e778aba95a45a2ca05da6259c7c08d1](https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486672&idx=1&sn=3e778aba95a45a2ca05da6259c7c08d1) |
 
-### 信息泄露
+### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 美国博彩网站BodogLife.com25000赌博用户数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/C5Q6j4SVUbqIqOQdqcR8pw](https://mp.weixin.qq.com/s/C5Q6j4SVUbqIqOQdqcR8pw) |
-| 2 | 加密货币硬件钱包提供商 SafePal 数据泄露事件影响 39,798 名客户，被盗信息正在出售 | Doonsec | [https://mp.weixin.qq.com/s/UGInQv6bj1vl8vJ_CUHkFQ](https://mp.weixin.qq.com/s/UGInQv6bj1vl8vJ_CUHkFQ) |
+| 1 |  ] [软件供应链攻击之王TeamPCP落网记 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188408&idx=1&sn=d492a25528a4bfa8111f644cb566f7ab](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188408&idx=1&sn=d492a25528a4bfa8111f644cb566f7ab) |
 
 
 ## 📁 归档路径
@@ -115,8 +139,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -125,5 +149,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-03 03:39:23*
+*生成时间: 2026-09-03 08:44:27*
 *报告工具: 微信文章安全归档系统*
