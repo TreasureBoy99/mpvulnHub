@@ -2,21 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 13
+- **总文章数**: 2
 - **数据源分布**:
-  - BruceFeIix: 13篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
-- **信息泄露**: 1篇
-- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,57 +57,13 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [漏洞开始工业化生产：AI让黑客的经验可以复制粘贴了](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790446&idx=1&sn=f16ce91e0e805bc0813f6115275de86c) (发布日期: 2026-09-04)
-- [ ] [JFrog Artifactory 严重漏洞被用于获取管理员访问权限](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527023&idx=1&sn=6354e796f83527707ce66da427e69c03) (发布日期: 2026-09-04)
-- [ ] [CVSS 9.8高危｜Cisco Nexus 9000曝未认证RCE漏洞，可直接获取设备Root权限](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619367&idx=3&sn=2a5c3530ba0befbb2deb97b3e6b9df12) (发布日期: 2026-09-04)
-- [ ] [国家级身份认证平台疑似数据泄露：涉1.5 亿余条公民证照 暗网可实时查询](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516535&idx=1&sn=bec163c257d8069d2d35090bfc01d25e) (发布日期: 2026-09-04)
-- [ ] [BinaryAI-Bench：面向实战业务的二进制安全分析任务评测集](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247512067&idx=1&sn=22dc6a7127c33c05619f384d6af0cfad) (发布日期: 2026-09-04)
-- [ ] [AI增强的威胁检测系统架构](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497099&idx=1&sn=0dd07d474f76b7a6705d9c137b20fca3) (发布日期: 2026-09-04)
-- [ ] [《AI驱动的SDLC及软件供应链安全技术应用指南》重磅发布](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142579&idx=1&sn=356c208bfd659d0a561ff37d2295aac0) (发布日期: 2026-09-04)
-- [ ] [三个机制，让超大型集团敏捷迎战“银狐”](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187814&idx=1&sn=436eca00ace2ffa63b54dd498eff59e4) (发布日期: 2026-09-04)
-- [ ] [中秋福利 | 漏洞换月饼，2026冲榜+纳新+回归，三重狂欢！](https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505201&idx=1&sn=50bf11fe9fe3e2f5b0dc3980e6dd50e7) (发布日期: 2026-09-04)
-- [ ] [BinaryAI-Bench：面向实战业务的二进制安全分析任务评测集](https://mp.weixin.qq.com/s?__biz=MzU1MjgwNzc4Ng==&mid=2247513253&idx=1&sn=0f0b7419dda27ae69e5059f600dc0a1c) (发布日期: 2026-09-04)
-- [ ] [从海量告警到精准修复：默安智能体助力大型金融机构打通开发安全工具链](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247502022&idx=1&sn=27ba4353366bc98eecfe755a8f4108db) (发布日期: 2026-09-04)
-- [ ] [隐蔽驻留 无痕执行│OverLord远控木马技术分析](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537053&idx=1&sn=5ba2ce2a68722fa74ebd9953a4c19404) (发布日期: 2026-09-04)
-- [ ] [一场“面试笔试”背后的入侵：Mirage Kitten 转向 Node.js/JavaScript 恶意软件](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520202&idx=1&sn=8006a96f5fd860011b5a2bf253037f58) (发布日期: 2026-09-04)
+- [2026年“中国（广西）—东盟人工智能安全攻防决赛（赛道一）](https://mp.weixin.qq.com/s/Hvv-GRkxxCke2G-CdMtlPg) (发布日期: 2026-09-04)
+- [美国国家安全局谋求全面获取市场人工智能模型并推动前沿大模型前置安全评估，需警惕美方加快构建人工智能安全审查与技术管控体系](https://mp.weixin.qq.com/s/TDytJwRR1yvD92Juk9yyPA) (发布日期: 2026-09-04)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [漏洞开始工业化生产：AI让黑客的经验可以复制粘贴了 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790446&idx=1&sn=f16ce91e0e805bc0813f6115275de86c](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790446&idx=1&sn=f16ce91e0e805bc0813f6115275de86c) |
-| 2 |  ] [JFrog Artifactory 严重漏洞被用于获取管理员访问权限 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527023&idx=1&sn=6354e796f83527707ce66da427e69c03](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527023&idx=1&sn=6354e796f83527707ce66da427e69c03) |
-| 3 |  ] [CVSS 9.8高危｜Cisco Nexus 9000曝未认证RCE漏洞，可直接获取设备Root权限 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619367&idx=3&sn=2a5c3530ba0befbb2deb97b3e6b9df12](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619367&idx=3&sn=2a5c3530ba0befbb2deb97b3e6b9df12) |
-| 4 |  ] [中秋福利 | 漏洞换月饼，2026冲榜+纳新+回归，三重狂欢！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505201&idx=1&sn=50bf11fe9fe3e2f5b0dc3980e6dd50e7](https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505201&idx=1&sn=50bf11fe9fe3e2f5b0dc3980e6dd50e7) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [CVSS 9.8高危｜Cisco Nexus 9000曝未认证RCE漏洞，可直接获取设备Root权限 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619367&idx=3&sn=2a5c3530ba0befbb2deb97b3e6b9df12](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619367&idx=3&sn=2a5c3530ba0befbb2deb97b3e6b9df12) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [三个机制，让超大型集团敏捷迎战“银狐” | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187814&idx=1&sn=436eca00ace2ffa63b54dd498eff59e4](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187814&idx=1&sn=436eca00ace2ffa63b54dd498eff59e4) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [国家级身份认证平台疑似数据泄露：涉1.5 亿余条公民证照 暗网可实时查询 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516535&idx=1&sn=bec163c257d8069d2d35090bfc01d25e](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516535&idx=1&sn=bec163c257d8069d2d35090bfc01d25e) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [《AI驱动的SDLC及软件供应链安全技术应用指南》重磅发布 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142579&idx=1&sn=356c208bfd659d0a561ff37d2295aac0](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142579&idx=1&sn=356c208bfd659d0a561ff37d2295aac0) |
 
 
 ## 📁 归档路径
@@ -129,8 +79,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -139,5 +89,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-04 08:39:02*
+*生成时间: 2026-09-04 16:00:14*
 *报告工具: 微信文章安全归档系统*
