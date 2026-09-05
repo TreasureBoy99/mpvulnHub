@@ -1,16 +1,21 @@
-# 2026-09-04 安全威胁态势报告
+# 2026-09-05 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 18
 - **数据源分布**:
-  - Doonsec: 2篇
+  - BruceFeIix: 18篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 9篇
+- **攻击技术**: 4篇
+- **威胁情报**: 3篇
+- **安全运营**: 3篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -57,18 +62,73 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [2026年“中国（广西）—东盟人工智能安全攻防决赛（赛道一）](https://mp.weixin.qq.com/s/Hvv-GRkxxCke2G-CdMtlPg) (发布日期: 2026-09-04)
-- [美国国家安全局谋求全面获取市场人工智能模型并推动前沿大模型前置安全评估，需警惕美方加快构建人工智能安全审查与技术管控体系](https://mp.weixin.qq.com/s/TDytJwRR1yvD92Juk9yyPA) (发布日期: 2026-09-04)
+- [ ] [已复现 | ShowDoc registerByVerify 未授权PHP代码注入漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508909&idx=1&sn=54dca7c3a8307dcfd639f44d1ca80f1a) (发布日期: 2026-09-05)
+- [ ] [RP2350 硬件固化 CVE‑2022‑38694：突破 Unisoc BSP 安全启动链](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619521&idx=2&sn=1a084ce77235787ce7e11a74374a537f) (发布日期: 2026-09-05)
+- [ ] [可远程代码执行！Chrome V8引擎0day漏洞已被真实利用](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619521&idx=3&sn=09c0b6e454118b250e63a09ab73118f0) (发布日期: 2026-09-05)
+- [ ] [每周高级威胁情报解读(2026.08.28~09.03)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520246&idx=1&sn=b2b753df228dbb998ddc0fa321b9fa3d) (发布日期: 2026-09-05)
+- [ ] [AI与云安全事件案例分析周报｜2026.08.31 - 2026.09.04](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500260&idx=1&sn=153ecfd011d5dad999197f3d77da6c4c) (发布日期: 2026-09-05)
+- [ ] [公安部提示：勒索病毒造成巨大损失，建议企业提高警惕！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664266274&idx=2&sn=477c2686fd995dfe31a9b8ed51dcdbab) (发布日期: 2026-09-05)
+- [ ] [【在野利用】Google Chrome V8 类型混淆漏洞(CVE-2026-85046)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507407&idx=1&sn=c415219ad5472fa169305a57edd7a56c) (发布日期: 2026-09-05)
+- [ ] [【已复现】ShowDoc 未授权PHP代码注入漏洞](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493370&idx=1&sn=19499d426d12ced370a6f652e680a09f) (发布日期: 2026-09-05)
+- [ ] [AI驱动的安全运营自动化](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497103&idx=1&sn=d015778e18817deea5bb225f0aeac7c9) (发布日期: 2026-09-05)
+- [ ] [Plex：立即修复这些漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527029&idx=1&sn=cf76fa68fbc879adb577199aac435169) (发布日期: 2026-09-05)
+- [ ] [慧与修复严重的 ArubaOS-CX RCE漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527029&idx=2&sn=47e09da1ee65671b1f0fd68a42af0799) (发布日期: 2026-09-05)
+- [ ] [CISA连夜拉黑7个在野漏洞：黑客正顺着LiteLLM偷你的大模型密钥](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790451&idx=1&sn=8dfae39e2b70514d7beb78ba0e053345) (发布日期: 2026-09-05)
+- [ ] [适配欧盟《网络韧性法案》，微软更新硬件兼容性计划；CNNVD发布信息安全漏洞周报35 期| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142595&idx=2&sn=deba2cae887965ccfcbbbb94644e570c) (发布日期: 2026-09-05)
+- [ ] [美国国家安全局谋求全面获取市场人工智能模型并推动前沿大模型前置安全评估，需警惕美方加快构建人工智能安全审查与技术管控体系](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569499&idx=2&sn=de481427d5270243a851e39db34e4a2a) (发布日期: 2026-09-05)
+- [ ] [腾讯云推出AI自主渗透测试产品「无境」，43分钟拿下管理员权限](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497939&idx=1&sn=dee907cdd09f89eed59388bf4b579068) (发布日期: 2026-09-05)
+- [ ] [【中秋快乐】0积分兑换OSRC中秋礼盒，就在OSRC！](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495068&idx=2&sn=f884b4991017ad2afea901436b0decec) (发布日期: 2026-09-05)
+- [ ] [十年坚守，报名开启｜OSRC与15家SRC邀您加入双11安全保卫战](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495068&idx=3&sn=b87c4dc72a1ec2df00358ec65d1a344d) (发布日期: 2026-09-05)
+- [ ] [威胁情报｜iOS Safari DarkSword 窃取钱包资产](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505970&idx=1&sn=3ccc4fe0d1af10a5e162e7d502ba0fba) (发布日期: 2026-09-05)
 
 
 ## 🎯 威胁详情分析
 
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [已复现 | ShowDoc registerByVerify 未授权PHP代码注入漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508909&idx=1&sn=54dca7c3a8307dcfd639f44d1ca80f1a](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508909&idx=1&sn=54dca7c3a8307dcfd639f44d1ca80f1a) |
+| 2 |  ] [RP2350 硬件固化 CVE‑2022‑38694：突破 Unisoc BSP 安全启动链 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619521&idx=2&sn=1a084ce77235787ce7e11a74374a537f](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619521&idx=2&sn=1a084ce77235787ce7e11a74374a537f) |
+| 3 |  ] [可远程代码执行！Chrome V8引擎0day漏洞已被真实利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619521&idx=3&sn=09c0b6e454118b250e63a09ab73118f0](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619521&idx=3&sn=09c0b6e454118b250e63a09ab73118f0) |
+| 4 |  ] [【在野利用】Google Chrome V8 类型混淆漏洞(CVE-2026-85046)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507407&idx=1&sn=c415219ad5472fa169305a57edd7a56c](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507407&idx=1&sn=c415219ad5472fa169305a57edd7a56c) |
+| 5 |  ] [【已复现】ShowDoc 未授权PHP代码注入漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493370&idx=1&sn=19499d426d12ced370a6f652e680a09f](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493370&idx=1&sn=19499d426d12ced370a6f652e680a09f) |
+| 6 |  ] [Plex：立即修复这些漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527029&idx=1&sn=cf76fa68fbc879adb577199aac435169](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527029&idx=1&sn=cf76fa68fbc879adb577199aac435169) |
+| 7 |  ] [慧与修复严重的 ArubaOS-CX RCE漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527029&idx=2&sn=47e09da1ee65671b1f0fd68a42af0799](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527029&idx=2&sn=47e09da1ee65671b1f0fd68a42af0799) |
+| 8 |  ] [CISA连夜拉黑7个在野漏洞：黑客正顺着LiteLLM偷你的大模型密钥 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790451&idx=1&sn=8dfae39e2b70514d7beb78ba0e053345](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790451&idx=1&sn=8dfae39e2b70514d7beb78ba0e053345) |
+| 9 |  ] [适配欧盟《网络韧性法案》，微软更新硬件兼容性计划；CNNVD发布信息安全漏洞周报35 期| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142595&idx=2&sn=deba2cae887965ccfcbbbb94644e570c](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142595&idx=2&sn=deba2cae887965ccfcbbbb94644e570c) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [已复现 | ShowDoc registerByVerify 未授权PHP代码注入漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508909&idx=1&sn=54dca7c3a8307dcfd639f44d1ca80f1a](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508909&idx=1&sn=54dca7c3a8307dcfd639f44d1ca80f1a) |
+| 2 |  ] [可远程代码执行！Chrome V8引擎0day漏洞已被真实利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619521&idx=3&sn=09c0b6e454118b250e63a09ab73118f0](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619521&idx=3&sn=09c0b6e454118b250e63a09ab73118f0) |
+| 3 |  ] [【已复现】ShowDoc 未授权PHP代码注入漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493370&idx=1&sn=19499d426d12ced370a6f652e680a09f](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493370&idx=1&sn=19499d426d12ced370a6f652e680a09f) |
+| 4 |  ] [慧与修复严重的 ArubaOS-CX RCE漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527029&idx=2&sn=47e09da1ee65671b1f0fd68a42af0799](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527029&idx=2&sn=47e09da1ee65671b1f0fd68a42af0799) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [每周高级威胁情报解读(2026.08.28~09.03) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520246&idx=1&sn=b2b753df228dbb998ddc0fa321b9fa3d](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520246&idx=1&sn=b2b753df228dbb998ddc0fa321b9fa3d) |
+| 2 |  ] [公安部提示：勒索病毒造成巨大损失，建议企业提高警惕！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664266274&idx=2&sn=477c2686fd995dfe31a9b8ed51dcdbab](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664266274&idx=2&sn=477c2686fd995dfe31a9b8ed51dcdbab) |
+| 3 |  ] [威胁情报｜iOS Safari DarkSword 窃取钱包资产 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505970&idx=1&sn=3ccc4fe0d1af10a5e162e7d502ba0fba](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505970&idx=1&sn=3ccc4fe0d1af10a5e162e7d502ba0fba) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [AI驱动的安全运营自动化 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497103&idx=1&sn=d015778e18817deea5bb225f0aeac7c9](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497103&idx=1&sn=d015778e18817deea5bb225f0aeac7c9) |
+| 2 |  ] [【中秋快乐】0积分兑换OSRC中秋礼盒，就在OSRC！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495068&idx=2&sn=f884b4991017ad2afea901436b0decec](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495068&idx=2&sn=f884b4991017ad2afea901436b0decec) |
+| 3 |  ] [十年坚守，报名开启｜OSRC与15家SRC邀您加入双11安全保卫战 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495068&idx=3&sn=b87c4dc72a1ec2df00358ec65d1a344d](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495068&idx=3&sn=b87c4dc72a1ec2df00358ec65d1a344d) |
+
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-09/2026-W36/2026-09-04/`
+文章已归档到: `doc/2026/2026-09/2026-W36/2026-09-05/`
 
 ## 🔗 数据源说明
 
@@ -79,8 +139,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -89,5 +149,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-04 16:00:14*
+*生成时间: 2026-09-05 08:11:57*
 *报告工具: 微信文章安全归档系统*
