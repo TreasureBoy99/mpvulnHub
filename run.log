@@ -116157,3 +116157,56 @@
 2026-09-06 03:42:03,622 - INFO - 正在发送Discord日报通知: 2026-09-06
 2026-09-06 03:42:04,633 - INFO - Discord日报发送结果: 204
 2026-09-06 03:42:04,634 - INFO - === 执行完成 ===
+2026-09-06 08:28:50,984 - INFO - === 开始执行微信文章归档工具 ===
+2026-09-06 08:28:50,985 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-09-06 08:28:50,985 - INFO - 正在发送Discord启动通知...
+2026-09-06 08:28:51,518 - INFO - Discord启动通知发送结果: 204
+2026-09-06 08:28:51,520 - INFO - 数据文件: data.json
+2026-09-06 08:28:51,520 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-09-06 08:28:51,520 - INFO - 文档目录: doc
+2026-09-06 08:28:51,580 - INFO - 已加载 49207 条历史记录
+2026-09-06 08:28:51,580 - INFO - === 开始今日拉取 ===
+2026-09-06 08:28:51,580 - INFO - 开始获取Doonsec RSS
+2026-09-06 08:28:51,580 - INFO - 目标日期: 2026-09-06
+2026-09-06 08:28:53,505 - INFO - Doonsec RSS请求成功
+2026-09-06 08:28:53,506 - INFO - RSS中共有 200 个条目
+2026-09-06 08:28:53,507 - INFO - Doonsec获取到 3 个2026-09-06的微信文章URL
+2026-09-06 08:28:53,508 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-09-06.md
+2026-09-06 08:28:53,616 - INFO - ChainReactors md文件下载状态码: 404
+2026-09-06 08:28:53,616 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-09-06.md 状态码: 404
+2026-09-06 08:28:53,616 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-09-06.md
+2026-09-06 08:28:53,748 - INFO - BruceFeIix md文件下载状态码: 200
+2026-09-06 08:28:53,749 - INFO - BruceFeIix获取到 14 个URL
+2026-09-06 08:28:53,749 - INFO - === 开始处理 2026-09-06 的数据 ===
+2026-09-06 08:28:53,749 - INFO - Doonsec原始数据: 3 个
+2026-09-06 08:28:53,749 - INFO - ChainReactors原始数据: 0 个
+2026-09-06 08:28:53,749 - INFO - BruceFeIix原始数据: 14 个
+2026-09-06 08:28:53,749 - INFO - 开始处理Doonsec数据...
+2026-09-06 08:28:53,749 - INFO - 开始处理ChainReactors数据...
+2026-09-06 08:28:53,749 - INFO - 开始处理BruceFeIix数据...
+2026-09-06 08:28:53,749 - INFO - 去重后共 16 个URL待处理，跳过 1 个重复URL
+2026-09-06 08:28:53,749 - INFO - 去重后统计 - Doonsec: 2 个, ChainReactors: 0 个, BruceFeIix: 14 个
+2026-09-06 08:28:53,749 - INFO - === 开始关键词过滤 ===
+2026-09-06 08:28:53,750 - INFO - 关键词过滤: 匹配 7 个，跳过 9 个
+2026-09-06 08:28:53,750 - INFO - 关键词过滤后统计 - Doonsec: 1 个, ChainReactors: 0 个, BruceFeIix: 6 个
+2026-09-06 08:28:53,756 - INFO - 已创建每日报告: md/2026-09-06.md
+2026-09-06 08:28:53,756 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-09-06 08:28:53,756 - INFO - 正在发送Discord通知: 9月4日 威胁情报IOC分享
+2026-09-06 08:28:55,889 - INFO - Discord通知发送结果: 204
+2026-09-06 08:28:55,890 - INFO - 正在发送Discord通知:  ] [原创漏洞 | FreeRDP 客户端 X.224 routing token 堆缓冲区溢出漏洞
+2026-09-06 08:28:56,295 - INFO - Discord通知发送结果: 204
+2026-09-06 08:28:56,295 - INFO - 正在发送Discord通知:  ] [服务器正常运转，后门却已经编译进了负载均衡软件源码里
+2026-09-06 08:28:56,906 - INFO - Discord通知发送结果: 204
+2026-09-06 08:28:56,907 - INFO - 正在发送Discord通知:  ] [【安全圈】WordPress 再曝插件漏洞使数百万网站面临接管攻击风险
+2026-09-06 08:28:57,209 - INFO - Discord通知发送结果: 204
+2026-09-06 08:28:57,210 - INFO - 正在发送Discord通知:  ] [【安全圈】谷歌Chrome 152版本发布，修复漏洞CVE-2026-85046
+2026-09-06 08:28:57,526 - INFO - Discord通知发送结果: 204
+2026-09-06 08:28:57,527 - INFO - 正在发送Discord通知:  ] [【安全圈】服务器管理销售面板WHMCS出现高危安全漏洞 无需登录即可窃取用户资料
+2026-09-06 08:28:57,848 - INFO - Discord通知发送结果: 204
+2026-09-06 08:28:57,849 - INFO - 正在发送Discord通知:  ] [【已复现】JimuReport未授权远程代码执行(QVD-2026-61751)安全风险通告
+2026-09-06 08:28:58,191 - INFO - Discord通知发送结果: 204
+2026-09-06 08:28:58,289 - INFO - 已更新data.json，添加了 7 个URL
+2026-09-06 08:28:58,290 - INFO - 已创建每日报告: md/2026-09-06.md
+2026-09-06 08:28:58,290 - INFO - 正在发送Discord日报通知: 2026-09-06
+2026-09-06 08:28:58,574 - INFO - Discord日报发送结果: 204
+2026-09-06 08:28:58,575 - INFO - === 执行完成 ===
