@@ -2,15 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 7
 - **数据源分布**:
   - Doonsec: 1篇
+  - BruceFeIix: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 5篇
+- **攻击技术**: 1篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -59,10 +64,41 @@
 
 ### Doonsec
 
-- [浏览器渗透测试神器降临！这款插件让安全检测效率提升十倍](https://mp.weixin.qq.com/s/VZ3Xq-OffepJFVAw-GH_tg) (发布日期: 2026-09-06)
+- [9月4日 威胁情报IOC分享](https://mp.weixin.qq.com/s/880A6VTB5aPrlBZ1x-pW7w) (发布日期: 2026-09-06)
+
+### BruceFeIix
+
+- [ ] [原创漏洞 | FreeRDP 客户端 X.224 routing token 堆缓冲区溢出漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508912&idx=1&sn=2f17c849f02e78979d288165b3049447) (发布日期: 2026-09-06)
+- [ ] [服务器正常运转，后门却已经编译进了负载均衡软件源码里](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188451&idx=1&sn=1b534c02706e0587e875dee31c05f707) (发布日期: 2026-09-06)
+- [ ] [【安全圈】WordPress 再曝插件漏洞使数百万网站面临接管攻击风险](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=1&sn=0edc246025fac54952c7708b37605e04) (发布日期: 2026-09-06)
+- [ ] [【安全圈】谷歌Chrome 152版本发布，修复漏洞CVE-2026-85046](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=2&sn=dac0f2bd379ed112cb57f96b93365b57) (发布日期: 2026-09-06)
+- [ ] [【安全圈】服务器管理销售面板WHMCS出现高危安全漏洞 无需登录即可窃取用户资料](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=3&sn=a0cf0c3ed40d84c4410fac5d8a31d0ae) (发布日期: 2026-09-06)
+- [ ] [【已复现】JimuReport未授权远程代码执行(QVD-2026-61751)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507460&idx=1&sn=e53dc07f1555117353dde7e52a9ec64b) (发布日期: 2026-09-06)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [原创漏洞 | FreeRDP 客户端 X.224 routing token 堆缓冲区溢出漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508912&idx=1&sn=2f17c849f02e78979d288165b3049447](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508912&idx=1&sn=2f17c849f02e78979d288165b3049447) |
+| 2 |  ] [【安全圈】WordPress 再曝插件漏洞使数百万网站面临接管攻击风险 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=1&sn=0edc246025fac54952c7708b37605e04](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=1&sn=0edc246025fac54952c7708b37605e04) |
+| 3 |  ] [【安全圈】谷歌Chrome 152版本发布，修复漏洞CVE-2026-85046 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=2&sn=dac0f2bd379ed112cb57f96b93365b57](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=2&sn=dac0f2bd379ed112cb57f96b93365b57) |
+| 4 |  ] [【安全圈】服务器管理销售面板WHMCS出现高危安全漏洞 无需登录即可窃取用户资料 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=3&sn=a0cf0c3ed40d84c4410fac5d8a31d0ae](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=3&sn=a0cf0c3ed40d84c4410fac5d8a31d0ae) |
+| 5 |  ] [【已复现】JimuReport未授权远程代码执行(QVD-2026-61751)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507460&idx=1&sn=e53dc07f1555117353dde7e52a9ec64b](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507460&idx=1&sn=e53dc07f1555117353dde7e52a9ec64b) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【已复现】JimuReport未授权远程代码执行(QVD-2026-61751)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507460&idx=1&sn=e53dc07f1555117353dde7e52a9ec64b](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507460&idx=1&sn=e53dc07f1555117353dde7e52a9ec64b) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 9月4日 威胁情报IOC分享 | Doonsec | [https://mp.weixin.qq.com/s/880A6VTB5aPrlBZ1x-pW7w](https://mp.weixin.qq.com/s/880A6VTB5aPrlBZ1x-pW7w) |
 
 
 ## 📁 归档路径
@@ -78,8 +114,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -88,5 +124,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-06 03:42:03*
+*生成时间: 2026-09-06 08:28:58*
 *报告工具: 微信文章安全归档系统*
