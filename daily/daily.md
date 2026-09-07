@@ -2,14 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 4篇
+  - BruceFeIix: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
 
@@ -60,8 +61,15 @@
 
 ### Doonsec
 
-- [学计算机，网络安全，漏洞挖掘，电脑配置到底有没有要求](https://mp.weixin.qq.com/s/D-Ys21MXo0VahWBHkSvK6Q) (发布日期: 2026-09-07)
-- [PaperCut 双漏洞链式在野攻击爆发，欧美教育机构已遭入侵，47% 设备尚未打补丁](https://mp.weixin.qq.com/s/kvzFHISM36g-opZ0B-ZFdg) (发布日期: 2026-09-07)
+- [《网络数据安全风险评估办法》强制施行，不评估即不合规！企业最高千万罚款，负责人或面临百万追责！](https://mp.weixin.qq.com/s/TW1eHp3ESyxj_cN1gLjmLg) (发布日期: 2026-09-07)
+- [深信服运维安全管理系统 get_all_application_release 敏感信息泄露](https://mp.weixin.qq.com/s/peVdns4WP25CCLs-4-q0oQ) (发布日期: 2026-09-07)
+- [竞远安全：智能体安全服务一站式，护航湾区未来产业发展](https://mp.weixin.qq.com/s/MUx8Jj4-xNL0fVITyUnoOg) (发布日期: 2026-09-07)
+- [【安全速报】9月7日高危漏洞紧急预警](https://mp.weixin.qq.com/s/bcZRXrDIDkJFk6UkSn8LIw) (发布日期: 2026-09-07)
+
+### BruceFeIix
+
+- [ ] [活了20多年的感染型病毒网络终于被端](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188465&idx=1&sn=efc122e998a0cb79422a826f140b1120) (发布日期: 2026-09-07)
+- [ ] [后门攻击的深度分析与检测工程](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497111&idx=1&sn=f8c7939459dd3f9984eb5529a33e422a) (发布日期: 2026-09-07)
 
 
 ## 🎯 威胁详情分析
@@ -70,8 +78,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 学计算机，网络安全，漏洞挖掘，电脑配置到底有没有要求 | Doonsec | [https://mp.weixin.qq.com/s/D-Ys21MXo0VahWBHkSvK6Q](https://mp.weixin.qq.com/s/D-Ys21MXo0VahWBHkSvK6Q) |
-| 2 | PaperCut 双漏洞链式在野攻击爆发，欧美教育机构已遭入侵，47% 设备尚未打补丁 | Doonsec | [https://mp.weixin.qq.com/s/kvzFHISM36g-opZ0B-ZFdg](https://mp.weixin.qq.com/s/kvzFHISM36g-opZ0B-ZFdg) |
+| 1 | 【安全速报】9月7日高危漏洞紧急预警 | Doonsec | [https://mp.weixin.qq.com/s/bcZRXrDIDkJFk6UkSn8LIw](https://mp.weixin.qq.com/s/bcZRXrDIDkJFk6UkSn8LIw) |
 
 
 ## 📁 归档路径
@@ -87,7 +94,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -97,5 +104,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-07 03:41:37*
+*生成时间: 2026-09-07 09:06:25*
 *报告工具: 微信文章安全归档系统*
