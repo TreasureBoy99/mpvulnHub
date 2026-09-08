@@ -1,11 +1,10 @@
-# 2026-09-07 安全威胁态势报告
+# 2026-09-08 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 4篇
-  - BruceFeIix: 2篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
@@ -61,15 +60,7 @@
 
 ### Doonsec
 
-- [《网络数据安全风险评估办法》强制施行，不评估即不合规！企业最高千万罚款，负责人或面临百万追责！](https://mp.weixin.qq.com/s/TW1eHp3ESyxj_cN1gLjmLg) (发布日期: 2026-09-07)
-- [深信服运维安全管理系统 get_all_application_release 敏感信息泄露](https://mp.weixin.qq.com/s/peVdns4WP25CCLs-4-q0oQ) (发布日期: 2026-09-07)
-- [竞远安全：智能体安全服务一站式，护航湾区未来产业发展](https://mp.weixin.qq.com/s/MUx8Jj4-xNL0fVITyUnoOg) (发布日期: 2026-09-07)
-- [【安全速报】9月7日高危漏洞紧急预警](https://mp.weixin.qq.com/s/bcZRXrDIDkJFk6UkSn8LIw) (发布日期: 2026-09-07)
-
-### BruceFeIix
-
-- [ ] [活了20多年的感染型病毒网络终于被端](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188465&idx=1&sn=efc122e998a0cb79422a826f140b1120) (发布日期: 2026-09-07)
-- [ ] [后门攻击的深度分析与检测工程](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497111&idx=1&sn=f8c7939459dd3f9984eb5529a33e422a) (发布日期: 2026-09-07)
+- [【已复现】漏洞通告 | RouterOS SSH 公钥认证绕过漏洞(CVE-2026-67276)](https://mp.weixin.qq.com/s/71yNBxRnvNtHy00uiH5zOA) (发布日期: 2026-09-08)
 
 
 ## 🎯 威胁详情分析
@@ -78,12 +69,12 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全速报】9月7日高危漏洞紧急预警 | Doonsec | [https://mp.weixin.qq.com/s/bcZRXrDIDkJFk6UkSn8LIw](https://mp.weixin.qq.com/s/bcZRXrDIDkJFk6UkSn8LIw) |
+| 1 | 【已复现】漏洞通告 | RouterOS SSH 公钥认证绕过漏洞(CVE-2026-67276) | Doonsec | [https://mp.weixin.qq.com/s/71yNBxRnvNtHy00uiH5zOA](https://mp.weixin.qq.com/s/71yNBxRnvNtHy00uiH5zOA) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-09/2026-W37/2026-09-07/`
+文章已归档到: `doc/2026/2026-09/2026-W37/2026-09-08/`
 
 ## 🔗 数据源说明
 
@@ -104,5 +95,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-07 09:06:25*
+*生成时间: 2026-09-08 03:46:32*
 *报告工具: 微信文章安全归档系统*
