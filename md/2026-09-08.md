@@ -2,16 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 5篇
+  - BruceFeIix: 10篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 11篇
+- **攻击技术**: 2篇
+- **威胁情报**: 2篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,7 +64,24 @@
 
 ### Doonsec
 
-- [【已复现】漏洞通告 | RouterOS SSH 公钥认证绕过漏洞(CVE-2026-67276)](https://mp.weixin.qq.com/s/71yNBxRnvNtHy00uiH5zOA) (发布日期: 2026-09-08)
+- [第七届天津国际反病毒大会│赛可达实验室国际化服务再上新台阶](https://mp.weixin.qq.com/s/TfkTaFET4k1lbNvstaFvYw) (发布日期: 2026-09-08)
+- [天锐绿盘文档安全管理平台userExitList存在信息泄露漏洞](https://mp.weixin.qq.com/s/9eDO8xuhyTrEENhtxc-d2Q) (发布日期: 2026-09-08)
+- [AiPyxa0再获xa0OpenVPNxa0官方致谢：发现并协助修复多个安全漏洞](https://mp.weixin.qq.com/s/ftHuHkq-DChpCzpPuW0ywg) (发布日期: 2026-09-08)
+- [9月6日 威胁情报IOC分享](https://mp.weixin.qq.com/s/yBynphpGKpwbxW1yWUdWCA) (发布日期: 2026-09-08)
+- [第九期漏洞挖掘培训，1元先试水，3档任你选，带你从0挖到高危](https://mp.weixin.qq.com/s/udxrRBzhCWnudDZW4FCO9g) (发布日期: 2026-09-08)
+
+### BruceFeIix
+
+- [ ] [【在野利用】RouterOS SSH 公钥认证绕过漏洞(CVE-2026-67276)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507476&idx=1&sn=f1433d6bb553cda49e0f0b79eeab6f47) (发布日期: 2026-09-08)
+- [ ] [公安部提示：勒索病毒造成巨大损失，建议企业提高警惕！](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504902&idx=1&sn=cfb039b63f471e8de124c1284268c08d) (发布日期: 2026-09-08)
+- [ ] [AI安全案例分析 | Amazon Kiro 提示注入漏洞分析](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495503&idx=1&sn=7dc50d3545bd7c2c285a9f77a3cae46f) (发布日期: 2026-09-08)
+- [ ] [【安全圈】N-able曝CVSS满分RCE高危漏洞，五周连发四次补丁](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078730&idx=1&sn=5c707d5e3a9c1b825a661f39d92cff38) (发布日期: 2026-09-08)
+- [ ] [【安全圈】MikroTik公网SSH曝未授权漏洞，路由器遭批量劫持](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078730&idx=2&sn=5969fb87d47921e8aa0ac90771260a80) (发布日期: 2026-09-08)
+- [ ] [【安全圈】Magento曝在途利用0day，黑客无视鉴权后门电商](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078730&idx=3&sn=359e068f8ca623d04b703c03766b3c5a) (发布日期: 2026-09-08)
+- [ ] [两天挖出100+高危漏洞？Google Mandiant多智能体框架AVDH全拆解：这才是AI审计该有的样子](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142611&idx=1&sn=a065ca30d6f5a9c1799f79574cb51e61) (发布日期: 2026-09-08)
+- [ ] [默安AI红队智能体：实现7*24小时全自主红队渗透能力](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247502034&idx=1&sn=6536fee182d9590dbf74b41aa8ed2eb4) (发布日期: 2026-09-08)
+- [ ] [CNVD漏洞周报2026年第35期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497295&idx=1&sn=20d3e6ed26158f64f9d55a8e354f209f) (发布日期: 2026-09-08)
+- [ ] [上周关注度较高的产品安全漏洞(20260831-20260906)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497295&idx=2&sn=eede01bbc9dac6a1a8a7e5ae48dc5261) (发布日期: 2026-09-08)
 
 
 ## 🎯 威胁详情分析
@@ -69,7 +90,31 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【已复现】漏洞通告 | RouterOS SSH 公钥认证绕过漏洞(CVE-2026-67276) | Doonsec | [https://mp.weixin.qq.com/s/71yNBxRnvNtHy00uiH5zOA](https://mp.weixin.qq.com/s/71yNBxRnvNtHy00uiH5zOA) |
+| 1 | 天锐绿盘文档安全管理平台userExitList存在信息泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s/9eDO8xuhyTrEENhtxc-d2Q](https://mp.weixin.qq.com/s/9eDO8xuhyTrEENhtxc-d2Q) |
+| 2 | AiPyxa0再获xa0OpenVPNxa0官方致谢：发现并协助修复多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ftHuHkq-DChpCzpPuW0ywg](https://mp.weixin.qq.com/s/ftHuHkq-DChpCzpPuW0ywg) |
+| 3 | 第九期漏洞挖掘培训，1元先试水，3档任你选，带你从0挖到高危 | Doonsec | [https://mp.weixin.qq.com/s/udxrRBzhCWnudDZW4FCO9g](https://mp.weixin.qq.com/s/udxrRBzhCWnudDZW4FCO9g) |
+| 4 |  ] [【在野利用】RouterOS SSH 公钥认证绕过漏洞(CVE-2026-67276)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507476&idx=1&sn=f1433d6bb553cda49e0f0b79eeab6f47](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507476&idx=1&sn=f1433d6bb553cda49e0f0b79eeab6f47) |
+| 5 |  ] [AI安全案例分析 | Amazon Kiro 提示注入漏洞分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495503&idx=1&sn=7dc50d3545bd7c2c285a9f77a3cae46f](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495503&idx=1&sn=7dc50d3545bd7c2c285a9f77a3cae46f) |
+| 6 |  ] [【安全圈】N-able曝CVSS满分RCE高危漏洞，五周连发四次补丁 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078730&idx=1&sn=5c707d5e3a9c1b825a661f39d92cff38](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078730&idx=1&sn=5c707d5e3a9c1b825a661f39d92cff38) |
+| 7 |  ] [【安全圈】MikroTik公网SSH曝未授权漏洞，路由器遭批量劫持 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078730&idx=2&sn=5969fb87d47921e8aa0ac90771260a80](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078730&idx=2&sn=5969fb87d47921e8aa0ac90771260a80) |
+| 8 |  ] [【安全圈】Magento曝在途利用0day，黑客无视鉴权后门电商 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078730&idx=3&sn=359e068f8ca623d04b703c03766b3c5a](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078730&idx=3&sn=359e068f8ca623d04b703c03766b3c5a) |
+| 9 |  ] [两天挖出100+高危漏洞？Google Mandiant多智能体框架AVDH全拆解：这才是AI审计该有的样子 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142611&idx=1&sn=a065ca30d6f5a9c1799f79574cb51e61](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142611&idx=1&sn=a065ca30d6f5a9c1799f79574cb51e61) |
+| 10 |  ] [CNVD漏洞周报2026年第35期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497295&idx=1&sn=20d3e6ed26158f64f9d55a8e354f209f](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497295&idx=1&sn=20d3e6ed26158f64f9d55a8e354f209f) |
+| 11 |  ] [上周关注度较高的产品安全漏洞(20260831-20260906) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497295&idx=2&sn=eede01bbc9dac6a1a8a7e5ae48dc5261](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497295&idx=2&sn=eede01bbc9dac6a1a8a7e5ae48dc5261) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [AI安全案例分析 | Amazon Kiro 提示注入漏洞分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495503&idx=1&sn=7dc50d3545bd7c2c285a9f77a3cae46f](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495503&idx=1&sn=7dc50d3545bd7c2c285a9f77a3cae46f) |
+| 2 |  ] [【安全圈】N-able曝CVSS满分RCE高危漏洞，五周连发四次补丁 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078730&idx=1&sn=5c707d5e3a9c1b825a661f39d92cff38](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078730&idx=1&sn=5c707d5e3a9c1b825a661f39d92cff38) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 9月6日 威胁情报IOC分享 | Doonsec | [https://mp.weixin.qq.com/s/yBynphpGKpwbxW1yWUdWCA](https://mp.weixin.qq.com/s/yBynphpGKpwbxW1yWUdWCA) |
+| 2 |  ] [公安部提示：勒索病毒造成巨大损失，建议企业提高警惕！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504902&idx=1&sn=cfb039b63f471e8de124c1284268c08d](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504902&idx=1&sn=cfb039b63f471e8de124c1284268c08d) |
 
 
 ## 📁 归档路径
@@ -85,8 +130,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -95,5 +140,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-08 03:46:32*
+*生成时间: 2026-09-08 08:43:31*
 *报告工具: 微信文章安全归档系统*
