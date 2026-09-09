@@ -2,21 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 26
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 8篇
-  - BruceFeIix: 18篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 12篇
-- **攻击技术**: 2篇
-- **安全运营**: 2篇
+- **威胁情报**: 1篇
 - **供应链**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 2篇
 
 ## 🔍 匹配规则
 
@@ -65,75 +61,22 @@
 
 ### Doonsec
 
-- [【漏洞通告】微软9月多个安全漏洞](https://mp.weixin.qq.com/s/p-HXXlx6SY2XkVH3R5hLqA) (发布日期: 2026-09-09)
-- [同样被黑进域控，为什么有的企业毫无察觉，有的却能快速反应？](https://mp.weixin.qq.com/s/JqYkw7Ceo2fXuRSPFmHtXg) (发布日期: 2026-09-09)
-- [国家安全部警示：军事禁区不可越界；欧盟《网络弹性法案》漏洞披露相关义务将于2026年9月11日正式生效 | 牛览](https://mp.weixin.qq.com/s/upYdPZxCA9Kd4cZ-Lu1UqA) (发布日期: 2026-09-09)
-- [下周一正式开始｜16家SRC邀您加入双11安全保卫战](https://mp.weixin.qq.com/s/tAPpwkZbaikjLsf4mMffeQ) (发布日期: 2026-09-09)
-- [微信零点击蠕虫病毒通过来电入侵iPhone和安卓手机账户](https://mp.weixin.qq.com/s/42R20xVngjT-O-Jx_G6Now) (发布日期: 2026-09-09)
-- [中储棉花信息中心社会招聘网络安全工程师](https://mp.weixin.qq.com/s/WOyw957DM0YPuYpivPgGnA) (发布日期: 2026-09-09)
-- [千人大帮会｜100T资源终身独享｜CISP/PTE考证底价｜18年网安大佬带队](https://mp.weixin.qq.com/s/Kz7H25C_hup3WsRlXvpCQw) (发布日期: 2026-09-09)
-- [SAP 提醒注意满分 “OVERPASS” 内核漏洞](https://mp.weixin.qq.com/s/XMloH8KZLXuf0gD56mVapg) (发布日期: 2026-09-09)
-
-### BruceFeIix
-
-- [ ] [ConnectWise 为 ScreenConnect 新漏洞发布临时缓解措施](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527055&idx=1&sn=6602e304c6ef45d8b67b25a555374868) (发布日期: 2026-09-09)
-- [ ] [N-able 紧急修复正遭利用的CVSS 满分 N-central RCE 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527055&idx=2&sn=5548cd5e1fbb288e5c71c1c2cbf20b04) (发布日期: 2026-09-09)
-- [ ] [原创漏洞 | Bochs 模拟器 guest 逃逸漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508916&idx=1&sn=a7471abf945e1e7c336b4939d5bea13d) (发布日期: 2026-09-09)
-- [ ] [补丁无效、防火墙拦不住：AI正批量攻击工控PLC！](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651143873&idx=1&sn=8595c5301930173cf4ad053cd3f2b977) (发布日期: 2026-09-09)
-- [ ] [14小时的信任劫持：Coder模块注册表供应链攻击事件深度复盘](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520276&idx=1&sn=c79ece0e56c0524b4614b87ee868af99) (发布日期: 2026-09-09)
-- [ ] [【已复现】Google Chrome V8 类型混淆漏洞(CVE-2026-85046)安全风险通告第二次更新](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507491&idx=1&sn=ee38556ebfeda36d8ae58c0868506374) (发布日期: 2026-09-09)
-- [ ] [给电动车充个电，整个城市网络都被“蠕虫”爬遍了——Black Hat 2026最骇人演示解析](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142626&idx=1&sn=7c522b785cda76a2b51e0e1d74f5d714) (发布日期: 2026-09-09)
-- [ ] [最高法发布首部涉AI司法规则，明确“AI幻觉”侵权与“避风港规则”适用边界；CNVD周报：0day漏洞占比达85% | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142626&idx=2&sn=287b8054d6eb2c6811201388c742249d) (发布日期: 2026-09-09)
-- [ ] [从CrowdStrike Charlotte AI到青藤无相AI，解密多智能体安全架构的底层逻辑](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851808&idx=1&sn=4305ab846258669fac0258a1d5383dec) (发布日期: 2026-09-09)
-- [ ] [AI智能体遭恶意“投毒” 专家解读网络安全防护新方法](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504941&idx=1&sn=c3e2888a2e2c8b65c59096c3fe45a6b7) (发布日期: 2026-09-09)
-- [ ] [「每一份漏洞提交，都值得一轮明月——致白帽子的中秋礼」](https://mp.weixin.qq.com/s?__biz=MzI5MDc4MTM3Mg==&mid=2247494928&idx=1&sn=e14bb8a5d054f09f5afd84bd710f0f24) (发布日期: 2026-09-09)
-- [ ] [CNVD漏洞周报2026年第35期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502115&idx=1&sn=9fbed1a6b8ca5f4f6dd69c9c71d2abf9) (发布日期: 2026-09-09)
-- [ ] [【安全圈】PEEP后门劫持Chrome与Edge：伪造哈希执行主机指令](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078769&idx=3&sn=3dbaad40814863f21c5f65de073c6905) (发布日期: 2026-09-09)
-- [ ] [【安全圈】ConnectWise警告ScreenConnect曝0day漏洞：遭黑客反弹木马](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078769&idx=4&sn=d4517d8d4e4ad235ccb5d340ea30c836) (发布日期: 2026-09-09)
-- [ ] [盯上网吧终端：挖矿木马借漏洞驱动窃取游戏账号凭证](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537219&idx=1&sn=d36fc5d01f4400acad7aaf9e0cdd0066) (发布日期: 2026-09-09)
-- [ ] [特别奖励揭晓｜16家SRC邀您加入双11安全保卫战](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652999104&idx=1&sn=e9c6fa7a358ae6561774a04468e3fb14) (发布日期: 2026-09-09)
-- [ ] [观点 | 系统构建动态协同的个人信息泄露治理机制](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664266359&idx=5&sn=61aa9473830a41992480b7e2d2dd9c1e) (发布日期: 2026-09-09)
-- [ ] [Liquid Network 3.2 亿美元安全事件技术分析](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484706&idx=1&sn=c5dba95e709af7a77da80a775dabb1d0) (发布日期: 2026-09-09)
+- [面向即时通讯工具的输入伪装与检测绕过：银狐类生态中 Hook 组件的技术迭代](https://mp.weixin.qq.com/s/2uOSVkHA2prvIGaUaSdRrg) (发布日期: 2026-09-09)
 
 
 ## 🎯 威胁详情分析
 
-### 漏洞利用
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【漏洞通告】微软9月多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/p-HXXlx6SY2XkVH3R5hLqA](https://mp.weixin.qq.com/s/p-HXXlx6SY2XkVH3R5hLqA) |
-| 2 | 国家安全部警示：军事禁区不可越界；欧盟《网络弹性法案》漏洞披露相关义务将于2026年9月11日正式生效 | 牛览 | Doonsec | [https://mp.weixin.qq.com/s/upYdPZxCA9Kd4cZ-Lu1UqA](https://mp.weixin.qq.com/s/upYdPZxCA9Kd4cZ-Lu1UqA) |
-| 3 | SAP 提醒注意满分 “OVERPASS” 内核漏洞 | Doonsec | [https://mp.weixin.qq.com/s/XMloH8KZLXuf0gD56mVapg](https://mp.weixin.qq.com/s/XMloH8KZLXuf0gD56mVapg) |
-| 4 |  ] [ConnectWise 为 ScreenConnect 新漏洞发布临时缓解措施 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527055&idx=1&sn=6602e304c6ef45d8b67b25a555374868](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527055&idx=1&sn=6602e304c6ef45d8b67b25a555374868) |
-| 5 |  ] [N-able 紧急修复正遭利用的CVSS 满分 N-central RCE 漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527055&idx=2&sn=5548cd5e1fbb288e5c71c1c2cbf20b04](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527055&idx=2&sn=5548cd5e1fbb288e5c71c1c2cbf20b04) |
-| 6 |  ] [原创漏洞 | Bochs 模拟器 guest 逃逸漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508916&idx=1&sn=a7471abf945e1e7c336b4939d5bea13d](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508916&idx=1&sn=a7471abf945e1e7c336b4939d5bea13d) |
-| 7 |  ] [【已复现】Google Chrome V8 类型混淆漏洞(CVE-2026-85046)安全风险通告第二次更新 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507491&idx=1&sn=ee38556ebfeda36d8ae58c0868506374](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507491&idx=1&sn=ee38556ebfeda36d8ae58c0868506374) |
-| 8 |  ] [最高法发布首部涉AI司法规则，明确“AI幻觉”侵权与“避风港规则”适用边界；CNVD周报：0day漏洞占比达85% | 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142626&idx=2&sn=287b8054d6eb2c6811201388c742249d](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142626&idx=2&sn=287b8054d6eb2c6811201388c742249d) |
-| 9 |  ] [「每一份漏洞提交，都值得一轮明月——致白帽子的中秋礼」 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5MDc4MTM3Mg==&mid=2247494928&idx=1&sn=e14bb8a5d054f09f5afd84bd710f0f24](https://mp.weixin.qq.com/s?__biz=MzI5MDc4MTM3Mg==&mid=2247494928&idx=1&sn=e14bb8a5d054f09f5afd84bd710f0f24) |
-| 10 |  ] [CNVD漏洞周报2026年第35期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502115&idx=1&sn=9fbed1a6b8ca5f4f6dd69c9c71d2abf9](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502115&idx=1&sn=9fbed1a6b8ca5f4f6dd69c9c71d2abf9) |
-| 11 |  ] [【安全圈】ConnectWise警告ScreenConnect曝0day漏洞：遭黑客反弹木马 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078769&idx=4&sn=d4517d8d4e4ad235ccb5d340ea30c836](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078769&idx=4&sn=d4517d8d4e4ad235ccb5d340ea30c836) |
-| 12 |  ] [盯上网吧终端：挖矿木马借漏洞驱动窃取游戏账号凭证 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537219&idx=1&sn=d36fc5d01f4400acad7aaf9e0cdd0066](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537219&idx=1&sn=d36fc5d01f4400acad7aaf9e0cdd0066) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 同样被黑进域控，为什么有的企业毫无察觉，有的却能快速反应？ | Doonsec | [https://mp.weixin.qq.com/s/JqYkw7Ceo2fXuRSPFmHtXg](https://mp.weixin.qq.com/s/JqYkw7Ceo2fXuRSPFmHtXg) |
-| 2 |  ] [N-able 紧急修复正遭利用的CVSS 满分 N-central RCE 漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527055&idx=2&sn=5548cd5e1fbb288e5c71c1c2cbf20b04](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527055&idx=2&sn=5548cd5e1fbb288e5c71c1c2cbf20b04) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 下周一正式开始｜16家SRC邀您加入双11安全保卫战 | Doonsec | [https://mp.weixin.qq.com/s/tAPpwkZbaikjLsf4mMffeQ](https://mp.weixin.qq.com/s/tAPpwkZbaikjLsf4mMffeQ) |
-| 2 |  ] [特别奖励揭晓｜16家SRC邀您加入双11安全保卫战 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652999104&idx=1&sn=e9c6fa7a358ae6561774a04468e3fb14](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652999104&idx=1&sn=e9c6fa7a358ae6561774a04468e3fb14) |
+| 1 | 面向即时通讯工具的输入伪装与检测绕过：银狐类生态中 Hook 组件的技术迭代 | Doonsec | [https://mp.weixin.qq.com/s/2uOSVkHA2prvIGaUaSdRrg](https://mp.weixin.qq.com/s/2uOSVkHA2prvIGaUaSdRrg) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [14小时的信任劫持：Coder模块注册表供应链攻击事件深度复盘 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520276&idx=1&sn=c79ece0e56c0524b4614b87ee868af99](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520276&idx=1&sn=c79ece0e56c0524b4614b87ee868af99) |
+| 1 | 面向即时通讯工具的输入伪装与检测绕过：银狐类生态中 Hook 组件的技术迭代 | Doonsec | [https://mp.weixin.qq.com/s/2uOSVkHA2prvIGaUaSdRrg](https://mp.weixin.qq.com/s/2uOSVkHA2prvIGaUaSdRrg) |
 
 
 ## 📁 归档路径
@@ -149,8 +92,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 12 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **威胁情报** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -159,5 +102,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-09 08:49:59*
+*生成时间: 2026-09-09 16:12:53*
 *报告工具: 微信文章安全归档系统*
