@@ -1,4 +1,4 @@
-# 2026-09-08 安全威胁态势报告
+# 2026-09-09 安全威胁态势报告
 
 ## 📊 数据概览
 
@@ -10,8 +10,10 @@
 
 ### 威胁类型分布
 - **漏洞利用**: 1篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,9 +62,9 @@
 
 ### Doonsec
 
-- [观点 | 系统构建动态协同的个人信息泄露治理机制](https://mp.weixin.qq.com/s/GYULjKnzRwH4H9DVLcZZ9A) (发布日期: 2026-09-08)
-- [行业资讯｜ Chrome等高危漏洞被积极利用  &amp;网络安全项目中标情况汇总（9月8日）](https://mp.weixin.qq.com/s/g_HDhBcEJt9zWRayt1DW0g) (发布日期: 2026-09-08)
-- [渗透测试必备工具：SQLMap实操指导教程](https://mp.weixin.qq.com/s/8bn9C83ULYnwGmt5E13ong) (发布日期: 2026-09-08)
+- [基于大模型的网络安全渗透测试系统 -- AegisAI（神盾）](https://mp.weixin.qq.com/s/wMHJt71d1VuQ91lk4DdGtg) (发布日期: 2026-09-09)
+- [WeWorm：首个通过iOS和Android微信通话传播的零点击蠕虫病毒](https://mp.weixin.qq.com/s/DnF5RKpwiP6QM16VXN7N2Q) (发布日期: 2026-09-09)
+- [漏洞通告|DELL Cloud Disaster Recovery操作系统命令注入漏洞(CVE-2026-71171)](https://mp.weixin.qq.com/s/oEuv8YWvwNmf2JozL5SiXw) (发布日期: 2026-09-09)
 
 
 ## 🎯 威胁详情分析
@@ -71,12 +73,18 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 行业资讯｜ Chrome等高危漏洞被积极利用  &amp;网络安全项目中标情况汇总（9月8日） | Doonsec | [https://mp.weixin.qq.com/s/g_HDhBcEJt9zWRayt1DW0g](https://mp.weixin.qq.com/s/g_HDhBcEJt9zWRayt1DW0g) |
+| 1 | 漏洞通告|DELL Cloud Disaster Recovery操作系统命令注入漏洞(CVE-2026-71171) | Doonsec | [https://mp.weixin.qq.com/s/oEuv8YWvwNmf2JozL5SiXw](https://mp.weixin.qq.com/s/oEuv8YWvwNmf2JozL5SiXw) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 漏洞通告|DELL Cloud Disaster Recovery操作系统命令注入漏洞(CVE-2026-71171) | Doonsec | [https://mp.weixin.qq.com/s/oEuv8YWvwNmf2JozL5SiXw](https://mp.weixin.qq.com/s/oEuv8YWvwNmf2JozL5SiXw) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-09/2026-W37/2026-09-08/`
+文章已归档到: `doc/2026/2026-09/2026-W37/2026-09-09/`
 
 ## 🔗 数据源说明
 
@@ -88,7 +96,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -97,5 +105,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-08 16:18:15*
+*生成时间: 2026-09-09 03:51:01*
 *报告工具: 微信文章安全归档系统*
