@@ -117639,3 +117639,58 @@
 2026-09-12 08:30:00,711 - INFO - 正在发送Discord日报通知: 2026-09-12
 2026-09-12 08:30:01,095 - INFO - Discord日报发送结果: 204
 2026-09-12 08:30:01,096 - INFO - === 执行完成 ===
+2026-09-12 15:15:26,806 - INFO - === 开始执行微信文章归档工具 ===
+2026-09-12 15:15:26,806 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-09-12 15:15:26,806 - INFO - 正在发送Discord启动通知...
+2026-09-12 15:15:27,241 - INFO - Discord启动通知发送结果: 204
+2026-09-12 15:15:27,242 - INFO - 数据文件: data.json
+2026-09-12 15:15:27,242 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-09-12 15:15:27,243 - INFO - 文档目录: doc
+2026-09-12 15:15:27,314 - INFO - 已加载 49459 条历史记录
+2026-09-12 15:15:27,314 - INFO - === 开始今日拉取 ===
+2026-09-12 15:15:27,315 - INFO - 开始获取Doonsec RSS
+2026-09-12 15:15:27,315 - INFO - 目标日期: 2026-09-12
+2026-09-12 15:15:28,896 - INFO - Doonsec RSS请求成功
+2026-09-12 15:15:28,897 - INFO - RSS中共有 200 个条目
+2026-09-12 15:15:28,898 - INFO - Doonsec获取到 94 个2026-09-12的微信文章URL
+2026-09-12 15:15:28,899 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-09-12.md
+2026-09-12 15:15:29,054 - INFO - ChainReactors md文件下载状态码: 404
+2026-09-12 15:15:29,054 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-09-12.md 状态码: 404
+2026-09-12 15:15:29,054 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-09-12.md
+2026-09-12 15:15:29,125 - INFO - BruceFeIix md文件下载状态码: 200
+2026-09-12 15:15:29,127 - INFO - BruceFeIix获取到 215 个URL
+2026-09-12 15:15:29,127 - INFO - === 开始处理 2026-09-12 的数据 ===
+2026-09-12 15:15:29,127 - INFO - Doonsec原始数据: 94 个
+2026-09-12 15:15:29,127 - INFO - ChainReactors原始数据: 0 个
+2026-09-12 15:15:29,127 - INFO - BruceFeIix原始数据: 215 个
+2026-09-12 15:15:29,127 - INFO - 开始处理Doonsec数据...
+2026-09-12 15:15:29,128 - INFO - 开始处理ChainReactors数据...
+2026-09-12 15:15:29,128 - INFO - 开始处理BruceFeIix数据...
+2026-09-12 15:15:29,128 - INFO - 去重后共 209 个URL待处理，跳过 100 个重复URL
+2026-09-12 15:15:29,128 - INFO - 去重后统计 - Doonsec: 75 个, ChainReactors: 0 个, BruceFeIix: 134 个
+2026-09-12 15:15:29,128 - INFO - === 开始关键词过滤 ===
+2026-09-12 15:15:29,136 - INFO - 关键词过滤: 匹配 8 个，跳过 201 个
+2026-09-12 15:15:29,136 - INFO - 关键词过滤后统计 - Doonsec: 8 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-09-12 15:15:29,151 - INFO - 已创建每日报告: md/2026-09-12.md
+2026-09-12 15:15:29,151 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-09-12 15:15:29,151 - INFO - 正在发送Discord通知: (9.1分) CVE-2026-89009：WAVLINK 路由器未认证任意文件写入，可远程提权 root
+2026-09-12 15:15:29,435 - INFO - Discord通知发送结果: 204
+2026-09-12 15:15:29,436 - INFO - 正在发送Discord通知: 厦门四信通信科技 userLogin.do SQL注入漏洞
+2026-09-12 15:15:29,733 - INFO - Discord通知发送结果: 204
+2026-09-12 15:15:29,734 - INFO - 正在发送Discord通知: 黑客正积极利用 MikroTik RouterOS 的 MikroTrick 漏洞来完全控制路由器
+2026-09-12 15:15:30,818 - INFO - Discord通知发送结果: 204
+2026-09-12 15:15:30,819 - INFO - 正在发送Discord通知: 【安全圈】GitLab曝CVSS 10满分漏洞：免密盗源码，数小时遭在野狂扫
+2026-09-12 15:15:31,127 - INFO - Discord通知发送结果: 204
+2026-09-12 15:15:31,128 - INFO - 正在发送Discord通知: 36个PDF红队知识笔记知识总结（附下载链接）
+2026-09-12 15:15:31,490 - INFO - Discord通知发送结果: 204
+2026-09-12 15:15:31,491 - INFO - 正在发送Discord通知: DeepSeek Harness渗透测试版
+2026-09-12 15:15:31,836 - INFO - Discord通知发送结果: 204
+2026-09-12 15:15:31,837 - INFO - 正在发送Discord通知: 103种蜜罐 + AI威胁分析：这个开源Honeynet到底有多能打？
+2026-09-12 15:15:32,134 - INFO - Discord通知发送结果: 204
+2026-09-12 15:15:32,135 - INFO - 正在发送Discord通知: [更新]红队DLL劫持工具v1.3.1：MCP支持，AI对话即可生成
+2026-09-12 15:15:32,674 - INFO - Discord通知发送结果: 204
+2026-09-12 15:15:32,763 - INFO - 已更新data.json，添加了 8 个URL
+2026-09-12 15:15:32,763 - INFO - 已创建每日报告: md/2026-09-12.md
+2026-09-12 15:15:32,764 - INFO - 正在发送Discord日报通知: 2026-09-12
+2026-09-12 15:15:33,051 - INFO - Discord日报发送结果: 204
+2026-09-12 15:15:33,052 - INFO - === 执行完成 ===
