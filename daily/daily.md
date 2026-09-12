@@ -1,21 +1,21 @@
-# 2026-09-11 安全威胁态势报告
+# 2026-09-12 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 12
+- **总文章数**: 14
 - **数据源分布**:
-  - Doonsec: 12篇
+  - Doonsec: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 9篇
+- **攻击技术**: 2篇
 - **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **Web安全**: 2篇
 
 ## 🔍 匹配规则
 
@@ -64,18 +64,20 @@
 
 ### Doonsec
 
-- [【已复现】GitLab 满分路径遍历漏洞，可未授权读取服务器任意文件（CVE-2026-85706）](https://mp.weixin.qq.com/s/dzLXMIpIiqWwJSpDD-OL2g) (发布日期: 2026-09-11)
-- [WeWorm：微信零点击蠕虫的红蓝对抗启示](https://mp.weixin.qq.com/s/aLSCqDCCcSA7L7sTHR0llg) (发布日期: 2026-09-11)
-- [97.28%成功率！沥泉科技WeepStone完成CyberGym Level 1漏洞复现测试](https://mp.weixin.qq.com/s/ABCmXoVDwNxI_iKvj3Sk2g) (发布日期: 2026-09-11)
-- [AI与云安全事件案例分析周报｜2026.09.07 - 2026.09.11](https://mp.weixin.qq.com/s/7kd1yBqekVmx3jonqKQFSg) (发布日期: 2026-09-11)
-- [安全威胁情报周报（2026/09/05-2026/09/11）](https://mp.weixin.qq.com/s/crEVNB1SgUlyTA7Qvhc_ZQ) (发布日期: 2026-09-11)
-- [【通知】关于讯飞SRC暂停接收安全漏洞的通知](https://mp.weixin.qq.com/s/68Oq4r5lF2rEUfAsmHt98g) (发布日期: 2026-09-11)
-- [安全开发工程师招募!](https://mp.weixin.qq.com/s/bivH1bIDRyh4zE7Vaoz02A) (发布日期: 2026-09-11)
-- [【已复现】漏洞通告 | JumpServer Access Key 越权泄露漏洞](https://mp.weixin.qq.com/s/Fb8EEGUbipH2Y66hBdKn8A) (发布日期: 2026-09-11)
-- [Check Point 提醒注意两个严重的未认证 RCE 漏洞](https://mp.weixin.qq.com/s/QGDB2_-2Tom3ExB1BZvGeg) (发布日期: 2026-09-11)
-- [速修复这些 Apache Aremis 漏洞](https://mp.weixin.qq.com/s/LIu2Lci38T6ThERDeN03SQ) (发布日期: 2026-09-11)
-- [安全开发工程师招募BASE上海](https://mp.weixin.qq.com/s/SUOIp51211MPLFtvVH05WQ) (发布日期: 2026-09-11)
-- [2026 CCS | “第二届基础软硬件智能化漏洞治理生态创新技术交流活动”议程公布](https://mp.weixin.qq.com/s/QLq_fhOx_lSuvWTwfSPW3w) (发布日期: 2026-09-11)
+- [【附exp】GitLab CVE-2026-85706 未授权路径遍历](https://mp.weixin.qq.com/s/3VE5MmFzzxyNr1FjNfcoRw) (发布日期: 2026-09-12)
+- [某一线互联网大厂AI安全工程师，秋招面经](https://mp.weixin.qq.com/s/70KM1NqPoGMdfQEzl-jGwg) (发布日期: 2026-09-12)
+- [用友时空KSOA resubject 存在sql注入漏洞](https://mp.weixin.qq.com/s/vb3yjzvlHMIHJGJs3NIe3Q) (发布日期: 2026-09-12)
+- [用友NC Cloud accept.jsp接口存在任意文件上传漏洞](https://mp.weixin.qq.com/s/tn8lOumHI6Lr7CPmLjESbA) (发布日期: 2026-09-12)
+- [从脚本小子到 AI 小子：漏洞报告成本归零之后](https://mp.weixin.qq.com/s/FOtsCdNuB2vQqUAwiG7pvw) (发布日期: 2026-09-12)
+- [10分漏洞：GitLab未授权任意文件读取](https://mp.weixin.qq.com/s/RJQI_HqqfmcS-3ImEvAXYQ) (发布日期: 2026-09-12)
+- [一周安全事件回顾：境外平台数据泄露频发，中国用户隐私谁来保护？](https://mp.weixin.qq.com/s/kIA0Xja8rbHkDQtHNyDeXA) (发布日期: 2026-09-12)
+- [工业设备出海的网络安全合规——IEC 62443、NIS2和CRA怎么选？别再搞混了](https://mp.weixin.qq.com/s/q2SCbSFZ8S9G48fh67SxKw) (发布日期: 2026-09-12)
+- [2026“铸牢防线护航云网”云南省信息通信网络安全实网攻防演练暨技能竞赛正式启幕](https://mp.weixin.qq.com/s/-5AM6xZWScuTP5c7Vkr9PQ) (发布日期: 2026-09-12)
+- [一日四停：四家头部SRC同日按下暂停接收漏洞](https://mp.weixin.qq.com/s/SheB9NUayWaTBOjdvn9qSw) (发布日期: 2026-09-12)
+- [被当作透明管道的中转站：一次6TB泄露，暴露19家企业内网凭证](https://mp.weixin.qq.com/s/7FdA96qBTZGy3KlhU2eqwQ) (发布日期: 2026-09-12)
+- [Chrome V8 引擎遭类型混淆攻击——CVE-2026-85046 实战解析与 POC](https://mp.weixin.qq.com/s/LC1ZLpWExfJBZck8E92Wwg) (发布日期: 2026-09-12)
+- [工具分享 | 一款若依（Ruoyi-Vue）漏洞检测工具](https://mp.weixin.qq.com/s/KRkVcTWfKueuoUJo_pPVAQ) (发布日期: 2026-09-12)
+- [【热点安全风险】9月12日 | rclone双高危认证绕过同日修补，S3服务与远程控制接口可被无认证接管（CVE-2026-88018/CVE-2026-88044）](https://mp.weixin.qq.com/s/ufx42QP9mtVjnM_DLqeS0A) (发布日期: 2026-09-12)
 
 
 ## 🎯 威胁详情分析
@@ -84,36 +86,39 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【已复现】GitLab 满分路径遍历漏洞，可未授权读取服务器任意文件（CVE-2026-85706） | Doonsec | [https://mp.weixin.qq.com/s/dzLXMIpIiqWwJSpDD-OL2g](https://mp.weixin.qq.com/s/dzLXMIpIiqWwJSpDD-OL2g) |
-| 2 | 97.28%成功率！沥泉科技WeepStone完成CyberGym Level 1漏洞复现测试 | Doonsec | [https://mp.weixin.qq.com/s/ABCmXoVDwNxI_iKvj3Sk2g](https://mp.weixin.qq.com/s/ABCmXoVDwNxI_iKvj3Sk2g) |
-| 3 | 【通知】关于讯飞SRC暂停接收安全漏洞的通知 | Doonsec | [https://mp.weixin.qq.com/s/68Oq4r5lF2rEUfAsmHt98g](https://mp.weixin.qq.com/s/68Oq4r5lF2rEUfAsmHt98g) |
-| 4 | 【已复现】漏洞通告 | JumpServer Access Key 越权泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Fb8EEGUbipH2Y66hBdKn8A](https://mp.weixin.qq.com/s/Fb8EEGUbipH2Y66hBdKn8A) |
-| 5 | Check Point 提醒注意两个严重的未认证 RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/QGDB2_-2Tom3ExB1BZvGeg](https://mp.weixin.qq.com/s/QGDB2_-2Tom3ExB1BZvGeg) |
-| 6 | 速修复这些 Apache Aremis 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/LIu2Lci38T6ThERDeN03SQ](https://mp.weixin.qq.com/s/LIu2Lci38T6ThERDeN03SQ) |
-| 7 | 2026 CCS | “第二届基础软硬件智能化漏洞治理生态创新技术交流活动”议程公布 | Doonsec | [https://mp.weixin.qq.com/s/QLq_fhOx_lSuvWTwfSPW3w](https://mp.weixin.qq.com/s/QLq_fhOx_lSuvWTwfSPW3w) |
+| 1 | 【附exp】GitLab CVE-2026-85706 未授权路径遍历 | Doonsec | [https://mp.weixin.qq.com/s/3VE5MmFzzxyNr1FjNfcoRw](https://mp.weixin.qq.com/s/3VE5MmFzzxyNr1FjNfcoRw) |
+| 2 | 用友时空KSOA resubject 存在sql注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/vb3yjzvlHMIHJGJs3NIe3Q](https://mp.weixin.qq.com/s/vb3yjzvlHMIHJGJs3NIe3Q) |
+| 3 | 用友NC Cloud accept.jsp接口存在任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/tn8lOumHI6Lr7CPmLjESbA](https://mp.weixin.qq.com/s/tn8lOumHI6Lr7CPmLjESbA) |
+| 4 | 从脚本小子到 AI 小子：漏洞报告成本归零之后 | Doonsec | [https://mp.weixin.qq.com/s/FOtsCdNuB2vQqUAwiG7pvw](https://mp.weixin.qq.com/s/FOtsCdNuB2vQqUAwiG7pvw) |
+| 5 | 10分漏洞：GitLab未授权任意文件读取 | Doonsec | [https://mp.weixin.qq.com/s/RJQI_HqqfmcS-3ImEvAXYQ](https://mp.weixin.qq.com/s/RJQI_HqqfmcS-3ImEvAXYQ) |
+| 6 | 一日四停：四家头部SRC同日按下暂停接收漏洞 | Doonsec | [https://mp.weixin.qq.com/s/SheB9NUayWaTBOjdvn9qSw](https://mp.weixin.qq.com/s/SheB9NUayWaTBOjdvn9qSw) |
+| 7 | Chrome V8 引擎遭类型混淆攻击——CVE-2026-85046 实战解析与 POC | Doonsec | [https://mp.weixin.qq.com/s/LC1ZLpWExfJBZck8E92Wwg](https://mp.weixin.qq.com/s/LC1ZLpWExfJBZck8E92Wwg) |
+| 8 | 工具分享 | 一款若依（Ruoyi-Vue）漏洞检测工具 | Doonsec | [https://mp.weixin.qq.com/s/KRkVcTWfKueuoUJo_pPVAQ](https://mp.weixin.qq.com/s/KRkVcTWfKueuoUJo_pPVAQ) |
+| 9 | 【热点安全风险】9月12日 | rclone双高危认证绕过同日修补，S3服务与远程控制接口可被无认证接管（CVE-2026-88018/CVE-2026-88044） | Doonsec | [https://mp.weixin.qq.com/s/ufx42QP9mtVjnM_DLqeS0A](https://mp.weixin.qq.com/s/ufx42QP9mtVjnM_DLqeS0A) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Check Point 提醒注意两个严重的未认证 RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/QGDB2_-2Tom3ExB1BZvGeg](https://mp.weixin.qq.com/s/QGDB2_-2Tom3ExB1BZvGeg) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 安全威胁情报周报（2026/09/05-2026/09/11） | Doonsec | [https://mp.weixin.qq.com/s/crEVNB1SgUlyTA7Qvhc_ZQ](https://mp.weixin.qq.com/s/crEVNB1SgUlyTA7Qvhc_ZQ) |
+| 1 | 用友时空KSOA resubject 存在sql注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/vb3yjzvlHMIHJGJs3NIe3Q](https://mp.weixin.qq.com/s/vb3yjzvlHMIHJGJs3NIe3Q) |
+| 2 | 被当作透明管道的中转站：一次6TB泄露，暴露19家企业内网凭证 | Doonsec | [https://mp.weixin.qq.com/s/7FdA96qBTZGy3KlhU2eqwQ](https://mp.weixin.qq.com/s/7FdA96qBTZGy3KlhU2eqwQ) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【通知】关于讯飞SRC暂停接收安全漏洞的通知 | Doonsec | [https://mp.weixin.qq.com/s/68Oq4r5lF2rEUfAsmHt98g](https://mp.weixin.qq.com/s/68Oq4r5lF2rEUfAsmHt98g) |
+| 1 | 一日四停：四家头部SRC同日按下暂停接收漏洞 | Doonsec | [https://mp.weixin.qq.com/s/SheB9NUayWaTBOjdvn9qSw](https://mp.weixin.qq.com/s/SheB9NUayWaTBOjdvn9qSw) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 一周安全事件回顾：境外平台数据泄露频发，中国用户隐私谁来保护？ | Doonsec | [https://mp.weixin.qq.com/s/kIA0Xja8rbHkDQtHNyDeXA](https://mp.weixin.qq.com/s/kIA0Xja8rbHkDQtHNyDeXA) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-09/2026-W37/2026-09-11/`
+文章已归档到: `doc/2026/2026-09/2026-W37/2026-09-12/`
 
 ## 🔗 数据源说明
 
@@ -124,8 +129,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -134,5 +139,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-11 16:08:13*
+*生成时间: 2026-09-12 03:50:21*
 *报告工具: 微信文章安全归档系统*
