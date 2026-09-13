@@ -1,19 +1,22 @@
-# 2026-09-12 安全威胁态势报告
+# 2026-09-13 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 6篇
+- **攻击技术**: 3篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **Web安全**: 2篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,14 +65,17 @@
 
 ### Doonsec
 
-- [(9.1分) CVE-2026-89009：WAVLINK 路由器未认证任意文件写入，可远程提权 root](https://mp.weixin.qq.com/s/GoWqN3RysQSnDmBr-rB3xQ) (发布日期: 2026-09-12)
-- [厦门四信通信科技 userLogin.do SQL注入漏洞](https://mp.weixin.qq.com/s/8FstaTft_R3QDoKPPyCBew) (发布日期: 2026-09-12)
-- [黑客正积极利用 MikroTik RouterOS 的 MikroTrick 漏洞来完全控制路由器](https://mp.weixin.qq.com/s/lobtV2MSNLA-8Tc-XvHBAQ) (发布日期: 2026-09-12)
-- [【安全圈】GitLab曝CVSS 10满分漏洞：免密盗源码，数小时遭在野狂扫](https://mp.weixin.qq.com/s/4m54ExpMl47aP4hLf-4HXA) (发布日期: 2026-09-12)
-- [36个PDF红队知识笔记知识总结（附下载链接）](https://mp.weixin.qq.com/s/Z-cnXZKYoHWnef2ZwYQATw) (发布日期: 2026-09-12)
-- [DeepSeek Harness渗透测试版](https://mp.weixin.qq.com/s/KmlvcBkP1CQ1w-7r7Lj6rQ) (发布日期: 2026-09-12)
-- [103种蜜罐 + AI威胁分析：这个开源Honeynet到底有多能打？](https://mp.weixin.qq.com/s/I7C6vNhTOpR0tMH65J0DYA) (发布日期: 2026-09-12)
-- [[更新]红队DLL劫持工具v1.3.1：MCP支持，AI对话即可生成](https://mp.weixin.qq.com/s/zijrAB_gKIG74znpDU5c8A) (发布日期: 2026-09-12)
+- [「Inspect AI开源评测框架实测：LLM安全评估+CTF基准，英国AI安全研究所出品」](https://mp.weixin.qq.com/s/_z4IXIIsOjJyfKolF6SBWw) (发布日期: 2026-09-13)
+- [19.9 美元路由拆到 RCE：Dbit N300 UART + Boa 溢出（CVE-2026-20374）](https://mp.weixin.qq.com/s/B2edlxX9t3rWMb__CcLPVA) (发布日期: 2026-09-13)
+- [千人大帮会｜网盘资源终身领取｜CISP/PTE考证底价｜18年网安大佬带队](https://mp.weixin.qq.com/s/LUMjvsOGCmQWobwMRAz_6Q) (发布日期: 2026-09-13)
+- [Fortinet 特权访问代理漏洞：任意网站都能接管你的代理和屏幕](https://mp.weixin.qq.com/s/wyz2F_7Q8OrcUl_V8ObEsQ) (发布日期: 2026-09-13)
+- [银狐转向『点名式』精准诈骗：官方月报定调定向攻击升级，借壳目标蔓延至AnyDesk与Chrome](https://mp.weixin.qq.com/s/6Ya0ncU5QL8o6-Qa_Td1jw) (发布日期: 2026-09-13)
+- [暗网惊现macOS 0day本地提权exp：兼容Big Sur到26.5](https://mp.weixin.qq.com/s/J7BBAqVBqEAcgKW0Rf5mUQ) (发布日期: 2026-09-13)
+- [XSS绕过CloudFront WAF：跨站脚本攻击新思路](https://mp.weixin.qq.com/s/hITPQvHUXrqFs3sJZxZMzg) (发布日期: 2026-09-13)
+- [2026数据安全罚单地图：从快手1.191亿到汇丰179万](https://mp.weixin.qq.com/s/bj1ZnExIvJiM2tosYlwRTA) (发布日期: 2026-09-13)
+- [黑客可将存在漏洞的 LiteLLM AI 网关转化为获取 root 权限和窃取云凭证的途径](https://mp.weixin.qq.com/s/gBv4VTbLKQt-UFbv44Li1w) (发布日期: 2026-09-13)
+- [【安全漏洞分析】网站或系统存在SQL注入漏洞怎么办？](https://mp.weixin.qq.com/s/MZzh6rGWDM44CkXpXIMR3g) (发布日期: 2026-09-13)
+- [TSRC某大佬总结的价值1800元的10万条POC](https://mp.weixin.qq.com/s/5gnc5bqKDOwPKEyiv6jdlA) (发布日期: 2026-09-13)
 
 
 ## 🎯 威胁详情分析
@@ -78,21 +84,37 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | (9.1分) CVE-2026-89009：WAVLINK 路由器未认证任意文件写入，可远程提权 root | Doonsec | [https://mp.weixin.qq.com/s/GoWqN3RysQSnDmBr-rB3xQ](https://mp.weixin.qq.com/s/GoWqN3RysQSnDmBr-rB3xQ) |
-| 2 | 厦门四信通信科技 userLogin.do SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/8FstaTft_R3QDoKPPyCBew](https://mp.weixin.qq.com/s/8FstaTft_R3QDoKPPyCBew) |
-| 3 | 黑客正积极利用 MikroTik RouterOS 的 MikroTrick 漏洞来完全控制路由器 | Doonsec | [https://mp.weixin.qq.com/s/lobtV2MSNLA-8Tc-XvHBAQ](https://mp.weixin.qq.com/s/lobtV2MSNLA-8Tc-XvHBAQ) |
-| 4 | 【安全圈】GitLab曝CVSS 10满分漏洞：免密盗源码，数小时遭在野狂扫 | Doonsec | [https://mp.weixin.qq.com/s/4m54ExpMl47aP4hLf-4HXA](https://mp.weixin.qq.com/s/4m54ExpMl47aP4hLf-4HXA) |
+| 1 | 19.9 美元路由拆到 RCE：Dbit N300 UART + Boa 溢出（CVE-2026-20374） | Doonsec | [https://mp.weixin.qq.com/s/B2edlxX9t3rWMb__CcLPVA](https://mp.weixin.qq.com/s/B2edlxX9t3rWMb__CcLPVA) |
+| 2 | Fortinet 特权访问代理漏洞：任意网站都能接管你的代理和屏幕 | Doonsec | [https://mp.weixin.qq.com/s/wyz2F_7Q8OrcUl_V8ObEsQ](https://mp.weixin.qq.com/s/wyz2F_7Q8OrcUl_V8ObEsQ) |
+| 3 | 暗网惊现macOS 0day本地提权exp：兼容Big Sur到26.5 | Doonsec | [https://mp.weixin.qq.com/s/J7BBAqVBqEAcgKW0Rf5mUQ](https://mp.weixin.qq.com/s/J7BBAqVBqEAcgKW0Rf5mUQ) |
+| 4 | 黑客可将存在漏洞的 LiteLLM AI 网关转化为获取 root 权限和窃取云凭证的途径 | Doonsec | [https://mp.weixin.qq.com/s/gBv4VTbLKQt-UFbv44Li1w](https://mp.weixin.qq.com/s/gBv4VTbLKQt-UFbv44Li1w) |
+| 5 | 【安全漏洞分析】网站或系统存在SQL注入漏洞怎么办？ | Doonsec | [https://mp.weixin.qq.com/s/MZzh6rGWDM44CkXpXIMR3g](https://mp.weixin.qq.com/s/MZzh6rGWDM44CkXpXIMR3g) |
+| 6 | TSRC某大佬总结的价值1800元的10万条POC | Doonsec | [https://mp.weixin.qq.com/s/5gnc5bqKDOwPKEyiv6jdlA](https://mp.weixin.qq.com/s/5gnc5bqKDOwPKEyiv6jdlA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 厦门四信通信科技 userLogin.do SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/8FstaTft_R3QDoKPPyCBew](https://mp.weixin.qq.com/s/8FstaTft_R3QDoKPPyCBew) |
+| 1 | 19.9 美元路由拆到 RCE：Dbit N300 UART + Boa 溢出（CVE-2026-20374） | Doonsec | [https://mp.weixin.qq.com/s/B2edlxX9t3rWMb__CcLPVA](https://mp.weixin.qq.com/s/B2edlxX9t3rWMb__CcLPVA) |
+| 2 | XSS绕过CloudFront WAF：跨站脚本攻击新思路 | Doonsec | [https://mp.weixin.qq.com/s/hITPQvHUXrqFs3sJZxZMzg](https://mp.weixin.qq.com/s/hITPQvHUXrqFs3sJZxZMzg) |
+| 3 | 【安全漏洞分析】网站或系统存在SQL注入漏洞怎么办？ | Doonsec | [https://mp.weixin.qq.com/s/MZzh6rGWDM44CkXpXIMR3g](https://mp.weixin.qq.com/s/MZzh6rGWDM44CkXpXIMR3g) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 银狐转向『点名式』精准诈骗：官方月报定调定向攻击升级，借壳目标蔓延至AnyDesk与Chrome | Doonsec | [https://mp.weixin.qq.com/s/6Ya0ncU5QL8o6-Qa_Td1jw](https://mp.weixin.qq.com/s/6Ya0ncU5QL8o6-Qa_Td1jw) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | TSRC某大佬总结的价值1800元的10万条POC | Doonsec | [https://mp.weixin.qq.com/s/5gnc5bqKDOwPKEyiv6jdlA](https://mp.weixin.qq.com/s/5gnc5bqKDOwPKEyiv6jdlA) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-09/2026-W37/2026-09-12/`
+文章已归档到: `doc/2026/2026-09/2026-W37/2026-09-13/`
 
 ## 🔗 数据源说明
 
@@ -103,8 +125,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -113,5 +135,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-12 15:15:32*
+*生成时间: 2026-09-13 03:58:12*
 *报告工具: 微信文章安全归档系统*
