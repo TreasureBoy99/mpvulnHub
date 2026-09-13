@@ -117825,3 +117825,64 @@
 2026-09-13 03:58:12,642 - INFO - 正在发送Discord日报通知: 2026-09-13
 2026-09-13 03:58:12,881 - INFO - Discord日报发送结果: 204
 2026-09-13 03:58:12,882 - INFO - === 执行完成 ===
+2026-09-13 15:51:51,726 - INFO - === 开始执行微信文章归档工具 ===
+2026-09-13 15:51:51,726 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-09-13 15:51:51,726 - INFO - 正在发送Discord启动通知...
+2026-09-13 15:51:52,317 - INFO - Discord启动通知发送结果: 204
+2026-09-13 15:51:52,319 - INFO - 数据文件: data.json
+2026-09-13 15:51:52,319 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-09-13 15:51:52,319 - INFO - 文档目录: doc
+2026-09-13 15:51:52,393 - INFO - 已加载 49478 条历史记录
+2026-09-13 15:51:52,393 - INFO - === 开始今日拉取 ===
+2026-09-13 15:51:52,393 - INFO - 开始获取Doonsec RSS
+2026-09-13 15:51:52,393 - INFO - 目标日期: 2026-09-13
+2026-09-13 15:51:53,811 - INFO - Doonsec RSS请求成功
+2026-09-13 15:51:53,812 - INFO - RSS中共有 200 个条目
+2026-09-13 15:51:53,812 - INFO - Doonsec获取到 55 个2026-09-13的微信文章URL
+2026-09-13 15:51:53,813 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-09-13.md
+2026-09-13 15:51:53,933 - INFO - ChainReactors md文件下载状态码: 404
+2026-09-13 15:51:53,933 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-09-13.md 状态码: 404
+2026-09-13 15:51:53,933 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-09-13.md
+2026-09-13 15:51:53,962 - INFO - BruceFeIix md文件下载状态码: 200
+2026-09-13 15:51:53,963 - INFO - BruceFeIix获取到 115 个URL
+2026-09-13 15:51:53,963 - INFO - === 开始处理 2026-09-13 的数据 ===
+2026-09-13 15:51:53,964 - INFO - Doonsec原始数据: 55 个
+2026-09-13 15:51:53,964 - INFO - ChainReactors原始数据: 0 个
+2026-09-13 15:51:53,964 - INFO - BruceFeIix原始数据: 115 个
+2026-09-13 15:51:53,964 - INFO - 开始处理Doonsec数据...
+2026-09-13 15:51:53,964 - INFO - 开始处理ChainReactors数据...
+2026-09-13 15:51:53,964 - INFO - 开始处理BruceFeIix数据...
+2026-09-13 15:51:53,964 - INFO - 去重后共 132 个URL待处理，跳过 38 个重复URL
+2026-09-13 15:51:53,964 - INFO - 去重后统计 - Doonsec: 44 个, ChainReactors: 0 个, BruceFeIix: 88 个
+2026-09-13 15:51:53,964 - INFO - === 开始关键词过滤 ===
+2026-09-13 15:51:53,969 - INFO - 关键词过滤: 匹配 11 个，跳过 121 个
+2026-09-13 15:51:53,969 - INFO - 关键词过滤后统计 - Doonsec: 6 个, ChainReactors: 0 个, BruceFeIix: 5 个
+2026-09-13 15:51:53,986 - INFO - 已创建每日报告: md/2026-09-13.md
+2026-09-13 15:51:53,986 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-09-13 15:51:53,986 - INFO - 正在发送Discord通知: 大模型（LLM）安全测试工具汇总
+2026-09-13 15:51:54,285 - INFO - Discord通知发送结果: 204
+2026-09-13 15:51:54,286 - INFO - 正在发送Discord通知: (9.9分) CVE-2026-84869：ScreenConnect 任意文件执行，野外已出现蠕虫式传播
+2026-09-13 15:51:54,681 - INFO - Discord通知发送结果: 204
+2026-09-13 15:51:54,682 - INFO - 正在发送Discord通知: AI 渗透实战之DSH的国产红队框架
+2026-09-13 15:51:55,468 - INFO - Discord通知发送结果: 204
+2026-09-13 15:51:55,469 - INFO - 正在发送Discord通知: 深科特LEAN MES系统 WarehouseCheck.ashx SQL注入漏洞
+2026-09-13 15:51:56,213 - INFO - Discord通知发送结果: 204
+2026-09-13 15:51:56,214 - INFO - 正在发送Discord通知: GitLab CVE-2026-85706 未授权任意文件读取分析：一个末尾斜杠打穿的满分漏洞
+2026-09-13 15:51:56,497 - INFO - Discord通知发送结果: 204
+2026-09-13 15:51:56,498 - INFO - 正在发送Discord通知: 被改写的系统服务：IDM 内核驱动 CVE-2026-90493 提权
+2026-09-13 15:51:56,738 - INFO - Discord通知发送结果: 204
+2026-09-13 15:51:56,739 - INFO - 正在发送Discord通知:  ] [CVSS10分Gitlab漏洞究竟能不能读任意文件？
+2026-09-13 15:51:57,308 - INFO - Discord通知发送结果: 204
+2026-09-13 15:51:57,309 - INFO - 正在发送Discord通知:  ] [速看，OWASP 最新十大 LLM 关键漏洞
+2026-09-13 15:51:57,682 - INFO - Discord通知发送结果: 204
+2026-09-13 15:51:57,683 - INFO - 正在发送Discord通知:  ] [从Anthropic报告看政企AI落地的数据安全挑战，永信至诚以「原生安全」构建数据「反萃取」防线
+2026-09-13 15:51:58,032 - INFO - Discord通知发送结果: 204
+2026-09-13 15:51:58,033 - INFO - 正在发送Discord通知:  ] [可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战
+2026-09-13 15:51:58,775 - INFO - Discord通知发送结果: 204
+2026-09-13 15:51:58,776 - INFO - 正在发送Discord通知:  ] [【安全圈】GitLab曝CVSS 10满分漏洞：免密盗源码，数小时遭在野狂扫
+2026-09-13 15:51:59,038 - INFO - Discord通知发送结果: 204
+2026-09-13 15:51:59,115 - INFO - 已更新data.json，添加了 11 个URL
+2026-09-13 15:51:59,116 - INFO - 已创建每日报告: md/2026-09-13.md
+2026-09-13 15:51:59,116 - INFO - 正在发送Discord日报通知: 2026-09-13
+2026-09-13 15:51:59,388 - INFO - Discord日报发送结果: 204
+2026-09-13 15:51:59,390 - INFO - === 执行完成 ===
