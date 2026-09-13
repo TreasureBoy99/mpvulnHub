@@ -117764,3 +117764,64 @@
 2026-09-12 22:01:16,944 - INFO - === 跳过二进制文件处理，只更新data.json ===
 2026-09-12 22:01:17,035 - INFO - 已更新data.json，添加了 0 个URL
 2026-09-12 22:01:17,035 - INFO - === 执行完成 ===
+2026-09-13 03:58:06,077 - INFO - === 开始执行微信文章归档工具 ===
+2026-09-13 03:58:06,077 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-09-13 03:58:06,077 - INFO - 正在发送Discord启动通知...
+2026-09-13 03:58:06,357 - INFO - Discord启动通知发送结果: 204
+2026-09-13 03:58:06,359 - INFO - 数据文件: data.json
+2026-09-13 03:58:06,359 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-09-13 03:58:06,359 - INFO - 文档目录: doc
+2026-09-13 03:58:06,437 - INFO - 已加载 49467 条历史记录
+2026-09-13 03:58:06,437 - INFO - === 开始今日拉取 ===
+2026-09-13 03:58:06,437 - INFO - 开始获取Doonsec RSS
+2026-09-13 03:58:06,437 - INFO - 目标日期: 2026-09-13
+2026-09-13 03:58:08,706 - INFO - Doonsec RSS请求成功
+2026-09-13 03:58:08,707 - INFO - RSS中共有 200 个条目
+2026-09-13 03:58:08,708 - INFO - Doonsec获取到 31 个2026-09-13的微信文章URL
+2026-09-13 03:58:08,709 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-09-13.md
+2026-09-13 03:58:08,786 - INFO - ChainReactors md文件下载状态码: 404
+2026-09-13 03:58:08,786 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-09-13.md 状态码: 404
+2026-09-13 03:58:08,786 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-09-13.md
+2026-09-13 03:58:08,852 - INFO - BruceFeIix md文件下载状态码: 404
+2026-09-13 03:58:08,852 - WARNING - BruceFeIix md文件下载失败: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-09-13.md 状态码: 404
+2026-09-13 03:58:08,852 - INFO - === 开始处理 2026-09-13 的数据 ===
+2026-09-13 03:58:08,852 - INFO - Doonsec原始数据: 31 个
+2026-09-13 03:58:08,852 - INFO - ChainReactors原始数据: 0 个
+2026-09-13 03:58:08,853 - INFO - BruceFeIix原始数据: 0 个
+2026-09-13 03:58:08,853 - INFO - 开始处理Doonsec数据...
+2026-09-13 03:58:08,853 - INFO - 开始处理ChainReactors数据...
+2026-09-13 03:58:08,853 - INFO - 开始处理BruceFeIix数据...
+2026-09-13 03:58:08,853 - INFO - 去重后共 31 个URL待处理，跳过 0 个重复URL
+2026-09-13 03:58:08,853 - INFO - 去重后统计 - Doonsec: 31 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-09-13 03:58:08,853 - INFO - === 开始关键词过滤 ===
+2026-09-13 03:58:08,854 - INFO - 关键词过滤: 匹配 11 个，跳过 20 个
+2026-09-13 03:58:08,854 - INFO - 关键词过滤后统计 - Doonsec: 11 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-09-13 03:58:08,870 - INFO - 已创建每日报告: md/2026-09-13.md
+2026-09-13 03:58:08,870 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-09-13 03:58:08,870 - INFO - 正在发送Discord通知: 「Inspect AI开源评测框架实测：LLM安全评估+CTF基准，英国AI安全研究所出品」
+2026-09-13 03:58:09,180 - INFO - Discord通知发送结果: 204
+2026-09-13 03:58:09,181 - INFO - 正在发送Discord通知: 19.9 美元路由拆到 RCE：Dbit N300 UART + Boa 溢出（CVE-2026-20374）
+2026-09-13 03:58:09,636 - INFO - Discord通知发送结果: 204
+2026-09-13 03:58:09,637 - INFO - 正在发送Discord通知: 千人大帮会｜网盘资源终身领取｜CISP/PTE考证底价｜18年网安大佬带队
+2026-09-13 03:58:09,857 - INFO - Discord通知发送结果: 204
+2026-09-13 03:58:09,858 - INFO - 正在发送Discord通知: Fortinet 特权访问代理漏洞：任意网站都能接管你的代理和屏幕
+2026-09-13 03:58:10,186 - INFO - Discord通知发送结果: 204
+2026-09-13 03:58:10,188 - INFO - 正在发送Discord通知: 银狐转向『点名式』精准诈骗：官方月报定调定向攻击升级，借壳目标蔓延至AnyDesk与Chrome
+2026-09-13 03:58:10,553 - INFO - Discord通知发送结果: 204
+2026-09-13 03:58:10,554 - INFO - 正在发送Discord通知: 暗网惊现macOS 0day本地提权exp：兼容Big Sur到26.5
+2026-09-13 03:58:10,856 - INFO - Discord通知发送结果: 204
+2026-09-13 03:58:10,857 - INFO - 正在发送Discord通知: XSS绕过CloudFront WAF：跨站脚本攻击新思路
+2026-09-13 03:58:11,184 - INFO - Discord通知发送结果: 204
+2026-09-13 03:58:11,185 - INFO - 正在发送Discord通知: 2026数据安全罚单地图：从快手1.191亿到汇丰179万
+2026-09-13 03:58:11,428 - INFO - Discord通知发送结果: 204
+2026-09-13 03:58:11,429 - INFO - 正在发送Discord通知: 黑客可将存在漏洞的 LiteLLM AI 网关转化为获取 root 权限和窃取云凭证的途径
+2026-09-13 03:58:11,744 - INFO - Discord通知发送结果: 204
+2026-09-13 03:58:11,745 - INFO - 正在发送Discord通知: 【安全漏洞分析】网站或系统存在SQL注入漏洞怎么办？
+2026-09-13 03:58:12,047 - INFO - Discord通知发送结果: 204
+2026-09-13 03:58:12,048 - INFO - 正在发送Discord通知: TSRC某大佬总结的价值1800元的10万条POC
+2026-09-13 03:58:12,562 - INFO - Discord通知发送结果: 204
+2026-09-13 03:58:12,641 - INFO - 已更新data.json，添加了 11 个URL
+2026-09-13 03:58:12,642 - INFO - 已创建每日报告: md/2026-09-13.md
+2026-09-13 03:58:12,642 - INFO - 正在发送Discord日报通知: 2026-09-13
+2026-09-13 03:58:12,881 - INFO - Discord日报发送结果: 204
+2026-09-13 03:58:12,882 - INFO - === 执行完成 ===
