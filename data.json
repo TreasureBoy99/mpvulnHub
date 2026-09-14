@@ -49487,5 +49487,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543880&idx=1&sn=d474ac6cfe6b19df9211bf8f04532bd5": " ] [速看，OWASP 最新十大 LLM 关键漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543880&idx=2&sn=5bbf2d71499d8a08fda9ba4f0634a52c": " ] [从Anthropic报告看政企AI落地的数据安全挑战，永信至诚以「原生安全」构建数据「反萃取」防线",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619811&idx=2&sn=81d4d57b0d4c42643f283bb87a10bd88": " ] [可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078850&idx=3&sn=3d7d3bb3a87dca466246957ea44f5c69": " ] [【安全圈】GitLab曝CVSS 10满分漏洞：免密盗源码，数小时遭在野狂扫"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078850&idx=3&sn=3d7d3bb3a87dca466246957ea44f5c69": " ] [【安全圈】GitLab曝CVSS 10满分漏洞：免密盗源码，数小时遭在野狂扫",
+    "https://mp.weixin.qq.com/s/6RARlyW91vhFUTioivxaTQ": "Plesk 备份管理器两项漏洞直指 root：低权限账号也可能掀开整台服务器",
+    "https://mp.weixin.qq.com/s/95CiiCElqJ6cmdAQqYgKHw": "搜索“官网下载”却装回远控木马：游蛇仿站钓鱼正在盯住中文用户",
+    "https://mp.weixin.qq.com/s/p9As2jhdwPhJYhvxsDsidw": "SRC漏洞挖掘器 -- SRCTOOLS",
+    "https://mp.weixin.qq.com/s/02LRvs4d0Ywm9xndIpswNA": "银狐盯上游戏玩家：仿冒夸克浏览器与外挂工具成新入口，云中转新开香港区",
+    "https://mp.weixin.qq.com/s/kz1c35vTDAdvpDEmfD_Hlg": "从越狱继续思考：LLM 危险内容生成 ≠ 真实漏洞利用",
+    "https://mp.weixin.qq.com/s/sxJOaV6in078sciYas7AsQ": "AI逆向SKILL技能路由包，一键搞定脱壳分析、渗透测试与CTF竞赛全场景、适配Frida/IDA/Ghidra",
+    "https://mp.weixin.qq.com/s/We_vJKAhE5tX2fFB0-4DdQ": "【密码学·采样】平滑参数的直觉：噪声何时能抹去格的纹理",
+    "https://mp.weixin.qq.com/s/bZXTSeEPmfTw43zNnRf_qA": "一款面向攻防演练、红蓝对抗和安全研究场景的高交互智能欺骗蜜罐平台",
+    "https://mp.weixin.qq.com/s/KlZHu_ukAsTPReBwppOsEA": "没有一个SOC，能同时回答这9个问题",
+    "https://mp.weixin.qq.com/s/LNQB6ep3t8FI39zI30H-mQ": "iOS 27.0 越狱前夜：拿到root权限，可能发现未修补内核漏洞",
+    "https://mp.weixin.qq.com/s/c8yOsQB9Ou5NxAxmN7-vCQ": "Android反编译核武器Droid ASC：352MB APK全局交叉引用1.79秒，发现Honor和小米两个RCE"
 }
