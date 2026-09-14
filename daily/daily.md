@@ -1,21 +1,22 @@
-# 2026-09-13 安全威胁态势报告
+# 2026-09-14 安全威胁态势报告
 
 ## 📊 数据概览
 
 - **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 6篇
-  - BruceFeIix: 5篇
+  - Doonsec: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
+- **漏洞利用**: 4篇
 - **攻击技术**: 1篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
+- **系统漏洞**: 2篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,20 +65,17 @@
 
 ### Doonsec
 
-- [大模型（LLM）安全测试工具汇总](https://mp.weixin.qq.com/s/FvoZImHGTIMrgDZZhEscow) (发布日期: 2026-09-13)
-- [(9.9分) CVE-2026-84869：ScreenConnect 任意文件执行，野外已出现蠕虫式传播](https://mp.weixin.qq.com/s/ljrlhFcm7nKvKWTAf1SDKg) (发布日期: 2026-09-13)
-- [AI 渗透实战之DSH的国产红队框架](https://mp.weixin.qq.com/s/PGYExE8wU_LbhQAd4En_lg) (发布日期: 2026-09-13)
-- [深科特LEAN MES系统 WarehouseCheck.ashx SQL注入漏洞](https://mp.weixin.qq.com/s/Kmd3VSRg5I0A-324hgWIsw) (发布日期: 2026-09-13)
-- [GitLab CVE-2026-85706 未授权任意文件读取分析：一个末尾斜杠打穿的满分漏洞](https://mp.weixin.qq.com/s/bxDoc8f55krA-cR3urfIIg) (发布日期: 2026-09-13)
-- [被改写的系统服务：IDM 内核驱动 CVE-2026-90493 提权](https://mp.weixin.qq.com/s/HikwWitv49UYV9hO1h-4hw) (发布日期: 2026-09-13)
-
-### BruceFeIix
-
-- [ ] [CVSS10分Gitlab漏洞究竟能不能读任意文件？](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508929&idx=1&sn=e1657879176766f53a682622be5138d8) (发布日期: 2026-09-13)
-- [ ] [速看，OWASP 最新十大 LLM 关键漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543880&idx=1&sn=d474ac6cfe6b19df9211bf8f04532bd5) (发布日期: 2026-09-13)
-- [ ] [从Anthropic报告看政企AI落地的数据安全挑战，永信至诚以「原生安全」构建数据「反萃取」防线](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543880&idx=2&sn=5bbf2d71499d8a08fda9ba4f0634a52c) (发布日期: 2026-09-13)
-- [ ] [可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619811&idx=2&sn=81d4d57b0d4c42643f283bb87a10bd88) (发布日期: 2026-09-13)
-- [ ] [【安全圈】GitLab曝CVSS 10满分漏洞：免密盗源码，数小时遭在野狂扫](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078850&idx=3&sn=3d7d3bb3a87dca466246957ea44f5c69) (发布日期: 2026-09-13)
+- [Plesk 备份管理器两项漏洞直指 root：低权限账号也可能掀开整台服务器](https://mp.weixin.qq.com/s/6RARlyW91vhFUTioivxaTQ) (发布日期: 2026-09-14)
+- [搜索“官网下载”却装回远控木马：游蛇仿站钓鱼正在盯住中文用户](https://mp.weixin.qq.com/s/95CiiCElqJ6cmdAQqYgKHw) (发布日期: 2026-09-14)
+- [SRC漏洞挖掘器 -- SRCTOOLS](https://mp.weixin.qq.com/s/p9As2jhdwPhJYhvxsDsidw) (发布日期: 2026-09-14)
+- [银狐盯上游戏玩家：仿冒夸克浏览器与外挂工具成新入口，云中转新开香港区](https://mp.weixin.qq.com/s/02LRvs4d0Ywm9xndIpswNA) (发布日期: 2026-09-14)
+- [从越狱继续思考：LLM 危险内容生成 ≠ 真实漏洞利用](https://mp.weixin.qq.com/s/kz1c35vTDAdvpDEmfD_Hlg) (发布日期: 2026-09-14)
+- [AI逆向SKILL技能路由包，一键搞定脱壳分析、渗透测试与CTF竞赛全场景、适配Frida/IDA/Ghidra](https://mp.weixin.qq.com/s/sxJOaV6in078sciYas7AsQ) (发布日期: 2026-09-14)
+- [【密码学·采样】平滑参数的直觉：噪声何时能抹去格的纹理](https://mp.weixin.qq.com/s/We_vJKAhE5tX2fFB0-4DdQ) (发布日期: 2026-09-14)
+- [一款面向攻防演练、红蓝对抗和安全研究场景的高交互智能欺骗蜜罐平台](https://mp.weixin.qq.com/s/bZXTSeEPmfTw43zNnRf_qA) (发布日期: 2026-09-14)
+- [没有一个SOC，能同时回答这9个问题](https://mp.weixin.qq.com/s/KlZHu_ukAsTPReBwppOsEA) (发布日期: 2026-09-14)
+- [iOS 27.0 越狱前夜：拿到root权限，可能发现未修补内核漏洞](https://mp.weixin.qq.com/s/LNQB6ep3t8FI39zI30H-mQ) (发布日期: 2026-09-14)
+- [Android反编译核武器Droid ASC：352MB APK全局交叉引用1.79秒，发现Honor和小米两个RCE](https://mp.weixin.qq.com/s/c8yOsQB9Ou5NxAxmN7-vCQ) (发布日期: 2026-09-14)
 
 
 ## 🎯 威胁详情分析
@@ -86,25 +84,33 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | (9.9分) CVE-2026-84869：ScreenConnect 任意文件执行，野外已出现蠕虫式传播 | Doonsec | [https://mp.weixin.qq.com/s/ljrlhFcm7nKvKWTAf1SDKg](https://mp.weixin.qq.com/s/ljrlhFcm7nKvKWTAf1SDKg) |
-| 2 | 深科特LEAN MES系统 WarehouseCheck.ashx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Kmd3VSRg5I0A-324hgWIsw](https://mp.weixin.qq.com/s/Kmd3VSRg5I0A-324hgWIsw) |
-| 3 | GitLab CVE-2026-85706 未授权任意文件读取分析：一个末尾斜杠打穿的满分漏洞 | Doonsec | [https://mp.weixin.qq.com/s/bxDoc8f55krA-cR3urfIIg](https://mp.weixin.qq.com/s/bxDoc8f55krA-cR3urfIIg) |
-| 4 | 被改写的系统服务：IDM 内核驱动 CVE-2026-90493 提权 | Doonsec | [https://mp.weixin.qq.com/s/HikwWitv49UYV9hO1h-4hw](https://mp.weixin.qq.com/s/HikwWitv49UYV9hO1h-4hw) |
-| 5 |  ] [CVSS10分Gitlab漏洞究竟能不能读任意文件？ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508929&idx=1&sn=e1657879176766f53a682622be5138d8](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508929&idx=1&sn=e1657879176766f53a682622be5138d8) |
-| 6 |  ] [速看，OWASP 最新十大 LLM 关键漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543880&idx=1&sn=d474ac6cfe6b19df9211bf8f04532bd5](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543880&idx=1&sn=d474ac6cfe6b19df9211bf8f04532bd5) |
-| 7 |  ] [可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619811&idx=2&sn=81d4d57b0d4c42643f283bb87a10bd88](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619811&idx=2&sn=81d4d57b0d4c42643f283bb87a10bd88) |
-| 8 |  ] [【安全圈】GitLab曝CVSS 10满分漏洞：免密盗源码，数小时遭在野狂扫 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078850&idx=3&sn=3d7d3bb3a87dca466246957ea44f5c69](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078850&idx=3&sn=3d7d3bb3a87dca466246957ea44f5c69) |
+| 1 | Plesk 备份管理器两项漏洞直指 root：低权限账号也可能掀开整台服务器 | Doonsec | [https://mp.weixin.qq.com/s/6RARlyW91vhFUTioivxaTQ](https://mp.weixin.qq.com/s/6RARlyW91vhFUTioivxaTQ) |
+| 2 | SRC漏洞挖掘器 -- SRCTOOLS | Doonsec | [https://mp.weixin.qq.com/s/p9As2jhdwPhJYhvxsDsidw](https://mp.weixin.qq.com/s/p9As2jhdwPhJYhvxsDsidw) |
+| 3 | 从越狱继续思考：LLM 危险内容生成 ≠ 真实漏洞利用 | Doonsec | [https://mp.weixin.qq.com/s/kz1c35vTDAdvpDEmfD_Hlg](https://mp.weixin.qq.com/s/kz1c35vTDAdvpDEmfD_Hlg) |
+| 4 | iOS 27.0 越狱前夜：拿到root权限，可能发现未修补内核漏洞 | Doonsec | [https://mp.weixin.qq.com/s/LNQB6ep3t8FI39zI30H-mQ](https://mp.weixin.qq.com/s/LNQB6ep3t8FI39zI30H-mQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 深科特LEAN MES系统 WarehouseCheck.ashx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Kmd3VSRg5I0A-324hgWIsw](https://mp.weixin.qq.com/s/Kmd3VSRg5I0A-324hgWIsw) |
+| 1 | Android反编译核武器Droid ASC：352MB APK全局交叉引用1.79秒，发现Honor和小米两个RCE | Doonsec | [https://mp.weixin.qq.com/s/c8yOsQB9Ou5NxAxmN7-vCQ](https://mp.weixin.qq.com/s/c8yOsQB9Ou5NxAxmN7-vCQ) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 银狐盯上游戏玩家：仿冒夸克浏览器与外挂工具成新入口，云中转新开香港区 | Doonsec | [https://mp.weixin.qq.com/s/02LRvs4d0Ywm9xndIpswNA](https://mp.weixin.qq.com/s/02LRvs4d0Ywm9xndIpswNA) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | SRC漏洞挖掘器 -- SRCTOOLS | Doonsec | [https://mp.weixin.qq.com/s/p9As2jhdwPhJYhvxsDsidw](https://mp.weixin.qq.com/s/p9As2jhdwPhJYhvxsDsidw) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-09/2026-W37/2026-09-13/`
+文章已归档到: `doc/2026/2026-09/2026-W38/2026-09-14/`
 
 ## 🔗 数据源说明
 
@@ -115,8 +121,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -125,5 +131,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-13 15:51:59*
+*生成时间: 2026-09-14 04:05:53*
 *报告工具: 微信文章安全归档系统*
