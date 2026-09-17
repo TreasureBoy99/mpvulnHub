@@ -118963,3 +118963,44 @@
 2026-09-17 13:12:19,524 - INFO - 正在发送Discord日报通知: 2026-09-17
 2026-09-17 13:12:19,713 - INFO - Discord日报发送结果: 429
 2026-09-17 13:12:19,714 - INFO - === 执行完成 ===
+2026-09-17 19:37:04,034 - INFO - === 开始执行微信文章归档工具 ===
+2026-09-17 19:37:04,035 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-09-17 19:37:04,035 - INFO - 正在发送Discord启动通知...
+2026-09-17 19:37:05,099 - INFO - Discord启动通知发送结果: 204
+2026-09-17 19:37:05,101 - INFO - 数据文件: data.json
+2026-09-17 19:37:05,102 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-09-17 19:37:05,102 - INFO - 文档目录: doc
+2026-09-17 19:37:05,175 - INFO - 已加载 49749 条历史记录
+2026-09-17 19:37:05,175 - INFO - === 开始今日拉取 ===
+2026-09-17 19:37:05,175 - INFO - 开始获取Doonsec RSS
+2026-09-17 19:37:05,175 - INFO - 目标日期: 2026-09-17
+2026-09-17 19:37:06,769 - INFO - Doonsec RSS请求成功
+2026-09-17 19:37:06,770 - INFO - RSS中共有 200 个条目
+2026-09-17 19:37:06,770 - INFO - Doonsec获取到 200 个2026-09-17的微信文章URL
+2026-09-17 19:37:06,771 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-09-17.md
+2026-09-17 19:37:06,912 - INFO - ChainReactors md文件下载状态码: 404
+2026-09-17 19:37:06,912 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-09-17.md 状态码: 404
+2026-09-17 19:37:06,912 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-09-17.md
+2026-09-17 19:37:07,047 - INFO - BruceFeIix md文件下载状态码: 200
+2026-09-17 19:37:07,049 - INFO - BruceFeIix获取到 132 个URL
+2026-09-17 19:37:07,049 - INFO - === 开始处理 2026-09-17 的数据 ===
+2026-09-17 19:37:07,049 - INFO - Doonsec原始数据: 200 个
+2026-09-17 19:37:07,049 - INFO - ChainReactors原始数据: 0 个
+2026-09-17 19:37:07,049 - INFO - BruceFeIix原始数据: 132 个
+2026-09-17 19:37:07,049 - INFO - 开始处理Doonsec数据...
+2026-09-17 19:37:07,050 - INFO - 开始处理ChainReactors数据...
+2026-09-17 19:37:07,050 - INFO - 开始处理BruceFeIix数据...
+2026-09-17 19:37:07,050 - INFO - 去重后共 228 个URL待处理，跳过 104 个重复URL
+2026-09-17 19:37:07,050 - INFO - 去重后统计 - Doonsec: 142 个, ChainReactors: 0 个, BruceFeIix: 86 个
+2026-09-17 19:37:07,050 - INFO - === 开始关键词过滤 ===
+2026-09-17 19:37:07,058 - INFO - 关键词过滤: 匹配 1 个，跳过 227 个
+2026-09-17 19:37:07,058 - INFO - 关键词过滤后统计 - Doonsec: 1 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-09-17 19:37:07,075 - INFO - 已创建每日报告: md/2026-09-17.md
+2026-09-17 19:37:07,076 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-09-17 19:37:07,076 - INFO - 正在发送Discord通知: 华为全联接大会2026｜华为发布《华为AIFW技术白皮书》，助力产业新一代AI防火墙代际升级
+2026-09-17 19:37:07,392 - INFO - Discord通知发送结果: 204
+2026-09-17 19:37:07,470 - INFO - 已更新data.json，添加了 1 个URL
+2026-09-17 19:37:07,471 - INFO - 已创建每日报告: md/2026-09-17.md
+2026-09-17 19:37:07,471 - INFO - 正在发送Discord日报通知: 2026-09-17
+2026-09-17 19:37:07,764 - INFO - Discord日报发送结果: 204
+2026-09-17 19:37:07,766 - INFO - === 执行完成 ===
