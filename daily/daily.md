@@ -1,18 +1,23 @@
-# 2026-09-16 安全威胁态势报告
+# 2026-09-17 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 31
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 31篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 16篇
+- **攻击技术**: 5篇
+- **安全运营**: 2篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 3篇
+- **Web安全**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,9 +66,37 @@
 
 ### Doonsec
 
-- [企业数据安全：影子 AI，正在\"偷\"走你的数据？](https://mp.weixin.qq.com/s/Y1taGuxAeis3Pkx4FZTLCA) (发布日期: 2026-09-16)
-- [众测 30 分钟挖到鸿蒙App高危上传漏洞 | 从 APP 一条异常图片请求，发现被忽略的外围攻击面](https://mp.weixin.qq.com/s/g7C_-SkNwavzz5K3kODpsg) (发布日期: 2026-09-16)
-- [挖了半年SRC颗粒无收](https://mp.weixin.qq.com/s/RlBdK4VWw48DlC6khWc00Q) (发布日期: 2026-09-16)
+- [Provena红队Agent开源! 证据驱动的安全渗透测试智能体](https://mp.weixin.qq.com/s/aqCYllVA0yqSg62grs-6gg) (发布日期: 2026-09-17)
+- [一次简单的漏洞挖掘背后，我用了白帽集市上的这些资源](https://mp.weixin.qq.com/s/lHDQi-ujQWNLI22YlFj8dQ) (发布日期: 2026-09-17)
+- [漏洞名称权限参数值规范化缺失导致的权限绕过](https://mp.weixin.qq.com/s/NNXcguncp4LDABaQ1OBDMQ) (发布日期: 2026-09-17)
+- [Check Point 严重登录漏洞可导致远程接管](https://mp.weixin.qq.com/s/wX2MQJyGN4gkEAkxdEXTkw) (发布日期: 2026-09-17)
+- [企业邮件安全防护技术培训（上）](https://mp.weixin.qq.com/s/He20R8Y9eXuRQ7WxeFDvWA) (发布日期: 2026-09-17)
+- [Parallels Desktop 本地提权漏洞 ParaShells：Intel Mac 永久躺枪](https://mp.weixin.qq.com/s/0v2vugZitjf_qj704pVQAQ) (发布日期: 2026-09-17)
+- [CVE-2026-58704：零点击、近距离、间谍级攻击](https://mp.weixin.qq.com/s/qa_mSab3iGXl9Bk-O0OKuQ) (发布日期: 2026-09-17)
+- [白帽子的新战友：一个会自己找漏洞的 AI 智能体](https://mp.weixin.qq.com/s/hVfISmQ0u7zrZ8QI25dZjQ) (发布日期: 2026-09-17)
+- [红队固件级漏洞挖掘工具包：moria + mithril 全离线、可空气隔离](https://mp.weixin.qq.com/s/fEn4e7uDkEbhF5vQmGNEjw) (发布日期: 2026-09-17)
+- [比木马危害更大的，是凭据失窃](https://mp.weixin.qq.com/s/Ot4aa-YG198isVwJw-qHHw) (发布日期: 2026-09-17)
+- [SRC挖洞效率提升10倍：微信小程序全自动化渗透测试工具链](https://mp.weixin.qq.com/s/CF5Ym7CkktTp07LyPTxFcQ) (发布日期: 2026-09-17)
+- [ARTEX:AI自动化渗透测试-v0.3.11](https://mp.weixin.qq.com/s/u2MG3kR98jVs4wiHE8ZJow) (发布日期: 2026-09-17)
+- [Black Hat USA 2026：.NET类型转换RCE](https://mp.weixin.qq.com/s/4qCVhYUMEBac6u4BsJbHkg) (发布日期: 2026-09-17)
+- [投毒、RCE、提权窃密：深度复盘OpenAI智能体发起的这波高阶供应链攻击](https://mp.weixin.qq.com/s/4HWdWBzvbueHgd_3EHj41w) (发布日期: 2026-09-17)
+- [Langflow爆出代码执行漏洞CVE-2026-17633  (POC已公开)](https://mp.weixin.qq.com/s/Zj7HcnoBWeehoW0gdTuAMg) (发布日期: 2026-09-17)
+- [漏洞预警 | cPanel&amp;WHM SQL注入漏洞](https://mp.weixin.qq.com/s/wydc3xRVypiRJTC5ggnzZQ) (发布日期: 2026-09-17)
+- [中国信通院 新技术场景下“数据安全可信体系”介绍](https://mp.weixin.qq.com/s/jmyQ9zGDXayarEfGFozNEA) (发布日期: 2026-09-17)
+- [事关信息安全！全国首部“智能体数据应用安全”标准启动编制](https://mp.weixin.qq.com/s/l6_L08OkEHALnT7-a1swCg) (发布日期: 2026-09-17)
+- [漏洞预警 | JumpServer Access Key越权泄露漏洞](https://mp.weixin.qq.com/s/vj9ZCEnRV2wnyD7_iRnZ2A) (发布日期: 2026-09-17)
+- [黑客利用ClickFix部署新型SloppyRAT，以实现勒索软件的横向移动](https://mp.weixin.qq.com/s/6gEYKOEVvmn16T_H6LE31A) (发布日期: 2026-09-17)
+- [44页PPT 人工智能安全风险治理与实践](https://mp.weixin.qq.com/s/xr82XPId3IIwwbAObK1s-Q) (发布日期: 2026-09-17)
+- [我花6000块买的SRC技能包，最值钱的不是漏洞打法，是那90行“假点”清单](https://mp.weixin.qq.com/s/wFhxhtQv-xxtNu4U6c2Q3A) (发布日期: 2026-09-17)
+- [工具推荐 | ARTEX:自动化渗透测试-多版本更新](https://mp.weixin.qq.com/s/C4AwKWhzLiSUa-1b6niZfQ) (发布日期: 2026-09-17)
+- [让 AI 改了五遍，漏洞多了 37.6%：一份 AI 编码安全复查清单](https://mp.weixin.qq.com/s/LZ1EGlIg2ce0FVQe1bRlQA) (发布日期: 2026-09-17)
+- [彻底解决抓包密文问题！密桥CipherBridge支持Burp联动、自带AI与小程序反编译、自动Hook，无需手写脚本，一键破解加密抓包难题](https://mp.weixin.qq.com/s/eF0Argu0lLsJx8sLOdf1fQ) (发布日期: 2026-09-17)
+- [等级保护建设：安全管理机构—岗位设置](https://mp.weixin.qq.com/s/SsMMLGZPEU3D9Ed6zcMAMQ) (发布日期: 2026-09-17)
+- [DeepSeek Al：POC EXP_工具化与漏洞验证实战与代码审计与央企安全日志分析](https://mp.weixin.qq.com/s/1IRY1AJ_ETCgk5fy6nwTtw) (发布日期: 2026-09-17)
+- [CVE-2025-11395 Podman任意文件写入漏洞](https://mp.weixin.qq.com/s/kkoDPby6QVu3Y-r4dVZApg) (发布日期: 2026-09-17)
+- [SAP 修复 CVSS 10.0 内核漏洞，该漏洞允许未经身份验证的远程代码执行](https://mp.weixin.qq.com/s/itx8ZMxsqgenumrS1LOY1w) (发布日期: 2026-09-17)
+- [Windows BitLocker漏洞允许攻击者远程执行恶意代码](https://mp.weixin.qq.com/s/C_Cwnay_Hkfoz52ETYuCFQ) (发布日期: 2026-09-17)
+- [我国网络安全治理体系的发展历程](https://mp.weixin.qq.com/s/1dsyXWkQB8u98TvvUxC8YQ) (发布日期: 2026-09-17)
 
 
 ## 🎯 威胁详情分析
@@ -72,18 +105,50 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 众测 30 分钟挖到鸿蒙App高危上传漏洞 | 从 APP 一条异常图片请求，发现被忽略的外围攻击面 | Doonsec | [https://mp.weixin.qq.com/s/g7C_-SkNwavzz5K3kODpsg](https://mp.weixin.qq.com/s/g7C_-SkNwavzz5K3kODpsg) |
+| 1 | 一次简单的漏洞挖掘背后，我用了白帽集市上的这些资源 | Doonsec | [https://mp.weixin.qq.com/s/lHDQi-ujQWNLI22YlFj8dQ](https://mp.weixin.qq.com/s/lHDQi-ujQWNLI22YlFj8dQ) |
+| 2 | 漏洞名称权限参数值规范化缺失导致的权限绕过 | Doonsec | [https://mp.weixin.qq.com/s/NNXcguncp4LDABaQ1OBDMQ](https://mp.weixin.qq.com/s/NNXcguncp4LDABaQ1OBDMQ) |
+| 3 | Check Point 严重登录漏洞可导致远程接管 | Doonsec | [https://mp.weixin.qq.com/s/wX2MQJyGN4gkEAkxdEXTkw](https://mp.weixin.qq.com/s/wX2MQJyGN4gkEAkxdEXTkw) |
+| 4 | Parallels Desktop 本地提权漏洞 ParaShells：Intel Mac 永久躺枪 | Doonsec | [https://mp.weixin.qq.com/s/0v2vugZitjf_qj704pVQAQ](https://mp.weixin.qq.com/s/0v2vugZitjf_qj704pVQAQ) |
+| 5 | CVE-2026-58704：零点击、近距离、间谍级攻击 | Doonsec | [https://mp.weixin.qq.com/s/qa_mSab3iGXl9Bk-O0OKuQ](https://mp.weixin.qq.com/s/qa_mSab3iGXl9Bk-O0OKuQ) |
+| 6 | 白帽子的新战友：一个会自己找漏洞的 AI 智能体 | Doonsec | [https://mp.weixin.qq.com/s/hVfISmQ0u7zrZ8QI25dZjQ](https://mp.weixin.qq.com/s/hVfISmQ0u7zrZ8QI25dZjQ) |
+| 7 | 红队固件级漏洞挖掘工具包：moria + mithril 全离线、可空气隔离 | Doonsec | [https://mp.weixin.qq.com/s/fEn4e7uDkEbhF5vQmGNEjw](https://mp.weixin.qq.com/s/fEn4e7uDkEbhF5vQmGNEjw) |
+| 8 | Langflow爆出代码执行漏洞CVE-2026-17633  (POC已公开) | Doonsec | [https://mp.weixin.qq.com/s/Zj7HcnoBWeehoW0gdTuAMg](https://mp.weixin.qq.com/s/Zj7HcnoBWeehoW0gdTuAMg) |
+| 9 | 漏洞预警 | cPanel&amp;WHM SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/wydc3xRVypiRJTC5ggnzZQ](https://mp.weixin.qq.com/s/wydc3xRVypiRJTC5ggnzZQ) |
+| 10 | 漏洞预警 | JumpServer Access Key越权泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s/vj9ZCEnRV2wnyD7_iRnZ2A](https://mp.weixin.qq.com/s/vj9ZCEnRV2wnyD7_iRnZ2A) |
+| 11 | 我花6000块买的SRC技能包，最值钱的不是漏洞打法，是那90行“假点”清单 | Doonsec | [https://mp.weixin.qq.com/s/wFhxhtQv-xxtNu4U6c2Q3A](https://mp.weixin.qq.com/s/wFhxhtQv-xxtNu4U6c2Q3A) |
+| 12 | 让 AI 改了五遍，漏洞多了 37.6%：一份 AI 编码安全复查清单 | Doonsec | [https://mp.weixin.qq.com/s/LZ1EGlIg2ce0FVQe1bRlQA](https://mp.weixin.qq.com/s/LZ1EGlIg2ce0FVQe1bRlQA) |
+| 13 | DeepSeek Al：POC EXP_工具化与漏洞验证实战与代码审计与央企安全日志分析 | Doonsec | [https://mp.weixin.qq.com/s/1IRY1AJ_ETCgk5fy6nwTtw](https://mp.weixin.qq.com/s/1IRY1AJ_ETCgk5fy6nwTtw) |
+| 14 | CVE-2025-11395 Podman任意文件写入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/kkoDPby6QVu3Y-r4dVZApg](https://mp.weixin.qq.com/s/kkoDPby6QVu3Y-r4dVZApg) |
+| 15 | SAP 修复 CVSS 10.0 内核漏洞，该漏洞允许未经身份验证的远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/itx8ZMxsqgenumrS1LOY1w](https://mp.weixin.qq.com/s/itx8ZMxsqgenumrS1LOY1w) |
+| 16 | Windows BitLocker漏洞允许攻击者远程执行恶意代码 | Doonsec | [https://mp.weixin.qq.com/s/C_Cwnay_Hkfoz52ETYuCFQ](https://mp.weixin.qq.com/s/C_Cwnay_Hkfoz52ETYuCFQ) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Black Hat USA 2026：.NET类型转换RCE | Doonsec | [https://mp.weixin.qq.com/s/4qCVhYUMEBac6u4BsJbHkg](https://mp.weixin.qq.com/s/4qCVhYUMEBac6u4BsJbHkg) |
+| 2 | 投毒、RCE、提权窃密：深度复盘OpenAI智能体发起的这波高阶供应链攻击 | Doonsec | [https://mp.weixin.qq.com/s/4HWdWBzvbueHgd_3EHj41w](https://mp.weixin.qq.com/s/4HWdWBzvbueHgd_3EHj41w) |
+| 3 | Langflow爆出代码执行漏洞CVE-2026-17633  (POC已公开) | Doonsec | [https://mp.weixin.qq.com/s/Zj7HcnoBWeehoW0gdTuAMg](https://mp.weixin.qq.com/s/Zj7HcnoBWeehoW0gdTuAMg) |
+| 4 | 漏洞预警 | cPanel&amp;WHM SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/wydc3xRVypiRJTC5ggnzZQ](https://mp.weixin.qq.com/s/wydc3xRVypiRJTC5ggnzZQ) |
+| 5 | SAP 修复 CVSS 10.0 内核漏洞，该漏洞允许未经身份验证的远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/itx8ZMxsqgenumrS1LOY1w](https://mp.weixin.qq.com/s/itx8ZMxsqgenumrS1LOY1w) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 挖了半年SRC颗粒无收 | Doonsec | [https://mp.weixin.qq.com/s/RlBdK4VWw48DlC6khWc00Q](https://mp.weixin.qq.com/s/RlBdK4VWw48DlC6khWc00Q) |
+| 1 | SRC挖洞效率提升10倍：微信小程序全自动化渗透测试工具链 | Doonsec | [https://mp.weixin.qq.com/s/CF5Ym7CkktTp07LyPTxFcQ](https://mp.weixin.qq.com/s/CF5Ym7CkktTp07LyPTxFcQ) |
+| 2 | 我花6000块买的SRC技能包，最值钱的不是漏洞打法，是那90行“假点”清单 | Doonsec | [https://mp.weixin.qq.com/s/wFhxhtQv-xxtNu4U6c2Q3A](https://mp.weixin.qq.com/s/wFhxhtQv-xxtNu4U6c2Q3A) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 投毒、RCE、提权窃密：深度复盘OpenAI智能体发起的这波高阶供应链攻击 | Doonsec | [https://mp.weixin.qq.com/s/4HWdWBzvbueHgd_3EHj41w](https://mp.weixin.qq.com/s/4HWdWBzvbueHgd_3EHj41w) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-09/2026-W38/2026-09-16/`
+文章已归档到: `doc/2026/2026-09/2026-W38/2026-09-17/`
 
 ## 🔗 数据源说明
 
@@ -94,8 +159,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 16 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -104,5 +169,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-16 19:26:30*
+*生成时间: 2026-09-17 04:09:13*
 *报告工具: 微信文章安全归档系统*
