@@ -1,16 +1,24 @@
-# 2026-09-17 安全威胁态势报告
+# 2026-09-18 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 37
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 37篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 14篇
+- **攻击技术**: 6篇
+- **威胁情报**: 2篇
+- **信息泄露**: 2篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 2篇
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -59,15 +67,101 @@
 
 ### Doonsec
 
-- [华为全联接大会2026｜华为发布《华为AIFW技术白皮书》，助力产业新一代AI防火墙代际升级](https://mp.weixin.qq.com/s/VTYrQP8pkKcUKz2br5u4jw) (发布日期: 2026-09-17)
+- [1490万“隐私计算与数据安全平台”科研采购项目招标](https://mp.weixin.qq.com/s/KCSgnbtq6N6w7Wwm47BDUA) (发布日期: 2026-09-18)
+- [2026年度（第二期）CNNVD漏洞奖励评选结果公告](https://mp.weixin.qq.com/s/aFhcAegPx_QYwvocBRn53A) (发布日期: 2026-09-18)
+- [hping3 指南：从安装到实战，网络安全工程师的“数据包瑞士军刀”](https://mp.weixin.qq.com/s/TPHN6U3henEYYH-hdncrxQ) (发布日期: 2026-09-18)
+- [「T3MP3ST实测：多Agent的AI红队平台 8操作员攻击链 零日CVE猎手 GitHub 6179星」](https://mp.weixin.qq.com/s/VTtYSmJ2vJyDEcnRwGpLsQ) (发布日期: 2026-09-18)
+- [比起死磕上班内卷，我更建议年轻人试试挖漏洞](https://mp.weixin.qq.com/s/Clv1QqdkkSwNMsMv5RxdbA) (发布日期: 2026-09-18)
+- [2026“蓝盾杯”中国技协Al+网络安全管理员职业技能竞赛](https://mp.weixin.qq.com/s/sxOvrIHtgYhxgAdfZX0ucg) (发布日期: 2026-09-18)
+- [安全运营中心（SOC）建设方案](https://mp.weixin.qq.com/s/kCwnnoLvipnCVBn29rPNQg) (发布日期: 2026-09-18)
+- [泛微云桥 e-Bridge sendWxMsg SQL注入漏洞](https://mp.weixin.qq.com/s/OgB8U8q7UhgoVPNWgQCDeA) (发布日期: 2026-09-18)
+- [【红队工具】CobaltStrike插件更新](https://mp.weixin.qq.com/s/_S2jAGbW37NHp7XIS3eqBg) (发布日期: 2026-09-18)
+- [每天学一个 Kali 工具 · Day19 | Burp Suite：Web 渗透测试的航空母舰](https://mp.weixin.qq.com/s/IqRnx7oREBD5gK8CHmmMQg) (发布日期: 2026-09-18)
+- [存储桶遍历漏洞安全检测工具 - v2.0](https://mp.weixin.qq.com/s/94tut5zTcJdJdZASWdi_sQ) (发布日期: 2026-09-18)
+- [2026年护网蓝队四大新规则技术培训（下）](https://mp.weixin.qq.com/s/sLmxOy2YZ7NS0P7bx03VkA) (发布日期: 2026-09-18)
+- [【工具学习25】ligolo-ng：让内网像直连一样打](https://mp.weixin.qq.com/s/rubWOTC-wioFcO5E98joXA) (发布日期: 2026-09-18)
+- [2026年护网蓝队四大新规则技术培训（上）](https://mp.weixin.qq.com/s/uxLwXO_b1oBqoeCB2ntoeQ) (发布日期: 2026-09-18)
+- [云上艾珀（贵州）技术有限公司2026年网络安全合规专员招聘](https://mp.weixin.qq.com/s/IZDviZnVy7Yzm356YTos0A) (发布日期: 2026-09-18)
+- [年薪15—18万元  内蒙古招聘高级网络安全架构师](https://mp.weixin.qq.com/s/MtvohaDz6w0A1WyCJ0XeUg) (发布日期: 2026-09-18)
+- [惠普修复 HPLIP 严重漏洞](https://mp.weixin.qq.com/s/SAflPeNEiwsTat-_mOjAtw) (发布日期: 2026-09-18)
+- [北美APT组织NightEagle利用GhostContainer后门与隧道技术开展隐蔽攻击活动](https://mp.weixin.qq.com/s/IvMONgB8UOx7XODmUlDxJA) (发布日期: 2026-09-18)
+- [课程从0-1！AI 安全自动化渗透测试课程，免费更新！](https://mp.weixin.qq.com/s/z7Ho2thWG6SY5Hngdv2gIg) (发布日期: 2026-09-18)
+- [美国宾州21岁男子被控为“YSL国”筹备恐袭并被查获步枪弹药，在线独狼模式与加密动员对我海外人员及网络治理构成示范风险](https://mp.weixin.qq.com/s/Q1IMGsdgkWbMoDmt5OHv1A) (发布日期: 2026-09-18)
+- [深度解读丨《人工智能安全治理框架 3.0》，给工业安全人划出6条\"红线\"（思维导图+全文下载）](https://mp.weixin.qq.com/s/YjWWiBCOYd_b27BwmavRAg) (发布日期: 2026-09-18)
+- [一款面向安全分析、应急响应和流量排查场景的 Windows 桌面工具 - TrafficAnalyzer](https://mp.weixin.qq.com/s/0nvajx5xbf28wG3BSjvd8w) (发布日期: 2026-09-18)
+- [大模型渗透测试从0到1:提示词注入+越狱+输出绕过,附完整payload](https://mp.weixin.qq.com/s/kxX-6C8vWGj9vTRpqDf8Sg) (发布日期: 2026-09-18)
+- [无需授权直取CI/CD密钥？聊聊GitLab刚修复的这个“离谱”漏洞](https://mp.weixin.qq.com/s/222lMSVi6KNzWXXhIvVq3A) (发布日期: 2026-09-18)
+- [漏洞预警 | 搜狗输入法远程代码执行漏洞](https://mp.weixin.qq.com/s/tUd4i-O228nT-QuTwDrqjg) (发布日期: 2026-09-18)
+- [漏洞预警 | GitLab路径遍历漏洞](https://mp.weixin.qq.com/s/c6gJ90yfw0XIFrP6YeIC1g) (发布日期: 2026-09-18)
+- [AI 驱动的自动化渗透测试平台 | AI漏洞挖掘系统 - 黑板架构 / 模型分级 / 结果验证铁律](https://mp.weixin.qq.com/s/llON131cr386aAVj2h8e9g) (发布日期: 2026-09-18)
+- [以色列内盖夫核研究中心(迪莫纳中心)数据泄露分析](https://mp.weixin.qq.com/s/RlbidVWC6S_oNcJRr0JQPg) (发布日期: 2026-09-18)
+- [人工智能安全之争究竟是关于安全还是关于控制？——从“AI黑客末日”争论到规则制定权之战](https://mp.weixin.qq.com/s/Dn6cve-zMhdfCUBju6e-rg) (发布日期: 2026-09-18)
+- [以密码为主题的网络钓鱼攻击导致 Microsoft 365 数据被盗](https://mp.weixin.qq.com/s/ST3n_gKJCF0GW-x4bud6qw) (发布日期: 2026-09-18)
+- [暗网泄露:在美华侨数据泄露](https://mp.weixin.qq.com/s/Nsi-fSIFJR_erpaLBXLagg) (发布日期: 2026-09-18)
+- [紧急安全预警｜HP Advance曝3个严重漏洞，最高CVSS 9.3可导致远程代码执行](https://mp.weixin.qq.com/s/zjxbMfSyNdXjpgFC5QxPRw) (发布日期: 2026-09-18)
+- [等级保护建设：安全管理机构—授权和审批](https://mp.weixin.qq.com/s/sxcr0z1Xx-Lj4a34uj-nMw) (发布日期: 2026-09-18)
+- [微软发布补丁修复了974个漏洞，其中包括两个已被利用的Windows零日漏洞](https://mp.weixin.qq.com/s/9MB11GsI3jho5GE0--FEpg) (发布日期: 2026-09-18)
+- [网络安全正在从“漏洞防护”走向“能力治理”](https://mp.weixin.qq.com/s/sPlZg4Uw32w89FCltw0b2Q) (发布日期: 2026-09-18)
+- [CVE-2026-83271 Oracle Database 权限提升漏洞](https://mp.weixin.qq.com/s/1JZyYwRH2bL-h_FbDhrbEw) (发布日期: 2026-09-18)
+- [24 小时，从一台被遗忘的 GitLab 到域控——这条护网路径，本可以断三次](https://mp.weixin.qq.com/s/BgIaNOLL06xplBk80-0zwQ) (发布日期: 2026-09-18)
 
 
 ## 🎯 威胁详情分析
 
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 2026年度（第二期）CNNVD漏洞奖励评选结果公告 | Doonsec | [https://mp.weixin.qq.com/s/aFhcAegPx_QYwvocBRn53A](https://mp.weixin.qq.com/s/aFhcAegPx_QYwvocBRn53A) |
+| 2 | 「T3MP3ST实测：多Agent的AI红队平台 8操作员攻击链 零日CVE猎手 GitHub 6179星」 | Doonsec | [https://mp.weixin.qq.com/s/VTtYSmJ2vJyDEcnRwGpLsQ](https://mp.weixin.qq.com/s/VTtYSmJ2vJyDEcnRwGpLsQ) |
+| 3 | 比起死磕上班内卷，我更建议年轻人试试挖漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Clv1QqdkkSwNMsMv5RxdbA](https://mp.weixin.qq.com/s/Clv1QqdkkSwNMsMv5RxdbA) |
+| 4 | 泛微云桥 e-Bridge sendWxMsg SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/OgB8U8q7UhgoVPNWgQCDeA](https://mp.weixin.qq.com/s/OgB8U8q7UhgoVPNWgQCDeA) |
+| 5 | 存储桶遍历漏洞安全检测工具 - v2.0 | Doonsec | [https://mp.weixin.qq.com/s/94tut5zTcJdJdZASWdi_sQ](https://mp.weixin.qq.com/s/94tut5zTcJdJdZASWdi_sQ) |
+| 6 | 惠普修复 HPLIP 严重漏洞 | Doonsec | [https://mp.weixin.qq.com/s/SAflPeNEiwsTat-_mOjAtw](https://mp.weixin.qq.com/s/SAflPeNEiwsTat-_mOjAtw) |
+| 7 | 无需授权直取CI/CD密钥？聊聊GitLab刚修复的这个“离谱”漏洞 | Doonsec | [https://mp.weixin.qq.com/s/222lMSVi6KNzWXXhIvVq3A](https://mp.weixin.qq.com/s/222lMSVi6KNzWXXhIvVq3A) |
+| 8 | 漏洞预警 | 搜狗输入法远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/tUd4i-O228nT-QuTwDrqjg](https://mp.weixin.qq.com/s/tUd4i-O228nT-QuTwDrqjg) |
+| 9 | 漏洞预警 | GitLab路径遍历漏洞 | Doonsec | [https://mp.weixin.qq.com/s/c6gJ90yfw0XIFrP6YeIC1g](https://mp.weixin.qq.com/s/c6gJ90yfw0XIFrP6YeIC1g) |
+| 10 | AI 驱动的自动化渗透测试平台 | AI漏洞挖掘系统 - 黑板架构 / 模型分级 / 结果验证铁律 | Doonsec | [https://mp.weixin.qq.com/s/llON131cr386aAVj2h8e9g](https://mp.weixin.qq.com/s/llON131cr386aAVj2h8e9g) |
+| 11 | 紧急安全预警｜HP Advance曝3个严重漏洞，最高CVSS 9.3可导致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/zjxbMfSyNdXjpgFC5QxPRw](https://mp.weixin.qq.com/s/zjxbMfSyNdXjpgFC5QxPRw) |
+| 12 | 微软发布补丁修复了974个漏洞，其中包括两个已被利用的Windows零日漏洞 | Doonsec | [https://mp.weixin.qq.com/s/9MB11GsI3jho5GE0--FEpg](https://mp.weixin.qq.com/s/9MB11GsI3jho5GE0--FEpg) |
+| 13 | 网络安全正在从“漏洞防护”走向“能力治理” | Doonsec | [https://mp.weixin.qq.com/s/sPlZg4Uw32w89FCltw0b2Q](https://mp.weixin.qq.com/s/sPlZg4Uw32w89FCltw0b2Q) |
+| 14 | CVE-2026-83271 Oracle Database 权限提升漏洞 | Doonsec | [https://mp.weixin.qq.com/s/1JZyYwRH2bL-h_FbDhrbEw](https://mp.weixin.qq.com/s/1JZyYwRH2bL-h_FbDhrbEw) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 泛微云桥 e-Bridge sendWxMsg SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/OgB8U8q7UhgoVPNWgQCDeA](https://mp.weixin.qq.com/s/OgB8U8q7UhgoVPNWgQCDeA) |
+| 2 | 【工具学习25】ligolo-ng：让内网像直连一样打 | Doonsec | [https://mp.weixin.qq.com/s/rubWOTC-wioFcO5E98joXA](https://mp.weixin.qq.com/s/rubWOTC-wioFcO5E98joXA) |
+| 3 | 大模型渗透测试从0到1:提示词注入+越狱+输出绕过,附完整payload | Doonsec | [https://mp.weixin.qq.com/s/kxX-6C8vWGj9vTRpqDf8Sg](https://mp.weixin.qq.com/s/kxX-6C8vWGj9vTRpqDf8Sg) |
+| 4 | 漏洞预警 | 搜狗输入法远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/tUd4i-O228nT-QuTwDrqjg](https://mp.weixin.qq.com/s/tUd4i-O228nT-QuTwDrqjg) |
+| 5 | 紧急安全预警｜HP Advance曝3个严重漏洞，最高CVSS 9.3可导致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/zjxbMfSyNdXjpgFC5QxPRw](https://mp.weixin.qq.com/s/zjxbMfSyNdXjpgFC5QxPRw) |
+| 6 | 24 小时，从一台被遗忘的 GitLab 到域控——这条护网路径，本可以断三次 | Doonsec | [https://mp.weixin.qq.com/s/BgIaNOLL06xplBk80-0zwQ](https://mp.weixin.qq.com/s/BgIaNOLL06xplBk80-0zwQ) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 北美APT组织NightEagle利用GhostContainer后门与隧道技术开展隐蔽攻击活动 | Doonsec | [https://mp.weixin.qq.com/s/IvMONgB8UOx7XODmUlDxJA](https://mp.weixin.qq.com/s/IvMONgB8UOx7XODmUlDxJA) |
+| 2 | 一款面向安全分析、应急响应和流量排查场景的 Windows 桌面工具 - TrafficAnalyzer | Doonsec | [https://mp.weixin.qq.com/s/0nvajx5xbf28wG3BSjvd8w](https://mp.weixin.qq.com/s/0nvajx5xbf28wG3BSjvd8w) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 安全运营中心（SOC）建设方案 | Doonsec | [https://mp.weixin.qq.com/s/kCwnnoLvipnCVBn29rPNQg](https://mp.weixin.qq.com/s/kCwnnoLvipnCVBn29rPNQg) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 以色列内盖夫核研究中心(迪莫纳中心)数据泄露分析 | Doonsec | [https://mp.weixin.qq.com/s/RlbidVWC6S_oNcJRr0JQPg](https://mp.weixin.qq.com/s/RlbidVWC6S_oNcJRr0JQPg) |
+| 2 | 暗网泄露:在美华侨数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/Nsi-fSIFJR_erpaLBXLagg](https://mp.weixin.qq.com/s/Nsi-fSIFJR_erpaLBXLagg) |
+
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-09/2026-W38/2026-09-17/`
+文章已归档到: `doc/2026/2026-09/2026-W38/2026-09-18/`
 
 ## 🔗 数据源说明
 
@@ -78,8 +172,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 14 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -88,5 +182,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-17 19:37:07*
+*生成时间: 2026-09-18 03:54:40*
 *报告工具: 微信文章安全归档系统*
