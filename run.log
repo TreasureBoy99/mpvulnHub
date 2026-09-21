@@ -120199,3 +120199,62 @@
 2026-09-21 04:05:35,239 - INFO - 正在发送Discord日报通知: 2026-09-21
 2026-09-21 04:05:35,415 - INFO - Discord日报发送结果: 204
 2026-09-21 04:05:35,416 - INFO - === 执行完成 ===
+2026-09-21 14:56:44,498 - INFO - === 开始执行微信文章归档工具 ===
+2026-09-21 14:56:44,498 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-09-21 14:56:44,498 - INFO - 正在发送Discord启动通知...
+2026-09-21 14:56:45,158 - INFO - Discord启动通知发送结果: 204
+2026-09-21 14:56:45,160 - INFO - 数据文件: data.json
+2026-09-21 14:56:45,161 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-09-21 14:56:45,161 - INFO - 文档目录: doc
+2026-09-21 14:56:45,237 - INFO - 已加载 50067 条历史记录
+2026-09-21 14:56:45,237 - INFO - === 开始今日拉取 ===
+2026-09-21 14:56:45,237 - INFO - 开始获取Doonsec RSS
+2026-09-21 14:56:45,237 - INFO - 目标日期: 2026-09-21
+2026-09-21 14:56:53,108 - INFO - Doonsec RSS请求成功
+2026-09-21 14:56:53,109 - INFO - RSS中共有 200 个条目
+2026-09-21 14:56:53,109 - INFO - Doonsec获取到 133 个2026-09-21的微信文章URL
+2026-09-21 14:56:53,111 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-09-21.md
+2026-09-21 14:56:53,290 - INFO - ChainReactors md文件下载状态码: 404
+2026-09-21 14:56:53,290 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-09-21.md 状态码: 404
+2026-09-21 14:56:53,290 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-09-21.md
+2026-09-21 14:56:53,485 - INFO - BruceFeIix md文件下载状态码: 200
+2026-09-21 14:56:53,487 - INFO - BruceFeIix获取到 108 个URL
+2026-09-21 14:56:53,487 - INFO - === 开始处理 2026-09-21 的数据 ===
+2026-09-21 14:56:53,487 - INFO - Doonsec原始数据: 133 个
+2026-09-21 14:56:53,487 - INFO - ChainReactors原始数据: 0 个
+2026-09-21 14:56:53,487 - INFO - BruceFeIix原始数据: 108 个
+2026-09-21 14:56:53,487 - INFO - 开始处理Doonsec数据...
+2026-09-21 14:56:53,487 - INFO - 开始处理ChainReactors数据...
+2026-09-21 14:56:53,488 - INFO - 开始处理BruceFeIix数据...
+2026-09-21 14:56:53,488 - INFO - 去重后共 186 个URL待处理，跳过 55 个重复URL
+2026-09-21 14:56:53,488 - INFO - 去重后统计 - Doonsec: 87 个, ChainReactors: 0 个, BruceFeIix: 99 个
+2026-09-21 14:56:53,488 - INFO - === 开始关键词过滤 ===
+2026-09-21 14:56:53,494 - INFO - 关键词过滤: 匹配 10 个，跳过 176 个
+2026-09-21 14:56:53,494 - INFO - 关键词过滤后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 10 个
+2026-09-21 14:56:53,508 - INFO - 已创建每日报告: md/2026-09-21.md
+2026-09-21 14:56:53,508 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-09-21 14:56:53,508 - INFO - 正在发送Discord通知:  ] [如何用AI Agent拿下漏洞赏金大赛冠军
+2026-09-21 14:56:53,773 - INFO - Discord通知发送结果: 204
+2026-09-21 14:56:53,774 - INFO - 正在发送Discord通知:  ] [【已复现】WordPress Click2Shell 核心预认证远程代码执行漏洞(QVD-2026-70986)安全风险通告
+2026-09-21 14:56:54,017 - INFO - Discord通知发送结果: 204
+2026-09-21 14:56:54,018 - INFO - 正在发送Discord通知:  ] [人机共智·重构攻防｜WiFi万能钥匙，助力第十届安全开发者峰会（SDC2026）
+2026-09-21 14:56:54,359 - INFO - Discord通知发送结果: 204
+2026-09-21 14:56:54,361 - INFO - 正在发送Discord通知:  ] [别再等加密告警了！LockBit攻击链揭示：真正的阻断窗口在文件变密文之前
+2026-09-21 14:56:55,008 - INFO - Discord通知发送结果: 204
+2026-09-21 14:56:55,009 - INFO - 正在发送Discord通知:  ] [SolarWinds 修复 ARM 硬编码密钥严重漏洞，可导致未认证RCE
+2026-09-21 14:56:55,788 - INFO - Discord通知发送结果: 204
+2026-09-21 14:56:55,789 - INFO - 正在发送Discord通知:  ] [Fortinet：Orkes Conductor 工作流平台上严重的预认证 RCE 已遭利用
+2026-09-21 14:56:56,150 - INFO - Discord通知发送结果: 204
+2026-09-21 14:56:56,151 - INFO - 正在发送Discord通知:  ] [威胁情报｜FomoPeek App Store 投毒与 iOS 内核利用分析
+2026-09-21 14:56:56,427 - INFO - Discord通知发送结果: 204
+2026-09-21 14:56:56,428 - INFO - 正在发送Discord通知:  ] [零信任是未来，但企业仍然需要 VPN
+2026-09-21 14:56:56,852 - INFO - Discord通知发送结果: 204
+2026-09-21 14:56:56,853 - INFO - 正在发送Discord通知:  ] [一文了解｜SkillScan 智能体技能安全扫描最佳实践
+2026-09-21 14:56:57,141 - INFO - Discord通知发送结果: 204
+2026-09-21 14:56:57,142 - INFO - 正在发送Discord通知:  ] [360发布“U+隐私搜索”，护航中国—东盟AI数据安全合作
+2026-09-21 14:56:57,378 - INFO - Discord通知发送结果: 204
+2026-09-21 14:56:57,456 - INFO - 已更新data.json，添加了 10 个URL
+2026-09-21 14:56:57,457 - INFO - 已创建每日报告: md/2026-09-21.md
+2026-09-21 14:56:57,457 - INFO - 正在发送Discord日报通知: 2026-09-21
+2026-09-21 14:56:57,818 - INFO - Discord日报发送结果: 204
+2026-09-21 14:56:57,820 - INFO - === 执行完成 ===
