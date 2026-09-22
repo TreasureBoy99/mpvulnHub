@@ -1,20 +1,22 @@
-# 2026-09-21 安全威胁态势报告
+# 2026-09-22 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 23
 - **数据源分布**:
-  - BruceFeIix: 10篇
+  - Doonsec: 23篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 3篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 13篇
+- **攻击技术**: 5篇
+- **信息泄露**: 2篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
 - **系统漏洞**: 2篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,18 +63,31 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [如何用AI Agent拿下漏洞赏金大赛冠军](https://mp.weixin.qq.com/s/XpiVT64ftdDO8lnWP83M2w) (发布日期: 2026-09-21)
-- [ ] [【已复现】WordPress Click2Shell 核心预认证远程代码执行漏洞(QVD-2026-70986)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507652&idx=1&sn=e065cea7a0b67f4c462701e2cfc0c551) (发布日期: 2026-09-21)
-- [ ] [人机共智·重构攻防｜WiFi万能钥匙，助力第十届安全开发者峰会（SDC2026）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620796&idx=1&sn=8576b87125fb41988c3382a219e557d9) (发布日期: 2026-09-21)
-- [ ] [别再等加密告警了！LockBit攻击链揭示：真正的阻断窗口在文件变密文之前](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142785&idx=1&sn=e9c605768257387bb1277723fcfd690e) (发布日期: 2026-09-21)
-- [ ] [SolarWinds 修复 ARM 硬编码密钥严重漏洞，可导致未认证RCE](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527182&idx=2&sn=9d18e0362a63cc3239c2b30d7fd7fc36) (发布日期: 2026-09-21)
-- [ ] [Fortinet：Orkes Conductor 工作流平台上严重的预认证 RCE 已遭利用](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527182&idx=3&sn=354366cc3bff3cacc12308d508f2ab28) (发布日期: 2026-09-21)
-- [ ] [威胁情报｜FomoPeek App Store 投毒与 iOS 内核利用分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247506141&idx=1&sn=1c78b33f87575f53b34850e3d6f96651) (发布日期: 2026-09-21)
-- [ ] [零信任是未来，但企业仍然需要 VPN](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543964&idx=1&sn=b301dd8347b13bbfb85d0d6ddf11861f) (发布日期: 2026-09-21)
-- [ ] [一文了解｜SkillScan 智能体技能安全扫描最佳实践](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496381&idx=1&sn=012b12d8082f3763f8311722ac1f2e57) (发布日期: 2026-09-21)
-- [ ] [360发布“U+隐私搜索”，护航中国—东盟AI数据安全合作](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586957&idx=1&sn=259e8bed2c5a35f8456f21037ffcefe7) (发布日期: 2026-09-21)
+- [ISRC「1积分兑换中秋礼盒！」](https://mp.weixin.qq.com/s/MquqA3i5BTS2Gm-AJuqO8g) (发布日期: 2026-09-22)
+- [别再把xa0API Key 塞进 Agent：企业 AI 密钥管理的正确打开方式](https://mp.weixin.qq.com/s/ffn_CPr8gbCqGSVXygnq0w) (发布日期: 2026-09-22)
+- [Amazon封禁Meta AI Agent Muse，AI购物代理的数据安全争议升级；CNVD周报：Apache与Google产品漏洞集中爆发，电信行业风险突出| 牛览](https://mp.weixin.qq.com/s/7vUN5e7WP5Q-ejVA0MxCcg) (发布日期: 2026-09-22)
+- [AI编程时代，多语言混写的调用链漏洞](https://mp.weixin.qq.com/s/NXIGo_vZPoyi_u00UtM5XQ) (发布日期: 2026-09-22)
+- [假期挖洞不卡壳，X漏洞计划焕新升级！](https://mp.weixin.qq.com/s/99n5l7ozCGf1ZJdXyHGPXQ) (发布日期: 2026-09-22)
+- [漏洞永远出现在意想不到的地方](https://mp.weixin.qq.com/s/Hmh4Gos6EY1PmiLO1ux6zw) (发布日期: 2026-09-22)
+- [CVE-2026-81000（TUNderflow）技术分析](https://mp.weixin.qq.com/s/v5AXwhSnTZ8uDciJbRS7NA) (发布日期: 2026-09-22)
+- [2026最新CTF知识库：12大Web漏洞深度文章+1156篇历年大赛WP+50+脚本+Payload速查 +AI/RAG离线在线知识库](https://mp.weixin.qq.com/s/sOLCG_N55TdVhuhmAcbHuw) (发布日期: 2026-09-22)
+- [一条“数亿条数据泄露”的挂单，怎么判断真假](https://mp.weixin.qq.com/s/qXbT3SYAy5VCO1mPjlSNNA) (发布日期: 2026-09-22)
+- [【重磅】Citrix 漏洞利用全集：从路径穿越到域控沦陷，边界网关攻击路径全解析](https://mp.weixin.qq.com/s/H0HlVJpKudkM0BdPpB-AvA) (发布日期: 2026-09-22)
+- [数据安全风险评估系统已更新](https://mp.weixin.qq.com/s/6he2jM70LuJeCIeZnLmHfw) (发布日期: 2026-09-22)
+- [报一送一！CISP-AISE国家注册人工智能安全应用专业人员认证](https://mp.weixin.qq.com/s/i8Rx-tQAaz5Z-XdxvlZ9SA) (发布日期: 2026-09-22)
+- [漏洞预警 | Cisco ISE远程代码执行漏洞](https://mp.weixin.qq.com/s/YKosYQlHwZSp5VhOaePfDg) (发布日期: 2026-09-22)
+- [漏洞预警 | OpenPrinting CUPS本地权限提升漏洞](https://mp.weixin.qq.com/s/cNbGqX-pBY4apXbWJdCS5A) (发布日期: 2026-09-22)
+- [阿尔及利亚国防部下属军事情报机构 DCSA 数据泄露事件分析](https://mp.weixin.qq.com/s/cJ_vjxy1KRXLM19ulqn-LQ) (发布日期: 2026-09-22)
+- [PivotHub · 链透中枢 — 多层内网渗透辅助工具 | CTF、内网渗透、攻防](https://mp.weixin.qq.com/s/AuBTZzSVXcQyqNj2ZzI_Vg) (发布日期: 2026-09-22)
+- [暗网泄露:SplitVPN（NotVPN）拥有 2340 万用户、5800 万条日志和 1360 万台设备](https://mp.weixin.qq.com/s/o24FztrHxkeRZQEiMxuGSA) (发布日期: 2026-09-22)
+- [\"会用不会防\"：AI 时代，企业安全意识工作正在被重新定义](https://mp.weixin.qq.com/s/ffVFRWh7QE8hJiHKKBmsYg) (发布日期: 2026-09-22)
+- [红队最新的趁手工具，蓝队最好也认识一下](https://mp.weixin.qq.com/s/v_lkeq_xJbwSuZLyM01c0Q) (发布日期: 2026-09-22)
+- [安全工具丨若依 Vue 漏洞检测工具，支持自动化扫描若依(RuoYi-Vue)系列系统的多种安全漏洞](https://mp.weixin.qq.com/s/jE8eNysx08Lbc3sf_W31fA) (发布日期: 2026-09-22)
+- [谷歌Chrome浏览器发布153版本，修复了42个安全漏洞](https://mp.weixin.qq.com/s/E-wf3I29hTedk9Zo3c3fVA) (发布日期: 2026-09-22)
+- [解决代码审计漏洞痛点！阿里内部AI审计工具OpenCodeReview低误报精准筛查SQL注入、命令执行、权限绕过漏洞](https://mp.weixin.qq.com/s/eKNczbLr8hmGpwHqqyAPoA) (发布日期: 2026-09-22)
+- [Ivanti EPMM、Neurons 和 Sentry 漏洞可导致权限提升和远程代码执行攻击](https://mp.weixin.qq.com/s/Gob0jBl4-WQAcELen-DlTg) (发布日期: 2026-09-22)
 
 
 ## 🎯 威胁详情分析
@@ -81,28 +96,47 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [如何用AI Agent拿下漏洞赏金大赛冠军 | BruceFeIix | [https://mp.weixin.qq.com/s/XpiVT64ftdDO8lnWP83M2w](https://mp.weixin.qq.com/s/XpiVT64ftdDO8lnWP83M2w) |
-| 2 |  ] [【已复现】WordPress Click2Shell 核心预认证远程代码执行漏洞(QVD-2026-70986)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507652&idx=1&sn=e065cea7a0b67f4c462701e2cfc0c551](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507652&idx=1&sn=e065cea7a0b67f4c462701e2cfc0c551) |
-| 3 |  ] [SolarWinds 修复 ARM 硬编码密钥严重漏洞，可导致未认证RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527182&idx=2&sn=9d18e0362a63cc3239c2b30d7fd7fc36](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527182&idx=2&sn=9d18e0362a63cc3239c2b30d7fd7fc36) |
+| 1 | Amazon封禁Meta AI Agent Muse，AI购物代理的数据安全争议升级；CNVD周报：Apache与Google产品漏洞集中爆发，电信行业风险突出| 牛览 | Doonsec | [https://mp.weixin.qq.com/s/7vUN5e7WP5Q-ejVA0MxCcg](https://mp.weixin.qq.com/s/7vUN5e7WP5Q-ejVA0MxCcg) |
+| 2 | AI编程时代，多语言混写的调用链漏洞 | Doonsec | [https://mp.weixin.qq.com/s/NXIGo_vZPoyi_u00UtM5XQ](https://mp.weixin.qq.com/s/NXIGo_vZPoyi_u00UtM5XQ) |
+| 3 | 假期挖洞不卡壳，X漏洞计划焕新升级！ | Doonsec | [https://mp.weixin.qq.com/s/99n5l7ozCGf1ZJdXyHGPXQ](https://mp.weixin.qq.com/s/99n5l7ozCGf1ZJdXyHGPXQ) |
+| 4 | 漏洞永远出现在意想不到的地方 | Doonsec | [https://mp.weixin.qq.com/s/Hmh4Gos6EY1PmiLO1ux6zw](https://mp.weixin.qq.com/s/Hmh4Gos6EY1PmiLO1ux6zw) |
+| 5 | CVE-2026-81000（TUNderflow）技术分析 | Doonsec | [https://mp.weixin.qq.com/s/v5AXwhSnTZ8uDciJbRS7NA](https://mp.weixin.qq.com/s/v5AXwhSnTZ8uDciJbRS7NA) |
+| 6 | 2026最新CTF知识库：12大Web漏洞深度文章+1156篇历年大赛WP+50+脚本+Payload速查 +AI/RAG离线在线知识库 | Doonsec | [https://mp.weixin.qq.com/s/sOLCG_N55TdVhuhmAcbHuw](https://mp.weixin.qq.com/s/sOLCG_N55TdVhuhmAcbHuw) |
+| 7 | 【重磅】Citrix 漏洞利用全集：从路径穿越到域控沦陷，边界网关攻击路径全解析 | Doonsec | [https://mp.weixin.qq.com/s/H0HlVJpKudkM0BdPpB-AvA](https://mp.weixin.qq.com/s/H0HlVJpKudkM0BdPpB-AvA) |
+| 8 | 漏洞预警 | Cisco ISE远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/YKosYQlHwZSp5VhOaePfDg](https://mp.weixin.qq.com/s/YKosYQlHwZSp5VhOaePfDg) |
+| 9 | 漏洞预警 | OpenPrinting CUPS本地权限提升漏洞 | Doonsec | [https://mp.weixin.qq.com/s/cNbGqX-pBY4apXbWJdCS5A](https://mp.weixin.qq.com/s/cNbGqX-pBY4apXbWJdCS5A) |
+| 10 | 安全工具丨若依 Vue 漏洞检测工具，支持自动化扫描若依(RuoYi-Vue)系列系统的多种安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/jE8eNysx08Lbc3sf_W31fA](https://mp.weixin.qq.com/s/jE8eNysx08Lbc3sf_W31fA) |
+| 11 | 谷歌Chrome浏览器发布153版本，修复了42个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/E-wf3I29hTedk9Zo3c3fVA](https://mp.weixin.qq.com/s/E-wf3I29hTedk9Zo3c3fVA) |
+| 12 | 解决代码审计漏洞痛点！阿里内部AI审计工具OpenCodeReview低误报精准筛查SQL注入、命令执行、权限绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/eKNczbLr8hmGpwHqqyAPoA](https://mp.weixin.qq.com/s/eKNczbLr8hmGpwHqqyAPoA) |
+| 13 | Ivanti EPMM、Neurons 和 Sentry 漏洞可导致权限提升和远程代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s/Gob0jBl4-WQAcELen-DlTg](https://mp.weixin.qq.com/s/Gob0jBl4-WQAcELen-DlTg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【已复现】WordPress Click2Shell 核心预认证远程代码执行漏洞(QVD-2026-70986)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507652&idx=1&sn=e065cea7a0b67f4c462701e2cfc0c551](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507652&idx=1&sn=e065cea7a0b67f4c462701e2cfc0c551) |
-| 2 |  ] [SolarWinds 修复 ARM 硬编码密钥严重漏洞，可导致未认证RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527182&idx=2&sn=9d18e0362a63cc3239c2b30d7fd7fc36](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527182&idx=2&sn=9d18e0362a63cc3239c2b30d7fd7fc36) |
-| 3 |  ] [Fortinet：Orkes Conductor 工作流平台上严重的预认证 RCE 已遭利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527182&idx=3&sn=354366cc3bff3cacc12308d508f2ab28](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527182&idx=3&sn=354366cc3bff3cacc12308d508f2ab28) |
+| 1 | 【重磅】Citrix 漏洞利用全集：从路径穿越到域控沦陷，边界网关攻击路径全解析 | Doonsec | [https://mp.weixin.qq.com/s/H0HlVJpKudkM0BdPpB-AvA](https://mp.weixin.qq.com/s/H0HlVJpKudkM0BdPpB-AvA) |
+| 2 | 漏洞预警 | Cisco ISE远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/YKosYQlHwZSp5VhOaePfDg](https://mp.weixin.qq.com/s/YKosYQlHwZSp5VhOaePfDg) |
+| 3 | PivotHub · 链透中枢 — 多层内网渗透辅助工具 | CTF、内网渗透、攻防 | Doonsec | [https://mp.weixin.qq.com/s/AuBTZzSVXcQyqNj2ZzI_Vg](https://mp.weixin.qq.com/s/AuBTZzSVXcQyqNj2ZzI_Vg) |
+| 4 | 解决代码审计漏洞痛点！阿里内部AI审计工具OpenCodeReview低误报精准筛查SQL注入、命令执行、权限绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/eKNczbLr8hmGpwHqqyAPoA](https://mp.weixin.qq.com/s/eKNczbLr8hmGpwHqqyAPoA) |
+| 5 | Ivanti EPMM、Neurons 和 Sentry 漏洞可导致权限提升和远程代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s/Gob0jBl4-WQAcELen-DlTg](https://mp.weixin.qq.com/s/Gob0jBl4-WQAcELen-DlTg) |
 
-### 威胁情报
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [威胁情报｜FomoPeek App Store 投毒与 iOS 内核利用分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247506141&idx=1&sn=1c78b33f87575f53b34850e3d6f96651](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247506141&idx=1&sn=1c78b33f87575f53b34850e3d6f96651) |
+| 1 | ISRC「1积分兑换中秋礼盒！」 | Doonsec | [https://mp.weixin.qq.com/s/MquqA3i5BTS2Gm-AJuqO8g](https://mp.weixin.qq.com/s/MquqA3i5BTS2Gm-AJuqO8g) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 一条“数亿条数据泄露”的挂单，怎么判断真假 | Doonsec | [https://mp.weixin.qq.com/s/qXbT3SYAy5VCO1mPjlSNNA](https://mp.weixin.qq.com/s/qXbT3SYAy5VCO1mPjlSNNA) |
+| 2 | 阿尔及利亚国防部下属军事情报机构 DCSA 数据泄露事件分析 | Doonsec | [https://mp.weixin.qq.com/s/cJ_vjxy1KRXLM19ulqn-LQ](https://mp.weixin.qq.com/s/cJ_vjxy1KRXLM19ulqn-LQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-09/2026-W39/2026-09-21/`
+文章已归档到: `doc/2026/2026-09/2026-W39/2026-09-22/`
 
 ## 🔗 数据源说明
 
@@ -113,7 +147,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
 - **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
@@ -123,5 +157,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-21 14:56:57*
+*生成时间: 2026-09-22 04:02:25*
 *报告工具: 微信文章安全归档系统*
