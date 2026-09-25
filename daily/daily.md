@@ -1,22 +1,23 @@
-# 2026-09-24 安全威胁态势报告
+# 2026-09-25 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 25
+- **总文章数**: 19
 - **数据源分布**:
-  - BruceFeIix: 25篇
+  - BruceFeIix: 19篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 13篇
-- **攻击技术**: 4篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 6篇
+- **攻击技术**: 2篇
+- **威胁情报**: 2篇
+- **供应链**: 2篇
 - **安全运营**: 1篇
-- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 3篇
+- **系统漏洞**: 2篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,31 +66,25 @@
 
 ### BruceFeIix
 
-- [ ] [大模型辅助补丁分析工作流：拆解路由器高危漏洞链](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188917&idx=1&sn=2b435005b72fd15365234372ea566281) (发布日期: 2026-09-24)
-- [ ] [FBI疑似发生重大数据泄露，所有警员数据外泄](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516652&idx=1&sn=f269a2ee7bbe70908bd9847c904be6a9) (发布日期: 2026-09-24)
-- [ ] [又一家银行因数据安全问题被“双罚”！信息科技部人员负有责任](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516652&idx=2&sn=25cb1b2cff7d646034b774e66180cf20) (发布日期: 2026-09-24)
-- [ ] [一块公交站牌沦为"肉鸡"，公安部这份通报，把物联网安全的老底揭开了](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790517&idx=1&sn=32560d336d96f8302ca192be34730f41) (发布日期: 2026-09-24)
-- [ ] [首批！奇安信率先获得国家级人工智能安全服务资质](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527217&idx=1&sn=2f5a2f5f060793699fc8cc74a52e5a59) (发布日期: 2026-09-24)
-- [ ] [Check Point 紧急修复已遭利用的 Management Server 0day](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527217&idx=2&sn=e2ba8e5eb1fd1d64813208a89591b659) (发布日期: 2026-09-24)
-- [ ] [首批+最多！奇安信获国家人工智能安全漏洞库技术支撑单位及15项漏洞奖励](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527217&idx=3&sn=8175d7230a5e360b9d49abd46e4ec13f) (发布日期: 2026-09-24)
-- [ ] [面向商用密码应用安全性评估的数据存储硬盘加密技术实践](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267269&idx=1&sn=e59332f468d01521efed74b9aa19a6cd) (发布日期: 2026-09-24)
-- [ ] [制造业为何频遭勒索？问题已不只是漏洞，而是身份与配置管理](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544045&idx=1&sn=2e0fee7119c59025ce7ba73fc833d836) (发布日期: 2026-09-24)
-- [ ] [行业动态 | 第十六届网络安全漏洞分析与风险评估大会在重庆举办](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544045&idx=3&sn=f5600d3c3b9b27e66094867d2412e267) (发布日期: 2026-09-24)
-- [ ] [【安全圈】WordPress曝Click2Shell漏洞：管理员点击链接直达RCE](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079083&idx=1&sn=1f478cebe104c5edeee7dcbb3a9eca43) (发布日期: 2026-09-24)
-- [ ] [【安全圈】F5曝BIG-IP致命零日漏洞：未认证请求击穿OAuth直达RCE](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079083&idx=2&sn=0ce805bc063237b686b25b2402f18126) (发布日期: 2026-09-24)
-- [ ] [【安全圈】Next.js曝光9.5分严重漏洞：动态制图缺陷致服务端RCE](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079083&idx=3&sn=15ced44e506d301ae85956077004e955) (发布日期: 2026-09-24)
-- [ ] [人机共智·重构攻防｜华为，助力第十届安全开发者峰会（SDC2026）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621086&idx=1&sn=f257ef5c39824d9b599e370eae2f1b5e) (发布日期: 2026-09-24)
-- [ ] [HITCON2017 babyfirst-revenge 看雪 CTF 复现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621086&idx=2&sn=533a3e69a43779501ce1971feff32da7) (发布日期: 2026-09-24)
-- [ ] [F5 BIG-IP APM OAuth授权服务器存在零日漏洞，可无登录远程代码执行](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621086&idx=3&sn=bb7cbcd85bba87195da00496fc84cfb8) (发布日期: 2026-09-24)
-- [ ] [青藤云安全入选CNNVD“人工智能安全漏洞治理联盟”成员单位](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851930&idx=1&sn=820105c412a9406ff0bda1bf349aee5b) (发布日期: 2026-09-24)
-- [ ] [AI SOC Agent落地实战：为什么70%在试点，只有15%真正见效？](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142836&idx=1&sn=6c0d5719a8fdf889f58456d2bf686b08) (发布日期: 2026-09-24)
-- [ ] [从XDR到AI原生安全运营：技术演进与实践应用指南](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142836&idx=2&sn=af9e41fc54edf0241b6ccbabc3ded7f7) (发布日期: 2026-09-24)
-- [ ] [微步入选CNNVD人工智能安全漏洞治理联盟成员单位，并获漏洞一级贡献奖](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188274&idx=1&sn=998880533218e42a20641d75cfa4d241) (发布日期: 2026-09-24)
-- [ ] [从《人工智能安全治理框架3.0》看 AgentGuard：智能体安全如何实践](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247499992&idx=1&sn=fe84a5abb255e094c904e7088438e61c) (发布日期: 2026-09-24)
-- [ ] [金融标准一图读懂《金融数据安全 数据安全能力体系》](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247505286&idx=1&sn=8021477ec0a95b3bb041c7c57c7e2e0f) (发布日期: 2026-09-24)
-- [ ] [TWIST 入选 ACM CCS 2026：面向云上大模型服务的隐私保护新方案](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522837&idx=1&sn=9a517deecee420b33ef098ae4fc00802) (发布日期: 2026-09-24)
-- [ ] [上汽集团网络安全应急响应团队走进360上海城市安全大脑](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586971&idx=2&sn=25e4a63389705c620640a4452333acbc) (发布日期: 2026-09-24)
-- [ ] [战场升级，悬赏加码丨DayDayPOC 0day漏洞悬赏计划第二期正式启动](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488409&idx=1&sn=69dfa9481cd75b1b3fdc3caea1ce88ef) (发布日期: 2026-09-24)
+- [ ] [已复现 | VMware vCenter pre-auth RCE](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508960&idx=1&sn=7769927037c8c71dff3bd7802cce35ff) (发布日期: 2026-09-25)
+- [ ] [ManageEngine 严重漏洞可导致攻击者通过 Windows 登录获屏幕得系统权限](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527227&idx=1&sn=9cb59c56483b05b9d69397491a54323c) (发布日期: 2026-09-25)
+- [ ] [GitLab 邮件地址可用于供应链攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527227&idx=2&sn=ebe8eb1c6273dd854494ce61cdcf3e57) (发布日期: 2026-09-25)
+- [ ] [安全热点周报：Check Point 警告称其管理服务器零日漏洞正被用于定向攻击](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507676&idx=1&sn=5413b9d5c8b63749207148b9f0c93bb0) (发布日期: 2026-09-25)
+- [ ] [10月17日专题会议：新技术应用安全前沿学术会议](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495968&idx=2&sn=bdbdb0bf7d3c5e2649dbf1c4b7133ae1) (发布日期: 2026-09-25)
+- [ ] [10月17日专题会议：人工智能安全前沿学术会议](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495968&idx=5&sn=4d504aee48dbe2a5d5b3bd20e0f7e86c) (发布日期: 2026-09-25)
+- [ ] [10月17日专题会议：数据安全防护与治理前沿学术会议](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495968&idx=6&sn=a956d9228d8e04ad9764160aa5fa7205) (发布日期: 2026-09-25)
+- [ ] [AI 记忆框架遭供应链投毒：MemTensor 双仓库沦陷，新型 Go 蠕虫 sckit 窃凭证、能自我复制](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520712&idx=1&sn=8b736ff41e91f4f975ab73e1d19505fb) (发布日期: 2026-09-25)
+- [ ] [京东安全应急响应中心关于白帽子违规测试的处置公告](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727851365&idx=1&sn=225aefe18a3566889038b5685665b2e2) (发布日期: 2026-09-25)
+- [ ] [“银狐”木马专项——恶意域名及恶意IP（五）](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502233&idx=1&sn=e70fb42a469b23f5dfa2c8c5959532f3) (发布日期: 2026-09-25)
+- [ ] [第十六届网络安全漏洞分析与风险评估大会 | “智·基 数智赋能下关键信息基础设施安全治理实践”分论坛成功举办](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267324&idx=1&sn=f9b142e00efbdfe27684769e90dd9ccd) (发布日期: 2026-09-25)
+- [ ] [第十六届网络安全漏洞分析与风险评估大会 | 人工智能漏洞研究与治理分论坛成功举办](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267324&idx=2&sn=afb32ff37beb0f00184ed0669de5ae3e) (发布日期: 2026-09-25)
+- [ ] [第十六届VARA大会信息安全企业家论坛在重庆举办 首批人工智能安全资质正式发布](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267324&idx=3&sn=d77e9d58976cbaff20dfb559a1f68667) (发布日期: 2026-09-25)
+- [ ] [OSRC中秋国庆放假通知](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495080&idx=1&sn=ee80a949f75f1f12ac9f8ea63859e094) (发布日期: 2026-09-25)
+- [ ] [TWIST 入选 ACM CCS 2026：面向云上大模型服务的隐私保护新方案](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496388&idx=1&sn=0091694c8514d609e619f61895bc492a) (发布日期: 2026-09-25)
+- [ ] [腾讯CodeBuddy Security发现Suricata史上首个RCE漏洞](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497997&idx=1&sn=6c39e443ce62b477fc8784bae4ef4edc) (发布日期: 2026-09-25)
+- [ ] [对一款Windows木马开源提示词的测评](https://mp.weixin.qq.com/s?__biz=MzIyOTY1NDE5Mg==&mid=2247485577&idx=1&sn=be26c2eb3f2fccfd20a9e030d9bf2181) (发布日期: 2026-09-25)
+- [ ] [持续入选《2026 网络安全十大创新方向》，问境AIST引领智能体安全治理！](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647800855&idx=1&sn=45f0fc307a50da666bb4daa782335b54) (发布日期: 2026-09-25)
+- [ ] [紧急预警｜.ths勒索软件活动升温 多用户文件遭批量加密](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538022&idx=1&sn=22ab7b25464bdb769151e1a9f9565605) (发布日期: 2026-09-25)
 
 
 ## 🎯 威胁详情分析
@@ -98,51 +93,44 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [大模型辅助补丁分析工作流：拆解路由器高危漏洞链 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188917&idx=1&sn=2b435005b72fd15365234372ea566281](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188917&idx=1&sn=2b435005b72fd15365234372ea566281) |
-| 2 |  ] [Check Point 紧急修复已遭利用的 Management Server 0day | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527217&idx=2&sn=e2ba8e5eb1fd1d64813208a89591b659](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527217&idx=2&sn=e2ba8e5eb1fd1d64813208a89591b659) |
-| 3 |  ] [首批+最多！奇安信获国家人工智能安全漏洞库技术支撑单位及15项漏洞奖励 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527217&idx=3&sn=8175d7230a5e360b9d49abd46e4ec13f](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527217&idx=3&sn=8175d7230a5e360b9d49abd46e4ec13f) |
-| 4 |  ] [制造业为何频遭勒索？问题已不只是漏洞，而是身份与配置管理 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544045&idx=1&sn=2e0fee7119c59025ce7ba73fc833d836](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544045&idx=1&sn=2e0fee7119c59025ce7ba73fc833d836) |
-| 5 |  ] [行业动态 | 第十六届网络安全漏洞分析与风险评估大会在重庆举办 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544045&idx=3&sn=f5600d3c3b9b27e66094867d2412e267](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544045&idx=3&sn=f5600d3c3b9b27e66094867d2412e267) |
-| 6 |  ] [【安全圈】WordPress曝Click2Shell漏洞：管理员点击链接直达RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079083&idx=1&sn=1f478cebe104c5edeee7dcbb3a9eca43](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079083&idx=1&sn=1f478cebe104c5edeee7dcbb3a9eca43) |
-| 7 |  ] [【安全圈】F5曝BIG-IP致命零日漏洞：未认证请求击穿OAuth直达RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079083&idx=2&sn=0ce805bc063237b686b25b2402f18126](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079083&idx=2&sn=0ce805bc063237b686b25b2402f18126) |
-| 8 |  ] [【安全圈】Next.js曝光9.5分严重漏洞：动态制图缺陷致服务端RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079083&idx=3&sn=15ced44e506d301ae85956077004e955](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079083&idx=3&sn=15ced44e506d301ae85956077004e955) |
-| 9 |  ] [HITCON2017 babyfirst-revenge 看雪 CTF 复现 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621086&idx=2&sn=533a3e69a43779501ce1971feff32da7](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621086&idx=2&sn=533a3e69a43779501ce1971feff32da7) |
-| 10 |  ] [F5 BIG-IP APM OAuth授权服务器存在零日漏洞，可无登录远程代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621086&idx=3&sn=bb7cbcd85bba87195da00496fc84cfb8](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621086&idx=3&sn=bb7cbcd85bba87195da00496fc84cfb8) |
-| 11 |  ] [青藤云安全入选CNNVD“人工智能安全漏洞治理联盟”成员单位 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851930&idx=1&sn=820105c412a9406ff0bda1bf349aee5b](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851930&idx=1&sn=820105c412a9406ff0bda1bf349aee5b) |
-| 12 |  ] [微步入选CNNVD人工智能安全漏洞治理联盟成员单位，并获漏洞一级贡献奖 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188274&idx=1&sn=998880533218e42a20641d75cfa4d241](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188274&idx=1&sn=998880533218e42a20641d75cfa4d241) |
-| 13 |  ] [战场升级，悬赏加码丨DayDayPOC 0day漏洞悬赏计划第二期正式启动 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488409&idx=1&sn=69dfa9481cd75b1b3fdc3caea1ce88ef](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488409&idx=1&sn=69dfa9481cd75b1b3fdc3caea1ce88ef) |
+| 1 |  ] [已复现 | VMware vCenter pre-auth RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508960&idx=1&sn=7769927037c8c71dff3bd7802cce35ff](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508960&idx=1&sn=7769927037c8c71dff3bd7802cce35ff) |
+| 2 |  ] [ManageEngine 严重漏洞可导致攻击者通过 Windows 登录获屏幕得系统权限 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527227&idx=1&sn=9cb59c56483b05b9d69397491a54323c](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527227&idx=1&sn=9cb59c56483b05b9d69397491a54323c) |
+| 3 |  ] [安全热点周报：Check Point 警告称其管理服务器零日漏洞正被用于定向攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507676&idx=1&sn=5413b9d5c8b63749207148b9f0c93bb0](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507676&idx=1&sn=5413b9d5c8b63749207148b9f0c93bb0) |
+| 4 |  ] [第十六届网络安全漏洞分析与风险评估大会 | “智·基 数智赋能下关键信息基础设施安全治理实践”分论坛成功举办 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267324&idx=1&sn=f9b142e00efbdfe27684769e90dd9ccd](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267324&idx=1&sn=f9b142e00efbdfe27684769e90dd9ccd) |
+| 5 |  ] [第十六届网络安全漏洞分析与风险评估大会 | 人工智能漏洞研究与治理分论坛成功举办 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267324&idx=2&sn=afb32ff37beb0f00184ed0669de5ae3e](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267324&idx=2&sn=afb32ff37beb0f00184ed0669de5ae3e) |
+| 6 |  ] [腾讯CodeBuddy Security发现Suricata史上首个RCE漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497997&idx=1&sn=6c39e443ce62b477fc8784bae4ef4edc](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497997&idx=1&sn=6c39e443ce62b477fc8784bae4ef4edc) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【安全圈】WordPress曝Click2Shell漏洞：管理员点击链接直达RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079083&idx=1&sn=1f478cebe104c5edeee7dcbb3a9eca43](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079083&idx=1&sn=1f478cebe104c5edeee7dcbb3a9eca43) |
-| 2 |  ] [【安全圈】F5曝BIG-IP致命零日漏洞：未认证请求击穿OAuth直达RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079083&idx=2&sn=0ce805bc063237b686b25b2402f18126](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079083&idx=2&sn=0ce805bc063237b686b25b2402f18126) |
-| 3 |  ] [【安全圈】Next.js曝光9.5分严重漏洞：动态制图缺陷致服务端RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079083&idx=3&sn=15ced44e506d301ae85956077004e955](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079083&idx=3&sn=15ced44e506d301ae85956077004e955) |
-| 4 |  ] [F5 BIG-IP APM OAuth授权服务器存在零日漏洞，可无登录远程代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621086&idx=3&sn=bb7cbcd85bba87195da00496fc84cfb8](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621086&idx=3&sn=bb7cbcd85bba87195da00496fc84cfb8) |
+| 1 |  ] [已复现 | VMware vCenter pre-auth RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508960&idx=1&sn=7769927037c8c71dff3bd7802cce35ff](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508960&idx=1&sn=7769927037c8c71dff3bd7802cce35ff) |
+| 2 |  ] [腾讯CodeBuddy Security发现Suricata史上首个RCE漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497997&idx=1&sn=6c39e443ce62b477fc8784bae4ef4edc](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497997&idx=1&sn=6c39e443ce62b477fc8784bae4ef4edc) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [上汽集团网络安全应急响应团队走进360上海城市安全大脑 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586971&idx=2&sn=25e4a63389705c620640a4452333acbc](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586971&idx=2&sn=25e4a63389705c620640a4452333acbc) |
+| 1 |  ] [京东安全应急响应中心关于白帽子违规测试的处置公告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727851365&idx=1&sn=225aefe18a3566889038b5685665b2e2](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727851365&idx=1&sn=225aefe18a3566889038b5685665b2e2) |
+| 2 |  ] [“银狐”木马专项——恶意域名及恶意IP（五） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502233&idx=1&sn=e70fb42a469b23f5dfa2c8c5959532f3](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502233&idx=1&sn=e70fb42a469b23f5dfa2c8c5959532f3) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [从XDR到AI原生安全运营：技术演进与实践应用指南 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142836&idx=2&sn=af9e41fc54edf0241b6ccbabc3ded7f7](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142836&idx=2&sn=af9e41fc54edf0241b6ccbabc3ded7f7) |
+| 1 |  ] [OSRC中秋国庆放假通知 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495080&idx=1&sn=ee80a949f75f1f12ac9f8ea63859e094](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495080&idx=1&sn=ee80a949f75f1f12ac9f8ea63859e094) |
 
-### 信息泄露
+### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [FBI疑似发生重大数据泄露，所有警员数据外泄 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516652&idx=1&sn=f269a2ee7bbe70908bd9847c904be6a9](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516652&idx=1&sn=f269a2ee7bbe70908bd9847c904be6a9) |
+| 1 |  ] [GitLab 邮件地址可用于供应链攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527227&idx=2&sn=ebe8eb1c6273dd854494ce61cdcf3e57](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527227&idx=2&sn=ebe8eb1c6273dd854494ce61cdcf3e57) |
+| 2 |  ] [AI 记忆框架遭供应链投毒：MemTensor 双仓库沦陷，新型 Go 蠕虫 sckit 窃凭证、能自我复制 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520712&idx=1&sn=8b736ff41e91f4f975ab73e1d19505fb](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520712&idx=1&sn=8b736ff41e91f4f975ab73e1d19505fb) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-09/2026-W39/2026-09-24/`
+文章已归档到: `doc/2026/2026-09/2026-W39/2026-09-25/`
 
 ## 🔗 数据源说明
 
@@ -153,8 +141,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -163,5 +151,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-24 09:08:32*
+*生成时间: 2026-09-25 13:24:49*
 *报告工具: 微信文章安全归档系统*
