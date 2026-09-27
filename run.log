@@ -121839,3 +121839,48 @@
 2026-09-27 13:40:33,099 - INFO - 正在发送Discord日报通知: 2026-09-27
 2026-09-27 13:40:33,331 - INFO - Discord日报发送结果: 429
 2026-09-27 13:40:33,332 - INFO - === 执行完成 ===
+2026-09-27 19:38:33,215 - INFO - === 开始执行微信文章归档工具 ===
+2026-09-27 19:38:33,215 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-09-27 19:38:33,215 - INFO - 正在发送Discord启动通知...
+2026-09-27 19:38:33,418 - INFO - Discord启动通知发送结果: 204
+2026-09-27 19:38:33,419 - INFO - 数据文件: data.json
+2026-09-27 19:38:33,420 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-09-27 19:38:33,420 - INFO - 文档目录: doc
+2026-09-27 19:38:33,480 - INFO - 已加载 50441 条历史记录
+2026-09-27 19:38:33,480 - INFO - === 开始今日拉取 ===
+2026-09-27 19:38:33,480 - INFO - 开始获取Doonsec RSS
+2026-09-27 19:38:33,480 - INFO - 目标日期: 2026-09-27
+2026-09-27 19:38:35,603 - INFO - Doonsec RSS请求成功
+2026-09-27 19:38:35,604 - INFO - RSS中共有 200 个条目
+2026-09-27 19:38:35,604 - INFO - Doonsec获取到 147 个2026-09-27的微信文章URL
+2026-09-27 19:38:35,605 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-09-27.md
+2026-09-27 19:38:35,702 - INFO - ChainReactors md文件下载状态码: 404
+2026-09-27 19:38:35,702 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-09-27.md 状态码: 404
+2026-09-27 19:38:35,702 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-09-27.md
+2026-09-27 19:38:35,786 - INFO - BruceFeIix md文件下载状态码: 200
+2026-09-27 19:38:35,787 - INFO - BruceFeIix获取到 98 个URL
+2026-09-27 19:38:35,787 - INFO - === 开始处理 2026-09-27 的数据 ===
+2026-09-27 19:38:35,787 - INFO - Doonsec原始数据: 147 个
+2026-09-27 19:38:35,787 - INFO - ChainReactors原始数据: 0 个
+2026-09-27 19:38:35,787 - INFO - BruceFeIix原始数据: 98 个
+2026-09-27 19:38:35,787 - INFO - 开始处理Doonsec数据...
+2026-09-27 19:38:35,787 - INFO - 开始处理ChainReactors数据...
+2026-09-27 19:38:35,787 - INFO - 开始处理BruceFeIix数据...
+2026-09-27 19:38:35,787 - INFO - 去重后共 181 个URL待处理，跳过 64 个重复URL
+2026-09-27 19:38:35,787 - INFO - 去重后统计 - Doonsec: 109 个, ChainReactors: 0 个, BruceFeIix: 72 个
+2026-09-27 19:38:35,787 - INFO - === 开始关键词过滤 ===
+2026-09-27 19:38:35,792 - INFO - 关键词过滤: 匹配 3 个，跳过 178 个
+2026-09-27 19:38:35,792 - INFO - 关键词过滤后统计 - Doonsec: 3 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-09-27 19:38:35,806 - INFO - 已创建每日报告: md/2026-09-27.md
+2026-09-27 19:38:35,806 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-09-27 19:38:35,807 - INFO - 正在发送Discord通知: Mythos让我重新思考了一件事：未来网络安全，拼的不是谁的工具多，而是谁先找到漏洞
+2026-09-27 19:38:36,084 - INFO - Discord通知发送结果: 204
+2026-09-27 19:38:36,085 - INFO - 正在发送Discord通知: 【高危漏洞预警】VMware vCenter Syslog服务未授权目录遍历远程代码执行漏洞CVE-2026-59310
+2026-09-27 19:38:36,261 - INFO - Discord通知发送结果: 204
+2026-09-27 19:38:36,262 - INFO - 正在发送Discord通知: 为什么AI找出了100个漏洞，最后可能一个都交不上去？
+2026-09-27 19:38:36,510 - INFO - Discord通知发送结果: 204
+2026-09-27 19:38:36,615 - INFO - 已更新data.json，添加了 3 个URL
+2026-09-27 19:38:36,615 - INFO - 已创建每日报告: md/2026-09-27.md
+2026-09-27 19:38:36,616 - INFO - 正在发送Discord日报通知: 2026-09-27
+2026-09-27 19:38:36,827 - INFO - Discord日报发送结果: 204
+2026-09-27 19:38:36,828 - INFO - === 执行完成 ===
