@@ -1,19 +1,21 @@
-# 2026-09-26 安全威胁态势报告
+# 2026-09-27 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 10
 - **数据源分布**:
-  - BruceFeIix: 5篇
+  - Doonsec: 10篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 7篇
+- **攻击技术**: 3篇
 - **威胁情报**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 2篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,13 +62,18 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [TACACS+预认证远程代码执行漏洞攻击链](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188948&idx=1&sn=d8ba41b3eca3c94048cd8adc8062b6c1) (发布日期: 2026-09-26)
-- [ ] [每周高级威胁情报解读(2026.09.18~09.24)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520738&idx=1&sn=5ca11989b16e574f59d3ee77ff24c94b) (发布日期: 2026-09-26)
-- [ ] [纯静态分析DumpSDK所需的加密数据，动态定位加密UWorld、GameInstance、Object的未加密地址](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621951&idx=2&sn=e59a7f58900fb55d57442f76aea9a62e) (发布日期: 2026-09-26)
-- [ ] [专家解读 | 张凌寒：《人工智能安全治理框架3.0》推进系统化治理与前瞻性布局](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267387&idx=2&sn=fe9a1b3431a254f70996aeac0b9229f4) (发布日期: 2026-09-26)
-- [ ] [【安全圈】恶意软件混入 Terraform 插件，基础设施部署依赖成攻击入口](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079107&idx=2&sn=ea4ee6438b9b45eeb555d7995bd16de6) (发布日期: 2026-09-26)
+- [行业资讯｜数万起 AI 安全事件被调查：智能体开始 \"自己搞事情\"，网安行业迎来真正的大考](https://mp.weixin.qq.com/s/Hm0ENrTAJo061nPZeH9IgA) (发布日期: 2026-09-27)
+- [CVE-2025-34291深度解析：打开一个网页就丢了整个AI平台，MuddyWater APT的零交互攻击链](https://mp.weixin.qq.com/s/Yu3WP7UQCGPcvhaNZChpYw) (发布日期: 2026-09-27)
+- [WordPress Comment2Shell漏洞分析：一条评论如何变成服务器RCE](https://mp.weixin.qq.com/s/8jDpqtUlWQc0eZs_c6Ykfg) (发布日期: 2026-09-27)
+- [DarkNyx：一个专注于勒索软件的暗网搜索引擎](https://mp.weixin.qq.com/s/uOrlXflRq4VGx9lWQgsBEA) (发布日期: 2026-09-27)
+- [CVE-2026-59310 | VMware vCenter远程代码执行漏洞（POC）](https://mp.weixin.qq.com/s/v6v7mTspGFJTZugMpnWh5w) (发布日期: 2026-09-27)
+- [N/Axa0|xa0JeecgBootxa0权限绕过与xa0SQLxa0注入组合漏洞解析](https://mp.weixin.qq.com/s/Psok64ND7vzemLtKpDMdcg) (发布日期: 2026-09-27)
+- [黑客利用 cPanel CVE-2026-41940 身份验证绕过漏洞部署 Mirai 恶意软件僵尸网络](https://mp.weixin.qq.com/s/MZGg8mZcJ9lvK_VtMyZsnA) (发布日期: 2026-09-27)
+- [没有漏洞，照样入侵：一个电话撬开医疗数据防线](https://mp.weixin.qq.com/s/MrDCEubeLPfOuuUGryDF9g) (发布日期: 2026-09-27)
+- [第12页-情报与情报分析](https://mp.weixin.qq.com/s/-Q_o4LcDRAwf93oXJM2jxw) (发布日期: 2026-09-27)
+- [PHP on Windows 保留设备名未拒绝导致 DoS(CVE-2026-17545)](https://mp.weixin.qq.com/s/wzFlEssKyv491IIE5xViBQ) (发布日期: 2026-09-27)
 
 
 ## 🎯 威胁详情分析
@@ -75,24 +82,32 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [TACACS+预认证远程代码执行漏洞攻击链 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188948&idx=1&sn=d8ba41b3eca3c94048cd8adc8062b6c1](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188948&idx=1&sn=d8ba41b3eca3c94048cd8adc8062b6c1) |
+| 1 | CVE-2025-34291深度解析：打开一个网页就丢了整个AI平台，MuddyWater APT的零交互攻击链 | Doonsec | [https://mp.weixin.qq.com/s/Yu3WP7UQCGPcvhaNZChpYw](https://mp.weixin.qq.com/s/Yu3WP7UQCGPcvhaNZChpYw) |
+| 2 | WordPress Comment2Shell漏洞分析：一条评论如何变成服务器RCE | Doonsec | [https://mp.weixin.qq.com/s/8jDpqtUlWQc0eZs_c6Ykfg](https://mp.weixin.qq.com/s/8jDpqtUlWQc0eZs_c6Ykfg) |
+| 3 | CVE-2026-59310 | VMware vCenter远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s/v6v7mTspGFJTZugMpnWh5w](https://mp.weixin.qq.com/s/v6v7mTspGFJTZugMpnWh5w) |
+| 4 | N/Axa0|xa0JeecgBootxa0权限绕过与xa0SQLxa0注入组合漏洞解析 | Doonsec | [https://mp.weixin.qq.com/s/Psok64ND7vzemLtKpDMdcg](https://mp.weixin.qq.com/s/Psok64ND7vzemLtKpDMdcg) |
+| 5 | 黑客利用 cPanel CVE-2026-41940 身份验证绕过漏洞部署 Mirai 恶意软件僵尸网络 | Doonsec | [https://mp.weixin.qq.com/s/MZGg8mZcJ9lvK_VtMyZsnA](https://mp.weixin.qq.com/s/MZGg8mZcJ9lvK_VtMyZsnA) |
+| 6 | 没有漏洞，照样入侵：一个电话撬开医疗数据防线 | Doonsec | [https://mp.weixin.qq.com/s/MrDCEubeLPfOuuUGryDF9g](https://mp.weixin.qq.com/s/MrDCEubeLPfOuuUGryDF9g) |
+| 7 | PHP on Windows 保留设备名未拒绝导致 DoS(CVE-2026-17545) | Doonsec | [https://mp.weixin.qq.com/s/wzFlEssKyv491IIE5xViBQ](https://mp.weixin.qq.com/s/wzFlEssKyv491IIE5xViBQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [TACACS+预认证远程代码执行漏洞攻击链 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188948&idx=1&sn=d8ba41b3eca3c94048cd8adc8062b6c1](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188948&idx=1&sn=d8ba41b3eca3c94048cd8adc8062b6c1) |
+| 1 | WordPress Comment2Shell漏洞分析：一条评论如何变成服务器RCE | Doonsec | [https://mp.weixin.qq.com/s/8jDpqtUlWQc0eZs_c6Ykfg](https://mp.weixin.qq.com/s/8jDpqtUlWQc0eZs_c6Ykfg) |
+| 2 | CVE-2026-59310 | VMware vCenter远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s/v6v7mTspGFJTZugMpnWh5w](https://mp.weixin.qq.com/s/v6v7mTspGFJTZugMpnWh5w) |
+| 3 | N/Axa0|xa0JeecgBootxa0权限绕过与xa0SQLxa0注入组合漏洞解析 | Doonsec | [https://mp.weixin.qq.com/s/Psok64ND7vzemLtKpDMdcg](https://mp.weixin.qq.com/s/Psok64ND7vzemLtKpDMdcg) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [每周高级威胁情报解读(2026.09.18~09.24) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520738&idx=1&sn=5ca11989b16e574f59d3ee77ff24c94b](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520738&idx=1&sn=5ca11989b16e574f59d3ee77ff24c94b) |
+| 1 | CVE-2025-34291深度解析：打开一个网页就丢了整个AI平台，MuddyWater APT的零交互攻击链 | Doonsec | [https://mp.weixin.qq.com/s/Yu3WP7UQCGPcvhaNZChpYw](https://mp.weixin.qq.com/s/Yu3WP7UQCGPcvhaNZChpYw) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-09/2026-W39/2026-09-26/`
+文章已归档到: `doc/2026/2026-09/2026-W39/2026-09-27/`
 
 ## 🔗 数据源说明
 
@@ -103,8 +118,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -113,5 +128,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-26 12:48:00*
+*生成时间: 2026-09-27 04:28:33*
 *报告工具: 微信文章安全归档系统*
