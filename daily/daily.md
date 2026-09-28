@@ -1,18 +1,22 @@
-# 2026-09-27 安全威胁态势报告
+# 2026-09-28 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 40
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 40篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 16篇
+- **攻击技术**: 6篇
+- **安全运营**: 2篇
+- **威胁情报**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,9 +65,46 @@
 
 ### Doonsec
 
-- [Mythos让我重新思考了一件事：未来网络安全，拼的不是谁的工具多，而是谁先找到漏洞](https://mp.weixin.qq.com/s/hIH4xbX242tPCob0e0o04Q) (发布日期: 2026-09-27)
-- [【高危漏洞预警】VMware vCenter Syslog服务未授权目录遍历远程代码执行漏洞CVE-2026-59310](https://mp.weixin.qq.com/s/YFcZQdiv5wUw70XOs-IrLQ) (发布日期: 2026-09-27)
-- [为什么AI找出了100个漏洞，最后可能一个都交不上去？](https://mp.weixin.qq.com/s/x_qZxqvY-VU2iweyCryS6Q) (发布日期: 2026-09-27)
+- [当 AI 智能体开始\"越狱\"：OpenAI 失准报告披露提示注入蠕虫、凭证窃取与 DNS 隧道逃逸](https://mp.weixin.qq.com/s/hFqCe84zBqR3CteZTopjJQ) (发布日期: 2026-09-28)
+- [渗透测试从业者注意 AI 解 CTF 已到 52/52，真功夫在\"沙箱边界\"](https://mp.weixin.qq.com/s/v2RIBz9t0-vWameY2cpozw) (发布日期: 2026-09-28)
+- [新华社：公安部网安局发布拒不履行信息网络安全管理义务案例](https://mp.weixin.qq.com/s/RJz3H_oA5Efs1L0oF8gqEg) (发布日期: 2026-09-28)
+- [FBI“猎人反噬”事件！一场人员数据泄露如何变成反情报危机](https://mp.weixin.qq.com/s/WzS8bWMsnqAiEo8xGoGjPg) (发布日期: 2026-09-28)
+- [公安部网安局公布2起拒不履行信息网络安全管理义务罪典型案例](https://mp.weixin.qq.com/s/BwMEG0Uo43MHgMN2Wz0gbQ) (发布日期: 2026-09-28)
+- [从 UART 焊到未认证后门：ANJIA PTZ 摄像头（CVE-2026-31077）](https://mp.weixin.qq.com/s/i6xG3ooCikUz8UaxNR_t6Q) (发布日期: 2026-09-28)
+- [好几家SRC都被AI打关门了！教你两条Agent渗透干货（又快又准）+年底SRC新规](https://mp.weixin.qq.com/s/J0ADJ69pLa_tsXc78WgwLg) (发布日期: 2026-09-28)
+- [震惊安全圈！这款红队指纹神器让漏洞挖掘效率提升百倍](https://mp.weixin.qq.com/s/d1XgBS8tWrqc22y1VO0fTA) (发布日期: 2026-09-28)
+- [Seetong(天视通) NVR曝CVSS 10.0未认证认证绕过漏洞(CVE-2026-100886)，公开PoC可导致设备接管](https://mp.weixin.qq.com/s/ebMfLMBcjIPsc-1Fesnc-g) (发布日期: 2026-09-28)
+- [Roundcube 邮件系统 SQL 注入被利用：攻击者可能从 “不登录” 开始拿走邮箱数据](https://mp.weixin.qq.com/s/fbwAlAYbZ9YI1DlyfreYhA) (发布日期: 2026-09-28)
+- [当AI拿着合法权限做错事，谁来踩刹车？｜嘉韦思智能体安全网关即将亮相](https://mp.weixin.qq.com/s/BqBLjBq1xr-WgDcsFIHWfg) (发布日期: 2026-09-28)
+- [优惠券叠加漏洞：很多大厂都踩坑的业务逻辑深坑](https://mp.weixin.qq.com/s/i21LCFO7tFgTqYnKAejWGw) (发布日期: 2026-09-28)
+- [【勒索预警】Weax勒索病毒利用阿里云服务器攻击用友系应用，无中间件日志下完成完整溯源（附IOC）](https://mp.weixin.qq.com/s/_YdyVDLE28fhYgUSYQJ6NQ) (发布日期: 2026-09-28)
+- [【工具学习28】hashcat ：密码破解的最后一公里](https://mp.weixin.qq.com/s/N4nJC45eEW53Yrf5dHLlNg) (发布日期: 2026-09-28)
+- [做了PSTI、CRA、澳大利亚智能设备认证，却栽在一个\"邮箱\"上？漏洞披露渠道公示，这个小要求能卡掉一半企业](https://mp.weixin.qq.com/s/4ZB-DLkLmPbmp96PRDcJSA) (发布日期: 2026-09-28)
+- [CNVD漏洞周报2026年第37期](https://mp.weixin.qq.com/s/BPbH33uWJtg5uEwwWNNHJQ) (发布日期: 2026-09-28)
+- [2026-Q3的十大安全事件](https://mp.weixin.qq.com/s/wURdndJuyNA_3q45jJLI5Q) (发布日期: 2026-09-28)
+- [安卓逆向 -- 某影视app协议sign加密](https://mp.weixin.qq.com/s/qVFod2gjfZYpFm2gKhE31g) (发布日期: 2026-09-28)
+- [AI 智能漏洞扫描插件 -- Zack-AI-Scanner](https://mp.weixin.qq.com/s/nn9GKFvr_YS4u2gMq-uySA) (发布日期: 2026-09-28)
+- [容器安全监控体系架构设计技术内训（下）](https://mp.weixin.qq.com/s/iF6XfNqGGdKe2p2Ps_aETw) (发布日期: 2026-09-28)
+- [wvp-GB28181pro摄像头管理平台存在未授权访问漏洞 xa0附POC](https://mp.weixin.qq.com/s/AB8wg01t6OArnVomKWEj3A) (发布日期: 2026-09-28)
+- [AI红队测试：20种攻击技术全面解析](https://mp.weixin.qq.com/s/-WxAZ_xyMC1frdaLk2Knpw) (发布日期: 2026-09-28)
+- [某次内部行业渗透测试&amp;攻防演练多个系统从资产打点到RCE漏洞](https://mp.weixin.qq.com/s/UYs93CFAnTnEHCwO2HKcSQ) (发布日期: 2026-09-28)
+- [容器安全监控体系架构设计技术内训（上）](https://mp.weixin.qq.com/s/rEF1QOi1GjeXYEcDMCmy9w) (发布日期: 2026-09-28)
+- [评论字符限制绕过导致客户端拒绝服务漏洞](https://mp.weixin.qq.com/s/Lp60LMmqUJnGJLgpqswbJw) (发布日期: 2026-09-28)
+- [一款具有普适性的AI自动化渗透测试工具](https://mp.weixin.qq.com/s/MM7253xTPib9lYmKJk0K5w) (发布日期: 2026-09-28)
+- [逆向 APK 和 EXE，到底能挖出什么？渗透测试视角的深度拆解](https://mp.weixin.qq.com/s/6gpp-75ZqNsa-BNQAEJKnA) (发布日期: 2026-09-28)
+- [App 漏洞挖掘实战、外部恶意网页可直接调用原生接口窃取用户认证 Token 造成账号接管漏洞](https://mp.weixin.qq.com/s/tudmmu9hxEUDvd0sFm5Ozg) (发布日期: 2026-09-28)
+- [净网专项行动 | 公安部网安局公布2起拒不履行信息网络安全管理义务罪典型案例](https://mp.weixin.qq.com/s/wSApMCHkIEWA5IpZlkb_DA) (发布日期: 2026-09-28)
+- [做渗透测试的人，为什么需要一个漏洞管理平台？](https://mp.weixin.qq.com/s/BxEqWYcL5gGxVtsT5bPHtA) (发布日期: 2026-09-28)
+- [漏洞预警 | Linux kernel释放后使用漏洞](https://mp.weixin.qq.com/s/WxfISAg8CK6x2CLnlAnNqg) (发布日期: 2026-09-28)
+- [漏洞预警 | ShowDoc远程代码执行漏洞](https://mp.weixin.qq.com/s/g7fHZKg9dgaxzwFvkVMiVA) (发布日期: 2026-09-28)
+- [腾讯内部在用的 AI 安全扫描器，开源了](https://mp.weixin.qq.com/s/pnvDxymZd-1KLNbK4DWN1A) (发布日期: 2026-09-28)
+- [安全事件管理与应急体系，到底是什么关系？](https://mp.weixin.qq.com/s/0FleW6xBzVwobY9NDkkRCw) (发布日期: 2026-09-28)
+- [朝鲜 TraderTraitor 黑客利用伪造的 Terraform 作业测试部署 macOS 后门](https://mp.weixin.qq.com/s/OjWPCzGDxXlHqviXQ7FsIA) (发布日期: 2026-09-28)
+- [安全工具丨AI自动化信息收集利器，扫描完成后由 AI自动进行多维度价值评估，输出按攻击优先级排序的资产清单。](https://mp.weixin.qq.com/s/B-EOhUyhIp5MEW2PN61U7w) (发布日期: 2026-09-28)
+- [收藏贴！250篇密码与数据安全原创资料合辑（2026版）下载导航](https://mp.weixin.qq.com/s/g-gY-ZWdnSxfYppsoaEtEw) (发布日期: 2026-09-28)
+- [我用豆包挖了11集SRC漏洞，说句实话：有7集是真有用，有4集是凑数的](https://mp.weixin.qq.com/s/opz7YQGNm0MuMuXiV6kzIA) (发布日期: 2026-09-28)
+- [Apache Tomcat 认证绕过 · IBM FTM 远程代码执行 · AWS pgCollection 类型混淆](https://mp.weixin.qq.com/s/qdb3_pOOxnOEq1JEzpjd2A) (发布日期: 2026-09-28)
+- [F5 修复了 BIG-IP APM 的关键零日漏洞，该漏洞已被远程代码执行攻击利用](https://mp.weixin.qq.com/s/GOOZutRMR0RtylsZdoPaZQ) (发布日期: 2026-09-28)
 
 
 ## 🎯 威胁详情分析
@@ -72,20 +113,57 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Mythos让我重新思考了一件事：未来网络安全，拼的不是谁的工具多，而是谁先找到漏洞 | Doonsec | [https://mp.weixin.qq.com/s/hIH4xbX242tPCob0e0o04Q](https://mp.weixin.qq.com/s/hIH4xbX242tPCob0e0o04Q) |
-| 2 | 【高危漏洞预警】VMware vCenter Syslog服务未授权目录遍历远程代码执行漏洞CVE-2026-59310 | Doonsec | [https://mp.weixin.qq.com/s/YFcZQdiv5wUw70XOs-IrLQ](https://mp.weixin.qq.com/s/YFcZQdiv5wUw70XOs-IrLQ) |
-| 3 | 为什么AI找出了100个漏洞，最后可能一个都交不上去？ | Doonsec | [https://mp.weixin.qq.com/s/x_qZxqvY-VU2iweyCryS6Q](https://mp.weixin.qq.com/s/x_qZxqvY-VU2iweyCryS6Q) |
+| 1 | 从 UART 焊到未认证后门：ANJIA PTZ 摄像头（CVE-2026-31077） | Doonsec | [https://mp.weixin.qq.com/s/i6xG3ooCikUz8UaxNR_t6Q](https://mp.weixin.qq.com/s/i6xG3ooCikUz8UaxNR_t6Q) |
+| 2 | 震惊安全圈！这款红队指纹神器让漏洞挖掘效率提升百倍 | Doonsec | [https://mp.weixin.qq.com/s/d1XgBS8tWrqc22y1VO0fTA](https://mp.weixin.qq.com/s/d1XgBS8tWrqc22y1VO0fTA) |
+| 3 | Seetong(天视通) NVR曝CVSS 10.0未认证认证绕过漏洞(CVE-2026-100886)，公开PoC可导致设备接管 | Doonsec | [https://mp.weixin.qq.com/s/ebMfLMBcjIPsc-1Fesnc-g](https://mp.weixin.qq.com/s/ebMfLMBcjIPsc-1Fesnc-g) |
+| 4 | 优惠券叠加漏洞：很多大厂都踩坑的业务逻辑深坑 | Doonsec | [https://mp.weixin.qq.com/s/i21LCFO7tFgTqYnKAejWGw](https://mp.weixin.qq.com/s/i21LCFO7tFgTqYnKAejWGw) |
+| 5 | 做了PSTI、CRA、澳大利亚智能设备认证，却栽在一个\"邮箱\"上？漏洞披露渠道公示，这个小要求能卡掉一半企业 | Doonsec | [https://mp.weixin.qq.com/s/4ZB-DLkLmPbmp96PRDcJSA](https://mp.weixin.qq.com/s/4ZB-DLkLmPbmp96PRDcJSA) |
+| 6 | CNVD漏洞周报2026年第37期 | Doonsec | [https://mp.weixin.qq.com/s/BPbH33uWJtg5uEwwWNNHJQ](https://mp.weixin.qq.com/s/BPbH33uWJtg5uEwwWNNHJQ) |
+| 7 | AI 智能漏洞扫描插件 -- Zack-AI-Scanner | Doonsec | [https://mp.weixin.qq.com/s/nn9GKFvr_YS4u2gMq-uySA](https://mp.weixin.qq.com/s/nn9GKFvr_YS4u2gMq-uySA) |
+| 8 | wvp-GB28181pro摄像头管理平台存在未授权访问漏洞 xa0附POC | Doonsec | [https://mp.weixin.qq.com/s/AB8wg01t6OArnVomKWEj3A](https://mp.weixin.qq.com/s/AB8wg01t6OArnVomKWEj3A) |
+| 9 | 某次内部行业渗透测试&amp;攻防演练多个系统从资产打点到RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/UYs93CFAnTnEHCwO2HKcSQ](https://mp.weixin.qq.com/s/UYs93CFAnTnEHCwO2HKcSQ) |
+| 10 | 评论字符限制绕过导致客户端拒绝服务漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Lp60LMmqUJnGJLgpqswbJw](https://mp.weixin.qq.com/s/Lp60LMmqUJnGJLgpqswbJw) |
+| 11 | App 漏洞挖掘实战、外部恶意网页可直接调用原生接口窃取用户认证 Token 造成账号接管漏洞 | Doonsec | [https://mp.weixin.qq.com/s/tudmmu9hxEUDvd0sFm5Ozg](https://mp.weixin.qq.com/s/tudmmu9hxEUDvd0sFm5Ozg) |
+| 12 | 做渗透测试的人，为什么需要一个漏洞管理平台？ | Doonsec | [https://mp.weixin.qq.com/s/BxEqWYcL5gGxVtsT5bPHtA](https://mp.weixin.qq.com/s/BxEqWYcL5gGxVtsT5bPHtA) |
+| 13 | 漏洞预警 | Linux kernel释放后使用漏洞 | Doonsec | [https://mp.weixin.qq.com/s/WxfISAg8CK6x2CLnlAnNqg](https://mp.weixin.qq.com/s/WxfISAg8CK6x2CLnlAnNqg) |
+| 14 | 漏洞预警 | ShowDoc远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/g7fHZKg9dgaxzwFvkVMiVA](https://mp.weixin.qq.com/s/g7fHZKg9dgaxzwFvkVMiVA) |
+| 15 | 我用豆包挖了11集SRC漏洞，说句实话：有7集是真有用，有4集是凑数的 | Doonsec | [https://mp.weixin.qq.com/s/opz7YQGNm0MuMuXiV6kzIA](https://mp.weixin.qq.com/s/opz7YQGNm0MuMuXiV6kzIA) |
+| 16 | F5 修复了 BIG-IP APM 的关键零日漏洞，该漏洞已被远程代码执行攻击利用 | Doonsec | [https://mp.weixin.qq.com/s/GOOZutRMR0RtylsZdoPaZQ](https://mp.weixin.qq.com/s/GOOZutRMR0RtylsZdoPaZQ) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】VMware vCenter Syslog服务未授权目录遍历远程代码执行漏洞CVE-2026-59310 | Doonsec | [https://mp.weixin.qq.com/s/YFcZQdiv5wUw70XOs-IrLQ](https://mp.weixin.qq.com/s/YFcZQdiv5wUw70XOs-IrLQ) |
+| 1 | 当 AI 智能体开始\"越狱\"：OpenAI 失准报告披露提示注入蠕虫、凭证窃取与 DNS 隧道逃逸 | Doonsec | [https://mp.weixin.qq.com/s/hFqCe84zBqR3CteZTopjJQ](https://mp.weixin.qq.com/s/hFqCe84zBqR3CteZTopjJQ) |
+| 2 | Roundcube 邮件系统 SQL 注入被利用：攻击者可能从 “不登录” 开始拿走邮箱数据 | Doonsec | [https://mp.weixin.qq.com/s/fbwAlAYbZ9YI1DlyfreYhA](https://mp.weixin.qq.com/s/fbwAlAYbZ9YI1DlyfreYhA) |
+| 3 | 某次内部行业渗透测试&amp;攻防演练多个系统从资产打点到RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/UYs93CFAnTnEHCwO2HKcSQ](https://mp.weixin.qq.com/s/UYs93CFAnTnEHCwO2HKcSQ) |
+| 4 | 漏洞预警 | ShowDoc远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/g7fHZKg9dgaxzwFvkVMiVA](https://mp.weixin.qq.com/s/g7fHZKg9dgaxzwFvkVMiVA) |
+| 5 | Apache Tomcat 认证绕过 · IBM FTM 远程代码执行 · AWS pgCollection 类型混淆 | Doonsec | [https://mp.weixin.qq.com/s/qdb3_pOOxnOEq1JEzpjd2A](https://mp.weixin.qq.com/s/qdb3_pOOxnOEq1JEzpjd2A) |
+| 6 | F5 修复了 BIG-IP APM 的关键零日漏洞，该漏洞已被远程代码执行攻击利用 | Doonsec | [https://mp.weixin.qq.com/s/GOOZutRMR0RtylsZdoPaZQ](https://mp.weixin.qq.com/s/GOOZutRMR0RtylsZdoPaZQ) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【勒索预警】Weax勒索病毒利用阿里云服务器攻击用友系应用，无中间件日志下完成完整溯源（附IOC） | Doonsec | [https://mp.weixin.qq.com/s/_YdyVDLE28fhYgUSYQJ6NQ](https://mp.weixin.qq.com/s/_YdyVDLE28fhYgUSYQJ6NQ) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 好几家SRC都被AI打关门了！教你两条Agent渗透干货（又快又准）+年底SRC新规 | Doonsec | [https://mp.weixin.qq.com/s/J0ADJ69pLa_tsXc78WgwLg](https://mp.weixin.qq.com/s/J0ADJ69pLa_tsXc78WgwLg) |
+| 2 | 我用豆包挖了11集SRC漏洞，说句实话：有7集是真有用，有4集是凑数的 | Doonsec | [https://mp.weixin.qq.com/s/opz7YQGNm0MuMuXiV6kzIA](https://mp.weixin.qq.com/s/opz7YQGNm0MuMuXiV6kzIA) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | FBI“猎人反噬”事件！一场人员数据泄露如何变成反情报危机 | Doonsec | [https://mp.weixin.qq.com/s/WzS8bWMsnqAiEo8xGoGjPg](https://mp.weixin.qq.com/s/WzS8bWMsnqAiEo8xGoGjPg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-09/2026-W39/2026-09-27/`
+文章已归档到: `doc/2026/2026-09/2026-W40/2026-09-28/`
 
 ## 🔗 数据源说明
 
@@ -96,8 +174,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 16 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -106,5 +184,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-27 19:38:36*
+*生成时间: 2026-09-28 04:30:06*
 *报告工具: 微信文章安全归档系统*
