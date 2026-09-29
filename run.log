@@ -122211,3 +122211,46 @@
 2026-09-28 16:35:43,645 - INFO - 正在发送Discord日报通知: 2026-09-28
 2026-09-28 16:35:43,713 - INFO - Discord日报发送结果: 429
 2026-09-28 16:35:43,714 - INFO - === 执行完成 ===
+2026-09-29 00:15:50,220 - INFO - === 开始执行微信文章归档工具 ===
+2026-09-29 00:15:50,220 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-09-29 00:15:50,220 - INFO - 正在发送Discord启动通知...
+2026-09-29 00:15:50,633 - INFO - Discord启动通知发送结果: 204
+2026-09-29 00:15:50,636 - INFO - 数据文件: data.json
+2026-09-29 00:15:50,636 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-09-29 00:15:50,636 - INFO - 文档目录: doc
+2026-09-29 00:15:50,715 - INFO - 已加载 50551 条历史记录
+2026-09-29 00:15:50,716 - INFO - === 开始今日拉取 ===
+2026-09-29 00:15:50,716 - INFO - 开始获取Doonsec RSS
+2026-09-29 00:15:50,716 - INFO - 目标日期: 2026-09-29
+2026-09-29 00:15:53,178 - INFO - Doonsec RSS请求成功
+2026-09-29 00:15:53,179 - INFO - RSS中共有 200 个条目
+2026-09-29 00:15:53,180 - INFO - Doonsec获取到 4 个2026-09-29的微信文章URL
+2026-09-29 00:15:53,181 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-09-29.md
+2026-09-29 00:15:53,256 - INFO - ChainReactors md文件下载状态码: 404
+2026-09-29 00:15:53,256 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-09-29.md 状态码: 404
+2026-09-29 00:15:53,257 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-09-29.md
+2026-09-29 00:15:53,320 - INFO - BruceFeIix md文件下载状态码: 404
+2026-09-29 00:15:53,320 - WARNING - BruceFeIix md文件下载失败: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-09-29.md 状态码: 404
+2026-09-29 00:15:53,320 - INFO - === 开始处理 2026-09-29 的数据 ===
+2026-09-29 00:15:53,320 - INFO - Doonsec原始数据: 4 个
+2026-09-29 00:15:53,320 - INFO - ChainReactors原始数据: 0 个
+2026-09-29 00:15:53,320 - INFO - BruceFeIix原始数据: 0 个
+2026-09-29 00:15:53,320 - INFO - 开始处理Doonsec数据...
+2026-09-29 00:15:53,320 - INFO - 开始处理ChainReactors数据...
+2026-09-29 00:15:53,320 - INFO - 开始处理BruceFeIix数据...
+2026-09-29 00:15:53,320 - INFO - 去重后共 4 个URL待处理，跳过 0 个重复URL
+2026-09-29 00:15:53,320 - INFO - 去重后统计 - Doonsec: 4 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-09-29 00:15:53,320 - INFO - === 开始关键词过滤 ===
+2026-09-29 00:15:53,321 - INFO - 关键词过滤: 匹配 2 个，跳过 2 个
+2026-09-29 00:15:53,321 - INFO - 关键词过滤后统计 - Doonsec: 2 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-09-29 00:15:53,523 - INFO - 已创建每日报告: md/2026-09-29.md
+2026-09-29 00:15:53,523 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-09-29 00:15:53,523 - INFO - 正在发送Discord通知: 基于“技能天赋”的开源情报分析师岗位指南
+2026-09-29 00:15:54,274 - INFO - Discord通知发送结果: 204
+2026-09-29 00:15:54,276 - INFO - 正在发送Discord通知: Panzer 勒索软件利用可支持 ESXi 的 RaaS 平台攻击意大利制造商和电信公司
+2026-09-29 00:15:54,567 - INFO - Discord通知发送结果: 204
+2026-09-29 00:15:54,644 - INFO - 已更新data.json，添加了 2 个URL
+2026-09-29 00:15:54,644 - INFO - 已创建每日报告: md/2026-09-29.md
+2026-09-29 00:15:54,644 - INFO - 正在发送Discord日报通知: 2026-09-29
+2026-09-29 00:15:54,865 - INFO - Discord日报发送结果: 204
+2026-09-29 00:15:54,866 - INFO - === 执行完成 ===
