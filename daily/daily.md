@@ -1,22 +1,22 @@
-# 2026-09-29 安全威胁态势报告
+# 2026-09-30 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 18
+- **总文章数**: 35
 - **数据源分布**:
-  - Doonsec: 18篇
+  - Doonsec: 35篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 12篇
-- **攻击技术**: 6篇
+- **漏洞利用**: 18篇
+- **攻击技术**: 8篇
+- **威胁情报**: 1篇
 - **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 4篇
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
+- **系统漏洞**: 3篇
 
 ## 🔍 匹配规则
 
@@ -65,24 +65,41 @@
 
 ### Doonsec
 
-- [【高危漏洞预警】Citrix NetScaler ADC / NetScaler Gateway预认证命令注入远程代码执行漏洞CVE-2026-88771](https://mp.weixin.qq.com/s/EXwz-HaHLoo0eFcG4zU4Ew) (发布日期: 2026-09-29)
-- [CVE-2026-101909 深度解析：Axios 不是漏洞入口，而是原型污染的「放大器」](https://mp.weixin.qq.com/s/Ll2JAkr35FbwNOc03QtQ8Q) (发布日期: 2026-09-29)
-- [【地图大师的代码审计之路 第二篇】从代码层看懂越权与未授权漏洞为何如此高发](https://mp.weixin.qq.com/s/mdK_IcZ5LHMz6vzd_zQeiA) (发布日期: 2026-09-29)
-- [当Claude遇上Metasploit：一句话从Root Shell到域控SYSTEM全流程](https://mp.weixin.qq.com/s/Y21NeplNnhF0BX5jbTK58Q) (发布日期: 2026-09-29)
-- [【漏洞预警】Citrix NetScaler 命令注入漏洞](https://mp.weixin.qq.com/s/XLId0bCdiNJaRoTSMN0c1A) (发布日期: 2026-09-29)
-- [54款大模型测出873个漏洞，网安生该学什么？](https://mp.weixin.qq.com/s/Psj1IUoiG1_oab5VgHZRNQ) (发布日期: 2026-09-29)
-- [iOS 26.7.1 发布了：一个已经被用过的漏洞](https://mp.weixin.qq.com/s/vPfYBWQgkcMIAm9KGcUPXg) (发布日期: 2026-09-29)
-- [Linux容器逃逸漏洞细节及概念验证（PoC）代码披露](https://mp.weixin.qq.com/s/blesnGMBRJCqH2ImkBSaRg) (发布日期: 2026-09-29)
-- [(10分) CVE-2026-102240：Netcore AP未认证命令注入，一条GET拿root](https://mp.weixin.qq.com/s/_Z38qSHvDhI-X5NwN9SnAg) (发布日期: 2026-09-29)
-- [开源的企业级主机与容器安全管理平台 - mxcwpp](https://mp.weixin.qq.com/s/dIoujAnh-hc56jydaLqN2Q) (发布日期: 2026-09-29)
-- [【安全圈】看张图片就中招？苹果的这个漏洞你一定要看](https://mp.weixin.qq.com/s/CFQdEGhb3d7ulwAsnmCLRQ) (发布日期: 2026-09-29)
-- [【安全圈】MCP官方SDK高危漏洞：恶意服务可盗取OAuth凭证](https://mp.weixin.qq.com/s/DiDJKzTMpC9q2cqxpz4oCA) (发布日期: 2026-09-29)
-- [等保测评命令——思科（Cisco）网络设备](https://mp.weixin.qq.com/s/UmVj9Ogz0ifYhnHCzJwbJQ) (发布日期: 2026-09-29)
-- [AgentMirror 源码解读：专门反制渗透测试 Agent 的蜜罐](https://mp.weixin.qq.com/s/08j1BG-zU2BtKcv43qe7sg) (发布日期: 2026-09-29)
-- [【漏洞通告】Citrix NetScaler ADC/Gateway未授权命令注入漏洞(CVE-2026-88771)](https://mp.weixin.qq.com/s/rAB8v9QOL5VxaivLBPetEA) (发布日期: 2026-09-29)
-- [【漏洞通告】VMware vCenter存在目录遍历漏洞(CVE-2026-59310)](https://mp.weixin.qq.com/s/2deFsswBKjwGsSp1bKSs_w) (发布日期: 2026-09-29)
-- [redisRCE复盘](https://mp.weixin.qq.com/s/rNcz37vLoVwapVja4TjcCw) (发布日期: 2026-09-29)
-- [BrzCrypt勒索软件深度分析：从攻击链识别到联动防御](https://mp.weixin.qq.com/s/HOB7fUIygr7JXYdnRsL2Jg) (发布日期: 2026-09-29)
+- [OpenCode 曝远程代码执行漏洞：一个 Content-Type 混淆如何变成 RCE](https://mp.weixin.qq.com/s/a66gwLbhIeE9k8MLvSpC8A) (发布日期: 2026-09-30)
+- [CVE-2026-94545 Next.js next/og 未经身份验证的远程代码执行 POC](https://mp.weixin.qq.com/s/s2NNp02nGW4JoauDoSxcwA) (发布日期: 2026-09-30)
+- [【漏洞复现】CVE-2026-51990 | 搜狗输入法Windows版远程代码执行漏洞](https://mp.weixin.qq.com/s/0qjdfPjIXOfK9vLj0KOGRA) (发布日期: 2026-09-30)
+- [护网重保期间集权系统安全防护技术内训](https://mp.weixin.qq.com/s/Q45osEG572I3m63lGEbtxg) (发布日期: 2026-09-30)
+- [【已复现】VMware vCenter 远程代码执行漏洞（CVE-2026-59310）](https://mp.weixin.qq.com/s/10G9dLWI_K-pqf2v-YoNFw) (发布日期: 2026-09-30)
+- [斗象科技谢忱：AI大模型改写漏洞攻防，旧规则已经失效](https://mp.weixin.qq.com/s/wqsrriG6sd1HD5Yi_AJDDg) (发布日期: 2026-09-30)
+- [8700+肉鸡！CNCERT监测甲蚁G01木马，窃取企业账号与敏感文件](https://mp.weixin.qq.com/s/mddEvt4Pwlx_x9ZIeP5hkg) (发布日期: 2026-09-30)
+- [苹果修补疑遭定向利用的图形漏洞](https://mp.weixin.qq.com/s/zFtuvbx23UY9APdf6fyl5A) (发布日期: 2026-09-30)
+- [Netcore NAP930 的免凭据 root 通道（CVE-2026-102240）](https://mp.weixin.qq.com/s/gbDHx7Z3vwo0oVpyF09vow) (发布日期: 2026-09-30)
+- [RestrictedPython：一句格式化字符串，为什么能走出沙箱](https://mp.weixin.qq.com/s/LiTvxXEbocHFE6aDBYBEgg) (发布日期: 2026-09-30)
+- [集合循环引用导致拒绝服务漏洞](https://mp.weixin.qq.com/s/9GOF6ZkqLjadkeOFHPpWnQ) (发布日期: 2026-09-30)
+- [苹果修复或已用于定向攻击的 CoreGraphics 漏洞](https://mp.weixin.qq.com/s/zOGai1n1tTcCu_A5R_Oe4w) (发布日期: 2026-09-30)
+- [利用Ligolo绕过WDAC与AppLocker：从受限环境到内网穿透的完整攻击链](https://mp.weixin.qq.com/s/Y-rK3sF3jdP6I-Vjrr3Icw) (发布日期: 2026-09-30)
+- [pythonw？也可能是木马？](https://mp.weixin.qq.com/s/5i995p6msWKoyU8kTJF6ag) (发布日期: 2026-09-30)
+- [Next.js ImageResponse RCE漏洞（附POC）](https://mp.weixin.qq.com/s/ycEetNgdOshlwOE4CCRDtQ) (发布日期: 2026-09-30)
+- [Citrix NetScaler PitScaler 双重零日：NSPPE 崩溃换 root 直插内网](https://mp.weixin.qq.com/s/l9xUU_CztCiuKcGE_NCGag) (发布日期: 2026-09-30)
+- [红队基础设施和靶场画在一张画布上](https://mp.weixin.qq.com/s/rNDRJUDjE-tubl77Z5A0BQ) (发布日期: 2026-09-30)
+- [300+工具 + 7大AI引擎 + 6.8万漏洞库：这款安全工具箱太顶了！](https://mp.weixin.qq.com/s/lP0Lx-LIkgvY_xJ7DFrl2g) (发布日期: 2026-09-30)
+- [天融信亮相软博会，分享智能体驱动安全运营新范式](https://mp.weixin.qq.com/s/8CgeQMzRYeO78ER43fWE9g) (发布日期: 2026-09-30)
+- [五角大楼遭遇重大数据泄露：人力资源中心文件服务器被非法访问长达9个月，超300万人个人信息曝光](https://mp.weixin.qq.com/s/p_E-UkkFrVZEDfNBzsfqnQ) (发布日期: 2026-09-30)
+- [(10分) CVE-2026-53988：Dockhand Docker面板认证绕过](https://mp.weixin.qq.com/s/DZiJD9--wf0yPRuc7GfWFg) (发布日期: 2026-09-30)
+- [窃密木马玩出新花样，Chrome NMH持久化机制深度探秘](https://mp.weixin.qq.com/s/xMCHJdiUSCUBa1xPazBB8g) (发布日期: 2026-09-30)
+- [漏洞预警 | Notepad++栈缓冲区溢出漏洞](https://mp.weixin.qq.com/s/qbsogI0kBbzZaf9KxQOb_Q) (发布日期: 2026-09-30)
+- [漏洞预警 | WordPress编码绕过漏洞](https://mp.weixin.qq.com/s/Z1i5-bJrvrYbohcf7KzNxA) (发布日期: 2026-09-30)
+- [CNVD挖洞SKILL通用漏洞新思路 | 未授权漏洞批量挖掘方案，冷门产品线 + 端点字典，只读探测一键跑通全链路](https://mp.weixin.qq.com/s/U8Ic-qHbhXaxUo5QsOaqbA) (发布日期: 2026-09-30)
+- [【热点安全风险】9月30日｜Apple 修复已在野利用的零日漏洞，攻击者可用恶意文件执行任意代码（CVE-2026-86950）](https://mp.weixin.qq.com/s/_NWYy8Ur6cxBfK9dUlgqSQ) (发布日期: 2026-09-30)
+- [应急响应流量分析工具，支持pcap、excel、log等多种数据源，同时结合加解密、反编译等多个工作流](https://mp.weixin.qq.com/s/BxbIzQxwxwOaQjTNlmcBeA) (发布日期: 2026-09-30)
+- [安全意识项目卡在第几级？从「办完培训」到「看见行为」的三次跳跃](https://mp.weixin.qq.com/s/eNHnINlbIbIuehHznEBLeg) (发布日期: 2026-09-30)
+- [情报分析师培训课程（一）情报学导论与职业素养（3）](https://mp.weixin.qq.com/s/LhivDbciSRc3sdwLH1bCQw) (发布日期: 2026-09-30)
+- [16岁研究员发现微软身份验证漏洞，导致17.3万亿条记录泄露](https://mp.weixin.qq.com/s/JyXkDWmGtCn2rYsY9iEoMQ) (发布日期: 2026-09-30)
+- [超越传统钩子：现代红队如何利用进程参数投毒绕过 EDR 检测](https://mp.weixin.qq.com/s/8bHPuETWB0Y-nidfYYyJFg) (发布日期: 2026-09-30)
+- [路径遍历漏洞：一个下载接口引发的系统文件泄露](https://mp.weixin.qq.com/s/-ps4Hty70QFXHX1bRSjpeg) (发布日期: 2026-09-30)
+- [跨5大领域的安全事件研判体系建设](https://mp.weixin.qq.com/s/oWn3Pn3Efi8Eukaj57trZg) (发布日期: 2026-09-30)
+- [等级保护建设：安全管理人员—安全意识教育和培训](https://mp.weixin.qq.com/s/vC4wxiQYmmUiz2xZTJIL-g) (发布日期: 2026-09-30)
+- [内网渗透教程](https://mp.weixin.qq.com/s/jhv31fclrb0AOqSomwV9sw) (发布日期: 2026-09-30)
 
 
 ## 🎯 威胁详情分析
@@ -91,40 +108,60 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】Citrix NetScaler ADC / NetScaler Gateway预认证命令注入远程代码执行漏洞CVE-2026-88771 | Doonsec | [https://mp.weixin.qq.com/s/EXwz-HaHLoo0eFcG4zU4Ew](https://mp.weixin.qq.com/s/EXwz-HaHLoo0eFcG4zU4Ew) |
-| 2 | CVE-2026-101909 深度解析：Axios 不是漏洞入口，而是原型污染的「放大器」 | Doonsec | [https://mp.weixin.qq.com/s/Ll2JAkr35FbwNOc03QtQ8Q](https://mp.weixin.qq.com/s/Ll2JAkr35FbwNOc03QtQ8Q) |
-| 3 | 【地图大师的代码审计之路 第二篇】从代码层看懂越权与未授权漏洞为何如此高发 | Doonsec | [https://mp.weixin.qq.com/s/mdK_IcZ5LHMz6vzd_zQeiA](https://mp.weixin.qq.com/s/mdK_IcZ5LHMz6vzd_zQeiA) |
-| 4 | 【漏洞预警】Citrix NetScaler 命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/XLId0bCdiNJaRoTSMN0c1A](https://mp.weixin.qq.com/s/XLId0bCdiNJaRoTSMN0c1A) |
-| 5 | 54款大模型测出873个漏洞，网安生该学什么？ | Doonsec | [https://mp.weixin.qq.com/s/Psj1IUoiG1_oab5VgHZRNQ](https://mp.weixin.qq.com/s/Psj1IUoiG1_oab5VgHZRNQ) |
-| 6 | iOS 26.7.1 发布了：一个已经被用过的漏洞 | Doonsec | [https://mp.weixin.qq.com/s/vPfYBWQgkcMIAm9KGcUPXg](https://mp.weixin.qq.com/s/vPfYBWQgkcMIAm9KGcUPXg) |
-| 7 | Linux容器逃逸漏洞细节及概念验证（PoC）代码披露 | Doonsec | [https://mp.weixin.qq.com/s/blesnGMBRJCqH2ImkBSaRg](https://mp.weixin.qq.com/s/blesnGMBRJCqH2ImkBSaRg) |
-| 8 | (10分) CVE-2026-102240：Netcore AP未认证命令注入，一条GET拿root | Doonsec | [https://mp.weixin.qq.com/s/_Z38qSHvDhI-X5NwN9SnAg](https://mp.weixin.qq.com/s/_Z38qSHvDhI-X5NwN9SnAg) |
-| 9 | 【安全圈】看张图片就中招？苹果的这个漏洞你一定要看 | Doonsec | [https://mp.weixin.qq.com/s/CFQdEGhb3d7ulwAsnmCLRQ](https://mp.weixin.qq.com/s/CFQdEGhb3d7ulwAsnmCLRQ) |
-| 10 | 【安全圈】MCP官方SDK高危漏洞：恶意服务可盗取OAuth凭证 | Doonsec | [https://mp.weixin.qq.com/s/DiDJKzTMpC9q2cqxpz4oCA](https://mp.weixin.qq.com/s/DiDJKzTMpC9q2cqxpz4oCA) |
-| 11 | 【漏洞通告】Citrix NetScaler ADC/Gateway未授权命令注入漏洞(CVE-2026-88771) | Doonsec | [https://mp.weixin.qq.com/s/rAB8v9QOL5VxaivLBPetEA](https://mp.weixin.qq.com/s/rAB8v9QOL5VxaivLBPetEA) |
-| 12 | 【漏洞通告】VMware vCenter存在目录遍历漏洞(CVE-2026-59310) | Doonsec | [https://mp.weixin.qq.com/s/2deFsswBKjwGsSp1bKSs_w](https://mp.weixin.qq.com/s/2deFsswBKjwGsSp1bKSs_w) |
+| 1 | OpenCode 曝远程代码执行漏洞：一个 Content-Type 混淆如何变成 RCE | Doonsec | [https://mp.weixin.qq.com/s/a66gwLbhIeE9k8MLvSpC8A](https://mp.weixin.qq.com/s/a66gwLbhIeE9k8MLvSpC8A) |
+| 2 | CVE-2026-94545 Next.js next/og 未经身份验证的远程代码执行 POC | Doonsec | [https://mp.weixin.qq.com/s/s2NNp02nGW4JoauDoSxcwA](https://mp.weixin.qq.com/s/s2NNp02nGW4JoauDoSxcwA) |
+| 3 | 【漏洞复现】CVE-2026-51990 | 搜狗输入法Windows版远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/0qjdfPjIXOfK9vLj0KOGRA](https://mp.weixin.qq.com/s/0qjdfPjIXOfK9vLj0KOGRA) |
+| 4 | 【已复现】VMware vCenter 远程代码执行漏洞（CVE-2026-59310） | Doonsec | [https://mp.weixin.qq.com/s/10G9dLWI_K-pqf2v-YoNFw](https://mp.weixin.qq.com/s/10G9dLWI_K-pqf2v-YoNFw) |
+| 5 | 斗象科技谢忱：AI大模型改写漏洞攻防，旧规则已经失效 | Doonsec | [https://mp.weixin.qq.com/s/wqsrriG6sd1HD5Yi_AJDDg](https://mp.weixin.qq.com/s/wqsrriG6sd1HD5Yi_AJDDg) |
+| 6 | 苹果修补疑遭定向利用的图形漏洞 | Doonsec | [https://mp.weixin.qq.com/s/zFtuvbx23UY9APdf6fyl5A](https://mp.weixin.qq.com/s/zFtuvbx23UY9APdf6fyl5A) |
+| 7 | Netcore NAP930 的免凭据 root 通道（CVE-2026-102240） | Doonsec | [https://mp.weixin.qq.com/s/gbDHx7Z3vwo0oVpyF09vow](https://mp.weixin.qq.com/s/gbDHx7Z3vwo0oVpyF09vow) |
+| 8 | 集合循环引用导致拒绝服务漏洞 | Doonsec | [https://mp.weixin.qq.com/s/9GOF6ZkqLjadkeOFHPpWnQ](https://mp.weixin.qq.com/s/9GOF6ZkqLjadkeOFHPpWnQ) |
+| 9 | 苹果修复或已用于定向攻击的 CoreGraphics 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/zOGai1n1tTcCu_A5R_Oe4w](https://mp.weixin.qq.com/s/zOGai1n1tTcCu_A5R_Oe4w) |
+| 10 | Next.js ImageResponse RCE漏洞（附POC） | Doonsec | [https://mp.weixin.qq.com/s/ycEetNgdOshlwOE4CCRDtQ](https://mp.weixin.qq.com/s/ycEetNgdOshlwOE4CCRDtQ) |
+| 11 | 300+工具 + 7大AI引擎 + 6.8万漏洞库：这款安全工具箱太顶了！ | Doonsec | [https://mp.weixin.qq.com/s/lP0Lx-LIkgvY_xJ7DFrl2g](https://mp.weixin.qq.com/s/lP0Lx-LIkgvY_xJ7DFrl2g) |
+| 12 | (10分) CVE-2026-53988：Dockhand Docker面板认证绕过 | Doonsec | [https://mp.weixin.qq.com/s/DZiJD9--wf0yPRuc7GfWFg](https://mp.weixin.qq.com/s/DZiJD9--wf0yPRuc7GfWFg) |
+| 13 | 漏洞预警 | Notepad++栈缓冲区溢出漏洞 | Doonsec | [https://mp.weixin.qq.com/s/qbsogI0kBbzZaf9KxQOb_Q](https://mp.weixin.qq.com/s/qbsogI0kBbzZaf9KxQOb_Q) |
+| 14 | 漏洞预警 | WordPress编码绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Z1i5-bJrvrYbohcf7KzNxA](https://mp.weixin.qq.com/s/Z1i5-bJrvrYbohcf7KzNxA) |
+| 15 | CNVD挖洞SKILL通用漏洞新思路 | 未授权漏洞批量挖掘方案，冷门产品线 + 端点字典，只读探测一键跑通全链路 | Doonsec | [https://mp.weixin.qq.com/s/U8Ic-qHbhXaxUo5QsOaqbA](https://mp.weixin.qq.com/s/U8Ic-qHbhXaxUo5QsOaqbA) |
+| 16 | 【热点安全风险】9月30日｜Apple 修复已在野利用的零日漏洞，攻击者可用恶意文件执行任意代码（CVE-2026-86950） | Doonsec | [https://mp.weixin.qq.com/s/_NWYy8Ur6cxBfK9dUlgqSQ](https://mp.weixin.qq.com/s/_NWYy8Ur6cxBfK9dUlgqSQ) |
+| 17 | 16岁研究员发现微软身份验证漏洞，导致17.3万亿条记录泄露 | Doonsec | [https://mp.weixin.qq.com/s/JyXkDWmGtCn2rYsY9iEoMQ](https://mp.weixin.qq.com/s/JyXkDWmGtCn2rYsY9iEoMQ) |
+| 18 | 路径遍历漏洞：一个下载接口引发的系统文件泄露 | Doonsec | [https://mp.weixin.qq.com/s/-ps4Hty70QFXHX1bRSjpeg](https://mp.weixin.qq.com/s/-ps4Hty70QFXHX1bRSjpeg) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】Citrix NetScaler ADC / NetScaler Gateway预认证命令注入远程代码执行漏洞CVE-2026-88771 | Doonsec | [https://mp.weixin.qq.com/s/EXwz-HaHLoo0eFcG4zU4Ew](https://mp.weixin.qq.com/s/EXwz-HaHLoo0eFcG4zU4Ew) |
-| 2 | 当Claude遇上Metasploit：一句话从Root Shell到域控SYSTEM全流程 | Doonsec | [https://mp.weixin.qq.com/s/Y21NeplNnhF0BX5jbTK58Q](https://mp.weixin.qq.com/s/Y21NeplNnhF0BX5jbTK58Q) |
-| 3 | 【漏洞预警】Citrix NetScaler 命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/XLId0bCdiNJaRoTSMN0c1A](https://mp.weixin.qq.com/s/XLId0bCdiNJaRoTSMN0c1A) |
-| 4 | (10分) CVE-2026-102240：Netcore AP未认证命令注入，一条GET拿root | Doonsec | [https://mp.weixin.qq.com/s/_Z38qSHvDhI-X5NwN9SnAg](https://mp.weixin.qq.com/s/_Z38qSHvDhI-X5NwN9SnAg) |
-| 5 | 【漏洞通告】Citrix NetScaler ADC/Gateway未授权命令注入漏洞(CVE-2026-88771) | Doonsec | [https://mp.weixin.qq.com/s/rAB8v9QOL5VxaivLBPetEA](https://mp.weixin.qq.com/s/rAB8v9QOL5VxaivLBPetEA) |
-| 6 | redisRCE复盘 | Doonsec | [https://mp.weixin.qq.com/s/rNcz37vLoVwapVja4TjcCw](https://mp.weixin.qq.com/s/rNcz37vLoVwapVja4TjcCw) |
+| 1 | OpenCode 曝远程代码执行漏洞：一个 Content-Type 混淆如何变成 RCE | Doonsec | [https://mp.weixin.qq.com/s/a66gwLbhIeE9k8MLvSpC8A](https://mp.weixin.qq.com/s/a66gwLbhIeE9k8MLvSpC8A) |
+| 2 | CVE-2026-94545 Next.js next/og 未经身份验证的远程代码执行 POC | Doonsec | [https://mp.weixin.qq.com/s/s2NNp02nGW4JoauDoSxcwA](https://mp.weixin.qq.com/s/s2NNp02nGW4JoauDoSxcwA) |
+| 3 | 【漏洞复现】CVE-2026-51990 | 搜狗输入法Windows版远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/0qjdfPjIXOfK9vLj0KOGRA](https://mp.weixin.qq.com/s/0qjdfPjIXOfK9vLj0KOGRA) |
+| 4 | 【已复现】VMware vCenter 远程代码执行漏洞（CVE-2026-59310） | Doonsec | [https://mp.weixin.qq.com/s/10G9dLWI_K-pqf2v-YoNFw](https://mp.weixin.qq.com/s/10G9dLWI_K-pqf2v-YoNFw) |
+| 5 | 利用Ligolo绕过WDAC与AppLocker：从受限环境到内网穿透的完整攻击链 | Doonsec | [https://mp.weixin.qq.com/s/Y-rK3sF3jdP6I-Vjrr3Icw](https://mp.weixin.qq.com/s/Y-rK3sF3jdP6I-Vjrr3Icw) |
+| 6 | Next.js ImageResponse RCE漏洞（附POC） | Doonsec | [https://mp.weixin.qq.com/s/ycEetNgdOshlwOE4CCRDtQ](https://mp.weixin.qq.com/s/ycEetNgdOshlwOE4CCRDtQ) |
+| 7 | Citrix NetScaler PitScaler 双重零日：NSPPE 崩溃换 root 直插内网 | Doonsec | [https://mp.weixin.qq.com/s/l9xUU_CztCiuKcGE_NCGag](https://mp.weixin.qq.com/s/l9xUU_CztCiuKcGE_NCGag) |
+| 8 | 内网渗透教程 | Doonsec | [https://mp.weixin.qq.com/s/jhv31fclrb0AOqSomwV9sw](https://mp.weixin.qq.com/s/jhv31fclrb0AOqSomwV9sw) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 应急响应流量分析工具，支持pcap、excel、log等多种数据源，同时结合加解密、反编译等多个工作流 | Doonsec | [https://mp.weixin.qq.com/s/BxbIzQxwxwOaQjTNlmcBeA](https://mp.weixin.qq.com/s/BxbIzQxwxwOaQjTNlmcBeA) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | redisRCE复盘 | Doonsec | [https://mp.weixin.qq.com/s/rNcz37vLoVwapVja4TjcCw](https://mp.weixin.qq.com/s/rNcz37vLoVwapVja4TjcCw) |
+| 1 | 天融信亮相软博会，分享智能体驱动安全运营新范式 | Doonsec | [https://mp.weixin.qq.com/s/8CgeQMzRYeO78ER43fWE9g](https://mp.weixin.qq.com/s/8CgeQMzRYeO78ER43fWE9g) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 五角大楼遭遇重大数据泄露：人力资源中心文件服务器被非法访问长达9个月，超300万人个人信息曝光 | Doonsec | [https://mp.weixin.qq.com/s/p_E-UkkFrVZEDfNBzsfqnQ](https://mp.weixin.qq.com/s/p_E-UkkFrVZEDfNBzsfqnQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-09/2026-W40/2026-09-29/`
+文章已归档到: `doc/2026/2026-09/2026-W40/2026-09-30/`
 
 ## 🔗 数据源说明
 
@@ -135,8 +172,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 12 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 18 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -145,5 +182,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-09-29 17:52:45*
+*生成时间: 2026-09-30 04:45:58*
 *报告工具: 微信文章安全归档系统*
