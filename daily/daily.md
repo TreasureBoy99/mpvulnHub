@@ -2,20 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 5
 - **数据源分布**:
-  - BruceFeIix: 8篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 4篇
-- **漏洞利用**: 3篇
-- **威胁情报**: 1篇
+- **攻击技术**: 2篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 3篇
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,16 +59,13 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [控制台管道注入技术绕过EDR](https://mp.weixin.qq.com/s/QsZrl4xxkaZDoGyBDZxTfA) (发布日期: 2026-10-01)
-- [ ] [网安利器 | Burp Suite + MCP：让AI参与Web安全测试](https://mp.weixin.qq.com/s/ciP5hHiFfSl5aOmOSY1b2Q) (发布日期: 2026-10-01)
-- [ ] [Next.js CVE-2026-94545 分析：next/og 里没转义的引号，和一个没讲完的 RCE](https://mp.weixin.qq.com/s/DRfz2VWHun00esyAVPseRw) (发布日期: 2026-10-01)
-- [ ] [AI Agent 进入网络安全之后，渗透测试开始有点不一样了](https://mp.weixin.qq.com/s/lIcZiUIsdVGFKo2H-KcdWg) (发布日期: 2026-10-01)
-- [ ] [【AI安全】后门等到“有理由”才动手：OPBackdoor 怎样藏在合理回答里](https://mp.weixin.qq.com/s/AiSStH6iYoMyl6HKWflq2g) (发布日期: 2026-10-01)
-- [ ] [网络安全应急响应专家智能体更新：6 大能力域](https://mp.weixin.qq.com/s/e8pKErg9VdJmwKzQfpkPUA) (发布日期: 2026-10-01)
-- [ ] [从一个 Schema 名到 RCE：n8n 原型污染漏洞（CVE-2026-33696）分析](https://mp.weixin.qq.com/s/1-7PeY7hGDxRZ_FodNMiTg) (发布日期: 2026-10-01)
-- [ ] [(9.9分) CVE-2026-102911：pi-llm-wiki MCP工具命令注入RCE](https://mp.weixin.qq.com/s/7FJ54VCLRF7rQib5k2o3RA) (发布日期: 2026-10-01)
+- [AI 驱动的自主渗透测试平台](https://mp.weixin.qq.com/s/7eBVKdVn8-dWj7EXa859XQ) (发布日期: 2026-10-01)
+- [警惕！校园学习接口暗藏 SQL 注入风险](https://mp.weixin.qq.com/s/Y1vF0qcGLbvL4xpGikqc8g) (发布日期: 2026-10-01)
+- [CVE-2026-94545 Next.js next/og 未经身份验证的远程代码执行](https://mp.weixin.qq.com/s/nB9DOIw-SSnDEHTdF3VvCA) (发布日期: 2026-10-01)
+- [求职：反入侵 / SOC 检测与响应 / 安全防御能力建设](https://mp.weixin.qq.com/s/ytvl7gOCELX4pe9iQG11Yg) (发布日期: 2026-10-01)
+- [卡住的时候：Web 渗透测试里最常见的六个死胡同](https://mp.weixin.qq.com/s/wrjcnLu3PiGLnwpt_v4Avw) (发布日期: 2026-10-01)
 
 
 ## 🎯 威胁详情分析
@@ -80,24 +74,14 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [Next.js CVE-2026-94545 分析：next/og 里没转义的引号，和一个没讲完的 RCE | BruceFeIix | [https://mp.weixin.qq.com/s/DRfz2VWHun00esyAVPseRw](https://mp.weixin.qq.com/s/DRfz2VWHun00esyAVPseRw) |
-| 2 |  ] [从一个 Schema 名到 RCE：n8n 原型污染漏洞（CVE-2026-33696）分析 | BruceFeIix | [https://mp.weixin.qq.com/s/1-7PeY7hGDxRZ_FodNMiTg](https://mp.weixin.qq.com/s/1-7PeY7hGDxRZ_FodNMiTg) |
-| 3 |  ] [(9.9分) CVE-2026-102911：pi-llm-wiki MCP工具命令注入RCE | BruceFeIix | [https://mp.weixin.qq.com/s/7FJ54VCLRF7rQib5k2o3RA](https://mp.weixin.qq.com/s/7FJ54VCLRF7rQib5k2o3RA) |
+| 1 | CVE-2026-94545 Next.js next/og 未经身份验证的远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/nB9DOIw-SSnDEHTdF3VvCA](https://mp.weixin.qq.com/s/nB9DOIw-SSnDEHTdF3VvCA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [控制台管道注入技术绕过EDR | BruceFeIix | [https://mp.weixin.qq.com/s/QsZrl4xxkaZDoGyBDZxTfA](https://mp.weixin.qq.com/s/QsZrl4xxkaZDoGyBDZxTfA) |
-| 2 |  ] [Next.js CVE-2026-94545 分析：next/og 里没转义的引号，和一个没讲完的 RCE | BruceFeIix | [https://mp.weixin.qq.com/s/DRfz2VWHun00esyAVPseRw](https://mp.weixin.qq.com/s/DRfz2VWHun00esyAVPseRw) |
-| 3 |  ] [从一个 Schema 名到 RCE：n8n 原型污染漏洞（CVE-2026-33696）分析 | BruceFeIix | [https://mp.weixin.qq.com/s/1-7PeY7hGDxRZ_FodNMiTg](https://mp.weixin.qq.com/s/1-7PeY7hGDxRZ_FodNMiTg) |
-| 4 |  ] [(9.9分) CVE-2026-102911：pi-llm-wiki MCP工具命令注入RCE | BruceFeIix | [https://mp.weixin.qq.com/s/7FJ54VCLRF7rQib5k2o3RA](https://mp.weixin.qq.com/s/7FJ54VCLRF7rQib5k2o3RA) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [网络安全应急响应专家智能体更新：6 大能力域 | BruceFeIix | [https://mp.weixin.qq.com/s/e8pKErg9VdJmwKzQfpkPUA](https://mp.weixin.qq.com/s/e8pKErg9VdJmwKzQfpkPUA) |
+| 1 | 警惕！校园学习接口暗藏 SQL 注入风险 | Doonsec | [https://mp.weixin.qq.com/s/Y1vF0qcGLbvL4xpGikqc8g](https://mp.weixin.qq.com/s/Y1vF0qcGLbvL4xpGikqc8g) |
+| 2 | CVE-2026-94545 Next.js next/og 未经身份验证的远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/nB9DOIw-SSnDEHTdF3VvCA](https://mp.weixin.qq.com/s/nB9DOIw-SSnDEHTdF3VvCA) |
 
 
 ## 📁 归档路径
@@ -113,8 +97,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 4 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -123,5 +107,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-10-01 15:19:13*
+*生成时间: 2026-10-01 20:53:21*
 *报告工具: 微信文章安全归档系统*
