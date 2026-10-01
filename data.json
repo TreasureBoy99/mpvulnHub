@@ -50771,5 +50771,13 @@
     "https://mp.weixin.qq.com/s/5zDwnQQZcSk7iz-h3sNlGA": "HexStrike AI：127个工具+MCP协议，我把Kali变成了AI驱动的攻击平台，但它把自己也变成了漏洞",
     "https://mp.weixin.qq.com/s/iCT-ZLl9bnCJseC5s66pUA": "SolarWinds 的严重漏洞使攻击者能够远程在服务器上执行代码",
     "https://mp.weixin.qq.com/s/7qcYUPzq1RkxS4bORHnSkA": "176号令今日施行，责任单位如何确保网络空间安全合规工作落到实处",
-    "https://mp.weixin.qq.com/s/tJKiXbtJNbhUgHji8sU9jA": "MikroTik RouterOS 严重漏洞可导致未认证根 RCE"
+    "https://mp.weixin.qq.com/s/tJKiXbtJNbhUgHji8sU9jA": "MikroTik RouterOS 严重漏洞可导致未认证根 RCE",
+    "https://mp.weixin.qq.com/s/QsZrl4xxkaZDoGyBDZxTfA": " ] [控制台管道注入技术绕过EDR",
+    "https://mp.weixin.qq.com/s/ciP5hHiFfSl5aOmOSY1b2Q": " ] [网安利器 | Burp Suite + MCP：让AI参与Web安全测试",
+    "https://mp.weixin.qq.com/s/DRfz2VWHun00esyAVPseRw": " ] [Next.js CVE-2026-94545 分析：next/og 里没转义的引号，和一个没讲完的 RCE",
+    "https://mp.weixin.qq.com/s/lIcZiUIsdVGFKo2H-KcdWg": " ] [AI Agent 进入网络安全之后，渗透测试开始有点不一样了",
+    "https://mp.weixin.qq.com/s/AiSStH6iYoMyl6HKWflq2g": " ] [【AI安全】后门等到“有理由”才动手：OPBackdoor 怎样藏在合理回答里",
+    "https://mp.weixin.qq.com/s/e8pKErg9VdJmwKzQfpkPUA": " ] [网络安全应急响应专家智能体更新：6 大能力域",
+    "https://mp.weixin.qq.com/s/1-7PeY7hGDxRZ_FodNMiTg": " ] [从一个 Schema 名到 RCE：n8n 原型污染漏洞（CVE-2026-33696）分析",
+    "https://mp.weixin.qq.com/s/7FJ54VCLRF7rQib5k2o3RA": " ] [(9.9分) CVE-2026-102911：pi-llm-wiki MCP工具命令注入RCE"
 }

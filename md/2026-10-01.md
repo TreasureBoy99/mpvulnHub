@@ -2,21 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 27
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 27篇
+  - BruceFeIix: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 11篇
 - **攻击技术**: 4篇
-- **威胁情报**: 2篇
-- **安全运营**: 2篇
+- **漏洞利用**: 3篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
 - **系统漏洞**: 3篇
-- **网络攻击**: 1篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,35 +62,16 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [渗透测试从业者的新武器 AI 插件主动打 payload，凭证据判定漏洞](https://mp.weixin.qq.com/s/-eBKnSNJ0T7g5WB_wNAROQ) (发布日期: 2026-10-01)
-- [甲方运维注意：挖矿病毒暴涨659%它偷的不是数据，是账单](https://mp.weixin.qq.com/s/meS6IDxlxYSnzpkYMcVjxA) (发布日期: 2026-10-01)
-- [SharePoint与MikroTik曝高危RCE，黑客已在疯狂利用！](https://mp.weixin.qq.com/s/QPRiWCsUvv8dCJZTvUT_gA) (发布日期: 2026-10-01)
-- [仅用一个字符绕过WAF！Oracle PeopleSoft 顶级漏洞 (CVE-2026-35273) 攻击链深度解析](https://mp.weixin.qq.com/s/2mwry3k_ITtvniFkoOOmgQ) (发布日期: 2026-10-01)
-- [不止时间与资产！四维精细化访问控制，闭环守护AI智能体安全](https://mp.weixin.qq.com/s/L-CytUqEA7L4708n9uMSGw) (发布日期: 2026-10-01)
-- [(9.8分) CVE-2026-76504：思科SD-WAN管理平台认证绕过](https://mp.weixin.qq.com/s/EbnIHz5rfb8RJSuu-JmwNQ) (发布日期: 2026-10-01)
-- [【已复现】Citrix NetScaler 预认证远程代码执行漏洞（CVE-2026-88772）](https://mp.weixin.qq.com/s/KuD2CdtI6mzPMFHi6Nqr6A) (发布日期: 2026-10-01)
-- [2026年福建省大学生数据安全大赛火热报名中！](https://mp.weixin.qq.com/s/hrhCf24QRXxZkyrZCET-Vw) (发布日期: 2026-10-01)
-- [靶标安全防护技术培训](https://mp.weixin.qq.com/s/sXYi5_GNMRG1uTkKt5zAPw) (发布日期: 2026-10-01)
-- [基于威胁情报的安全运营服务体系](https://mp.weixin.qq.com/s/r3xQXmh2gYoQAQTiXTzsXA) (发布日期: 2026-10-01)
-- [【转译】从SELECT到SYSADMIN：用SQL Copilot提权（CVE-2026-65669） 值得一看](https://mp.weixin.qq.com/s/ZYkuZzCQpkrzFiBEo4RVxw) (发布日期: 2026-10-01)
-- [AI代理挖洞：从代码到RCE的漏洞研究工作流](https://mp.weixin.qq.com/s/ACcihEtNAyF5AaEI2HxQgg) (发布日期: 2026-10-01)
-- [Windows PoC 工厂上线：PoCSmith 把逆向、调试、复现全自动化](https://mp.weixin.qq.com/s/OZNzUiH_gqfVFxIZNgRQzA) (发布日期: 2026-10-01)
-- [StrykerOSS ——安卓渗透测试工具](https://mp.weixin.qq.com/s/v7D6VjNMNwzN8od_6AjdPA) (发布日期: 2026-10-01)
-- [记一次曲折的onlyoffice漏洞利用，成功getshell！](https://mp.weixin.qq.com/s/Wxm3mlc1Ql4oeQa6-ysoiA) (发布日期: 2026-10-01)
-- [【热点安全风险】10月1日｜波兰开票平台遭未授权访问，攻击者可获取逾 60 万家企业账号与银行账户信息](https://mp.weixin.qq.com/s/MfjIU7afobw9nf2KA-mo7A) (发布日期: 2026-10-01)
-- [AI 一键生成木马开源提示词实测｜Windows 与 Linux 内核 Rootkit 深度测评，可快速构建隐匿内核木马](https://mp.weixin.qq.com/s/p8Buw8Ka6R9Vjx7znVbtBA) (发布日期: 2026-10-01)
-- [俄罗斯APT组织Star Blizzard利用“RedFlick”感染链：从ClickFix到VHDX的自动化攻击升级](https://mp.weixin.qq.com/s/0BacRXXs_DlF42gSX5z1FQ) (发布日期: 2026-10-01)
-- [2026.11截稿的密码学与信息安全会议](https://mp.weixin.qq.com/s/Th34ph7O4OZnQXhJ8yZIEQ) (发布日期: 2026-10-01)
-- [【ACISP 2027】Nov 30@Melbourne, Australia](https://mp.weixin.qq.com/s/6sQl6ZT8tk72ASpwJq7_Ww) (发布日期: 2026-10-01)
-- [法规 ｜ 公安部176号令全文：网络空间安全合规检查标准](https://mp.weixin.qq.com/s/pxXdWoq2a9UUzRIpOzsh2A) (发布日期: 2026-10-01)
-- [情报分析师培训课程（一）情报学导论与职业素养（4）](https://mp.weixin.qq.com/s/vp474_Qeqcvvqbq6BySIgQ) (发布日期: 2026-10-01)
-- [把安全运营中心，装进自己的服务器](https://mp.weixin.qq.com/s/ba7B1tpt8FhOtBtlbkxw7w) (发布日期: 2026-10-01)
-- [HexStrike AI：127个工具+MCP协议，我把Kali变成了AI驱动的攻击平台，但它把自己也变成了漏洞](https://mp.weixin.qq.com/s/5zDwnQQZcSk7iz-h3sNlGA) (发布日期: 2026-10-01)
-- [SolarWinds 的严重漏洞使攻击者能够远程在服务器上执行代码](https://mp.weixin.qq.com/s/iCT-ZLl9bnCJseC5s66pUA) (发布日期: 2026-10-01)
-- [176号令今日施行，责任单位如何确保网络空间安全合规工作落到实处](https://mp.weixin.qq.com/s/7qcYUPzq1RkxS4bORHnSkA) (发布日期: 2026-10-01)
-- [MikroTik RouterOS 严重漏洞可导致未认证根 RCE](https://mp.weixin.qq.com/s/tJKiXbtJNbhUgHji8sU9jA) (发布日期: 2026-10-01)
+- [ ] [控制台管道注入技术绕过EDR](https://mp.weixin.qq.com/s/QsZrl4xxkaZDoGyBDZxTfA) (发布日期: 2026-10-01)
+- [ ] [网安利器 | Burp Suite + MCP：让AI参与Web安全测试](https://mp.weixin.qq.com/s/ciP5hHiFfSl5aOmOSY1b2Q) (发布日期: 2026-10-01)
+- [ ] [Next.js CVE-2026-94545 分析：next/og 里没转义的引号，和一个没讲完的 RCE](https://mp.weixin.qq.com/s/DRfz2VWHun00esyAVPseRw) (发布日期: 2026-10-01)
+- [ ] [AI Agent 进入网络安全之后，渗透测试开始有点不一样了](https://mp.weixin.qq.com/s/lIcZiUIsdVGFKo2H-KcdWg) (发布日期: 2026-10-01)
+- [ ] [【AI安全】后门等到“有理由”才动手：OPBackdoor 怎样藏在合理回答里](https://mp.weixin.qq.com/s/AiSStH6iYoMyl6HKWflq2g) (发布日期: 2026-10-01)
+- [ ] [网络安全应急响应专家智能体更新：6 大能力域](https://mp.weixin.qq.com/s/e8pKErg9VdJmwKzQfpkPUA) (发布日期: 2026-10-01)
+- [ ] [从一个 Schema 名到 RCE：n8n 原型污染漏洞（CVE-2026-33696）分析](https://mp.weixin.qq.com/s/1-7PeY7hGDxRZ_FodNMiTg) (发布日期: 2026-10-01)
+- [ ] [(9.9分) CVE-2026-102911：pi-llm-wiki MCP工具命令注入RCE](https://mp.weixin.qq.com/s/7FJ54VCLRF7rQib5k2o3RA) (发布日期: 2026-10-01)
 
 
 ## 🎯 威胁详情分析
@@ -100,40 +80,24 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 渗透测试从业者的新武器 AI 插件主动打 payload，凭证据判定漏洞 | Doonsec | [https://mp.weixin.qq.com/s/-eBKnSNJ0T7g5WB_wNAROQ](https://mp.weixin.qq.com/s/-eBKnSNJ0T7g5WB_wNAROQ) |
-| 2 | 仅用一个字符绕过WAF！Oracle PeopleSoft 顶级漏洞 (CVE-2026-35273) 攻击链深度解析 | Doonsec | [https://mp.weixin.qq.com/s/2mwry3k_ITtvniFkoOOmgQ](https://mp.weixin.qq.com/s/2mwry3k_ITtvniFkoOOmgQ) |
-| 3 | (9.8分) CVE-2026-76504：思科SD-WAN管理平台认证绕过 | Doonsec | [https://mp.weixin.qq.com/s/EbnIHz5rfb8RJSuu-JmwNQ](https://mp.weixin.qq.com/s/EbnIHz5rfb8RJSuu-JmwNQ) |
-| 4 | 【已复现】Citrix NetScaler 预认证远程代码执行漏洞（CVE-2026-88772） | Doonsec | [https://mp.weixin.qq.com/s/KuD2CdtI6mzPMFHi6Nqr6A](https://mp.weixin.qq.com/s/KuD2CdtI6mzPMFHi6Nqr6A) |
-| 5 | 【转译】从SELECT到SYSADMIN：用SQL Copilot提权（CVE-2026-65669） 值得一看 | Doonsec | [https://mp.weixin.qq.com/s/ZYkuZzCQpkrzFiBEo4RVxw](https://mp.weixin.qq.com/s/ZYkuZzCQpkrzFiBEo4RVxw) |
-| 6 | AI代理挖洞：从代码到RCE的漏洞研究工作流 | Doonsec | [https://mp.weixin.qq.com/s/ACcihEtNAyF5AaEI2HxQgg](https://mp.weixin.qq.com/s/ACcihEtNAyF5AaEI2HxQgg) |
-| 7 | Windows PoC 工厂上线：PoCSmith 把逆向、调试、复现全自动化 | Doonsec | [https://mp.weixin.qq.com/s/OZNzUiH_gqfVFxIZNgRQzA](https://mp.weixin.qq.com/s/OZNzUiH_gqfVFxIZNgRQzA) |
-| 8 | 记一次曲折的onlyoffice漏洞利用，成功getshell！ | Doonsec | [https://mp.weixin.qq.com/s/Wxm3mlc1Ql4oeQa6-ysoiA](https://mp.weixin.qq.com/s/Wxm3mlc1Ql4oeQa6-ysoiA) |
-| 9 | HexStrike AI：127个工具+MCP协议，我把Kali变成了AI驱动的攻击平台，但它把自己也变成了漏洞 | Doonsec | [https://mp.weixin.qq.com/s/5zDwnQQZcSk7iz-h3sNlGA](https://mp.weixin.qq.com/s/5zDwnQQZcSk7iz-h3sNlGA) |
-| 10 | SolarWinds 的严重漏洞使攻击者能够远程在服务器上执行代码 | Doonsec | [https://mp.weixin.qq.com/s/iCT-ZLl9bnCJseC5s66pUA](https://mp.weixin.qq.com/s/iCT-ZLl9bnCJseC5s66pUA) |
-| 11 | MikroTik RouterOS 严重漏洞可导致未认证根 RCE | Doonsec | [https://mp.weixin.qq.com/s/tJKiXbtJNbhUgHji8sU9jA](https://mp.weixin.qq.com/s/tJKiXbtJNbhUgHji8sU9jA) |
+| 1 |  ] [Next.js CVE-2026-94545 分析：next/og 里没转义的引号，和一个没讲完的 RCE | BruceFeIix | [https://mp.weixin.qq.com/s/DRfz2VWHun00esyAVPseRw](https://mp.weixin.qq.com/s/DRfz2VWHun00esyAVPseRw) |
+| 2 |  ] [从一个 Schema 名到 RCE：n8n 原型污染漏洞（CVE-2026-33696）分析 | BruceFeIix | [https://mp.weixin.qq.com/s/1-7PeY7hGDxRZ_FodNMiTg](https://mp.weixin.qq.com/s/1-7PeY7hGDxRZ_FodNMiTg) |
+| 3 |  ] [(9.9分) CVE-2026-102911：pi-llm-wiki MCP工具命令注入RCE | BruceFeIix | [https://mp.weixin.qq.com/s/7FJ54VCLRF7rQib5k2o3RA](https://mp.weixin.qq.com/s/7FJ54VCLRF7rQib5k2o3RA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SharePoint与MikroTik曝高危RCE，黑客已在疯狂利用！ | Doonsec | [https://mp.weixin.qq.com/s/QPRiWCsUvv8dCJZTvUT_gA](https://mp.weixin.qq.com/s/QPRiWCsUvv8dCJZTvUT_gA) |
-| 2 | 【已复现】Citrix NetScaler 预认证远程代码执行漏洞（CVE-2026-88772） | Doonsec | [https://mp.weixin.qq.com/s/KuD2CdtI6mzPMFHi6Nqr6A](https://mp.weixin.qq.com/s/KuD2CdtI6mzPMFHi6Nqr6A) |
-| 3 | AI代理挖洞：从代码到RCE的漏洞研究工作流 | Doonsec | [https://mp.weixin.qq.com/s/ACcihEtNAyF5AaEI2HxQgg](https://mp.weixin.qq.com/s/ACcihEtNAyF5AaEI2HxQgg) |
-| 4 | MikroTik RouterOS 严重漏洞可导致未认证根 RCE | Doonsec | [https://mp.weixin.qq.com/s/tJKiXbtJNbhUgHji8sU9jA](https://mp.weixin.qq.com/s/tJKiXbtJNbhUgHji8sU9jA) |
+| 1 |  ] [控制台管道注入技术绕过EDR | BruceFeIix | [https://mp.weixin.qq.com/s/QsZrl4xxkaZDoGyBDZxTfA](https://mp.weixin.qq.com/s/QsZrl4xxkaZDoGyBDZxTfA) |
+| 2 |  ] [Next.js CVE-2026-94545 分析：next/og 里没转义的引号，和一个没讲完的 RCE | BruceFeIix | [https://mp.weixin.qq.com/s/DRfz2VWHun00esyAVPseRw](https://mp.weixin.qq.com/s/DRfz2VWHun00esyAVPseRw) |
+| 3 |  ] [从一个 Schema 名到 RCE：n8n 原型污染漏洞（CVE-2026-33696）分析 | BruceFeIix | [https://mp.weixin.qq.com/s/1-7PeY7hGDxRZ_FodNMiTg](https://mp.weixin.qq.com/s/1-7PeY7hGDxRZ_FodNMiTg) |
+| 4 |  ] [(9.9分) CVE-2026-102911：pi-llm-wiki MCP工具命令注入RCE | BruceFeIix | [https://mp.weixin.qq.com/s/7FJ54VCLRF7rQib5k2o3RA](https://mp.weixin.qq.com/s/7FJ54VCLRF7rQib5k2o3RA) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 基于威胁情报的安全运营服务体系 | Doonsec | [https://mp.weixin.qq.com/s/r3xQXmh2gYoQAQTiXTzsXA](https://mp.weixin.qq.com/s/r3xQXmh2gYoQAQTiXTzsXA) |
-| 2 | 俄罗斯APT组织Star Blizzard利用“RedFlick”感染链：从ClickFix到VHDX的自动化攻击升级 | Doonsec | [https://mp.weixin.qq.com/s/0BacRXXs_DlF42gSX5z1FQ](https://mp.weixin.qq.com/s/0BacRXXs_DlF42gSX5z1FQ) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 基于威胁情报的安全运营服务体系 | Doonsec | [https://mp.weixin.qq.com/s/r3xQXmh2gYoQAQTiXTzsXA](https://mp.weixin.qq.com/s/r3xQXmh2gYoQAQTiXTzsXA) |
-| 2 | 把安全运营中心，装进自己的服务器 | Doonsec | [https://mp.weixin.qq.com/s/ba7B1tpt8FhOtBtlbkxw7w](https://mp.weixin.qq.com/s/ba7B1tpt8FhOtBtlbkxw7w) |
+| 1 |  ] [网络安全应急响应专家智能体更新：6 大能力域 | BruceFeIix | [https://mp.weixin.qq.com/s/e8pKErg9VdJmwKzQfpkPUA](https://mp.weixin.qq.com/s/e8pKErg9VdJmwKzQfpkPUA) |
 
 
 ## 📁 归档路径
@@ -149,7 +113,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 4 篇相关文章
 - **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
@@ -159,5 +123,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-10-01 04:58:12*
+*生成时间: 2026-10-01 15:19:13*
 *报告工具: 微信文章安全归档系统*
