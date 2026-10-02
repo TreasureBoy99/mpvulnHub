@@ -123199,3 +123199,46 @@
 2026-10-02 14:34:13,682 - INFO - 正在发送Discord日报通知: 2026-10-02
 2026-10-02 14:34:14,422 - INFO - Discord日报发送结果: 204
 2026-10-02 14:34:14,423 - INFO - === 执行完成 ===
+2026-10-02 20:29:14,954 - INFO - === 开始执行微信文章归档工具 ===
+2026-10-02 20:29:14,954 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-10-02 20:29:14,954 - INFO - 正在发送Discord启动通知...
+2026-10-02 20:29:15,249 - INFO - Discord启动通知发送结果: 204
+2026-10-02 20:29:15,250 - INFO - 数据文件: data.json
+2026-10-02 20:29:15,251 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-10-02 20:29:15,251 - INFO - 文档目录: doc
+2026-10-02 20:29:15,312 - INFO - 已加载 50816 条历史记录
+2026-10-02 20:29:15,312 - INFO - === 开始今日拉取 ===
+2026-10-02 20:29:15,312 - INFO - 开始获取Doonsec RSS
+2026-10-02 20:29:15,312 - INFO - 目标日期: 2026-10-02
+2026-10-02 20:29:18,076 - INFO - Doonsec RSS请求成功
+2026-10-02 20:29:18,077 - INFO - RSS中共有 200 个条目
+2026-10-02 20:29:18,078 - INFO - Doonsec获取到 112 个2026-10-02的微信文章URL
+2026-10-02 20:29:18,079 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-10-02.md
+2026-10-02 20:29:18,144 - INFO - ChainReactors md文件下载状态码: 404
+2026-10-02 20:29:18,144 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-10-02.md 状态码: 404
+2026-10-02 20:29:18,144 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-10-02.md
+2026-10-02 20:29:18,217 - INFO - BruceFeIix md文件下载状态码: 200
+2026-10-02 20:29:18,218 - INFO - BruceFeIix获取到 125 个URL
+2026-10-02 20:29:18,218 - INFO - === 开始处理 2026-10-02 的数据 ===
+2026-10-02 20:29:18,218 - INFO - Doonsec原始数据: 112 个
+2026-10-02 20:29:18,218 - INFO - ChainReactors原始数据: 0 个
+2026-10-02 20:29:18,218 - INFO - BruceFeIix原始数据: 125 个
+2026-10-02 20:29:18,218 - INFO - 开始处理Doonsec数据...
+2026-10-02 20:29:18,218 - INFO - 开始处理ChainReactors数据...
+2026-10-02 20:29:18,218 - INFO - 开始处理BruceFeIix数据...
+2026-10-02 20:29:18,218 - INFO - 去重后共 187 个URL待处理，跳过 50 个重复URL
+2026-10-02 20:29:18,218 - INFO - 去重后统计 - Doonsec: 90 个, ChainReactors: 0 个, BruceFeIix: 97 个
+2026-10-02 20:29:18,219 - INFO - === 开始关键词过滤 ===
+2026-10-02 20:29:18,223 - INFO - 关键词过滤: 匹配 2 个，跳过 185 个
+2026-10-02 20:29:18,223 - INFO - 关键词过滤后统计 - Doonsec: 2 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-10-02 20:29:18,239 - INFO - 已创建每日报告: md/2026-10-02.md
+2026-10-02 20:29:18,239 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-10-02 20:29:18,239 - INFO - 正在发送Discord通知: Python加载机制的信任盲区导致木马产生
+2026-10-02 20:29:19,012 - INFO - Discord通知发送结果: 204
+2026-10-02 20:29:19,013 - INFO - 正在发送Discord通知: (9.8分) CVE-2026-14378：WordPress DevKit Pro 未登录管理员接管
+2026-10-02 20:29:19,237 - INFO - Discord通知发送结果: 204
+2026-10-02 20:29:19,300 - INFO - 已更新data.json，添加了 2 个URL
+2026-10-02 20:29:19,301 - INFO - 已创建每日报告: md/2026-10-02.md
+2026-10-02 20:29:19,301 - INFO - 正在发送Discord日报通知: 2026-10-02
+2026-10-02 20:29:19,735 - INFO - Discord日报发送结果: 204
+2026-10-02 20:29:19,736 - INFO - === 执行完成 ===
