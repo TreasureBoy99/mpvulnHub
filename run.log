@@ -123061,3 +123061,70 @@
 2026-10-01 20:53:21,833 - INFO - 正在发送Discord日报通知: 2026-10-01
 2026-10-01 20:53:22,130 - INFO - Discord日报发送结果: 204
 2026-10-01 20:53:22,131 - INFO - === 执行完成 ===
+2026-10-02 04:48:07,406 - INFO - === 开始执行微信文章归档工具 ===
+2026-10-02 04:48:07,406 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-10-02 04:48:07,406 - INFO - 正在发送Discord启动通知...
+2026-10-02 04:48:07,927 - INFO - Discord启动通知发送结果: 204
+2026-10-02 04:48:07,928 - INFO - 数据文件: data.json
+2026-10-02 04:48:07,928 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-10-02 04:48:07,928 - INFO - 文档目录: doc
+2026-10-02 04:48:08,003 - INFO - 已加载 50786 条历史记录
+2026-10-02 04:48:08,003 - INFO - === 开始今日拉取 ===
+2026-10-02 04:48:08,003 - INFO - 开始获取Doonsec RSS
+2026-10-02 04:48:08,003 - INFO - 目标日期: 2026-10-02
+2026-10-02 04:48:10,121 - INFO - Doonsec RSS请求成功
+2026-10-02 04:48:10,122 - INFO - RSS中共有 200 个条目
+2026-10-02 04:48:10,123 - INFO - Doonsec获取到 68 个2026-10-02的微信文章URL
+2026-10-02 04:48:10,123 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-10-02.md
+2026-10-02 04:48:10,275 - INFO - ChainReactors md文件下载状态码: 404
+2026-10-02 04:48:10,275 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-10-02.md 状态码: 404
+2026-10-02 04:48:10,275 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-10-02.md
+2026-10-02 04:48:10,392 - INFO - BruceFeIix md文件下载状态码: 404
+2026-10-02 04:48:10,392 - WARNING - BruceFeIix md文件下载失败: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-10-02.md 状态码: 404
+2026-10-02 04:48:10,392 - INFO - === 开始处理 2026-10-02 的数据 ===
+2026-10-02 04:48:10,392 - INFO - Doonsec原始数据: 68 个
+2026-10-02 04:48:10,392 - INFO - ChainReactors原始数据: 0 个
+2026-10-02 04:48:10,392 - INFO - BruceFeIix原始数据: 0 个
+2026-10-02 04:48:10,392 - INFO - 开始处理Doonsec数据...
+2026-10-02 04:48:10,392 - INFO - 开始处理ChainReactors数据...
+2026-10-02 04:48:10,392 - INFO - 开始处理BruceFeIix数据...
+2026-10-02 04:48:10,392 - INFO - 去重后共 68 个URL待处理，跳过 0 个重复URL
+2026-10-02 04:48:10,392 - INFO - 去重后统计 - Doonsec: 68 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-10-02 04:48:10,392 - INFO - === 开始关键词过滤 ===
+2026-10-02 04:48:10,395 - INFO - 关键词过滤: 匹配 14 个，跳过 54 个
+2026-10-02 04:48:10,396 - INFO - 关键词过滤后统计 - Doonsec: 14 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-10-02 04:48:10,413 - INFO - 已创建每日报告: md/2026-10-02.md
+2026-10-02 04:48:10,413 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-10-02 04:48:10,413 - INFO - 正在发送Discord通知: 情报分析师培训课程（二）情报史：从远古时代到近现代（1）
+2026-10-02 04:48:10,627 - INFO - Discord通知发送结果: 204
+2026-10-02 04:48:10,628 - INFO - 正在发送Discord通知: CISSP × OSCP：网络安全人的能力拼图正在改变
+2026-10-02 04:48:10,871 - INFO - Discord通知发送结果: 204
+2026-10-02 04:48:10,872 - INFO - 正在发送Discord通知: 【CVE-2026-54415】Azuriom CMS 越权服务器管理导致账号接管
+2026-10-02 04:48:11,331 - INFO - Discord通知发送结果: 204
+2026-10-02 04:48:11,332 - INFO - 正在发送Discord通知: 特殊文件名上传导致群组文件功能拒绝服务漏洞
+2026-10-02 04:48:11,940 - INFO - Discord通知发送结果: 204
+2026-10-02 04:48:11,941 - INFO - 正在发送Discord通知: 能信安：安全漏洞通报
+2026-10-02 04:48:12,206 - INFO - Discord通知发送结果: 204
+2026-10-02 04:48:12,207 - INFO - 正在发送Discord通知: Mockoon：管理 API 为什么成了免凭据后门
+2026-10-02 04:48:12,599 - INFO - Discord通知发送结果: 204
+2026-10-02 04:48:12,600 - INFO - 正在发送Discord通知: OpenAI 让 AI 永不关机：Dots 给企业安全提了什么新题
+2026-10-02 04:48:12,844 - INFO - Discord通知发送结果: 204
+2026-10-02 04:48:12,845 - INFO - 正在发送Discord通知: Plugin4Shell：波及26万台设备的AI编程助手零点击RCE漏洞
+2026-10-02 04:48:13,380 - INFO - Discord通知发送结果: 204
+2026-10-02 04:48:13,381 - INFO - 正在发送Discord通知: JSON攻击全解：从反序列化到CSRF的十二类实战手法
+2026-10-02 04:48:14,174 - INFO - Discord通知发送结果: 204
+2026-10-02 04:48:14,175 - INFO - 正在发送Discord通知: 汽车安全入门 01｜汽车总线协议全景：CAN/LIN/FlexRay/以太网，红队先搞懂\'它怎么说话\'
+2026-10-02 04:48:15,326 - INFO - Discord通知发送结果: 204
+2026-10-02 04:48:15,327 - INFO - 正在发送Discord通知: (9.8分) CVE-2026-104286：FortiMail任意文件写入
+2026-10-02 04:48:16,248 - INFO - Discord通知发送结果: 204
+2026-10-02 04:48:16,249 - INFO - 正在发送Discord通知: 《毛骗》第五集：名字对了，银行卡却差两位｜网络安全里的社会工程学
+2026-10-02 04:48:16,543 - INFO - Discord通知发送结果: 204
+2026-10-02 04:48:16,544 - INFO - 正在发送Discord通知: SQL注入完全指南_图解版
+2026-10-02 04:48:16,987 - INFO - Discord通知发送结果: 204
+2026-10-02 04:48:16,988 - INFO - 正在发送Discord通知: 写完就被拖进文件夹：一份真正有用的红队评估报告长什么样
+2026-10-02 04:48:17,237 - INFO - Discord通知发送结果: 204
+2026-10-02 04:48:17,351 - INFO - 已更新data.json，添加了 14 个URL
+2026-10-02 04:48:17,352 - INFO - 已创建每日报告: md/2026-10-02.md
+2026-10-02 04:48:17,352 - INFO - 正在发送Discord日报通知: 2026-10-02
+2026-10-02 04:48:17,581 - INFO - Discord日报发送结果: 204
+2026-10-02 04:48:17,582 - INFO - === 执行完成 ===
