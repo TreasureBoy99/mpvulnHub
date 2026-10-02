@@ -2,21 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 14
+- **总文章数**: 16
 - **数据源分布**:
-  - Doonsec: 14篇
+  - Doonsec: 8篇
+  - BruceFeIix: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **攻击技术**: 2篇
+- **漏洞利用**: 11篇
+- **攻击技术**: 3篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **系统漏洞**: 1篇
-- **应用漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,20 +64,25 @@
 
 ### Doonsec
 
-- [情报分析师培训课程（二）情报史：从远古时代到近现代（1）](https://mp.weixin.qq.com/s/1m0F3ZWfsoDH7QnrFPSsPg) (发布日期: 2026-10-02)
-- [CISSP × OSCP：网络安全人的能力拼图正在改变](https://mp.weixin.qq.com/s/fZkYu9pbcORzs0wOyD_KRA) (发布日期: 2026-10-02)
-- [【CVE-2026-54415】Azuriom CMS 越权服务器管理导致账号接管](https://mp.weixin.qq.com/s/diaIdIUSuuanw-6O97nDxg) (发布日期: 2026-10-02)
-- [特殊文件名上传导致群组文件功能拒绝服务漏洞](https://mp.weixin.qq.com/s/-rSZzKYiWpJVq8QkQNEapg) (发布日期: 2026-10-02)
-- [能信安：安全漏洞通报](https://mp.weixin.qq.com/s/_yGIPUvOQSgkpNQw94cCWQ) (发布日期: 2026-10-02)
-- [Mockoon：管理 API 为什么成了免凭据后门](https://mp.weixin.qq.com/s/SjJaXK77tyUXA1-D_DdUBQ) (发布日期: 2026-10-02)
-- [OpenAI 让 AI 永不关机：Dots 给企业安全提了什么新题](https://mp.weixin.qq.com/s/FLZ5aNWgKKSQeJ-acKxlFA) (发布日期: 2026-10-02)
-- [Plugin4Shell：波及26万台设备的AI编程助手零点击RCE漏洞](https://mp.weixin.qq.com/s/uPK4IrapyGDCtPVIPuO-1A) (发布日期: 2026-10-02)
-- [JSON攻击全解：从反序列化到CSRF的十二类实战手法](https://mp.weixin.qq.com/s/tf4CMMXz914exdGGc2c-JQ) (发布日期: 2026-10-02)
-- [汽车安全入门 01｜汽车总线协议全景：CAN/LIN/FlexRay/以太网，红队先搞懂\'它怎么说话\'](https://mp.weixin.qq.com/s/UkgJqEqryk02BqgObyKNjA) (发布日期: 2026-10-02)
-- [(9.8分) CVE-2026-104286：FortiMail任意文件写入](https://mp.weixin.qq.com/s/d9fa5mA9YsTr0SwUu0N27g) (发布日期: 2026-10-02)
-- [《毛骗》第五集：名字对了，银行卡却差两位｜网络安全里的社会工程学](https://mp.weixin.qq.com/s/nESr_znNGIhcrrj_AVBdvQ) (发布日期: 2026-10-02)
-- [SQL注入完全指南_图解版](https://mp.weixin.qq.com/s/Ml8xcd2U9ev4RzUhddph4Q) (发布日期: 2026-10-02)
-- [写完就被拖进文件夹：一份真正有用的红队评估报告长什么样](https://mp.weixin.qq.com/s/NYHfCKAG5KG5h3xw771hKg) (发布日期: 2026-10-02)
+- [【安全圈】16岁少年用AI发现微软内部API漏洞：涉及超17万亿行数据，获5000美元赏金](https://mp.weixin.qq.com/s/xaYhE-qbuKHbygQJmB7iBQ) (发布日期: 2026-10-02)
+- [Google发布Gemini 4 Argon，AI可自主挖掘并修复高危漏洞](https://mp.weixin.qq.com/s/W9GnHxrdlFVZsjNd6x177w) (发布日期: 2026-10-02)
+- [AI Agent利用两个0Day攻破荷兰安全机构，数秒内提权至Root](https://mp.weixin.qq.com/s/Ga1bP7YmUA-fZR2HWaRxmA) (发布日期: 2026-10-02)
+- [SDC2026议题预告 | 代码迁移中的安全隐患：Android框架中Java-Kotlin并行实现漏洞的分析与挖掘](https://mp.weixin.qq.com/s/u_H5UhUkniSlMUm-gkyQHQ) (发布日期: 2026-10-02)
+- [安全威胁情报周报（2026/09/25-2026/10/02）](https://mp.weixin.qq.com/s/2tx-RafBSSajA-E0bA9OKQ) (发布日期: 2026-10-02)
+- [【CVE-2026-86950】苹果CoreGraphics高危漏洞PoC公布](https://mp.weixin.qq.com/s/Jpe3OMWo8Y8j_Edt6A0Wmw) (发布日期: 2026-10-02)
+- [网安证书别乱考NISP/CISP/PTE 一次分清](https://mp.weixin.qq.com/s/4e3hfoFdYOBriA97HXeNDg) (发布日期: 2026-10-02)
+- [CVE-2026-94545 Next.js next/og 未经身份验证的远程代码执行](https://mp.weixin.qq.com/s/lrt7jKYx9U7PFTKBhXjomA) (发布日期: 2026-10-02)
+
+### BruceFeIix
+
+- [ ] [(9.8分) CVE-2026-75957：WordPress建站SaaS插件认证绕过](https://mp.weixin.qq.com/s/tMVL3voS8eWyoMDjEpa7ig) (发布日期: 2026-10-02)
+- [ ] [「AI Agent防火墙」Pipelock拆解：MCP+外联扫描，每次调用签一张可验证回执](https://mp.weixin.qq.com/s/1F_p9D4ofn1Fv5XMK8jnIA) (发布日期: 2026-10-02)
+- [ ] [【安全圈】苹果官方：iPhone 18 Pro系列确有系统漏洞](https://mp.weixin.qq.com/s/Ev_ARKesczpvBp6VURodtQ) (发布日期: 2026-10-02)
+- [ ] [【安全圈】远程桌面软件TeamViewer被曝多个高危漏洞](https://mp.weixin.qq.com/s/_VHQbeOHqFnkai8NtG6S8w) (发布日期: 2026-10-02)
+- [ ] [最近一个月的安全政策和安全事件，你要关注什么？(10 月)](https://mp.weixin.qq.com/s/F_Dp9ui2NgxRq66V1uVfhg) (发布日期: 2026-10-02)
+- [ ] [Google披露Citrix 0Day攻击，黑客植入Web Shell攻入企业内网](https://mp.weixin.qq.com/s/Su4MwA39jAdS93ia0iJo3Q) (发布日期: 2026-10-02)
+- [ ] [黑客利用PaperCut 0Day入侵打印服务器，不到两天攻陷域控制器](https://mp.weixin.qq.com/s/UlDalkFzjZ5D9El8szU3fA) (发布日期: 2026-10-02)
+- [ ] [人机共智·重构攻防｜荣耀SRC，助力第十届安全开发者峰会（SDC2026）](https://mp.weixin.qq.com/s/fDhcYx3oudUw18tQXdA7Ww) (发布日期: 2026-10-02)
 
 
 ## 🎯 威胁详情分析
@@ -87,18 +91,37 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【CVE-2026-54415】Azuriom CMS 越权服务器管理导致账号接管 | Doonsec | [https://mp.weixin.qq.com/s/diaIdIUSuuanw-6O97nDxg](https://mp.weixin.qq.com/s/diaIdIUSuuanw-6O97nDxg) |
-| 2 | 特殊文件名上传导致群组文件功能拒绝服务漏洞 | Doonsec | [https://mp.weixin.qq.com/s/-rSZzKYiWpJVq8QkQNEapg](https://mp.weixin.qq.com/s/-rSZzKYiWpJVq8QkQNEapg) |
-| 3 | 能信安：安全漏洞通报 | Doonsec | [https://mp.weixin.qq.com/s/_yGIPUvOQSgkpNQw94cCWQ](https://mp.weixin.qq.com/s/_yGIPUvOQSgkpNQw94cCWQ) |
-| 4 | Plugin4Shell：波及26万台设备的AI编程助手零点击RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/uPK4IrapyGDCtPVIPuO-1A](https://mp.weixin.qq.com/s/uPK4IrapyGDCtPVIPuO-1A) |
-| 5 | (9.8分) CVE-2026-104286：FortiMail任意文件写入 | Doonsec | [https://mp.weixin.qq.com/s/d9fa5mA9YsTr0SwUu0N27g](https://mp.weixin.qq.com/s/d9fa5mA9YsTr0SwUu0N27g) |
+| 1 | 【安全圈】16岁少年用AI发现微软内部API漏洞：涉及超17万亿行数据，获5000美元赏金 | Doonsec | [https://mp.weixin.qq.com/s/xaYhE-qbuKHbygQJmB7iBQ](https://mp.weixin.qq.com/s/xaYhE-qbuKHbygQJmB7iBQ) |
+| 2 | Google发布Gemini 4 Argon，AI可自主挖掘并修复高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s/W9GnHxrdlFVZsjNd6x177w](https://mp.weixin.qq.com/s/W9GnHxrdlFVZsjNd6x177w) |
+| 3 | AI Agent利用两个0Day攻破荷兰安全机构，数秒内提权至Root | Doonsec | [https://mp.weixin.qq.com/s/Ga1bP7YmUA-fZR2HWaRxmA](https://mp.weixin.qq.com/s/Ga1bP7YmUA-fZR2HWaRxmA) |
+| 4 | SDC2026议题预告 | 代码迁移中的安全隐患：Android框架中Java-Kotlin并行实现漏洞的分析与挖掘 | Doonsec | [https://mp.weixin.qq.com/s/u_H5UhUkniSlMUm-gkyQHQ](https://mp.weixin.qq.com/s/u_H5UhUkniSlMUm-gkyQHQ) |
+| 5 | 【CVE-2026-86950】苹果CoreGraphics高危漏洞PoC公布 | Doonsec | [https://mp.weixin.qq.com/s/Jpe3OMWo8Y8j_Edt6A0Wmw](https://mp.weixin.qq.com/s/Jpe3OMWo8Y8j_Edt6A0Wmw) |
+| 6 | CVE-2026-94545 Next.js next/og 未经身份验证的远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/lrt7jKYx9U7PFTKBhXjomA](https://mp.weixin.qq.com/s/lrt7jKYx9U7PFTKBhXjomA) |
+| 7 |  ] [(9.8分) CVE-2026-75957：WordPress建站SaaS插件认证绕过 | BruceFeIix | [https://mp.weixin.qq.com/s/tMVL3voS8eWyoMDjEpa7ig](https://mp.weixin.qq.com/s/tMVL3voS8eWyoMDjEpa7ig) |
+| 8 |  ] [【安全圈】苹果官方：iPhone 18 Pro系列确有系统漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s/Ev_ARKesczpvBp6VURodtQ](https://mp.weixin.qq.com/s/Ev_ARKesczpvBp6VURodtQ) |
+| 9 |  ] [【安全圈】远程桌面软件TeamViewer被曝多个高危漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s/_VHQbeOHqFnkai8NtG6S8w](https://mp.weixin.qq.com/s/_VHQbeOHqFnkai8NtG6S8w) |
+| 10 |  ] [Google披露Citrix 0Day攻击，黑客植入Web Shell攻入企业内网 | BruceFeIix | [https://mp.weixin.qq.com/s/Su4MwA39jAdS93ia0iJo3Q](https://mp.weixin.qq.com/s/Su4MwA39jAdS93ia0iJo3Q) |
+| 11 |  ] [黑客利用PaperCut 0Day入侵打印服务器，不到两天攻陷域控制器 | BruceFeIix | [https://mp.weixin.qq.com/s/UlDalkFzjZ5D9El8szU3fA](https://mp.weixin.qq.com/s/UlDalkFzjZ5D9El8szU3fA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Plugin4Shell：波及26万台设备的AI编程助手零点击RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/uPK4IrapyGDCtPVIPuO-1A](https://mp.weixin.qq.com/s/uPK4IrapyGDCtPVIPuO-1A) |
-| 2 | SQL注入完全指南_图解版 | Doonsec | [https://mp.weixin.qq.com/s/Ml8xcd2U9ev4RzUhddph4Q](https://mp.weixin.qq.com/s/Ml8xcd2U9ev4RzUhddph4Q) |
+| 1 | CVE-2026-94545 Next.js next/og 未经身份验证的远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/lrt7jKYx9U7PFTKBhXjomA](https://mp.weixin.qq.com/s/lrt7jKYx9U7PFTKBhXjomA) |
+| 2 |  ] [Google披露Citrix 0Day攻击，黑客植入Web Shell攻入企业内网 | BruceFeIix | [https://mp.weixin.qq.com/s/Su4MwA39jAdS93ia0iJo3Q](https://mp.weixin.qq.com/s/Su4MwA39jAdS93ia0iJo3Q) |
+| 3 |  ] [黑客利用PaperCut 0Day入侵打印服务器，不到两天攻陷域控制器 | BruceFeIix | [https://mp.weixin.qq.com/s/UlDalkFzjZ5D9El8szU3fA](https://mp.weixin.qq.com/s/UlDalkFzjZ5D9El8szU3fA) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 安全威胁情报周报（2026/09/25-2026/10/02） | Doonsec | [https://mp.weixin.qq.com/s/2tx-RafBSSajA-E0bA9OKQ](https://mp.weixin.qq.com/s/2tx-RafBSSajA-E0bA9OKQ) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [人机共智·重构攻防｜荣耀SRC，助力第十届安全开发者峰会（SDC2026） | BruceFeIix | [https://mp.weixin.qq.com/s/fDhcYx3oudUw18tQXdA7Ww](https://mp.weixin.qq.com/s/fDhcYx3oudUw18tQXdA7Ww) |
 
 
 ## 📁 归档路径
@@ -114,8 +137,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -124,5 +147,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-10-02 04:48:17*
+*生成时间: 2026-10-02 14:34:13*
 *报告工具: 微信文章安全归档系统*
