@@ -1,18 +1,22 @@
-# 2026-10-01 安全威胁态势报告
+# 2026-10-02 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 14
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 5篇
 - **攻击技术**: 2篇
-- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 2篇
+- **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,11 +65,20 @@
 
 ### Doonsec
 
-- [AI 驱动的自主渗透测试平台](https://mp.weixin.qq.com/s/7eBVKdVn8-dWj7EXa859XQ) (发布日期: 2026-10-01)
-- [警惕！校园学习接口暗藏 SQL 注入风险](https://mp.weixin.qq.com/s/Y1vF0qcGLbvL4xpGikqc8g) (发布日期: 2026-10-01)
-- [CVE-2026-94545 Next.js next/og 未经身份验证的远程代码执行](https://mp.weixin.qq.com/s/nB9DOIw-SSnDEHTdF3VvCA) (发布日期: 2026-10-01)
-- [求职：反入侵 / SOC 检测与响应 / 安全防御能力建设](https://mp.weixin.qq.com/s/ytvl7gOCELX4pe9iQG11Yg) (发布日期: 2026-10-01)
-- [卡住的时候：Web 渗透测试里最常见的六个死胡同](https://mp.weixin.qq.com/s/wrjcnLu3PiGLnwpt_v4Avw) (发布日期: 2026-10-01)
+- [情报分析师培训课程（二）情报史：从远古时代到近现代（1）](https://mp.weixin.qq.com/s/1m0F3ZWfsoDH7QnrFPSsPg) (发布日期: 2026-10-02)
+- [CISSP × OSCP：网络安全人的能力拼图正在改变](https://mp.weixin.qq.com/s/fZkYu9pbcORzs0wOyD_KRA) (发布日期: 2026-10-02)
+- [【CVE-2026-54415】Azuriom CMS 越权服务器管理导致账号接管](https://mp.weixin.qq.com/s/diaIdIUSuuanw-6O97nDxg) (发布日期: 2026-10-02)
+- [特殊文件名上传导致群组文件功能拒绝服务漏洞](https://mp.weixin.qq.com/s/-rSZzKYiWpJVq8QkQNEapg) (发布日期: 2026-10-02)
+- [能信安：安全漏洞通报](https://mp.weixin.qq.com/s/_yGIPUvOQSgkpNQw94cCWQ) (发布日期: 2026-10-02)
+- [Mockoon：管理 API 为什么成了免凭据后门](https://mp.weixin.qq.com/s/SjJaXK77tyUXA1-D_DdUBQ) (发布日期: 2026-10-02)
+- [OpenAI 让 AI 永不关机：Dots 给企业安全提了什么新题](https://mp.weixin.qq.com/s/FLZ5aNWgKKSQeJ-acKxlFA) (发布日期: 2026-10-02)
+- [Plugin4Shell：波及26万台设备的AI编程助手零点击RCE漏洞](https://mp.weixin.qq.com/s/uPK4IrapyGDCtPVIPuO-1A) (发布日期: 2026-10-02)
+- [JSON攻击全解：从反序列化到CSRF的十二类实战手法](https://mp.weixin.qq.com/s/tf4CMMXz914exdGGc2c-JQ) (发布日期: 2026-10-02)
+- [汽车安全入门 01｜汽车总线协议全景：CAN/LIN/FlexRay/以太网，红队先搞懂\'它怎么说话\'](https://mp.weixin.qq.com/s/UkgJqEqryk02BqgObyKNjA) (发布日期: 2026-10-02)
+- [(9.8分) CVE-2026-104286：FortiMail任意文件写入](https://mp.weixin.qq.com/s/d9fa5mA9YsTr0SwUu0N27g) (发布日期: 2026-10-02)
+- [《毛骗》第五集：名字对了，银行卡却差两位｜网络安全里的社会工程学](https://mp.weixin.qq.com/s/nESr_znNGIhcrrj_AVBdvQ) (发布日期: 2026-10-02)
+- [SQL注入完全指南_图解版](https://mp.weixin.qq.com/s/Ml8xcd2U9ev4RzUhddph4Q) (发布日期: 2026-10-02)
+- [写完就被拖进文件夹：一份真正有用的红队评估报告长什么样](https://mp.weixin.qq.com/s/NYHfCKAG5KG5h3xw771hKg) (发布日期: 2026-10-02)
 
 
 ## 🎯 威胁详情分析
@@ -74,19 +87,23 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2026-94545 Next.js next/og 未经身份验证的远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/nB9DOIw-SSnDEHTdF3VvCA](https://mp.weixin.qq.com/s/nB9DOIw-SSnDEHTdF3VvCA) |
+| 1 | 【CVE-2026-54415】Azuriom CMS 越权服务器管理导致账号接管 | Doonsec | [https://mp.weixin.qq.com/s/diaIdIUSuuanw-6O97nDxg](https://mp.weixin.qq.com/s/diaIdIUSuuanw-6O97nDxg) |
+| 2 | 特殊文件名上传导致群组文件功能拒绝服务漏洞 | Doonsec | [https://mp.weixin.qq.com/s/-rSZzKYiWpJVq8QkQNEapg](https://mp.weixin.qq.com/s/-rSZzKYiWpJVq8QkQNEapg) |
+| 3 | 能信安：安全漏洞通报 | Doonsec | [https://mp.weixin.qq.com/s/_yGIPUvOQSgkpNQw94cCWQ](https://mp.weixin.qq.com/s/_yGIPUvOQSgkpNQw94cCWQ) |
+| 4 | Plugin4Shell：波及26万台设备的AI编程助手零点击RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/uPK4IrapyGDCtPVIPuO-1A](https://mp.weixin.qq.com/s/uPK4IrapyGDCtPVIPuO-1A) |
+| 5 | (9.8分) CVE-2026-104286：FortiMail任意文件写入 | Doonsec | [https://mp.weixin.qq.com/s/d9fa5mA9YsTr0SwUu0N27g](https://mp.weixin.qq.com/s/d9fa5mA9YsTr0SwUu0N27g) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 警惕！校园学习接口暗藏 SQL 注入风险 | Doonsec | [https://mp.weixin.qq.com/s/Y1vF0qcGLbvL4xpGikqc8g](https://mp.weixin.qq.com/s/Y1vF0qcGLbvL4xpGikqc8g) |
-| 2 | CVE-2026-94545 Next.js next/og 未经身份验证的远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/nB9DOIw-SSnDEHTdF3VvCA](https://mp.weixin.qq.com/s/nB9DOIw-SSnDEHTdF3VvCA) |
+| 1 | Plugin4Shell：波及26万台设备的AI编程助手零点击RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/uPK4IrapyGDCtPVIPuO-1A](https://mp.weixin.qq.com/s/uPK4IrapyGDCtPVIPuO-1A) |
+| 2 | SQL注入完全指南_图解版 | Doonsec | [https://mp.weixin.qq.com/s/Ml8xcd2U9ev4RzUhddph4Q](https://mp.weixin.qq.com/s/Ml8xcd2U9ev4RzUhddph4Q) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-10/2026-W40/2026-10-01/`
+文章已归档到: `doc/2026/2026-10/2026-W40/2026-10-02/`
 
 ## 🔗 数据源说明
 
@@ -97,8 +114,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -107,5 +124,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-10-01 20:53:21*
+*生成时间: 2026-10-02 04:48:17*
 *报告工具: 微信文章安全归档系统*
