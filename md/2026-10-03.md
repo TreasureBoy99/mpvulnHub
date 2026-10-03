@@ -2,21 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 12
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 12篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 2篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
-- **供应链**: 1篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,55 +61,17 @@
 
 ### Doonsec
 
-- [【一周安全资讯1003】《江苏省网络数据安全管理办法（草案）》（征求意见稿）发布；Bitget遭窃3.88亿美元，攻击者利用第三方0Day漏洞入侵](https://mp.weixin.qq.com/s/RR7OPaHIWAEEA9ixDIpKNQ) (发布日期: 2026-10-03)
-- [安天AVL SDK反病毒引擎升级通告（20261003）](https://mp.weixin.qq.com/s/oSHlZP8-vIUWmVGp_mrtUw) (发布日期: 2026-10-03)
-- [行业资讯｜AI 安全事件点燃部分网安股，永信至诚三日涨超 30%，中新赛克 13 天 7 板](https://mp.weixin.qq.com/s/NqAld9EhXl-JDtvq1a_giA) (发布日期: 2026-10-03)
-- [银狐遭专项打击C2坍缩九成：「甲蚁」团伙1060个仿冒域名盯上运维终端](https://mp.weixin.qq.com/s/zHpaH2IrbDF3EGrW6_ntNg) (发布日期: 2026-10-03)
-- [腾讯哈勃恶意样本分析引擎横空出世：一台机器揭穿所有Linux病毒伪装](https://mp.weixin.qq.com/s/CX8Fy0Zu06JMGuaHsirzFw) (发布日期: 2026-10-03)
-- [GitLab AI Gateway曝CVSS 9.9严重漏洞(CVE-2026-90970)，认证用户可逃逸模板沙箱执行任意命令](https://mp.weixin.qq.com/s/du2n-D_EMbzVneaiamqeLQ) (发布日期: 2026-10-03)
-- [Next.js 远程代码执行漏洞 CVE-2026-94545 的 PoC 利用代码已发布](https://mp.weixin.qq.com/s/H862agm6XxfkiTRG0KrCvw) (发布日期: 2026-10-03)
-- [edusrc 脆弱资产收集&amp;统一身份认证逻辑绕过](https://mp.weixin.qq.com/s/LjPd79SIRf-NJcB8LtpR2Q) (发布日期: 2026-10-03)
-- [2026年福建省大学生数据安全大赛火热报名中！](https://mp.weixin.qq.com/s/D43TjXSOOpYJJuGM7hNtcw) (发布日期: 2026-10-03)
-- [情报分析师培训课程（二）u3000情报史：从远古时代到近现代（2）](https://mp.weixin.qq.com/s/xcyDi84f_rKWk0qW8zwpUw) (发布日期: 2026-10-03)
-- [当 AI 开始自己打渗透：One\'s Vibe 上的安全工具巡礼](https://mp.weixin.qq.com/s/JDXBvwfPdWzLBvcFHEesJw) (发布日期: 2026-10-03)
-- [Apache Superset SQL注入漏洞公开发布 PoC](https://mp.weixin.qq.com/s/AwxC3HnLGNlo7mCQ4lGCmA) (发布日期: 2026-10-03)
+- [DragonForce：一个靠组织而非技术做大的勒索团伙](https://mp.weixin.qq.com/s/FxblGNBWjucAyTrIYl3C7w) (发布日期: 2026-10-03)
+- [TraderTraitor扩大狩猎范围！不再只盯加密行业，API反向呼叫后门瞄准普通IT服务商](https://mp.weixin.qq.com/s/oE5or4z_is6xty6Bl2vfvw) (发布日期: 2026-10-03)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【一周安全资讯1003】《江苏省网络数据安全管理办法（草案）》（征求意见稿）发布；Bitget遭窃3.88亿美元，攻击者利用第三方0Day漏洞入侵 | Doonsec | [https://mp.weixin.qq.com/s/RR7OPaHIWAEEA9ixDIpKNQ](https://mp.weixin.qq.com/s/RR7OPaHIWAEEA9ixDIpKNQ) |
-| 2 | GitLab AI Gateway曝CVSS 9.9严重漏洞(CVE-2026-90970)，认证用户可逃逸模板沙箱执行任意命令 | Doonsec | [https://mp.weixin.qq.com/s/du2n-D_EMbzVneaiamqeLQ](https://mp.weixin.qq.com/s/du2n-D_EMbzVneaiamqeLQ) |
-| 3 | Next.js 远程代码执行漏洞 CVE-2026-94545 的 PoC 利用代码已发布 | Doonsec | [https://mp.weixin.qq.com/s/H862agm6XxfkiTRG0KrCvw](https://mp.weixin.qq.com/s/H862agm6XxfkiTRG0KrCvw) |
-| 4 | Apache Superset SQL注入漏洞公开发布 PoC | Doonsec | [https://mp.weixin.qq.com/s/AwxC3HnLGNlo7mCQ4lGCmA](https://mp.weixin.qq.com/s/AwxC3HnLGNlo7mCQ4lGCmA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Next.js 远程代码执行漏洞 CVE-2026-94545 的 PoC 利用代码已发布 | Doonsec | [https://mp.weixin.qq.com/s/H862agm6XxfkiTRG0KrCvw](https://mp.weixin.qq.com/s/H862agm6XxfkiTRG0KrCvw) |
-| 2 | Apache Superset SQL注入漏洞公开发布 PoC | Doonsec | [https://mp.weixin.qq.com/s/AwxC3HnLGNlo7mCQ4lGCmA](https://mp.weixin.qq.com/s/AwxC3HnLGNlo7mCQ4lGCmA) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 银狐遭专项打击C2坍缩九成：「甲蚁」团伙1060个仿冒域名盯上运维终端 | Doonsec | [https://mp.weixin.qq.com/s/zHpaH2IrbDF3EGrW6_ntNg](https://mp.weixin.qq.com/s/zHpaH2IrbDF3EGrW6_ntNg) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | edusrc 脆弱资产收集&amp;统一身份认证逻辑绕过 | Doonsec | [https://mp.weixin.qq.com/s/LjPd79SIRf-NJcB8LtpR2Q](https://mp.weixin.qq.com/s/LjPd79SIRf-NJcB8LtpR2Q) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【一周安全资讯1003】《江苏省网络数据安全管理办法（草案）》（征求意见稿）发布；Bitget遭窃3.88亿美元，攻击者利用第三方0Day漏洞入侵 | Doonsec | [https://mp.weixin.qq.com/s/RR7OPaHIWAEEA9ixDIpKNQ](https://mp.weixin.qq.com/s/RR7OPaHIWAEEA9ixDIpKNQ) |
+| 1 | DragonForce：一个靠组织而非技术做大的勒索团伙 | Doonsec | [https://mp.weixin.qq.com/s/FxblGNBWjucAyTrIYl3C7w](https://mp.weixin.qq.com/s/FxblGNBWjucAyTrIYl3C7w) |
 
 
 ## 📁 归档路径
@@ -129,8 +87,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -139,5 +97,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-10-03 04:31:17*
+*生成时间: 2026-10-03 22:45:28*
 *报告工具: 微信文章安全归档系统*
