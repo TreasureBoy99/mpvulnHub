@@ -50830,5 +50830,19 @@
     "https://mp.weixin.qq.com/s/JDXBvwfPdWzLBvcFHEesJw": "当 AI 开始自己打渗透：One\\'s Vibe 上的安全工具巡礼",
     "https://mp.weixin.qq.com/s/AwxC3HnLGNlo7mCQ4lGCmA": "Apache Superset SQL注入漏洞公开发布 PoC",
     "https://mp.weixin.qq.com/s/FxblGNBWjucAyTrIYl3C7w": "DragonForce：一个靠组织而非技术做大的勒索团伙",
-    "https://mp.weixin.qq.com/s/oE5or4z_is6xty6Bl2vfvw": "TraderTraitor扩大狩猎范围！不再只盯加密行业，API反向呼叫后门瞄准普通IT服务商"
+    "https://mp.weixin.qq.com/s/oE5or4z_is6xty6Bl2vfvw": "TraderTraitor扩大狩猎范围！不再只盯加密行业，API反向呼叫后门瞄准普通IT服务商",
+    "https://mp.weixin.qq.com/s/TmtWRvCeK26jcwyrbDAw8g": "腾讯重磅开源：业界首个项目级漏洞猎杀基准平台 VulnGym 震撼发布",
+    "https://mp.weixin.qq.com/s/MeXEmluND2W59oOKChkCLQ": "上海鸿翼软件-电子文档管理系统 importNewBpmnDesignByIe 存在XStream反序列化漏洞",
+    "https://mp.weixin.qq.com/s/YFNSBsS_7td6c4avtvxAnQ": "今日你的校招体验身份：一名会打红队的安服",
+    "https://mp.weixin.qq.com/s/ki1adJ6YRV9RP3JOi3KGYw": "2026年福建省大学生数据安全大赛火热报名中！",
+    "https://mp.weixin.qq.com/s/eeFxR-dFL8jODw3agZAoPg": "数据安全风险评估系统已可部署到测评师本地，部署使用说明见正文",
+    "https://mp.weixin.qq.com/s/XBmWhSoo0HRH9LAAXwglOg": "开源 Webmail 巨头 Roundcube 爆出在野 漏洞",
+    "https://mp.weixin.qq.com/s/PO98-HUneNrBy6BADXnM4A": "WebSocket 协议漏洞 01：握手流程与八大致命风险",
+    "https://mp.weixin.qq.com/s/OxSt9sGr4ModidT9b78mEg": "数据安全风险评估系统已可部署到测评师本地，部署使用说明见正文",
+    "https://mp.weixin.qq.com/s/EZgKpRJ5tHu2zd0B2QholQ": "API网关参数拼接漏洞导致越权与SSRF的案例分享",
+    "https://mp.weixin.qq.com/s/TyF_egx2TbrkddqlQP-53A": "(8.7分) CVE-2026-88779：NetScaler SAML内存溢出DoS",
+    "https://mp.weixin.qq.com/s/T7sHNcoZN7s1J-A2QzmqnQ": "《毛骗》第八集：狐狸说病床边有张照片，冬冬接下夺瓶赌局｜网络安全里的社会工程学",
+    "https://mp.weixin.qq.com/s/PvrgtC_TVu5zwRgwsTmdEA": "情报分析师培训课程（三）情报学科与全源分析（1）",
+    "https://mp.weixin.qq.com/s/qk3_Z2rQMlJY9BbON3ShTg": "Apache HTTP 服务器漏洞可导致远程代码执行和拒绝服务攻击",
+    "https://mp.weixin.qq.com/s/5t7KQO8UEypt0d0iuFN34A": "新的 Windows Defender ShieldCrash 零日漏洞可绕过微软补丁，以系统权限读取文件"
 }
