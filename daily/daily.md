@@ -1,18 +1,20 @@
-# 2026-10-03 安全威胁态势报告
+# 2026-10-05 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 14
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 8篇
 - **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,22 +63,47 @@
 
 ### Doonsec
 
-- [DragonForce：一个靠组织而非技术做大的勒索团伙](https://mp.weixin.qq.com/s/FxblGNBWjucAyTrIYl3C7w) (发布日期: 2026-10-03)
-- [TraderTraitor扩大狩猎范围！不再只盯加密行业，API反向呼叫后门瞄准普通IT服务商](https://mp.weixin.qq.com/s/oE5or4z_is6xty6Bl2vfvw) (发布日期: 2026-10-03)
+- [腾讯重磅开源：业界首个项目级漏洞猎杀基准平台 VulnGym 震撼发布](https://mp.weixin.qq.com/s/TmtWRvCeK26jcwyrbDAw8g) (发布日期: 2026-10-05)
+- [上海鸿翼软件-电子文档管理系统 importNewBpmnDesignByIe 存在XStream反序列化漏洞](https://mp.weixin.qq.com/s/MeXEmluND2W59oOKChkCLQ) (发布日期: 2026-10-05)
+- [今日你的校招体验身份：一名会打红队的安服](https://mp.weixin.qq.com/s/YFNSBsS_7td6c4avtvxAnQ) (发布日期: 2026-10-05)
+- [2026年福建省大学生数据安全大赛火热报名中！](https://mp.weixin.qq.com/s/ki1adJ6YRV9RP3JOi3KGYw) (发布日期: 2026-10-05)
+- [数据安全风险评估系统已可部署到测评师本地，部署使用说明见正文](https://mp.weixin.qq.com/s/eeFxR-dFL8jODw3agZAoPg) (发布日期: 2026-10-05)
+- [开源 Webmail 巨头 Roundcube 爆出在野 漏洞](https://mp.weixin.qq.com/s/XBmWhSoo0HRH9LAAXwglOg) (发布日期: 2026-10-05)
+- [WebSocket 协议漏洞 01：握手流程与八大致命风险](https://mp.weixin.qq.com/s/PO98-HUneNrBy6BADXnM4A) (发布日期: 2026-10-05)
+- [数据安全风险评估系统已可部署到测评师本地，部署使用说明见正文](https://mp.weixin.qq.com/s/OxSt9sGr4ModidT9b78mEg) (发布日期: 2026-10-05)
+- [API网关参数拼接漏洞导致越权与SSRF的案例分享](https://mp.weixin.qq.com/s/EZgKpRJ5tHu2zd0B2QholQ) (发布日期: 2026-10-05)
+- [(8.7分) CVE-2026-88779：NetScaler SAML内存溢出DoS](https://mp.weixin.qq.com/s/TyF_egx2TbrkddqlQP-53A) (发布日期: 2026-10-05)
+- [《毛骗》第八集：狐狸说病床边有张照片，冬冬接下夺瓶赌局｜网络安全里的社会工程学](https://mp.weixin.qq.com/s/T7sHNcoZN7s1J-A2QzmqnQ) (发布日期: 2026-10-05)
+- [情报分析师培训课程（三）情报学科与全源分析（1）](https://mp.weixin.qq.com/s/PvrgtC_TVu5zwRgwsTmdEA) (发布日期: 2026-10-05)
+- [Apache HTTP 服务器漏洞可导致远程代码执行和拒绝服务攻击](https://mp.weixin.qq.com/s/qk3_Z2rQMlJY9BbON3ShTg) (发布日期: 2026-10-05)
+- [新的 Windows Defender ShieldCrash 零日漏洞可绕过微软补丁，以系统权限读取文件](https://mp.weixin.qq.com/s/5t7KQO8UEypt0d0iuFN34A) (发布日期: 2026-10-05)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 腾讯重磅开源：业界首个项目级漏洞猎杀基准平台 VulnGym 震撼发布 | Doonsec | [https://mp.weixin.qq.com/s/TmtWRvCeK26jcwyrbDAw8g](https://mp.weixin.qq.com/s/TmtWRvCeK26jcwyrbDAw8g) |
+| 2 | 上海鸿翼软件-电子文档管理系统 importNewBpmnDesignByIe 存在XStream反序列化漏洞 | Doonsec | [https://mp.weixin.qq.com/s/MeXEmluND2W59oOKChkCLQ](https://mp.weixin.qq.com/s/MeXEmluND2W59oOKChkCLQ) |
+| 3 | 开源 Webmail 巨头 Roundcube 爆出在野 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/XBmWhSoo0HRH9LAAXwglOg](https://mp.weixin.qq.com/s/XBmWhSoo0HRH9LAAXwglOg) |
+| 4 | WebSocket 协议漏洞 01：握手流程与八大致命风险 | Doonsec | [https://mp.weixin.qq.com/s/PO98-HUneNrBy6BADXnM4A](https://mp.weixin.qq.com/s/PO98-HUneNrBy6BADXnM4A) |
+| 5 | API网关参数拼接漏洞导致越权与SSRF的案例分享 | Doonsec | [https://mp.weixin.qq.com/s/EZgKpRJ5tHu2zd0B2QholQ](https://mp.weixin.qq.com/s/EZgKpRJ5tHu2zd0B2QholQ) |
+| 6 | (8.7分) CVE-2026-88779：NetScaler SAML内存溢出DoS | Doonsec | [https://mp.weixin.qq.com/s/TyF_egx2TbrkddqlQP-53A](https://mp.weixin.qq.com/s/TyF_egx2TbrkddqlQP-53A) |
+| 7 | Apache HTTP 服务器漏洞可导致远程代码执行和拒绝服务攻击 | Doonsec | [https://mp.weixin.qq.com/s/qk3_Z2rQMlJY9BbON3ShTg](https://mp.weixin.qq.com/s/qk3_Z2rQMlJY9BbON3ShTg) |
+| 8 | 新的 Windows Defender ShieldCrash 零日漏洞可绕过微软补丁，以系统权限读取文件 | Doonsec | [https://mp.weixin.qq.com/s/5t7KQO8UEypt0d0iuFN34A](https://mp.weixin.qq.com/s/5t7KQO8UEypt0d0iuFN34A) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | DragonForce：一个靠组织而非技术做大的勒索团伙 | Doonsec | [https://mp.weixin.qq.com/s/FxblGNBWjucAyTrIYl3C7w](https://mp.weixin.qq.com/s/FxblGNBWjucAyTrIYl3C7w) |
+| 1 | Apache HTTP 服务器漏洞可导致远程代码执行和拒绝服务攻击 | Doonsec | [https://mp.weixin.qq.com/s/qk3_Z2rQMlJY9BbON3ShTg](https://mp.weixin.qq.com/s/qk3_Z2rQMlJY9BbON3ShTg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-10/2026-W40/2026-10-03/`
+文章已归档到: `doc/2026/2026-10/2026-W41/2026-10-05/`
 
 ## 🔗 数据源说明
 
@@ -87,8 +114,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -97,5 +124,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-10-03 22:45:28*
+*生成时间: 2026-10-05 04:49:06*
 *报告工具: 微信文章安全归档系统*
