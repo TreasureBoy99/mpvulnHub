@@ -2,20 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 16
+- **总文章数**: 19
 - **数据源分布**:
-  - Doonsec: 16篇
+  - Doonsec: 14篇
+  - BruceFeIix: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 4篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 9篇
+- **攻击技术**: 2篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
 - **系统漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,22 +65,28 @@
 
 ### Doonsec
 
-- [全国职业院校技能大赛《信息安全管理与评估》真题+题目+解析](https://mp.weixin.qq.com/s/xQfRTRDaGA7lB6ooHIdOTA) (发布日期: 2026-10-06)
-- [CVE-2026-61500 | Rejetto HFS会话伪造导致远程代码执行（POC）](https://mp.weixin.qq.com/s/WtG9OmIYU04MW2n6RUE0UA) (发布日期: 2026-10-06)
-- [N/A | ShowDoc未授权PHP代码注入漏洞（POC）](https://mp.weixin.qq.com/s/VgA-72KbHkw8NIHgf_2bWw) (发布日期: 2026-10-06)
-- [EasyCVR视频管理平台adduser未授权添加用户漏洞](https://mp.weixin.qq.com/s/EGPS-PwNvYlXjfnjAL-5oQ) (发布日期: 2026-10-06)
-- [(9.3分) CVE-2026-61500：HFS文件服务器认证绕过RCE](https://mp.weixin.qq.com/s/ndyRu3riUv4AMvv8hSH9Kg) (发布日期: 2026-10-06)
-- [Java安全—EL 表达式注入](https://mp.weixin.qq.com/s/Qm5yMaZVICpowh3IUtp3aA) (发布日期: 2026-10-06)
-- [智能网联汽车车载控制系统入侵检测技术优化研究](https://mp.weixin.qq.com/s/NZ6b6ymi98Ew9c4yhxDgNg) (发布日期: 2026-10-06)
-- [情报分析师培训课程（三）情报学科与全源分析（2）](https://mp.weixin.qq.com/s/_cjIg-Ejapa8P4i17I6l8g) (发布日期: 2026-10-06)
-- [27 万星的 AI 项目，靠一句话堵死了 AI 蠕虫](https://mp.weixin.qq.com/s/qST-vq83Ev4Ptw2uJV7Cfg) (发布日期: 2026-10-06)
-- [思科 SD-WAN 严重漏洞允许远程攻击者绕过管理员身份验证](https://mp.weixin.qq.com/s/ZhSJE1K2Ym1C6gQhTIfCBQ) (发布日期: 2026-10-06)
-- [黑客控制 3500+ Redis 服务器将其变成加密货币矿机](https://mp.weixin.qq.com/s/QkG2qsC4bb94v3oSGvBvMw) (发布日期: 2026-10-06)
-- [从漏洞治理到网络韧性，数字化环境下网络安全治理模式的转型](https://mp.weixin.qq.com/s/uPx__uGTfdiL6ax6inFktg) (发布日期: 2026-10-06)
-- [如何做好安全架构](https://mp.weixin.qq.com/s/ywAzCe7dQbBIacNL1bx_dw) (发布日期: 2026-10-06)
-- [价值1999元反病毒实战课程 视频+工具 附链接](https://mp.weixin.qq.com/s/xfrDF6RZLag47YUgiJS6SA) (发布日期: 2026-10-06)
-- [《毛骗》第九集：假主编、真校长办公室与那两万元｜网络安全里的社会工程学](https://mp.weixin.qq.com/s/aYFcgXZ5lWidK6_qLKRY-A) (发布日期: 2026-10-06)
-- [网络安全知识：正确处置电子设备，别让旧设备成为数据泄露源](https://mp.weixin.qq.com/s/xF-iKtI3DLzLDa05bBD-ZQ) (发布日期: 2026-10-06)
+- [2026年福建省大学生数据安全大赛火热报名中！](https://mp.weixin.qq.com/s/YFsMpUdKKJIRpQ2YukOzlw) (发布日期: 2026-10-06)
+- [2026年第23届信息安全与对抗技术竞赛通知–智能安全赛](https://mp.weixin.qq.com/s/oiq4uWc_rJI3IvxHe_Bzgg) (发布日期: 2026-10-06)
+- [《人工智能安全治理框架3.0》：完善人工智能安全治理，推动技术安全可控发展](https://mp.weixin.qq.com/s/Sj_Kmq3uMcIM1w_p1toqgw) (发布日期: 2026-10-06)
+- [【一个人的SOC】(00) 中小企业为什么需要自己的安全运营中心](https://mp.weixin.qq.com/s/_GnlQtvIzDQkDenJ6MTrTQ) (发布日期: 2026-10-06)
+- [红队工程师的盲区： 你手里的C2，可能正在反控你](https://mp.weixin.qq.com/s/Kjpdg7DuWLdGxURJaktUtA) (发布日期: 2026-10-06)
+- [千人大帮会｜网盘资源终身独享｜CISP/PTE考证底价｜18年网安大佬带队](https://mp.weixin.qq.com/s/FwJmTxMEbWWS_7ziP6rWWQ) (发布日期: 2026-10-06)
+- [震惊！百度开源这款安全扫描工具，精准定位十大Web漏洞，误报率极低！](https://mp.weixin.qq.com/s/I_MHFkqXeB69Fc4gXbD1Wg) (发布日期: 2026-10-06)
+- [银狐C2追踪连续三天静止：深度休眠还是监测盲区？](https://mp.weixin.qq.com/s/0clLcucDoVjo7YjMDr0r1A) (发布日期: 2026-10-06)
+- [攻击者将 ChatGPT 自定义 GPT 变成恶意软件传播诱饵](https://mp.weixin.qq.com/s/oa0jE5glrAcXOKbLkoRBxA) (发布日期: 2026-10-06)
+- [Dell System Update 5个漏洞：最高严重度9.6，可被用于root权限代码执行](https://mp.weixin.qq.com/s/UynMv_m53Nb9fnZW0FZCyA) (发布日期: 2026-10-06)
+- [Adminer 5.4.2 三个0-day漏洞分析与修复建议](https://mp.weixin.qq.com/s/AhltFvD-T53Is1fIMbNR5A) (发布日期: 2026-10-06)
+- [WebSocket协议漏洞02_IDOR越权与DoS拒绝服务实战](https://mp.weixin.qq.com/s/Lkz7_t09Cj0YoHT5spSPWw) (发布日期: 2026-10-06)
+- [代码能跑就敢上线？这款大厂开源AI审计工具，帮你堵死90%隐形漏洞](https://mp.weixin.qq.com/s/ArSNz3FYoCYZJJ-uRXMpug) (发布日期: 2026-10-06)
+- [账户删除绕过漏洞](https://mp.weixin.qq.com/s/Yrup0FLt0F2h7HxUMR0lHQ) (发布日期: 2026-10-06)
+
+### BruceFeIix
+
+- [ ] [AI事件取证与证据保全](https://mp.weixin.qq.com/s/uinrCwCJXQw0eJVuvJL6Pg) (发布日期: 2026-10-06)
+- [ ] [AI事件取证与证据保全](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497242&idx=1&sn=159fdc61bbe585b929fb705e708616b0) (发布日期: 2026-10-06)
+- [ ] [【安全圈】Rejetto HFS曝9.3分严重漏洞：弱伪随机数致伪造Session，攻击者已发起在野RCE](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079252&idx=1&sn=27d52e5023be1b08d85484694c83e55f) (发布日期: 2026-10-06)
+- [ ] [【安全圈】Citrix NetScaler曝在野0day漏洞：内存溢出瘫痪SAML认证，官方发布紧急更新](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079252&idx=2&sn=d59ca16d10d3aae18e8132acfefda2bd) (发布日期: 2026-10-06)
+- [ ] [【安全圈】FortiMail曝9.8分零日漏洞遭在野利用：未认证任意写入文件，官方发布应急工单与IoC](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079252&idx=3&sn=b498b139b0b5663aaf0c2f9128dc5504) (发布日期: 2026-10-06)
 
 
 ## 🎯 威胁详情分析
@@ -88,27 +95,34 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2026-61500 | Rejetto HFS会话伪造导致远程代码执行（POC） | Doonsec | [https://mp.weixin.qq.com/s/WtG9OmIYU04MW2n6RUE0UA](https://mp.weixin.qq.com/s/WtG9OmIYU04MW2n6RUE0UA) |
-| 2 | N/A | ShowDoc未授权PHP代码注入漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s/VgA-72KbHkw8NIHgf_2bWw](https://mp.weixin.qq.com/s/VgA-72KbHkw8NIHgf_2bWw) |
-| 3 | EasyCVR视频管理平台adduser未授权添加用户漏洞 | Doonsec | [https://mp.weixin.qq.com/s/EGPS-PwNvYlXjfnjAL-5oQ](https://mp.weixin.qq.com/s/EGPS-PwNvYlXjfnjAL-5oQ) |
-| 4 | (9.3分) CVE-2026-61500：HFS文件服务器认证绕过RCE | Doonsec | [https://mp.weixin.qq.com/s/ndyRu3riUv4AMvv8hSH9Kg](https://mp.weixin.qq.com/s/ndyRu3riUv4AMvv8hSH9Kg) |
-| 5 | 思科 SD-WAN 严重漏洞允许远程攻击者绕过管理员身份验证 | Doonsec | [https://mp.weixin.qq.com/s/ZhSJE1K2Ym1C6gQhTIfCBQ](https://mp.weixin.qq.com/s/ZhSJE1K2Ym1C6gQhTIfCBQ) |
-| 6 | 从漏洞治理到网络韧性，数字化环境下网络安全治理模式的转型 | Doonsec | [https://mp.weixin.qq.com/s/uPx__uGTfdiL6ax6inFktg](https://mp.weixin.qq.com/s/uPx__uGTfdiL6ax6inFktg) |
+| 1 | 震惊！百度开源这款安全扫描工具，精准定位十大Web漏洞，误报率极低！ | Doonsec | [https://mp.weixin.qq.com/s/I_MHFkqXeB69Fc4gXbD1Wg](https://mp.weixin.qq.com/s/I_MHFkqXeB69Fc4gXbD1Wg) |
+| 2 | Dell System Update 5个漏洞：最高严重度9.6，可被用于root权限代码执行 | Doonsec | [https://mp.weixin.qq.com/s/UynMv_m53Nb9fnZW0FZCyA](https://mp.weixin.qq.com/s/UynMv_m53Nb9fnZW0FZCyA) |
+| 3 | Adminer 5.4.2 三个0-day漏洞分析与修复建议 | Doonsec | [https://mp.weixin.qq.com/s/AhltFvD-T53Is1fIMbNR5A](https://mp.weixin.qq.com/s/AhltFvD-T53Is1fIMbNR5A) |
+| 4 | WebSocket协议漏洞02_IDOR越权与DoS拒绝服务实战 | Doonsec | [https://mp.weixin.qq.com/s/Lkz7_t09Cj0YoHT5spSPWw](https://mp.weixin.qq.com/s/Lkz7_t09Cj0YoHT5spSPWw) |
+| 5 | 代码能跑就敢上线？这款大厂开源AI审计工具，帮你堵死90%隐形漏洞 | Doonsec | [https://mp.weixin.qq.com/s/ArSNz3FYoCYZJJ-uRXMpug](https://mp.weixin.qq.com/s/ArSNz3FYoCYZJJ-uRXMpug) |
+| 6 | 账户删除绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Yrup0FLt0F2h7HxUMR0lHQ](https://mp.weixin.qq.com/s/Yrup0FLt0F2h7HxUMR0lHQ) |
+| 7 |  ] [【安全圈】Rejetto HFS曝9.3分严重漏洞：弱伪随机数致伪造Session，攻击者已发起在野RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079252&idx=1&sn=27d52e5023be1b08d85484694c83e55f](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079252&idx=1&sn=27d52e5023be1b08d85484694c83e55f) |
+| 8 |  ] [【安全圈】Citrix NetScaler曝在野0day漏洞：内存溢出瘫痪SAML认证，官方发布紧急更新 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079252&idx=2&sn=d59ca16d10d3aae18e8132acfefda2bd](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079252&idx=2&sn=d59ca16d10d3aae18e8132acfefda2bd) |
+| 9 |  ] [【安全圈】FortiMail曝9.8分零日漏洞遭在野利用：未认证任意写入文件，官方发布应急工单与IoC | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079252&idx=3&sn=b498b139b0b5663aaf0c2f9128dc5504](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079252&idx=3&sn=b498b139b0b5663aaf0c2f9128dc5504) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2026-61500 | Rejetto HFS会话伪造导致远程代码执行（POC） | Doonsec | [https://mp.weixin.qq.com/s/WtG9OmIYU04MW2n6RUE0UA](https://mp.weixin.qq.com/s/WtG9OmIYU04MW2n6RUE0UA) |
-| 2 | N/A | ShowDoc未授权PHP代码注入漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s/VgA-72KbHkw8NIHgf_2bWw](https://mp.weixin.qq.com/s/VgA-72KbHkw8NIHgf_2bWw) |
-| 3 | (9.3分) CVE-2026-61500：HFS文件服务器认证绕过RCE | Doonsec | [https://mp.weixin.qq.com/s/ndyRu3riUv4AMvv8hSH9Kg](https://mp.weixin.qq.com/s/ndyRu3riUv4AMvv8hSH9Kg) |
-| 4 | Java安全—EL 表达式注入 | Doonsec | [https://mp.weixin.qq.com/s/Qm5yMaZVICpowh3IUtp3aA](https://mp.weixin.qq.com/s/Qm5yMaZVICpowh3IUtp3aA) |
+| 1 | Dell System Update 5个漏洞：最高严重度9.6，可被用于root权限代码执行 | Doonsec | [https://mp.weixin.qq.com/s/UynMv_m53Nb9fnZW0FZCyA](https://mp.weixin.qq.com/s/UynMv_m53Nb9fnZW0FZCyA) |
+| 2 |  ] [【安全圈】Rejetto HFS曝9.3分严重漏洞：弱伪随机数致伪造Session，攻击者已发起在野RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079252&idx=1&sn=27d52e5023be1b08d85484694c83e55f](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079252&idx=1&sn=27d52e5023be1b08d85484694c83e55f) |
 
-### 信息泄露
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 网络安全知识：正确处置电子设备，别让旧设备成为数据泄露源 | Doonsec | [https://mp.weixin.qq.com/s/xF-iKtI3DLzLDa05bBD-ZQ](https://mp.weixin.qq.com/s/xF-iKtI3DLzLDa05bBD-ZQ) |
+| 1 | 银狐C2追踪连续三天静止：深度休眠还是监测盲区？ | Doonsec | [https://mp.weixin.qq.com/s/0clLcucDoVjo7YjMDr0r1A](https://mp.weixin.qq.com/s/0clLcucDoVjo7YjMDr0r1A) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【一个人的SOC】(00) 中小企业为什么需要自己的安全运营中心 | Doonsec | [https://mp.weixin.qq.com/s/_GnlQtvIzDQkDenJ6MTrTQ](https://mp.weixin.qq.com/s/_GnlQtvIzDQkDenJ6MTrTQ) |
 
 
 ## 📁 归档路径
@@ -124,7 +138,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
 - **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -134,5 +148,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-10-06 01:12:37*
+*生成时间: 2026-10-06 11:06:41*
 *报告工具: 微信文章安全归档系统*
