@@ -2,23 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 49
+- **总文章数**: 16
 - **数据源分布**:
-  - Doonsec: 49篇
+  - BruceFeIix: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 25篇
-- **攻击技术**: 8篇
-- **威胁情报**: 3篇
-- **安全运营**: 2篇
+- **漏洞利用**: 8篇
+- **攻击技术**: 4篇
 
 ### 漏洞类型分析
-- **Web安全**: 5篇
-- **系统漏洞**: 4篇
-- **网络攻击**: 2篇
-- **应用漏洞**: 1篇
+- **系统漏洞**: 3篇
 
 ## 🔍 匹配规则
 
@@ -65,57 +60,24 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [肺腑之言|为什么可以做网络安全工程师，不能做黑客？](https://mp.weixin.qq.com/s/ZxRFYegiwD_UI7ZaXoWmFw) (发布日期: 2026-10-14)
-- [记某次SRC捡洞的经历](https://mp.weixin.qq.com/s/uUgJXCVuqat3HWFh4-muSQ) (发布日期: 2026-10-14)
-- [Flocks发布商业版，生产级AI安全平台已就位](https://mp.weixin.qq.com/s/DG0Z5bYpAT5z5VVzkZLYPg) (发布日期: 2026-10-14)
-- [AI挖洞实战 04 | Workbuddy+Skill技能库，完整复现短信验证码复用漏洞](https://mp.weixin.qq.com/s/kmlQliDXWzuQbbwA2tqhUw) (发布日期: 2026-10-14)
-- [0day预警|微软最新0day漏洞CVE-2026-96951 ,已在野利用，重点关注钓鱼攻击，速修](https://mp.weixin.qq.com/s/DRz5dDW0B-wasEmDwLUv3g) (发布日期: 2026-10-14)
-- [Anthropic 发出安全预警：小型模型或将实现自复制，催生物联网 AI 蠕虫风险；CNNVD：2026年9月新增漏洞13849个，授权问题占比最高| 牛览](https://mp.weixin.qq.com/s/YlL0kP-Cjc8Vq7TjfJ25_Q) (发布日期: 2026-10-14)
-- [「AI漏洞挖掘+SAST误报+Agentic安全：Capital One开源VulnHunter实测拆解」](https://mp.weixin.qq.com/s/UI0oBpf867E-tXNU3APneQ) (发布日期: 2026-10-14)
-- [从解密验签到任意用户登录漏洞的一次真实案例](https://mp.weixin.qq.com/s/j7awGSQ-i4431p2S8Pv-Ug) (发布日期: 2026-10-14)
-- [“银狐”木马专项——恶意域名及恶意IP（六）](https://mp.weixin.qq.com/s/0ph-wht5L9SRfYwU5o0Nig) (发布日期: 2026-10-14)
-- [首批入选！新华三AI安全网关通过中国信通院权威评估认证](https://mp.weixin.qq.com/s/2npiAv6LhjugX94DhUYBCQ) (发布日期: 2026-10-14)
-- [【安全速报】10月14日高危漏洞紧急预警](https://mp.weixin.qq.com/s/N2dHIBKI7kmL1RRSXXFuRQ) (发布日期: 2026-10-14)
-- [Zigbee 近场打进网关：拆 Philips Hue Bridge 的 OTA 堆溢出（CVE-2026-3555）](https://mp.weixin.qq.com/s/EloyWJNgQI4qrRMFfiZ2Cg) (发布日期: 2026-10-14)
-- [CNVD漏洞周报2026年第39、40期](https://mp.weixin.qq.com/s/ALjgGGwYtQrLOywqg99fnw) (发布日期: 2026-10-14)
-- [英国推出全面人工智能安全新计划：以“前沿AI”对抗AI威胁，打造“全球最难攻击国家”](https://mp.weixin.qq.com/s/kRQK6ozrrxva8Tirf9PN3A) (发布日期: 2026-10-14)
-- [赛博安全狗：微软Windows高危漏洞CVE-2026-83688可致堆溢出 (10.14)](https://mp.weixin.qq.com/s/7AqTAcVMs7zyoRhBzRx5TQ) (发布日期: 2026-10-14)
-- [(9.3分) CVE-2026-104935：Ivanti VPN未授权RCE](https://mp.weixin.qq.com/s/hhGnLOhbga5EnBRY6L3fWQ) (发布日期: 2026-10-14)
-- [DSH RedTeam 模式：把 DeepSeek Harness 变成红队作战指挥台](https://mp.weixin.qq.com/s/W1xkq_mxduxDvIGANg1uxg) (发布日期: 2026-10-14)
-- [深科特 LEAN MES系统 SetDataSource.aspx 存在SQL注入漏洞](https://mp.weixin.qq.com/s/Gqa1CUglndPcc9nMY6JpTw) (发布日期: 2026-10-14)
-- [拉黑后消息重放漏洞](https://mp.weixin.qq.com/s/7vmagRvK2kzZJIEnGvcxsw) (发布日期: 2026-10-14)
-- [飞度刷题助手小程序已录入2026年上半年的真题，录入2026年出台的网络安全、数据安全相关法规办法题目](https://mp.weixin.qq.com/s/2adJrBRlET0V-ji8vFUl0g) (发布日期: 2026-10-14)
-- [银狐木马藏进ISO镜像：双语言剧本共用一个载荷，新C2与官方预警IP同属CTG机房](https://mp.weixin.qq.com/s/PlX-pFHNhde4706NsoLQfA) (发布日期: 2026-10-14)
-- [微软10月补丁日多个产品安全漏洞风险通告：1个在野利用、36个紧急漏洞](https://mp.weixin.qq.com/s/O8BS-zv196FH2Vjz8fZbzw) (发布日期: 2026-10-14)
-- [大华智慧园区综合管理平台poi接口存在文件上传漏洞](https://mp.weixin.qq.com/s/fhMjh8xbnW3vk-FH1tdXog) (发布日期: 2026-10-14)
-- [TanStack CVE-2026-102989（CVSS 9.3）反射型 XSS 漏洞波及月下载量达 9800 万的生态系统](https://mp.weixin.qq.com/s/haMcIXdH3bzHhVdqw8OcQg) (发布日期: 2026-10-14)
-- [【漏洞预警】AnyDesk Linux存在堆缓冲区溢出漏洞(POC已公开)](https://mp.weixin.qq.com/s/1nlLjhBv2YTG4WxlAqYv5A) (发布日期: 2026-10-14)
-- [漏洞复现 | 用友U8 Cloud BusinessRefAction 存在SQL注入漏洞](https://mp.weixin.qq.com/s/1mg_E9KXpJ6rWrcAKkiapQ) (发布日期: 2026-10-14)
-- [「SRC漏洞」越权漏洞中：平行越权改ID，垂直越权改鉴权](https://mp.weixin.qq.com/s/o6ITxWRZWBNkOi5npsLzzg) (发布日期: 2026-10-14)
-- [PentAGI：一套完全开源的“AI红队”——多个智能体互相配合，独立完成渗透测试](https://mp.weixin.qq.com/s/PmmNcv5AcapFVJog0JhJMw) (发布日期: 2026-10-14)
-- [Google 9 万美金的RCE：Flask 会话 Cookie 自签密钥与 Pickle 反序列化](https://mp.weixin.qq.com/s/xZkQoGA944aOKwDdESTP0Q) (发布日期: 2026-10-14)
-- [Apache Tomcat 11.0.27 未认证DoS 0Day](https://mp.weixin.qq.com/s/t7lsfvH_VPh9T-WhAxuGTA) (发布日期: 2026-10-14)
-- [GraphQL 漏洞 Part-3 收官：进阶玩法与 19 份 HackerOne 实战报告速查](https://mp.weixin.qq.com/s/0-QYczDO_M_jfaRhWkAKBA) (发布日期: 2026-10-14)
-- [AI赋能漏洞挖掘案例分享1-某系统从sql到登录绕过再到后台getshell](https://mp.weixin.qq.com/s/-2cVW9EcwezUH6yYrJgBRA) (发布日期: 2026-10-14)
-- [【密码学·采样】当“足够接近”不再足够：误差如何累积进安全证明](https://mp.weixin.qq.com/s/QUl3fHZyeEv-1Qq3mmTVIg) (发布日期: 2026-10-14)
-- [勒索软件攻击后，先别急于恢复系统，这4小时决定损失边界](https://mp.weixin.qq.com/s/QhiQt6V9y1tMAtiBXzIvGQ) (发布日期: 2026-10-14)
-- [红队武器库 | 开源安全工具资产管理启动平台](https://mp.weixin.qq.com/s/2z4ijlK3CMudt5Karc1Kag) (发布日期: 2026-10-14)
-- [国家计算机病毒中心：多家医院小程序违法违规收集使用个人信息](https://mp.weixin.qq.com/s/gwjzuPINENS2u8gcLiQVeg) (发布日期: 2026-10-14)
-- [AI 赋能的漏洞播报系统，7*24 小时监控全网漏洞播报，间隔10分钟自动抓取](https://mp.weixin.qq.com/s/LDUrsY3cJGcLLOb3TTKzbQ) (发布日期: 2026-10-14)
-- [第101篇 AI全栈 · 不同数据库的SQL注入不同手工注入方法的汇总_各大数据库手](https://mp.weixin.qq.com/s/kFRX56zwHCpFG0PcbKvyYA) (发布日期: 2026-10-14)
-- [【热点安全风险】10月14日｜GitLab 曝未认证满分代码执行漏洞，攻击者可接管代码托管平台（CVE-2026-97229）](https://mp.weixin.qq.com/s/peOlJ3mdLbA7Z9n-TGciEA) (发布日期: 2026-10-14)
-- [智能体安全评估平台实现研究报告](https://mp.weixin.qq.com/s/vxzD3sfjmCiRrNyIlcZTzA) (发布日期: 2026-10-14)
-- [英国推出全面人工智能安全新计划：以“前沿AI”对抗AI威胁，打造“全球最难攻击国家”](https://mp.weixin.qq.com/s/9GKW_7ys7WrDWHFv8RrfxA) (发布日期: 2026-10-14)
-- [杭州警方破获“银狐”木马案，打掉4个团伙，抓获34人，变种达3万多个](https://mp.weixin.qq.com/s/IiMq9cG2UAUj87uXChFbnw) (发布日期: 2026-10-14)
-- [57页PPT 2026AI安全意识培训](https://mp.weixin.qq.com/s/-3gnYkz_lA9KnHMGiOIhDw) (发布日期: 2026-10-14)
-- [Cisco Nexus交换机存在严重漏洞，未经身份验证的攻击者可利用这些漏洞以root权限执行代码](https://mp.weixin.qq.com/s/qL4HAhOxMCnRvAx_TYzI3A) (发布日期: 2026-10-14)
-- [速下载！一文读懂十大数据存储加密技术（2026版）](https://mp.weixin.qq.com/s/gvn05Ovjkn9jFDqm-2EoDQ) (发布日期: 2026-10-14)
-- [安全意识培训专栏上线了](https://mp.weixin.qq.com/s/8rDKMCDrLrFev9jfgpCf7Q) (发布日期: 2026-10-14)
-- [【分析报告】美军可信终端节点安全系统架构与防御效能分析](https://mp.weixin.qq.com/s/Do9w6X2XPeyPIkkC1sIk5A) (发布日期: 2026-10-14)
-- [REA MCP工具曝零点击间接提示词注入风险，攻击者或可诱导 AI 智能体执行远程命令](https://mp.weixin.qq.com/s/LZYOka5gaQ7C8cw6jgsJSA) (发布日期: 2026-10-14)
-- [全网最全POC 可搭建漏洞库](https://mp.weixin.qq.com/s/zzGpGmXSSvHCxpKpEwMHwg) (发布日期: 2026-10-14)
+- [ ] [硬件钱包里被人偷装了后门：一亿美元加密资产是怎么被卷走的](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189259&idx=1&sn=ea06c308f48b892118722a6b2c1825df) (发布日期: 2026-10-14)
+- [ ] [已复现 | AnyDesk Linux pre-auth RCE](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508981&idx=1&sn=16bba80151cd5defbaddff288760b39b) (发布日期: 2026-10-14)
+- [ ] [7分钟加密3.6PB，运维7小时没找到勒索信：日本国家级云平台被黑全过程](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790572&idx=1&sn=3630c6de55a1d65ad6888c1b364ab715) (发布日期: 2026-10-14)
+- [ ] [从漏洞分析到网络防护：美国陆军“列克星敦特遣部队”推进AI代理实战化](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516715&idx=2&sn=b2f2ccf16518fb330619b0a0676e8de0) (发布日期: 2026-10-14)
+- [ ] [【已复现】未认证远程代码执行——AnyDesk Linux 堆缓冲区溢出漏洞（CVE-2026-109390）](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493403&idx=1&sn=21201f1d4b4649046101cdf8281282ef) (发布日期: 2026-10-14)
+- [ ] [GitLab 紧急修复严重漏洞，可在服务器上实现任意代码执行](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527348&idx=1&sn=e77de684fc69ef2772a6284af052c198) (发布日期: 2026-10-14)
+- [ ] [【重要提醒】关于 AI 辅助安全测试的规范要求](https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505439&idx=1&sn=4a06f397947a278e0e6ba8762470b263) (发布日期: 2026-10-14)
+- [ ] [G.O.S.S.I.P 阅读推荐 2026-10-13 看节点，还是看交互？ ProvFusion 的多视角溯源入侵检测](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247502285&idx=1&sn=be31d6d7d41b04c3efa90fb276f8b7b4) (发布日期: 2026-10-14)
+- [ ] [【安全圈】国家互联网应急中心预警：荐片播放器内置后门感染70万台设备](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079344&idx=1&sn=26016fe74bc5734b19b9d259df87f6de) (发布日期: 2026-10-14)
+- [ ] [【安全圈】廉价安卓机曝固件级后门：系统应用内置木马沦为住宅代理](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079344&idx=3&sn=9aa29a040da3fdc13c2fc96239cb7ff6) (发布日期: 2026-10-14)
+- [ ] [【已复现】AnyDesk 预认证堆缓冲区溢出远程代码执行漏洞(CVE-2026-109390)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507764&idx=1&sn=73fa3efdd9e68dec70b57f8b6bfee1a2) (发布日期: 2026-10-14)
+- [ ] [OpenAI 失控 AI 代理对 Wikimedia 发起异常操作，海量流量诱发服务中断风险；CNVD两期周报：收录866个漏洞，0day占比达88%| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142947&idx=2&sn=2d35528bc10aba8a9d72793b11747cf4) (发布日期: 2026-10-14)
+- [ ] [AI 代码审计能替代人工代码审计吗？2026 年两者的分工与边界](https://mp.weixin.qq.com/s?__biz=MzkwNzIxMDUyNg==&mid=2247485264&idx=1&sn=9048998d8cb3e1f769059e27aa14a31c) (发布日期: 2026-10-14)
+- [ ] [【漏洞通告】AnyDesk Linux 预认证堆溢出漏洞(CVE-2026-109390)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526186&idx=1&sn=669cdd7ec204d62c0fd352cc41f6175b) (发布日期: 2026-10-14)
+- [ ] [9月高危漏洞速览：10个必须修复的安全漏洞（附详解）](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247498024&idx=1&sn=1af6b53f9661c36cd6b4e3122b2ed4dd) (发布日期: 2026-10-14)
+- [ ] [云SaaS环境AI安全红队攻防实战](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497290&idx=1&sn=5eca1f42b8fb62841c51139e7bf08d3e) (发布日期: 2026-10-14)
 
 
 ## 🎯 威胁详情分析
@@ -124,59 +86,23 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI挖洞实战 04 | Workbuddy+Skill技能库，完整复现短信验证码复用漏洞 | Doonsec | [https://mp.weixin.qq.com/s/kmlQliDXWzuQbbwA2tqhUw](https://mp.weixin.qq.com/s/kmlQliDXWzuQbbwA2tqhUw) |
-| 2 | 0day预警|微软最新0day漏洞CVE-2026-96951 ,已在野利用，重点关注钓鱼攻击，速修 | Doonsec | [https://mp.weixin.qq.com/s/DRz5dDW0B-wasEmDwLUv3g](https://mp.weixin.qq.com/s/DRz5dDW0B-wasEmDwLUv3g) |
-| 3 | Anthropic 发出安全预警：小型模型或将实现自复制，催生物联网 AI 蠕虫风险；CNNVD：2026年9月新增漏洞13849个，授权问题占比最高| 牛览 | Doonsec | [https://mp.weixin.qq.com/s/YlL0kP-Cjc8Vq7TjfJ25_Q](https://mp.weixin.qq.com/s/YlL0kP-Cjc8Vq7TjfJ25_Q) |
-| 4 | 「AI漏洞挖掘+SAST误报+Agentic安全：Capital One开源VulnHunter实测拆解」 | Doonsec | [https://mp.weixin.qq.com/s/UI0oBpf867E-tXNU3APneQ](https://mp.weixin.qq.com/s/UI0oBpf867E-tXNU3APneQ) |
-| 5 | 从解密验签到任意用户登录漏洞的一次真实案例 | Doonsec | [https://mp.weixin.qq.com/s/j7awGSQ-i4431p2S8Pv-Ug](https://mp.weixin.qq.com/s/j7awGSQ-i4431p2S8Pv-Ug) |
-| 6 | 【安全速报】10月14日高危漏洞紧急预警 | Doonsec | [https://mp.weixin.qq.com/s/N2dHIBKI7kmL1RRSXXFuRQ](https://mp.weixin.qq.com/s/N2dHIBKI7kmL1RRSXXFuRQ) |
-| 7 | Zigbee 近场打进网关：拆 Philips Hue Bridge 的 OTA 堆溢出（CVE-2026-3555） | Doonsec | [https://mp.weixin.qq.com/s/EloyWJNgQI4qrRMFfiZ2Cg](https://mp.weixin.qq.com/s/EloyWJNgQI4qrRMFfiZ2Cg) |
-| 8 | CNVD漏洞周报2026年第39、40期 | Doonsec | [https://mp.weixin.qq.com/s/ALjgGGwYtQrLOywqg99fnw](https://mp.weixin.qq.com/s/ALjgGGwYtQrLOywqg99fnw) |
-| 9 | 赛博安全狗：微软Windows高危漏洞CVE-2026-83688可致堆溢出 (10.14) | Doonsec | [https://mp.weixin.qq.com/s/7AqTAcVMs7zyoRhBzRx5TQ](https://mp.weixin.qq.com/s/7AqTAcVMs7zyoRhBzRx5TQ) |
-| 10 | (9.3分) CVE-2026-104935：Ivanti VPN未授权RCE | Doonsec | [https://mp.weixin.qq.com/s/hhGnLOhbga5EnBRY6L3fWQ](https://mp.weixin.qq.com/s/hhGnLOhbga5EnBRY6L3fWQ) |
-| 11 | 深科特 LEAN MES系统 SetDataSource.aspx 存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Gqa1CUglndPcc9nMY6JpTw](https://mp.weixin.qq.com/s/Gqa1CUglndPcc9nMY6JpTw) |
-| 12 | 拉黑后消息重放漏洞 | Doonsec | [https://mp.weixin.qq.com/s/7vmagRvK2kzZJIEnGvcxsw](https://mp.weixin.qq.com/s/7vmagRvK2kzZJIEnGvcxsw) |
-| 13 | 微软10月补丁日多个产品安全漏洞风险通告：1个在野利用、36个紧急漏洞 | Doonsec | [https://mp.weixin.qq.com/s/O8BS-zv196FH2Vjz8fZbzw](https://mp.weixin.qq.com/s/O8BS-zv196FH2Vjz8fZbzw) |
-| 14 | 大华智慧园区综合管理平台poi接口存在文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s/fhMjh8xbnW3vk-FH1tdXog](https://mp.weixin.qq.com/s/fhMjh8xbnW3vk-FH1tdXog) |
-| 15 | TanStack CVE-2026-102989（CVSS 9.3）反射型 XSS 漏洞波及月下载量达 9800 万的生态系统 | Doonsec | [https://mp.weixin.qq.com/s/haMcIXdH3bzHhVdqw8OcQg](https://mp.weixin.qq.com/s/haMcIXdH3bzHhVdqw8OcQg) |
-| 16 | 【漏洞预警】AnyDesk Linux存在堆缓冲区溢出漏洞(POC已公开) | Doonsec | [https://mp.weixin.qq.com/s/1nlLjhBv2YTG4WxlAqYv5A](https://mp.weixin.qq.com/s/1nlLjhBv2YTG4WxlAqYv5A) |
-| 17 | 漏洞复现 | 用友U8 Cloud BusinessRefAction 存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/1mg_E9KXpJ6rWrcAKkiapQ](https://mp.weixin.qq.com/s/1mg_E9KXpJ6rWrcAKkiapQ) |
-| 18 | 「SRC漏洞」越权漏洞中：平行越权改ID，垂直越权改鉴权 | Doonsec | [https://mp.weixin.qq.com/s/o6ITxWRZWBNkOi5npsLzzg](https://mp.weixin.qq.com/s/o6ITxWRZWBNkOi5npsLzzg) |
-| 19 | Apache Tomcat 11.0.27 未认证DoS 0Day | Doonsec | [https://mp.weixin.qq.com/s/t7lsfvH_VPh9T-WhAxuGTA](https://mp.weixin.qq.com/s/t7lsfvH_VPh9T-WhAxuGTA) |
-| 20 | GraphQL 漏洞 Part-3 收官：进阶玩法与 19 份 HackerOne 实战报告速查 | Doonsec | [https://mp.weixin.qq.com/s/0-QYczDO_M_jfaRhWkAKBA](https://mp.weixin.qq.com/s/0-QYczDO_M_jfaRhWkAKBA) |
-| 21 | AI赋能漏洞挖掘案例分享1-某系统从sql到登录绕过再到后台getshell | Doonsec | [https://mp.weixin.qq.com/s/-2cVW9EcwezUH6yYrJgBRA](https://mp.weixin.qq.com/s/-2cVW9EcwezUH6yYrJgBRA) |
-| 22 | AI 赋能的漏洞播报系统，7*24 小时监控全网漏洞播报，间隔10分钟自动抓取 | Doonsec | [https://mp.weixin.qq.com/s/LDUrsY3cJGcLLOb3TTKzbQ](https://mp.weixin.qq.com/s/LDUrsY3cJGcLLOb3TTKzbQ) |
-| 23 | 【热点安全风险】10月14日｜GitLab 曝未认证满分代码执行漏洞，攻击者可接管代码托管平台（CVE-2026-97229） | Doonsec | [https://mp.weixin.qq.com/s/peOlJ3mdLbA7Z9n-TGciEA](https://mp.weixin.qq.com/s/peOlJ3mdLbA7Z9n-TGciEA) |
-| 24 | Cisco Nexus交换机存在严重漏洞，未经身份验证的攻击者可利用这些漏洞以root权限执行代码 | Doonsec | [https://mp.weixin.qq.com/s/qL4HAhOxMCnRvAx_TYzI3A](https://mp.weixin.qq.com/s/qL4HAhOxMCnRvAx_TYzI3A) |
-| 25 | 全网最全POC 可搭建漏洞库 | Doonsec | [https://mp.weixin.qq.com/s/zzGpGmXSSvHCxpKpEwMHwg](https://mp.weixin.qq.com/s/zzGpGmXSSvHCxpKpEwMHwg) |
+| 1 |  ] [已复现 | AnyDesk Linux pre-auth RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508981&idx=1&sn=16bba80151cd5defbaddff288760b39b](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508981&idx=1&sn=16bba80151cd5defbaddff288760b39b) |
+| 2 |  ] [从漏洞分析到网络防护：美国陆军“列克星敦特遣部队”推进AI代理实战化 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516715&idx=2&sn=b2f2ccf16518fb330619b0a0676e8de0](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516715&idx=2&sn=b2f2ccf16518fb330619b0a0676e8de0) |
+| 3 |  ] [【已复现】未认证远程代码执行——AnyDesk Linux 堆缓冲区溢出漏洞（CVE-2026-109390） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493403&idx=1&sn=21201f1d4b4649046101cdf8281282ef](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493403&idx=1&sn=21201f1d4b4649046101cdf8281282ef) |
+| 4 |  ] [GitLab 紧急修复严重漏洞，可在服务器上实现任意代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527348&idx=1&sn=e77de684fc69ef2772a6284af052c198](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527348&idx=1&sn=e77de684fc69ef2772a6284af052c198) |
+| 5 |  ] [【已复现】AnyDesk 预认证堆缓冲区溢出远程代码执行漏洞(CVE-2026-109390)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507764&idx=1&sn=73fa3efdd9e68dec70b57f8b6bfee1a2](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507764&idx=1&sn=73fa3efdd9e68dec70b57f8b6bfee1a2) |
+| 6 |  ] [OpenAI 失控 AI 代理对 Wikimedia 发起异常操作，海量流量诱发服务中断风险；CNVD两期周报：收录866个漏洞，0day占比达88%| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142947&idx=2&sn=2d35528bc10aba8a9d72793b11747cf4](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142947&idx=2&sn=2d35528bc10aba8a9d72793b11747cf4) |
+| 7 |  ] [【漏洞通告】AnyDesk Linux 预认证堆溢出漏洞(CVE-2026-109390) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526186&idx=1&sn=669cdd7ec204d62c0fd352cc41f6175b](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526186&idx=1&sn=669cdd7ec204d62c0fd352cc41f6175b) |
+| 8 |  ] [9月高危漏洞速览：10个必须修复的安全漏洞（附详解） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247498024&idx=1&sn=1af6b53f9661c36cd6b4e3122b2ed4dd](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247498024&idx=1&sn=1af6b53f9661c36cd6b4e3122b2ed4dd) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | (9.3分) CVE-2026-104935：Ivanti VPN未授权RCE | Doonsec | [https://mp.weixin.qq.com/s/hhGnLOhbga5EnBRY6L3fWQ](https://mp.weixin.qq.com/s/hhGnLOhbga5EnBRY6L3fWQ) |
-| 2 | 深科特 LEAN MES系统 SetDataSource.aspx 存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/Gqa1CUglndPcc9nMY6JpTw](https://mp.weixin.qq.com/s/Gqa1CUglndPcc9nMY6JpTw) |
-| 3 | TanStack CVE-2026-102989（CVSS 9.3）反射型 XSS 漏洞波及月下载量达 9800 万的生态系统 | Doonsec | [https://mp.weixin.qq.com/s/haMcIXdH3bzHhVdqw8OcQg](https://mp.weixin.qq.com/s/haMcIXdH3bzHhVdqw8OcQg) |
-| 4 | 漏洞复现 | 用友U8 Cloud BusinessRefAction 存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/1mg_E9KXpJ6rWrcAKkiapQ](https://mp.weixin.qq.com/s/1mg_E9KXpJ6rWrcAKkiapQ) |
-| 5 | Google 9 万美金的RCE：Flask 会话 Cookie 自签密钥与 Pickle 反序列化 | Doonsec | [https://mp.weixin.qq.com/s/xZkQoGA944aOKwDdESTP0Q](https://mp.weixin.qq.com/s/xZkQoGA944aOKwDdESTP0Q) |
-| 6 | 第101篇 AI全栈 · 不同数据库的SQL注入不同手工注入方法的汇总_各大数据库手 | Doonsec | [https://mp.weixin.qq.com/s/kFRX56zwHCpFG0PcbKvyYA](https://mp.weixin.qq.com/s/kFRX56zwHCpFG0PcbKvyYA) |
-| 7 | 【热点安全风险】10月14日｜GitLab 曝未认证满分代码执行漏洞，攻击者可接管代码托管平台（CVE-2026-97229） | Doonsec | [https://mp.weixin.qq.com/s/peOlJ3mdLbA7Z9n-TGciEA](https://mp.weixin.qq.com/s/peOlJ3mdLbA7Z9n-TGciEA) |
-| 8 | REA MCP工具曝零点击间接提示词注入风险，攻击者或可诱导 AI 智能体执行远程命令 | Doonsec | [https://mp.weixin.qq.com/s/LZYOka5gaQ7C8cw6jgsJSA](https://mp.weixin.qq.com/s/LZYOka5gaQ7C8cw6jgsJSA) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | “银狐”木马专项——恶意域名及恶意IP（六） | Doonsec | [https://mp.weixin.qq.com/s/0ph-wht5L9SRfYwU5o0Nig](https://mp.weixin.qq.com/s/0ph-wht5L9SRfYwU5o0Nig) |
-| 2 | 银狐木马藏进ISO镜像：双语言剧本共用一个载荷，新C2与官方预警IP同属CTG机房 | Doonsec | [https://mp.weixin.qq.com/s/PlX-pFHNhde4706NsoLQfA](https://mp.weixin.qq.com/s/PlX-pFHNhde4706NsoLQfA) |
-| 3 | 杭州警方破获“银狐”木马案，打掉4个团伙，抓获34人，变种达3万多个 | Doonsec | [https://mp.weixin.qq.com/s/IiMq9cG2UAUj87uXChFbnw](https://mp.weixin.qq.com/s/IiMq9cG2UAUj87uXChFbnw) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 记某次SRC捡洞的经历 | Doonsec | [https://mp.weixin.qq.com/s/uUgJXCVuqat3HWFh4-muSQ](https://mp.weixin.qq.com/s/uUgJXCVuqat3HWFh4-muSQ) |
-| 2 | 「SRC漏洞」越权漏洞中：平行越权改ID，垂直越权改鉴权 | Doonsec | [https://mp.weixin.qq.com/s/o6ITxWRZWBNkOi5npsLzzg](https://mp.weixin.qq.com/s/o6ITxWRZWBNkOi5npsLzzg) |
+| 1 |  ] [已复现 | AnyDesk Linux pre-auth RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508981&idx=1&sn=16bba80151cd5defbaddff288760b39b](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508981&idx=1&sn=16bba80151cd5defbaddff288760b39b) |
+| 2 |  ] [【已复现】未认证远程代码执行——AnyDesk Linux 堆缓冲区溢出漏洞（CVE-2026-109390） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493403&idx=1&sn=21201f1d4b4649046101cdf8281282ef](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493403&idx=1&sn=21201f1d4b4649046101cdf8281282ef) |
+| 3 |  ] [GitLab 紧急修复严重漏洞，可在服务器上实现任意代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527348&idx=1&sn=e77de684fc69ef2772a6284af052c198](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527348&idx=1&sn=e77de684fc69ef2772a6284af052c198) |
+| 4 |  ] [【已复现】AnyDesk 预认证堆缓冲区溢出远程代码执行漏洞(CVE-2026-109390)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507764&idx=1&sn=73fa3efdd9e68dec70b57f8b6bfee1a2](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507764&idx=1&sn=73fa3efdd9e68dec70b57f8b6bfee1a2) |
 
 
 ## 📁 归档路径
@@ -192,8 +118,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 25 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 5 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -202,5 +128,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-10-14 04:10:07*
+*生成时间: 2026-10-14 13:28:41*
 *报告工具: 微信文章安全归档系统*
