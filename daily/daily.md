@@ -1,23 +1,18 @@
-# 2026-10-15 安全威胁态势报告
+# 2026-10-16 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 22
+- **总文章数**: 9
 - **数据源分布**:
-  - Doonsec: 22篇
+  - Doonsec: 9篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 10篇
-- **攻击技术**: 5篇
-- **安全运营**: 2篇
-- **威胁情报**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 2篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 2篇
-- **Web安全**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,28 +61,15 @@
 
 ### Doonsec
 
-- [Hydra：基于自动扩展有限状态机的 TCP 安全分析框架](https://mp.weixin.qq.com/s/TBMGrMQLbx-TzPevybwvnQ) (发布日期: 2026-10-15)
-- [落地数据安全体系，还在只靠重金堆产品？](https://mp.weixin.qq.com/s/5sk-j4vqcbZN-I-qOjzGYQ) (发布日期: 2026-10-15)
-- [全球具身智能应用创新挑战赛·漏洞挖掘挑战赛决赛晋级名单及优胜奖名单公布](https://mp.weixin.qq.com/s/6TaIJHUOfWJa5wmQmhuJLw) (发布日期: 2026-10-15)
-- [全院进入不烧心时代：规矩不能坏，安全”不烧心”，先把“规矩”立住，安全运营的路才能越走越宽!](https://mp.weixin.qq.com/s/-bedFiXtB1KpklmATkCZpA) (发布日期: 2026-10-15)
-- [韩国金融部门：16家金融机构遭网络攻击10万条信息泄露 130家存在不足](https://mp.weixin.qq.com/s/1BXi7s5wk62d-P8EK1YyHA) (发布日期: 2026-10-15)
-- [Palo Alto：PAN-OS RCE 漏洞已遭利用](https://mp.weixin.qq.com/s/ol3DAgd2ptMXGZiWp5-DdQ) (发布日期: 2026-10-15)
-- [自动化挖掘驱动漏洞](https://mp.weixin.qq.com/s/CkkajPHxj83J0-p4LIKbCw) (发布日期: 2026-10-15)
-- [GitLab 未授权 RCE（CVE-2026-97229）紧急预警，自建实例请立即升级 19.4.2 / 19.3.5 / 19.2.8  POC](https://mp.weixin.qq.com/s/cVoUeYbTcbTFypI5Zdowng) (发布日期: 2026-10-15)
-- [山石方案｜某银行数据中心ASIC防火墙替换案例](https://mp.weixin.qq.com/s/AFOIoaU3C0afFAf2bZ7juQ) (发布日期: 2026-10-15)
-- [乙方安全工程师/红队：冠军 AI 渗透工具 ARTEX 闭源了，自主攻防时代却挡不住了](https://mp.weixin.qq.com/s/lWyw73IA81AmXaAlSRfhEQ) (发布日期: 2026-10-15)
-- [甲方安全运维：日均3000告警，开源Wazuh接AI能救命吗](https://mp.weixin.qq.com/s/4NINX_D3UYI-EoACzMU8Bg) (发布日期: 2026-10-15)
-- [甲方运维：别再裸奔了， 一台旧服务器就能搭起自己的SOC](https://mp.weixin.qq.com/s/Gx8-axu7wLBm4icvSnLDNg) (发布日期: 2026-10-15)
-- [「关键漏洞目录」新增「GitLab CE/EE整数溢出漏洞(CVE-2026-97229)」等5个漏洞](https://mp.weixin.qq.com/s/B3APEhizoOF2zg7qEAI3Rg) (发布日期: 2026-10-15)
-- [AI攻防时代，需要怎样的威胁情报？](https://mp.weixin.qq.com/s/L4SZC52sHlJOCHSrimqATQ) (发布日期: 2026-10-15)
-- [赛博安全狗：GitPython远程辅助组件存在注入漏洞（CVE-2026-110857） (10.15)](https://mp.weixin.qq.com/s/f31YdPqlvtSeoFcfU99iXw) (发布日期: 2026-10-15)
-- [NGINX 爆出 3 个高危漏洞！可远程使服务崩溃，特定条件下可代码执行](https://mp.weixin.qq.com/s/0HDWNmL-9UqowHDK00cXcg) (发布日期: 2026-10-15)
-- [一套可留证的渗透测试工作流](https://mp.weixin.qq.com/s/wx8lR3HeEMqzi69FcatzfA) (发布日期: 2026-10-15)
-- [记一次SRC—从 Drupal 自定义模块源码泄露到任意文件读取和sql注入](https://mp.weixin.qq.com/s/SLZA7QAFHOj7Pna4rmmSWQ) (发布日期: 2026-10-15)
-- [10月社区投稿活动 | 漏洞挖掘/AI渗透/面试经验/简历编写](https://mp.weixin.qq.com/s/b1SRiK0m9NzC0YF5Mx2Wqg) (发布日期: 2026-10-15)
-- [漏洞报告越积越多，整改究竟堵在补证、验证还是交接](https://mp.weixin.qq.com/s/tc31rSMQ1CR_d4DW3jvVGg) (发布日期: 2026-10-15)
-- [今日速递｜Cisco 网关被打、AI 批量反编译、美银为 Mythos 加班](https://mp.weixin.qq.com/s/w9pydNwTkca8ipmQ0vZpjQ) (发布日期: 2026-10-15)
-- [「AI漏洞挖掘+漏洞赏金侦察+7问验证闸门：Agentic Bug Hunter开源拆解」](https://mp.weixin.qq.com/s/02GL2fVon90Z5ALCWISrcA) (发布日期: 2026-10-15)
+- [新型勒索软件趋势：劫持活动目录，而非加密数据](https://mp.weixin.qq.com/s/dEe-rLGZbQgrzB7TZ-Y9Mw) (发布日期: 2026-10-16)
+- [贵州医科大学附属医院：基于混合专家模型的AI智能体及数字人赋能医院网络安全管理的创新实践](https://mp.weixin.qq.com/s/RBRyFoRCdDNF7f-7HrxDOw) (发布日期: 2026-10-16)
+- [CNNVD关于微软多个安全漏洞的通报](https://mp.weixin.qq.com/s/cdxCUW9iUAb8vXmfDP6oVg) (发布日期: 2026-10-16)
+- [红队新利器：群晖NAS ABB数据库离线解密——渗透测试人员的基础设施\"直通车\"](https://mp.weixin.qq.com/s/x3xj5HdHIuW9f1hmyPwXYA) (发布日期: 2026-10-16)
+- [5万星逆向版TradingView Premium被强制转私有,Bitdefender警告这类破解版常是恶意软件](https://mp.weixin.qq.com/s/Q2ektlwsXV6VhACXgRFPAw) (发布日期: 2026-10-16)
+- [CVE-2026-83834：Windows内核驱动UAF本地提权漏洞分析](https://mp.weixin.qq.com/s/fE5NH1A6sVMbWHeu3kGm0w) (发布日期: 2026-10-16)
+- [密码重置令牌七大攻击手法：从弱加密到 JWT 泄漏拿下任意账号](https://mp.weixin.qq.com/s/UZFLHTtiao8zRpPKt09tkQ) (发布日期: 2026-10-16)
+- [汽车安全入门 14：CAN 总线入侵检测 + ROAD 数据集——把隐蔽攻击摆上桌](https://mp.weixin.qq.com/s/uQil_-kPvKZhzQWXJVLl5g) (发布日期: 2026-10-16)
+- [工控系统安全管理国标征求意见：五大变化，企业必看！](https://mp.weixin.qq.com/s/KTU4Zmn8FZ_dcmS-2WrViQ) (发布日期: 2026-10-16)
 
 
 ## 🎯 威胁详情分析
@@ -96,50 +78,13 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 全球具身智能应用创新挑战赛·漏洞挖掘挑战赛决赛晋级名单及优胜奖名单公布 | Doonsec | [https://mp.weixin.qq.com/s/6TaIJHUOfWJa5wmQmhuJLw](https://mp.weixin.qq.com/s/6TaIJHUOfWJa5wmQmhuJLw) |
-| 2 | Palo Alto：PAN-OS RCE 漏洞已遭利用 | Doonsec | [https://mp.weixin.qq.com/s/ol3DAgd2ptMXGZiWp5-DdQ](https://mp.weixin.qq.com/s/ol3DAgd2ptMXGZiWp5-DdQ) |
-| 3 | 自动化挖掘驱动漏洞 | Doonsec | [https://mp.weixin.qq.com/s/CkkajPHxj83J0-p4LIKbCw](https://mp.weixin.qq.com/s/CkkajPHxj83J0-p4LIKbCw) |
-| 4 | GitLab 未授权 RCE（CVE-2026-97229）紧急预警，自建实例请立即升级 19.4.2 / 19.3.5 / 19.2.8  POC | Doonsec | [https://mp.weixin.qq.com/s/cVoUeYbTcbTFypI5Zdowng](https://mp.weixin.qq.com/s/cVoUeYbTcbTFypI5Zdowng) |
-| 5 | 「关键漏洞目录」新增「GitLab CE/EE整数溢出漏洞(CVE-2026-97229)」等5个漏洞 | Doonsec | [https://mp.weixin.qq.com/s/B3APEhizoOF2zg7qEAI3Rg](https://mp.weixin.qq.com/s/B3APEhizoOF2zg7qEAI3Rg) |
-| 6 | 赛博安全狗：GitPython远程辅助组件存在注入漏洞（CVE-2026-110857） (10.15) | Doonsec | [https://mp.weixin.qq.com/s/f31YdPqlvtSeoFcfU99iXw](https://mp.weixin.qq.com/s/f31YdPqlvtSeoFcfU99iXw) |
-| 7 | NGINX 爆出 3 个高危漏洞！可远程使服务崩溃，特定条件下可代码执行 | Doonsec | [https://mp.weixin.qq.com/s/0HDWNmL-9UqowHDK00cXcg](https://mp.weixin.qq.com/s/0HDWNmL-9UqowHDK00cXcg) |
-| 8 | 10月社区投稿活动 | 漏洞挖掘/AI渗透/面试经验/简历编写 | Doonsec | [https://mp.weixin.qq.com/s/b1SRiK0m9NzC0YF5Mx2Wqg](https://mp.weixin.qq.com/s/b1SRiK0m9NzC0YF5Mx2Wqg) |
-| 9 | 漏洞报告越积越多，整改究竟堵在补证、验证还是交接 | Doonsec | [https://mp.weixin.qq.com/s/tc31rSMQ1CR_d4DW3jvVGg](https://mp.weixin.qq.com/s/tc31rSMQ1CR_d4DW3jvVGg) |
-| 10 | 「AI漏洞挖掘+漏洞赏金侦察+7问验证闸门：Agentic Bug Hunter开源拆解」 | Doonsec | [https://mp.weixin.qq.com/s/02GL2fVon90Z5ALCWISrcA](https://mp.weixin.qq.com/s/02GL2fVon90Z5ALCWISrcA) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | Palo Alto：PAN-OS RCE 漏洞已遭利用 | Doonsec | [https://mp.weixin.qq.com/s/ol3DAgd2ptMXGZiWp5-DdQ](https://mp.weixin.qq.com/s/ol3DAgd2ptMXGZiWp5-DdQ) |
-| 2 | GitLab 未授权 RCE（CVE-2026-97229）紧急预警，自建实例请立即升级 19.4.2 / 19.3.5 / 19.2.8  POC | Doonsec | [https://mp.weixin.qq.com/s/cVoUeYbTcbTFypI5Zdowng](https://mp.weixin.qq.com/s/cVoUeYbTcbTFypI5Zdowng) |
-| 3 | 赛博安全狗：GitPython远程辅助组件存在注入漏洞（CVE-2026-110857） (10.15) | Doonsec | [https://mp.weixin.qq.com/s/f31YdPqlvtSeoFcfU99iXw](https://mp.weixin.qq.com/s/f31YdPqlvtSeoFcfU99iXw) |
-| 4 | NGINX 爆出 3 个高危漏洞！可远程使服务崩溃，特定条件下可代码执行 | Doonsec | [https://mp.weixin.qq.com/s/0HDWNmL-9UqowHDK00cXcg](https://mp.weixin.qq.com/s/0HDWNmL-9UqowHDK00cXcg) |
-| 5 | 记一次SRC—从 Drupal 自定义模块源码泄露到任意文件读取和sql注入 | Doonsec | [https://mp.weixin.qq.com/s/SLZA7QAFHOj7Pna4rmmSWQ](https://mp.weixin.qq.com/s/SLZA7QAFHOj7Pna4rmmSWQ) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | AI攻防时代，需要怎样的威胁情报？ | Doonsec | [https://mp.weixin.qq.com/s/L4SZC52sHlJOCHSrimqATQ](https://mp.weixin.qq.com/s/L4SZC52sHlJOCHSrimqATQ) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 全院进入不烧心时代：规矩不能坏，安全”不烧心”，先把“规矩”立住，安全运营的路才能越走越宽! | Doonsec | [https://mp.weixin.qq.com/s/-bedFiXtB1KpklmATkCZpA](https://mp.weixin.qq.com/s/-bedFiXtB1KpklmATkCZpA) |
-| 2 | 记一次SRC—从 Drupal 自定义模块源码泄露到任意文件读取和sql注入 | Doonsec | [https://mp.weixin.qq.com/s/SLZA7QAFHOj7Pna4rmmSWQ](https://mp.weixin.qq.com/s/SLZA7QAFHOj7Pna4rmmSWQ) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 赛博安全狗：GitPython远程辅助组件存在注入漏洞（CVE-2026-110857） (10.15) | Doonsec | [https://mp.weixin.qq.com/s/f31YdPqlvtSeoFcfU99iXw](https://mp.weixin.qq.com/s/f31YdPqlvtSeoFcfU99iXw) |
+| 1 | CNNVD关于微软多个安全漏洞的通报 | Doonsec | [https://mp.weixin.qq.com/s/cdxCUW9iUAb8vXmfDP6oVg](https://mp.weixin.qq.com/s/cdxCUW9iUAb8vXmfDP6oVg) |
+| 2 | CVE-2026-83834：Windows内核驱动UAF本地提权漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/fE5NH1A6sVMbWHeu3kGm0w](https://mp.weixin.qq.com/s/fE5NH1A6sVMbWHeu3kGm0w) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-10/2026-W42/2026-10-15/`
+文章已归档到: `doc/2026/2026-10/2026-W42/2026-10-16/`
 
 ## 🔗 数据源说明
 
@@ -150,8 +95,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -160,5 +105,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-10-15 16:35:16*
+*生成时间: 2026-10-16 03:47:58*
 *报告工具: 微信文章安全归档系统*
