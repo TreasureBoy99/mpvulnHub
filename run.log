@@ -127493,3 +127493,52 @@
 2026-10-18 03:44:35,231 - INFO - === 跳过二进制文件处理，只更新data.json ===
 2026-10-18 03:44:35,309 - INFO - 已更新data.json，添加了 0 个URL
 2026-10-18 03:44:35,309 - INFO - === 执行完成 ===
+2026-10-18 08:42:07,738 - INFO - === 开始执行微信文章归档工具 ===
+2026-10-18 08:42:07,738 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-10-18 08:42:07,738 - INFO - 正在发送Discord启动通知...
+2026-10-18 08:42:08,056 - INFO - Discord启动通知发送结果: 204
+2026-10-18 08:42:08,058 - INFO - 数据文件: data.json
+2026-10-18 08:42:08,058 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-10-18 08:42:08,058 - INFO - 文档目录: doc
+2026-10-18 08:42:08,133 - INFO - 已加载 51954 条历史记录
+2026-10-18 08:42:08,133 - INFO - === 开始今日拉取 ===
+2026-10-18 08:42:08,133 - INFO - 开始获取Doonsec RSS
+2026-10-18 08:42:08,133 - INFO - 目标日期: 2026-10-18
+2026-10-18 08:42:10,538 - INFO - Doonsec RSS请求成功
+2026-10-18 08:42:10,539 - INFO - RSS中共有 200 个条目
+2026-10-18 08:42:10,539 - INFO - Doonsec获取到 0 个2026-10-18的微信文章URL
+2026-10-18 08:42:10,540 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-10-18.md
+2026-10-18 08:42:10,669 - INFO - ChainReactors md文件下载状态码: 404
+2026-10-18 08:42:10,669 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-10-18.md 状态码: 404
+2026-10-18 08:42:10,669 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-10-18.md
+2026-10-18 08:42:10,722 - INFO - BruceFeIix md文件下载状态码: 200
+2026-10-18 08:42:10,723 - INFO - BruceFeIix获取到 15 个URL
+2026-10-18 08:42:10,723 - INFO - === 开始处理 2026-10-18 的数据 ===
+2026-10-18 08:42:10,723 - INFO - Doonsec原始数据: 0 个
+2026-10-18 08:42:10,723 - INFO - ChainReactors原始数据: 0 个
+2026-10-18 08:42:10,723 - INFO - BruceFeIix原始数据: 15 个
+2026-10-18 08:42:10,723 - INFO - 开始处理Doonsec数据...
+2026-10-18 08:42:10,723 - INFO - 开始处理ChainReactors数据...
+2026-10-18 08:42:10,723 - INFO - 开始处理BruceFeIix数据...
+2026-10-18 08:42:10,723 - INFO - 去重后共 15 个URL待处理，跳过 0 个重复URL
+2026-10-18 08:42:10,723 - INFO - 去重后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 15 个
+2026-10-18 08:42:10,723 - INFO - === 开始关键词过滤 ===
+2026-10-18 08:42:10,724 - INFO - 关键词过滤: 匹配 5 个，跳过 10 个
+2026-10-18 08:42:10,724 - INFO - 关键词过滤后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 5 个
+2026-10-18 08:42:10,751 - INFO - 已创建每日报告: md/2026-10-18.md
+2026-10-18 08:42:10,751 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-10-18 08:42:10,751 - INFO - 正在发送Discord通知:  ] [iOS 27.0.1完整攻击链：从消息一键RCE到Chollima持久化越狱
+2026-10-18 08:42:11,045 - INFO - Discord通知发送结果: 204
+2026-10-18 08:42:11,046 - INFO - 正在发送Discord通知:  ] [SDC2026议题预告 | 物理世界自动化攻防：Agent 小队无人值守 IoT 漏洞挖掘实践
+2026-10-18 08:42:11,329 - INFO - Discord通知发送结果: 204
+2026-10-18 08:42:11,330 - INFO - 正在发送Discord通知:  ] [一台"锁死"的 Pixel 7 自救记：把 GhostLock 内核漏洞移植到真机 root
+2026-10-18 08:42:11,592 - INFO - Discord通知发送结果: 204
+2026-10-18 08:42:11,593 - INFO - 正在发送Discord通知:  ] [【安全圈】Linux内核爆出9.3分超高危漏洞，可“越狱”虚拟机攻击宿主机
+2026-10-18 08:42:11,952 - INFO - Discord通知发送结果: 204
+2026-10-18 08:42:11,953 - INFO - 正在发送Discord通知:  ] [【安全圈】黑客利用 Collabora RCE 漏洞为 Nextcloud 服务器植入后门
+2026-10-18 08:42:12,278 - INFO - Discord通知发送结果: 204
+2026-10-18 08:42:12,353 - INFO - 已更新data.json，添加了 5 个URL
+2026-10-18 08:42:12,354 - INFO - 已创建每日报告: md/2026-10-18.md
+2026-10-18 08:42:12,354 - INFO - 正在发送Discord日报通知: 2026-10-18
+2026-10-18 08:42:12,604 - INFO - Discord日报发送结果: 204
+2026-10-18 08:42:12,605 - INFO - === 执行完成 ===
