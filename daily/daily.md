@@ -1,21 +1,19 @@
-# 2026-10-17 安全威胁态势报告
+# 2026-10-18 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 22
+- **总文章数**: 5
 - **数据源分布**:
-  - BruceFeIix: 22篇
+  - BruceFeIix: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 13篇
-- **攻击技术**: 3篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 4篇
+- **系统漏洞**: 3篇
 
 ## 🔍 匹配规则
 
@@ -64,28 +62,11 @@
 
 ### BruceFeIix
 
-- [ ] [工控系统安全管理国标征求意见：五大变化，企业必看！](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651144605&idx=1&sn=ea095c739c0fb8769f430f118316999e) (发布日期: 2026-10-17)
-- [ ] [51个AI代理，61秒植入32个后门：黑客已经把AI训练成红队主力](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790582&idx=1&sn=1ba627a29325739cbc67be4535160b89) (发布日期: 2026-10-17)
-- [ ] [【已复现】Ivanti Connect Secure 未认证 RCE 与提权漏洞链（CVE-2026-104935）](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493416&idx=1&sn=cd3df6995c8ed67c9c0b41ae7e1c4b00) (发布日期: 2026-10-17)
-- [ ] [Next.js 紧急修复两个严重的 RCE 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527421&idx=1&sn=6e33b050a669c8950b3d6f88aabe53d3) (发布日期: 2026-10-17)
-- [ ] [Citrix XenServer 存在多个高危漏洞，虚拟机内高权限用户可攻陷宿主机](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527421&idx=2&sn=68e689badd57f2a02a75e4aa106287cb) (发布日期: 2026-10-17)
-- [ ] [react2shell漏洞分析(一)](https://mp.weixin.qq.com/s?__biz=MzU5MTExMjYwMA==&mid=2247485889&idx=1&sn=af8253afd242efae25032bdcef59c942) (发布日期: 2026-10-17)
-- [ ] [SDC2026议题预告 | ZeroMDASH：领域自适应的Agent-Native通用漏洞挖掘工程](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622868&idx=1&sn=93f5441a8bb0cfae0caf8d0832e1ef39) (发布日期: 2026-10-17)
-- [ ] [当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622868&idx=4&sn=976202946225884b7d8e59848a6c9654) (发布日期: 2026-10-17)
-- [ ] [论坛·原创 | 国家生物大数据主权的侵蚀类型、风险评估与治理路径](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267877&idx=1&sn=1ae2d8358c2f537d361fffaa8d9e5c4e) (发布日期: 2026-10-17)
-- [ ] [我国首部智能网联汽车时空数据安全强制性国家标准发布](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247505377&idx=1&sn=a766bfe2e84543dc2da42e2a81bc524f) (发布日期: 2026-10-17)
-- [ ] [【安全圈】日本汉堡王遭未授权访问，1118 万条客户信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079367&idx=2&sn=fdc0fec3f5adc2890659518499a24029) (发布日期: 2026-10-17)
-- [ ] [关于双十一期间暂停授权测试及漏洞收录的通知](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727851378&idx=1&sn=4718355506f5eecf6fd324394958dfaf) (发布日期: 2026-10-17)
-- [ ] [长亭发布AI安全新品驭元（Sentra），构建Agent安全治理闭环](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651390806&idx=1&sn=6c409b457cba6245c77403f0003d4794) (发布日期: 2026-10-17)
-- [ ] [AI批量提交来了，企业SRC怎么接？分级预筛、模板优化、内外部扫描区分实操](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142976&idx=1&sn=3810c0e858f38cf6b71e6f06b013556b) (发布日期: 2026-10-17)
-- [ ] [谷歌跳过 Gemini3.5，Gemini4 Argon 正式发布强化网络安全防御能力；CNCERT周报：后门网站与新增漏洞双升，仿冒攻击仍锁定银行政务| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142976&idx=2&sn=a9c56ce81909f56a10b5712be94203b3) (发布日期: 2026-10-17)
-- [ ] [【已复现】Windows 健康与优化体验服务权限提升漏洞(CVE-2026-85884)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507799&idx=1&sn=27f79114146357700bf5e65569734dd5) (发布日期: 2026-10-17)
-- [ ] [【通知】关于陌陌安全暂停接收安全漏洞的通知](https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247489668&idx=1&sn=3947b4d878425a1fb03e4146d691a5ac) (发布日期: 2026-10-17)
-- [ ] [技术分享 | CVE-2026-87902 WordPress 页面模版路径穿越漏洞分析](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545961&idx=1&sn=973b7c6379a1e5049deee85659c721f4) (发布日期: 2026-10-17)
-- [ ] [【漏洞通告】Windows 健康与优化体验服务权限提升漏洞(CVE-2026-85884)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526221&idx=1&sn=b7b487fce38b4722baca62c596d58193) (发布日期: 2026-10-17)
-- [ ] [每周高级威胁情报解读(2026.10.09~10.15)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520935&idx=1&sn=8c4ebf54ba2432f8de1857bd8a6971f4) (发布日期: 2026-10-17)
-- [ ] [工具输出注入沙箱化与净化](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497293&idx=1&sn=4c5c5b67c6fd2cedd8bb8fcfef6a63b3) (发布日期: 2026-10-17)
-- [ ] [中国版Mythos|灵脉CodeAI：AI代码漏洞挖掘的智能进阶之路](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647801006&idx=1&sn=2a44b6b8433f40255b49df56cf9f524c) (发布日期: 2026-10-17)
+- [ ] [iOS 27.0.1完整攻击链：从消息一键RCE到Chollima持久化越狱](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189367&idx=1&sn=44342bec2538bd6384c4b87bf94b62f7) (发布日期: 2026-10-18)
+- [ ] [SDC2026议题预告 | 物理世界自动化攻防：Agent 小队无人值守 IoT 漏洞挖掘实践](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622904&idx=1&sn=89006d52e87c01402146d6b270efaa9f) (发布日期: 2026-10-18)
+- [ ] [一台"锁死"的 Pixel 7 自救记：把 GhostLock 内核漏洞移植到真机 root](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622904&idx=2&sn=36915887042b42ce81d9a8043bc026e4) (发布日期: 2026-10-18)
+- [ ] [【安全圈】Linux内核爆出9.3分超高危漏洞，可“越狱”虚拟机攻击宿主机](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079381&idx=2&sn=870c96014815465341569810ecc94d94) (发布日期: 2026-10-18)
+- [ ] [【安全圈】黑客利用 Collabora RCE 漏洞为 Nextcloud 服务器植入后门](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079381&idx=3&sn=83fe8f1d0aa273a7e5c0ca6d4a83d64e) (发布日期: 2026-10-18)
 
 
 ## 🎯 威胁详情分析
@@ -94,44 +75,22 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【已复现】Ivanti Connect Secure 未认证 RCE 与提权漏洞链（CVE-2026-104935） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493416&idx=1&sn=cd3df6995c8ed67c9c0b41ae7e1c4b00](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493416&idx=1&sn=cd3df6995c8ed67c9c0b41ae7e1c4b00) |
-| 2 |  ] [Next.js 紧急修复两个严重的 RCE 漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527421&idx=1&sn=6e33b050a669c8950b3d6f88aabe53d3](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527421&idx=1&sn=6e33b050a669c8950b3d6f88aabe53d3) |
-| 3 |  ] [Citrix XenServer 存在多个高危漏洞，虚拟机内高权限用户可攻陷宿主机 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527421&idx=2&sn=68e689badd57f2a02a75e4aa106287cb](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527421&idx=2&sn=68e689badd57f2a02a75e4aa106287cb) |
-| 4 |  ] [react2shell漏洞分析(一) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5MTExMjYwMA==&mid=2247485889&idx=1&sn=af8253afd242efae25032bdcef59c942](https://mp.weixin.qq.com/s?__biz=MzU5MTExMjYwMA==&mid=2247485889&idx=1&sn=af8253afd242efae25032bdcef59c942) |
-| 5 |  ] [SDC2026议题预告 | ZeroMDASH：领域自适应的Agent-Native通用漏洞挖掘工程 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622868&idx=1&sn=93f5441a8bb0cfae0caf8d0832e1ef39](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622868&idx=1&sn=93f5441a8bb0cfae0caf8d0832e1ef39) |
-| 6 |  ] [当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622868&idx=4&sn=976202946225884b7d8e59848a6c9654](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622868&idx=4&sn=976202946225884b7d8e59848a6c9654) |
-| 7 |  ] [关于双十一期间暂停授权测试及漏洞收录的通知 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727851378&idx=1&sn=4718355506f5eecf6fd324394958dfaf](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727851378&idx=1&sn=4718355506f5eecf6fd324394958dfaf) |
-| 8 |  ] [谷歌跳过 Gemini3.5，Gemini4 Argon 正式发布强化网络安全防御能力；CNCERT周报：后门网站与新增漏洞双升，仿冒攻击仍锁定银行政务| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142976&idx=2&sn=a9c56ce81909f56a10b5712be94203b3](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142976&idx=2&sn=a9c56ce81909f56a10b5712be94203b3) |
-| 9 |  ] [【已复现】Windows 健康与优化体验服务权限提升漏洞(CVE-2026-85884)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507799&idx=1&sn=27f79114146357700bf5e65569734dd5](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507799&idx=1&sn=27f79114146357700bf5e65569734dd5) |
-| 10 |  ] [【通知】关于陌陌安全暂停接收安全漏洞的通知 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247489668&idx=1&sn=3947b4d878425a1fb03e4146d691a5ac](https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247489668&idx=1&sn=3947b4d878425a1fb03e4146d691a5ac) |
-| 11 |  ] [技术分享 | CVE-2026-87902 WordPress 页面模版路径穿越漏洞分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545961&idx=1&sn=973b7c6379a1e5049deee85659c721f4](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545961&idx=1&sn=973b7c6379a1e5049deee85659c721f4) |
-| 12 |  ] [【漏洞通告】Windows 健康与优化体验服务权限提升漏洞(CVE-2026-85884) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526221&idx=1&sn=b7b487fce38b4722baca62c596d58193](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526221&idx=1&sn=b7b487fce38b4722baca62c596d58193) |
-| 13 |  ] [中国版Mythos|灵脉CodeAI：AI代码漏洞挖掘的智能进阶之路 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647801006&idx=1&sn=2a44b6b8433f40255b49df56cf9f524c](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647801006&idx=1&sn=2a44b6b8433f40255b49df56cf9f524c) |
+| 1 |  ] [SDC2026议题预告 | 物理世界自动化攻防：Agent 小队无人值守 IoT 漏洞挖掘实践 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622904&idx=1&sn=89006d52e87c01402146d6b270efaa9f](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622904&idx=1&sn=89006d52e87c01402146d6b270efaa9f) |
+| 2 |  ] [一台"锁死"的 Pixel 7 自救记：把 GhostLock 内核漏洞移植到真机 root | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622904&idx=2&sn=36915887042b42ce81d9a8043bc026e4](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622904&idx=2&sn=36915887042b42ce81d9a8043bc026e4) |
+| 3 |  ] [【安全圈】Linux内核爆出9.3分超高危漏洞，可“越狱”虚拟机攻击宿主机 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079381&idx=2&sn=870c96014815465341569810ecc94d94](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079381&idx=2&sn=870c96014815465341569810ecc94d94) |
+| 4 |  ] [【安全圈】黑客利用 Collabora RCE 漏洞为 Nextcloud 服务器植入后门 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079381&idx=3&sn=83fe8f1d0aa273a7e5c0ca6d4a83d64e](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079381&idx=3&sn=83fe8f1d0aa273a7e5c0ca6d4a83d64e) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【已复现】Ivanti Connect Secure 未认证 RCE 与提权漏洞链（CVE-2026-104935） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493416&idx=1&sn=cd3df6995c8ed67c9c0b41ae7e1c4b00](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493416&idx=1&sn=cd3df6995c8ed67c9c0b41ae7e1c4b00) |
-| 2 |  ] [Next.js 紧急修复两个严重的 RCE 漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527421&idx=1&sn=6e33b050a669c8950b3d6f88aabe53d3](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527421&idx=1&sn=6e33b050a669c8950b3d6f88aabe53d3) |
-| 3 |  ] [工具输出注入沙箱化与净化 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497293&idx=1&sn=4c5c5b67c6fd2cedd8bb8fcfef6a63b3](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497293&idx=1&sn=4c5c5b67c6fd2cedd8bb8fcfef6a63b3) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [每周高级威胁情报解读(2026.10.09~10.15) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520935&idx=1&sn=8c4ebf54ba2432f8de1857bd8a6971f4](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520935&idx=1&sn=8c4ebf54ba2432f8de1857bd8a6971f4) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [AI批量提交来了，企业SRC怎么接？分级预筛、模板优化、内外部扫描区分实操 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142976&idx=1&sn=3810c0e858f38cf6b71e6f06b013556b](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142976&idx=1&sn=3810c0e858f38cf6b71e6f06b013556b) |
+| 1 |  ] [iOS 27.0.1完整攻击链：从消息一键RCE到Chollima持久化越狱 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189367&idx=1&sn=44342bec2538bd6384c4b87bf94b62f7](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189367&idx=1&sn=44342bec2538bd6384c4b87bf94b62f7) |
+| 2 |  ] [【安全圈】黑客利用 Collabora RCE 漏洞为 Nextcloud 服务器植入后门 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079381&idx=3&sn=83fe8f1d0aa273a7e5c0ca6d4a83d64e](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079381&idx=3&sn=83fe8f1d0aa273a7e5c0ca6d4a83d64e) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-10/2026-W42/2026-10-17/`
+文章已归档到: `doc/2026/2026-10/2026-W42/2026-10-18/`
 
 ## 🔗 数据源说明
 
@@ -142,8 +101,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -152,5 +111,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-10-17 08:22:16*
+*生成时间: 2026-10-18 08:42:12*
 *报告工具: 微信文章安全归档系统*
