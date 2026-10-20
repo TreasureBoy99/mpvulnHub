@@ -52195,5 +52195,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247506358&idx=1&sn=bbdbdb8f7471c9dce51639c4b0c3020a": " ] [威胁情报｜DarkSword 木马后台及 iOS 攻击链分析",
     "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569985&idx=2&sn=154aa7dd51c939ec13010e6030ba855a": " ] [俄关联组织UAC-0099据报以新型ASHVEIN远控木马攻击乌政府人员，警惕HTML隐蔽指令及初始访问转售手法被复用于针对我政企网络的攻击",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497445&idx=1&sn=de9c44e651189b8c59f4576028114643": " ] [CNVD漏洞周报2026年第41期",
-    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497445&idx=2&sn=13cf0748da4ec26513d7555e8bc0ab8d": " ] [上周关注度较高的产品安全漏洞(20261012-20261018)"
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497445&idx=2&sn=13cf0748da4ec26513d7555e8bc0ab8d": " ] [上周关注度较高的产品安全漏洞(20261012-20261018)",
+    "https://mp.weixin.qq.com/s/cIzQxn-clIRd-KsC89CU6Q": "SPIP X-Spip-Filtrej接口存在远程代码执行漏洞CVE-2026-77806 xa0附POC"
 }
