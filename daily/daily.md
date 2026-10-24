@@ -1,23 +1,21 @@
-# 2026-10-23 安全威胁态势报告
+# 2026-10-24 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 55
+- **总文章数**: 35
 - **数据源分布**:
-  - Doonsec: 55篇
+  - Doonsec: 35篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 31篇
-- **攻击技术**: 17篇
-- **威胁情报**: 5篇
-- **供应链**: 2篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 11篇
+- **攻击技术**: 4篇
+- **威胁情报**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 9篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,61 +64,41 @@
 
 ### Doonsec
 
-- [【风险提示】天融信关于Node.js Brotli解码器远程代码执行漏洞(CVE-2026-111497)的风险提示](https://mp.weixin.qq.com/s/WXXzCKXOfekha7Gel422YQ) (发布日期: 2026-10-23)
-- [PHP2Shell：一个漏洞，让全球近七成网站紧张了三天](https://mp.weixin.qq.com/s/hY5jhtxkFaIDteGSQW6ntw) (发布日期: 2026-10-23)
-- [每个企业都应该有一套AI自动化渗透测试系统](https://mp.weixin.qq.com/s/L9w-GUMF7w3b5EJF8UKO1w) (发布日期: 2026-10-23)
-- [PHP中的关键RCE漏洞(CVE-2026-109618, CVE-2026-109619)](https://mp.weixin.qq.com/s/IxyvQHSh55aY94TjaOhK4A) (发布日期: 2026-10-23)
-- [PHP又爆未修复xa0RCExa0漏洞？别慌！没那么严重](https://mp.weixin.qq.com/s/vrfmeC_EOs2rg_o1OwtGYg) (发布日期: 2026-10-23)
-- [u200bCNNVD关于Oracle多个安全漏洞的通报](https://mp.weixin.qq.com/s/OYl1pp0Kt0mPwUkHvww-UQ) (发布日期: 2026-10-23)
-- [信息安全漏洞周报（2026年第42期）](https://mp.weixin.qq.com/s/-FYaOTj_pwDQHPfu50o7sg) (发布日期: 2026-10-23)
-- [PHP 中的高危远程代码执行漏洞](https://mp.weixin.qq.com/s/TmIj_b5yiNCjlNzcXR-LKg) (发布日期: 2026-10-23)
-- [高危漏洞复盘｜从公开学号到脱库，某高校平台双重安全隐患剖析](https://mp.weixin.qq.com/s/Q-7h5j6gtRcQHwW-iKZQWQ) (发布日期: 2026-10-23)
-- [2026年渗透测试双线基础：Windows命令与PHP文件/网络函数，从Shell到RCE的实战拆解](https://mp.weixin.qq.com/s/RGp953KeEtUp6IAQRmPGKg) (发布日期: 2026-10-23)
-- [Node.js 双高危漏洞预警：CVE-2026-105482｜CVE-2026-105481](https://mp.weixin.qq.com/s/xPnoLobopTonIb6RMYUEhQ) (发布日期: 2026-10-23)
-- [PHP2Shell 漏洞席卷全球：当未知漏洞来袭，安全防护能否不再依赖规则更新？](https://mp.weixin.qq.com/s/7NPSX7EFzRjuusxN42Sz-g) (发布日期: 2026-10-23)
-- [【工业行业】解读｜GB/T41400-2026《网络安全技术 工业控制系统网络安全防护能力成熟度模型》](https://mp.weixin.qq.com/s/loUmezjvR_gwfbtFvNC5xQ) (发布日期: 2026-10-23)
-- [速修！Node.js曝RCE漏洞，CVSS评分9.2](https://mp.weixin.qq.com/s/ErTZBWvpqkImsaMBBH3r4g) (发布日期: 2026-10-23)
-- [某互联网大厂安全工程师实习面经](https://mp.weixin.qq.com/s/CwGXlpFwgliFZsHMmsWxcA) (发布日期: 2026-10-23)
-- [不止PHP，Node.js曝出4项高危漏洞，排查处置指南来了！](https://mp.weixin.qq.com/s/W_5tI_9NQvwkiX0H52huOg) (发布日期: 2026-10-23)
-- [PHP2Shell 的「最终兵器」被解剖了：ChaCha20 加密配置的 Mirai 变种](https://mp.weixin.qq.com/s/R_rMD6wroCNC0TRDWaYyJw) (发布日期: 2026-10-23)
-- [CNCERT | 关于“银狐”木马“镜昙（G02）”团伙攻击态势深入分析报告](https://mp.weixin.qq.com/s/hqHHze7WoNYwQRNLc7fThA) (发布日期: 2026-10-23)
-- [PHP 被曝严重远程代码执行漏洞，阿里云快速防护指南速览](https://mp.weixin.qq.com/s/FSy1fc6dnfAVoGayCMisRQ) (发布日期: 2026-10-23)
-- [【处置手册】PHP远程代码执行漏洞（CVE-2026-109618/CVE-2026-109619）](https://mp.weixin.qq.com/s/0Xz8Ty1SovNzjc6jAoFbFA) (发布日期: 2026-10-23)
-- [crAPI 靶场实战：OWASP API Top 10 的越权与逻辑缺陷](https://mp.weixin.qq.com/s/RnPJ2b8tUtfpwvOLH0Cunw) (发布日期: 2026-10-23)
-- [ZeroFall——面向攻防测试与情报分析场景的 Windows AI工作台](https://mp.weixin.qq.com/s/dAz_qqVtJlnHLPwrD_8b3A) (发布日期: 2026-10-23)
-- [【在野利用】PHP Core 远程代码执行漏洞（CVE-2026-109618/109619）](https://mp.weixin.qq.com/s/iHSmgI7t6GsMsuF3t6DBUw) (发布日期: 2026-10-23)
-- [关于“银狐”木马“镜昙（G02）”团伙攻击态势深入分析报告](https://mp.weixin.qq.com/s/wbQlp9D3VusutrEfoxAxeQ) (发布日期: 2026-10-23)
-- [多重风险或加剧PHP高危漏洞威胁，360图龙锋开放免费安全体检](https://mp.weixin.qq.com/s/KRvLZsPIuW8ZXTHAGhkLNg) (发布日期: 2026-10-23)
-- [威胁情报｜警惕！Web3 面试题暗藏盗窃后门](https://mp.weixin.qq.com/s/LdgE0MHKgYR7x8KO77RnfA) (发布日期: 2026-10-23)
-- [Linux KSMBD曝两大9.0分RCE漏洞，主线内核尚未修复](https://mp.weixin.qq.com/s/QbrgpiINEHwgEf2CWZbXig) (发布日期: 2026-10-23)
-- [朝鲜Lazarus黑客采用后量子加密，隐藏恶意载荷躲避安全工具](https://mp.weixin.qq.com/s/gYTi-SVUDZKInsTilGQ9Nw) (发布日期: 2026-10-23)
-- [微软披露ConnectWise供应链攻击，Storm-0940借AI工具加速入侵](https://mp.weixin.qq.com/s/byk71lO38QVwl_1jbKFKXg) (发布日期: 2026-10-23)
-- [AIIA发布AI SOC能力评估规范，奇安信AISOC首家通过权威检验](https://mp.weixin.qq.com/s/C923TcX2S8uSYdguuD-2PQ) (发布日期: 2026-10-23)
-- [警惕！！！别从软件官网下到病毒](https://mp.weixin.qq.com/s/UDfV3axg-3nBvLrKsutaJQ) (发布日期: 2026-10-23)
-- [史上最高罚款！Meta因“剑桥分析”数据泄露案被罚1780亿元](https://mp.weixin.qq.com/s/zFOs5uqlUzHFiqhbfxEmvg) (发布日期: 2026-10-23)
-- [Linux 内核两个漏洞被公开](https://mp.weixin.qq.com/s/WjPI4Ij0O5Ze-iLSfLKPNw) (发布日期: 2026-10-23)
-- [烽火狼烟丨暗网数据及攻击威胁情报分析周报（10/19-10/23）](https://mp.weixin.qq.com/s/ny33ZriVKN5Jh9sBOgOYeA) (发布日期: 2026-10-23)
-- [【漏洞通告】Node.jsxa0多个安全漏洞(CVE-2026-105482xa0/xa0CVE-2026-111497)](https://mp.weixin.qq.com/s/hZaxv9UlOEl8rGiBxI_Rmw) (发布日期: 2026-10-23)
-- [【漏洞通告】GitLab未认证远程代码执行漏洞(CVE-2026-110264)](https://mp.weixin.qq.com/s/eG9UAoGzNayvhWVZ60R1VQ) (发布日期: 2026-10-23)
-- [AI供应链安全（6）：把威胁看见——AI供应链安全情报应用](https://mp.weixin.qq.com/s/w58nj2HLr9a2dI71rsh11A) (发布日期: 2026-10-23)
-- [【免费领】全网最贴近实战的Web安全开发测试教程](https://mp.weixin.qq.com/s/jInnNeb44W9bBKe3B8jE7A) (发布日期: 2026-10-23)
-- [全国首期！CISAW安全运维（专业高级）认证班火热招生，持证者进阶必看](https://mp.weixin.qq.com/s/q_C7D9zG0HPJ8dKUmsKPdQ) (发布日期: 2026-10-23)
-- [AI发现PHP2Shell高危漏洞，融安主机可信安全加固系统构筑主动防御新防线](https://mp.weixin.qq.com/s/g6hFF_grkrZDarPZKDXx_A) (发布日期: 2026-10-23)
-- [OSRC发布《AI辅助挖洞提交与测试规范》及违规白帽处罚公告](https://mp.weixin.qq.com/s/CDNFB7FnAXoSuXtLHkjvbw) (发布日期: 2026-10-23)
-- [PHP远程代码执行漏洞来袭，启明星辰提供解决方案](https://mp.weixin.qq.com/s/_LT895Oy_3IVZKk9NYOmUQ) (发布日期: 2026-10-23)
-- [PHP2Shell 复现与分析：请求生命周期缺陷及利用边界](https://mp.weixin.qq.com/s/lbXWzok1oajztV-Fb8Jolg) (发布日期: 2026-10-23)
-- [两高一弱自查：星海EASM全面收录历年可利用漏洞，一次检测对齐专项口径](https://mp.weixin.qq.com/s/5Fj8DzVaA3dn1v2_QbTn7g) (发布日期: 2026-10-23)
-- [「AI Agent安全评测：AI Beat三层证据L1-L3+红队越狱实测」](https://mp.weixin.qq.com/s/eO2RhF5z0dH1WZrmYMdFIQ) (发布日期: 2026-10-23)
-- [攻防中 7 款值得关注的 AI Agent 渗透测试工具](https://mp.weixin.qq.com/s/-S7_8rum7IujcKA6BUVs-A) (发布日期: 2026-10-23)
-- [高危未修复Linux内核漏洞遭意外披露，包含两个远程代码执行漏洞](https://mp.weixin.qq.com/s/toLoRxSycU4R-xNzm7h8Fw) (发布日期: 2026-10-23)
-- [PHP 曝两个\"满分级\"漏洞，多国政府网站连夜下线](https://mp.weixin.qq.com/s/_NK7fCltgZgq5iOmvfXqrQ) (发布日期: 2026-10-23)
-- [思科修复 Expressway 严重漏洞，可用于 RCE 攻击](https://mp.weixin.qq.com/s/H4rbuYKLHh_OjYsggNcgGw) (发布日期: 2026-10-23)
-- [Node2Shell：Node.js 修复严重的 RCE 漏洞](https://mp.weixin.qq.com/s/A7byqGLs-SlZZ_PdobxYuA) (发布日期: 2026-10-23)
-- [满分10分！GitLab又双叒叕出新漏洞了……](https://mp.weixin.qq.com/s/RyRFlzrl_Hx1YxwhEGbRRA) (发布日期: 2026-10-23)
-- [【漏洞预警】flyimg 1.12.2 的两个RCE](https://mp.weixin.qq.com/s/aVhCqnNsBHdR6w8IkX7aAQ) (发布日期: 2026-10-23)
-- [安全预警 | PHP远程代码执行漏洞（PHP2Shell）](https://mp.weixin.qq.com/s/GfQRHzYke7Vd2VZrCd8UJA) (发布日期: 2026-10-23)
-- [IDC发布首份大模型防火墙评估，天融信技术创新力获五星评级](https://mp.weixin.qq.com/s/MpsC-aDtA6hKy-kNA9l-aQ) (发布日期: 2026-10-23)
-- [安全威胁情报周报（2026/10/17-2026/10/23）](https://mp.weixin.qq.com/s/L6g3HnVhFd_t0gFq20xeaQ) (发布日期: 2026-10-23)
+- [安全报告 | 恒安嘉新9月网络信息安全综合态势报告](https://mp.weixin.qq.com/s/EcUWA_ZOcz11JKCXxLiT6g) (发布日期: 2026-10-24)
+- [u200bCNNVD | 关于Oracle多个安全漏洞的通报](https://mp.weixin.qq.com/s/RKE_QIkei2b87tQduvhVkw) (发布日期: 2026-10-24)
+- [客户端漏洞挖掘skills v1.1](https://mp.weixin.qq.com/s/6fZMOYaFHWYBqrjfW35O9w) (发布日期: 2026-10-24)
+- [Python的Pillow图像库存在严重漏洞，通过伪造图像可能导致代码执行](https://mp.weixin.qq.com/s/eURETKHXOTZlJUOi3eI_JA) (发布日期: 2026-10-24)
+- [《汽车数据安全要求》等五项强制性国家标准公开征求意见](https://mp.weixin.qq.com/s/XsHNLqfSPDDF2bDeZLPeCw) (发布日期: 2026-10-24)
+- [让 Burp 自己开火：一个把抓到的流量直接变成漏洞的被动扫描引擎](https://mp.weixin.qq.com/s/tFp8I057dlAqF8LA8poltA) (发布日期: 2026-10-24)
+- [PHP2Shell漏洞处置与响应指引](https://mp.weixin.qq.com/s/8Iio04fsHZ_4LKKW2ejpxQ) (发布日期: 2026-10-24)
+- [安天AVL SDK反病毒引擎升级通告（20261024）](https://mp.weixin.qq.com/s/1OdgvC_-okxbg5GnPqpQFg) (发布日期: 2026-10-24)
+- [千人大帮会｜网盘资源终身独享｜CISP/PTE考证底价｜18年网安大佬带队](https://mp.weixin.qq.com/s/RH5nESwCmtFYjzlgqA_WBQ) (发布日期: 2026-10-24)
+- [PHP2Shell 漏洞分析与复现：CVE-2026-109618 / CVE-2026-109619 未认证远程代码执行](https://mp.weixin.qq.com/s/vOq9Z5S7CUy8MpcY5Dp17g) (发布日期: 2026-10-24)
+- [把Claude变成红队操作员：8k星攻击技能库Claude-Red](https://mp.weixin.qq.com/s/dXoeDEKiTvC1Kr2e7Sr3Lg) (发布日期: 2026-10-24)
+- [银狐裂变出官方编号新团伙「镜昙」：镜像投毒加定时失活，5834台设备被控](https://mp.weixin.qq.com/s/ZWeyIvnWl2hXs3YydOF0xA) (发布日期: 2026-10-24)
+- [PHP2Shell紧急补丁上线两天,官方再发未修复RCE预警:CVE-2026-115560](https://mp.weixin.qq.com/s/YaU2Uhegyk02cs_dhikn1w) (发布日期: 2026-10-24)
+- [官方发行版上真跑通了：Node2Shell 的 PoC 到底有多真](https://mp.weixin.qq.com/s/11Z_OO8WJU62hOLzyf0XtQ) (发布日期: 2026-10-24)
+- [一套面向 CNVD 通用型未授权漏洞挖掘的开源便携工具包](https://mp.weixin.qq.com/s/8ctjZqVHW42k0VrhEa1r9w) (发布日期: 2026-10-24)
+- [StealC信息窃取程序遭欧洲刑警组织打击后，摇身变为功能强大的远程访问木马](https://mp.weixin.qq.com/s/egy9WRVi7ssZfdWbmoD75A) (发布日期: 2026-10-24)
+- [一周安全事件回顾：百字指令攻破百家企业，AI正在重塑网络攻击成本](https://mp.weixin.qq.com/s/nztDj-LTucEX41IBPNKxEg) (发布日期: 2026-10-24)
+- [全国职业院校技能大赛《信息安全管理与评估》任务3-Windows内存取证](https://mp.weixin.qq.com/s/002t-4tMaeQg5Uo0oySucg) (发布日期: 2026-10-24)
+- [关于举办2026年福建省大学生数据安全大赛的通知](https://mp.weixin.qq.com/s/uwBiB81xVZxsgRstU-qchw) (发布日期: 2026-10-24)
+- [韩国延世大学门户遭黑客攻击 1.5万人个人信息泄露](https://mp.weixin.qq.com/s/cENqzd4G8WXXNmxLHN712g) (发布日期: 2026-10-24)
+- [全球1177万个会员账号邮箱等个人信息泄露日本游戏厂商卡普空致歉](https://mp.weixin.qq.com/s/VP5jsrx5Dr1mcrubY_ubXw) (发布日期: 2026-10-24)
+- [日本数字厅部分利用AI搭建网站遭黑客入侵 超1.3万条隐私信息泄露](https://mp.weixin.qq.com/s/2aL3NW0PeaHPmsBCSFkm7A) (发布日期: 2026-10-24)
+- [速修 | Arista VeloCloud 9.9 分 SQL 注入在野利用可提权超管](https://mp.weixin.qq.com/s/pve-yOKWLRoEA5vr4d1x8g) (发布日期: 2026-10-24)
+- [【密码学·杂谈】emSign 弱私钥事件：一个字节如何动摇证书信任](https://mp.weixin.qq.com/s/-5fXblVHQRWvMPtr1hq1Dg) (发布日期: 2026-10-24)
+- [EtherHiding 后门样本分析](https://mp.weixin.qq.com/s/oD0jwaBVCsKLHGsnpIkbCw) (发布日期: 2026-10-24)
+- [MCP 投毒检测深化研究：面向 MCP 供应链攻击的 Hook 检测规则设计](https://mp.weixin.qq.com/s/qpMhY8gD5cQKxiSGwYp5mQ) (发布日期: 2026-10-24)
+- [报名开启丨2026年安徽省工业和信息化行业职业技能大赛“网络与信息安全管理员（数据安全管理员）”赛项报名及赛前培训通知](https://mp.weixin.qq.com/s/PqxhFnkc6GjY3fIVqTVD_w) (发布日期: 2026-10-24)
+- [800+ 工具、3468 条默认口令，这个红队知识库直接收藏](https://mp.weixin.qq.com/s/WfVfghchrFr0dTRmIar8Yg) (发布日期: 2026-10-24)
+- [木马窃取网游数据转卖获利1亿余，主犯获刑五年十个月](https://mp.weixin.qq.com/s/epusoPZkcDWi6rXgD8b5Cg) (发布日期: 2026-10-24)
+- [从新闻聚合到决策索引，FDE情报系统的构建逻辑](https://mp.weixin.qq.com/s/3chjsOmGYnwZCaXX-bNjbA) (发布日期: 2026-10-24)
+- [Anthropic公司的Claude人工智能在不到30分钟的时间内破解了美国国家安全局25年前的密码学谜题](https://mp.weixin.qq.com/s/y9Y3nktf0-ZKdaBzUygWww) (发布日期: 2026-10-24)
+- [捕获 PHP2Shell 攻击载荷：当漏洞利用开始“下载执行”](https://mp.weixin.qq.com/s/mzFI1dKVFjvTSnd0obipVw) (发布日期: 2026-10-24)
+- [【以电子数据为主导，多维度构建完整证据链条】](https://mp.weixin.qq.com/s/ICNkdLXResEBhVkboa0eig) (发布日期: 2026-10-24)
+- [SonicWall SMA1000 严重性最高的漏洞现已被用于不法攻击](https://mp.weixin.qq.com/s/DHLETSykUJUwBYMBqEF9Ww) (发布日期: 2026-10-24)
+- [三季度报告｜飞天诚信营收4.05亿，下滑约22% 由盈转亏，传统身份认证业务持续承压](https://mp.weixin.qq.com/s/Gdi9LRsSpO_WX01uD6omMQ) (发布日期: 2026-10-24)
 
 
 ## 🎯 威胁详情分析
@@ -129,93 +107,43 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【风险提示】天融信关于Node.js Brotli解码器远程代码执行漏洞(CVE-2026-111497)的风险提示 | Doonsec | [https://mp.weixin.qq.com/s/WXXzCKXOfekha7Gel422YQ](https://mp.weixin.qq.com/s/WXXzCKXOfekha7Gel422YQ) |
-| 2 | PHP2Shell：一个漏洞，让全球近七成网站紧张了三天 | Doonsec | [https://mp.weixin.qq.com/s/hY5jhtxkFaIDteGSQW6ntw](https://mp.weixin.qq.com/s/hY5jhtxkFaIDteGSQW6ntw) |
-| 3 | PHP中的关键RCE漏洞(CVE-2026-109618, CVE-2026-109619) | Doonsec | [https://mp.weixin.qq.com/s/IxyvQHSh55aY94TjaOhK4A](https://mp.weixin.qq.com/s/IxyvQHSh55aY94TjaOhK4A) |
-| 4 | PHP又爆未修复xa0RCExa0漏洞？别慌！没那么严重 | Doonsec | [https://mp.weixin.qq.com/s/vrfmeC_EOs2rg_o1OwtGYg](https://mp.weixin.qq.com/s/vrfmeC_EOs2rg_o1OwtGYg) |
-| 5 | u200bCNNVD关于Oracle多个安全漏洞的通报 | Doonsec | [https://mp.weixin.qq.com/s/OYl1pp0Kt0mPwUkHvww-UQ](https://mp.weixin.qq.com/s/OYl1pp0Kt0mPwUkHvww-UQ) |
-| 6 | 信息安全漏洞周报（2026年第42期） | Doonsec | [https://mp.weixin.qq.com/s/-FYaOTj_pwDQHPfu50o7sg](https://mp.weixin.qq.com/s/-FYaOTj_pwDQHPfu50o7sg) |
-| 7 | PHP 中的高危远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/TmIj_b5yiNCjlNzcXR-LKg](https://mp.weixin.qq.com/s/TmIj_b5yiNCjlNzcXR-LKg) |
-| 8 | 高危漏洞复盘｜从公开学号到脱库，某高校平台双重安全隐患剖析 | Doonsec | [https://mp.weixin.qq.com/s/Q-7h5j6gtRcQHwW-iKZQWQ](https://mp.weixin.qq.com/s/Q-7h5j6gtRcQHwW-iKZQWQ) |
-| 9 | Node.js 双高危漏洞预警：CVE-2026-105482｜CVE-2026-105481 | Doonsec | [https://mp.weixin.qq.com/s/xPnoLobopTonIb6RMYUEhQ](https://mp.weixin.qq.com/s/xPnoLobopTonIb6RMYUEhQ) |
-| 10 | PHP2Shell 漏洞席卷全球：当未知漏洞来袭，安全防护能否不再依赖规则更新？ | Doonsec | [https://mp.weixin.qq.com/s/7NPSX7EFzRjuusxN42Sz-g](https://mp.weixin.qq.com/s/7NPSX7EFzRjuusxN42Sz-g) |
-| 11 | 速修！Node.js曝RCE漏洞，CVSS评分9.2 | Doonsec | [https://mp.weixin.qq.com/s/ErTZBWvpqkImsaMBBH3r4g](https://mp.weixin.qq.com/s/ErTZBWvpqkImsaMBBH3r4g) |
-| 12 | 不止PHP，Node.js曝出4项高危漏洞，排查处置指南来了！ | Doonsec | [https://mp.weixin.qq.com/s/W_5tI_9NQvwkiX0H52huOg](https://mp.weixin.qq.com/s/W_5tI_9NQvwkiX0H52huOg) |
-| 13 | PHP 被曝严重远程代码执行漏洞，阿里云快速防护指南速览 | Doonsec | [https://mp.weixin.qq.com/s/FSy1fc6dnfAVoGayCMisRQ](https://mp.weixin.qq.com/s/FSy1fc6dnfAVoGayCMisRQ) |
-| 14 | 【处置手册】PHP远程代码执行漏洞（CVE-2026-109618/CVE-2026-109619） | Doonsec | [https://mp.weixin.qq.com/s/0Xz8Ty1SovNzjc6jAoFbFA](https://mp.weixin.qq.com/s/0Xz8Ty1SovNzjc6jAoFbFA) |
-| 15 | 【在野利用】PHP Core 远程代码执行漏洞（CVE-2026-109618/109619） | Doonsec | [https://mp.weixin.qq.com/s/iHSmgI7t6GsMsuF3t6DBUw](https://mp.weixin.qq.com/s/iHSmgI7t6GsMsuF3t6DBUw) |
-| 16 | 多重风险或加剧PHP高危漏洞威胁，360图龙锋开放免费安全体检 | Doonsec | [https://mp.weixin.qq.com/s/KRvLZsPIuW8ZXTHAGhkLNg](https://mp.weixin.qq.com/s/KRvLZsPIuW8ZXTHAGhkLNg) |
-| 17 | Linux KSMBD曝两大9.0分RCE漏洞，主线内核尚未修复 | Doonsec | [https://mp.weixin.qq.com/s/QbrgpiINEHwgEf2CWZbXig](https://mp.weixin.qq.com/s/QbrgpiINEHwgEf2CWZbXig) |
-| 18 | Linux 内核两个漏洞被公开 | Doonsec | [https://mp.weixin.qq.com/s/WjPI4Ij0O5Ze-iLSfLKPNw](https://mp.weixin.qq.com/s/WjPI4Ij0O5Ze-iLSfLKPNw) |
-| 19 | 【漏洞通告】Node.jsxa0多个安全漏洞(CVE-2026-105482xa0/xa0CVE-2026-111497) | Doonsec | [https://mp.weixin.qq.com/s/hZaxv9UlOEl8rGiBxI_Rmw](https://mp.weixin.qq.com/s/hZaxv9UlOEl8rGiBxI_Rmw) |
-| 20 | 【漏洞通告】GitLab未认证远程代码执行漏洞(CVE-2026-110264) | Doonsec | [https://mp.weixin.qq.com/s/eG9UAoGzNayvhWVZ60R1VQ](https://mp.weixin.qq.com/s/eG9UAoGzNayvhWVZ60R1VQ) |
-| 21 | AI发现PHP2Shell高危漏洞，融安主机可信安全加固系统构筑主动防御新防线 | Doonsec | [https://mp.weixin.qq.com/s/g6hFF_grkrZDarPZKDXx_A](https://mp.weixin.qq.com/s/g6hFF_grkrZDarPZKDXx_A) |
-| 22 | PHP远程代码执行漏洞来袭，启明星辰提供解决方案 | Doonsec | [https://mp.weixin.qq.com/s/_LT895Oy_3IVZKk9NYOmUQ](https://mp.weixin.qq.com/s/_LT895Oy_3IVZKk9NYOmUQ) |
-| 23 | PHP2Shell 复现与分析：请求生命周期缺陷及利用边界 | Doonsec | [https://mp.weixin.qq.com/s/lbXWzok1oajztV-Fb8Jolg](https://mp.weixin.qq.com/s/lbXWzok1oajztV-Fb8Jolg) |
-| 24 | 两高一弱自查：星海EASM全面收录历年可利用漏洞，一次检测对齐专项口径 | Doonsec | [https://mp.weixin.qq.com/s/5Fj8DzVaA3dn1v2_QbTn7g](https://mp.weixin.qq.com/s/5Fj8DzVaA3dn1v2_QbTn7g) |
-| 25 | 高危未修复Linux内核漏洞遭意外披露，包含两个远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/toLoRxSycU4R-xNzm7h8Fw](https://mp.weixin.qq.com/s/toLoRxSycU4R-xNzm7h8Fw) |
-| 26 | PHP 曝两个\"满分级\"漏洞，多国政府网站连夜下线 | Doonsec | [https://mp.weixin.qq.com/s/_NK7fCltgZgq5iOmvfXqrQ](https://mp.weixin.qq.com/s/_NK7fCltgZgq5iOmvfXqrQ) |
-| 27 | 思科修复 Expressway 严重漏洞，可用于 RCE 攻击 | Doonsec | [https://mp.weixin.qq.com/s/H4rbuYKLHh_OjYsggNcgGw](https://mp.weixin.qq.com/s/H4rbuYKLHh_OjYsggNcgGw) |
-| 28 | Node2Shell：Node.js 修复严重的 RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/A7byqGLs-SlZZ_PdobxYuA](https://mp.weixin.qq.com/s/A7byqGLs-SlZZ_PdobxYuA) |
-| 29 | 满分10分！GitLab又双叒叕出新漏洞了…… | Doonsec | [https://mp.weixin.qq.com/s/RyRFlzrl_Hx1YxwhEGbRRA](https://mp.weixin.qq.com/s/RyRFlzrl_Hx1YxwhEGbRRA) |
-| 30 | 【漏洞预警】flyimg 1.12.2 的两个RCE | Doonsec | [https://mp.weixin.qq.com/s/aVhCqnNsBHdR6w8IkX7aAQ](https://mp.weixin.qq.com/s/aVhCqnNsBHdR6w8IkX7aAQ) |
-| 31 | 安全预警 | PHP远程代码执行漏洞（PHP2Shell） | Doonsec | [https://mp.weixin.qq.com/s/GfQRHzYke7Vd2VZrCd8UJA](https://mp.weixin.qq.com/s/GfQRHzYke7Vd2VZrCd8UJA) |
+| 1 | u200bCNNVD | 关于Oracle多个安全漏洞的通报 | Doonsec | [https://mp.weixin.qq.com/s/RKE_QIkei2b87tQduvhVkw](https://mp.weixin.qq.com/s/RKE_QIkei2b87tQduvhVkw) |
+| 2 | 客户端漏洞挖掘skills v1.1 | Doonsec | [https://mp.weixin.qq.com/s/6fZMOYaFHWYBqrjfW35O9w](https://mp.weixin.qq.com/s/6fZMOYaFHWYBqrjfW35O9w) |
+| 3 | Python的Pillow图像库存在严重漏洞，通过伪造图像可能导致代码执行 | Doonsec | [https://mp.weixin.qq.com/s/eURETKHXOTZlJUOi3eI_JA](https://mp.weixin.qq.com/s/eURETKHXOTZlJUOi3eI_JA) |
+| 4 | 让 Burp 自己开火：一个把抓到的流量直接变成漏洞的被动扫描引擎 | Doonsec | [https://mp.weixin.qq.com/s/tFp8I057dlAqF8LA8poltA](https://mp.weixin.qq.com/s/tFp8I057dlAqF8LA8poltA) |
+| 5 | PHP2Shell漏洞处置与响应指引 | Doonsec | [https://mp.weixin.qq.com/s/8Iio04fsHZ_4LKKW2ejpxQ](https://mp.weixin.qq.com/s/8Iio04fsHZ_4LKKW2ejpxQ) |
+| 6 | PHP2Shell 漏洞分析与复现：CVE-2026-109618 / CVE-2026-109619 未认证远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/vOq9Z5S7CUy8MpcY5Dp17g](https://mp.weixin.qq.com/s/vOq9Z5S7CUy8MpcY5Dp17g) |
+| 7 | PHP2Shell紧急补丁上线两天,官方再发未修复RCE预警:CVE-2026-115560 | Doonsec | [https://mp.weixin.qq.com/s/YaU2Uhegyk02cs_dhikn1w](https://mp.weixin.qq.com/s/YaU2Uhegyk02cs_dhikn1w) |
+| 8 | 官方发行版上真跑通了：Node2Shell 的 PoC 到底有多真 | Doonsec | [https://mp.weixin.qq.com/s/11Z_OO8WJU62hOLzyf0XtQ](https://mp.weixin.qq.com/s/11Z_OO8WJU62hOLzyf0XtQ) |
+| 9 | 一套面向 CNVD 通用型未授权漏洞挖掘的开源便携工具包 | Doonsec | [https://mp.weixin.qq.com/s/8ctjZqVHW42k0VrhEa1r9w](https://mp.weixin.qq.com/s/8ctjZqVHW42k0VrhEa1r9w) |
+| 10 | 捕获 PHP2Shell 攻击载荷：当漏洞利用开始“下载执行” | Doonsec | [https://mp.weixin.qq.com/s/mzFI1dKVFjvTSnd0obipVw](https://mp.weixin.qq.com/s/mzFI1dKVFjvTSnd0obipVw) |
+| 11 | SonicWall SMA1000 严重性最高的漏洞现已被用于不法攻击 | Doonsec | [https://mp.weixin.qq.com/s/DHLETSykUJUwBYMBqEF9Ww](https://mp.weixin.qq.com/s/DHLETSykUJUwBYMBqEF9Ww) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【风险提示】天融信关于Node.js Brotli解码器远程代码执行漏洞(CVE-2026-111497)的风险提示 | Doonsec | [https://mp.weixin.qq.com/s/WXXzCKXOfekha7Gel422YQ](https://mp.weixin.qq.com/s/WXXzCKXOfekha7Gel422YQ) |
-| 2 | PHP中的关键RCE漏洞(CVE-2026-109618, CVE-2026-109619) | Doonsec | [https://mp.weixin.qq.com/s/IxyvQHSh55aY94TjaOhK4A](https://mp.weixin.qq.com/s/IxyvQHSh55aY94TjaOhK4A) |
-| 3 | PHP又爆未修复xa0RCExa0漏洞？别慌！没那么严重 | Doonsec | [https://mp.weixin.qq.com/s/vrfmeC_EOs2rg_o1OwtGYg](https://mp.weixin.qq.com/s/vrfmeC_EOs2rg_o1OwtGYg) |
-| 4 | PHP 中的高危远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/TmIj_b5yiNCjlNzcXR-LKg](https://mp.weixin.qq.com/s/TmIj_b5yiNCjlNzcXR-LKg) |
-| 5 | 2026年渗透测试双线基础：Windows命令与PHP文件/网络函数，从Shell到RCE的实战拆解 | Doonsec | [https://mp.weixin.qq.com/s/RGp953KeEtUp6IAQRmPGKg](https://mp.weixin.qq.com/s/RGp953KeEtUp6IAQRmPGKg) |
-| 6 | 速修！Node.js曝RCE漏洞，CVSS评分9.2 | Doonsec | [https://mp.weixin.qq.com/s/ErTZBWvpqkImsaMBBH3r4g](https://mp.weixin.qq.com/s/ErTZBWvpqkImsaMBBH3r4g) |
-| 7 | PHP 被曝严重远程代码执行漏洞，阿里云快速防护指南速览 | Doonsec | [https://mp.weixin.qq.com/s/FSy1fc6dnfAVoGayCMisRQ](https://mp.weixin.qq.com/s/FSy1fc6dnfAVoGayCMisRQ) |
-| 8 | 【处置手册】PHP远程代码执行漏洞（CVE-2026-109618/CVE-2026-109619） | Doonsec | [https://mp.weixin.qq.com/s/0Xz8Ty1SovNzjc6jAoFbFA](https://mp.weixin.qq.com/s/0Xz8Ty1SovNzjc6jAoFbFA) |
-| 9 | 【在野利用】PHP Core 远程代码执行漏洞（CVE-2026-109618/109619） | Doonsec | [https://mp.weixin.qq.com/s/iHSmgI7t6GsMsuF3t6DBUw](https://mp.weixin.qq.com/s/iHSmgI7t6GsMsuF3t6DBUw) |
-| 10 | Linux KSMBD曝两大9.0分RCE漏洞，主线内核尚未修复 | Doonsec | [https://mp.weixin.qq.com/s/QbrgpiINEHwgEf2CWZbXig](https://mp.weixin.qq.com/s/QbrgpiINEHwgEf2CWZbXig) |
-| 11 | 【漏洞通告】GitLab未认证远程代码执行漏洞(CVE-2026-110264) | Doonsec | [https://mp.weixin.qq.com/s/eG9UAoGzNayvhWVZ60R1VQ](https://mp.weixin.qq.com/s/eG9UAoGzNayvhWVZ60R1VQ) |
-| 12 | PHP远程代码执行漏洞来袭，启明星辰提供解决方案 | Doonsec | [https://mp.weixin.qq.com/s/_LT895Oy_3IVZKk9NYOmUQ](https://mp.weixin.qq.com/s/_LT895Oy_3IVZKk9NYOmUQ) |
-| 13 | 高危未修复Linux内核漏洞遭意外披露，包含两个远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s/toLoRxSycU4R-xNzm7h8Fw](https://mp.weixin.qq.com/s/toLoRxSycU4R-xNzm7h8Fw) |
-| 14 | 思科修复 Expressway 严重漏洞，可用于 RCE 攻击 | Doonsec | [https://mp.weixin.qq.com/s/H4rbuYKLHh_OjYsggNcgGw](https://mp.weixin.qq.com/s/H4rbuYKLHh_OjYsggNcgGw) |
-| 15 | Node2Shell：Node.js 修复严重的 RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/A7byqGLs-SlZZ_PdobxYuA](https://mp.weixin.qq.com/s/A7byqGLs-SlZZ_PdobxYuA) |
-| 16 | 【漏洞预警】flyimg 1.12.2 的两个RCE | Doonsec | [https://mp.weixin.qq.com/s/aVhCqnNsBHdR6w8IkX7aAQ](https://mp.weixin.qq.com/s/aVhCqnNsBHdR6w8IkX7aAQ) |
-| 17 | 安全预警 | PHP远程代码执行漏洞（PHP2Shell） | Doonsec | [https://mp.weixin.qq.com/s/GfQRHzYke7Vd2VZrCd8UJA](https://mp.weixin.qq.com/s/GfQRHzYke7Vd2VZrCd8UJA) |
+| 1 | Python的Pillow图像库存在严重漏洞，通过伪造图像可能导致代码执行 | Doonsec | [https://mp.weixin.qq.com/s/eURETKHXOTZlJUOi3eI_JA](https://mp.weixin.qq.com/s/eURETKHXOTZlJUOi3eI_JA) |
+| 2 | PHP2Shell 漏洞分析与复现：CVE-2026-109618 / CVE-2026-109619 未认证远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s/vOq9Z5S7CUy8MpcY5Dp17g](https://mp.weixin.qq.com/s/vOq9Z5S7CUy8MpcY5Dp17g) |
+| 3 | PHP2Shell紧急补丁上线两天,官方再发未修复RCE预警:CVE-2026-115560 | Doonsec | [https://mp.weixin.qq.com/s/YaU2Uhegyk02cs_dhikn1w](https://mp.weixin.qq.com/s/YaU2Uhegyk02cs_dhikn1w) |
+| 4 | 速修 | Arista VeloCloud 9.9 分 SQL 注入在野利用可提权超管 | Doonsec | [https://mp.weixin.qq.com/s/pve-yOKWLRoEA5vr4d1x8g](https://mp.weixin.qq.com/s/pve-yOKWLRoEA5vr4d1x8g) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CNCERT | 关于“银狐”木马“镜昙（G02）”团伙攻击态势深入分析报告 | Doonsec | [https://mp.weixin.qq.com/s/hqHHze7WoNYwQRNLc7fThA](https://mp.weixin.qq.com/s/hqHHze7WoNYwQRNLc7fThA) |
-| 2 | 关于“银狐”木马“镜昙（G02）”团伙攻击态势深入分析报告 | Doonsec | [https://mp.weixin.qq.com/s/wbQlp9D3VusutrEfoxAxeQ](https://mp.weixin.qq.com/s/wbQlp9D3VusutrEfoxAxeQ) |
-| 3 | 威胁情报｜警惕！Web3 面试题暗藏盗窃后门 | Doonsec | [https://mp.weixin.qq.com/s/LdgE0MHKgYR7x8KO77RnfA](https://mp.weixin.qq.com/s/LdgE0MHKgYR7x8KO77RnfA) |
-| 4 | 烽火狼烟丨暗网数据及攻击威胁情报分析周报（10/19-10/23） | Doonsec | [https://mp.weixin.qq.com/s/ny33ZriVKN5Jh9sBOgOYeA](https://mp.weixin.qq.com/s/ny33ZriVKN5Jh9sBOgOYeA) |
-| 5 | 安全威胁情报周报（2026/10/17-2026/10/23） | Doonsec | [https://mp.weixin.qq.com/s/L6g3HnVhFd_t0gFq20xeaQ](https://mp.weixin.qq.com/s/L6g3HnVhFd_t0gFq20xeaQ) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | OSRC发布《AI辅助挖洞提交与测试规范》及违规白帽处罚公告 | Doonsec | [https://mp.weixin.qq.com/s/CDNFB7FnAXoSuXtLHkjvbw](https://mp.weixin.qq.com/s/CDNFB7FnAXoSuXtLHkjvbw) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 史上最高罚款！Meta因“剑桥分析”数据泄露案被罚1780亿元 | Doonsec | [https://mp.weixin.qq.com/s/zFOs5uqlUzHFiqhbfxEmvg](https://mp.weixin.qq.com/s/zFOs5uqlUzHFiqhbfxEmvg) |
+| 1 | 银狐裂变出官方编号新团伙「镜昙」：镜像投毒加定时失活，5834台设备被控 | Doonsec | [https://mp.weixin.qq.com/s/ZWeyIvnWl2hXs3YydOF0xA](https://mp.weixin.qq.com/s/ZWeyIvnWl2hXs3YydOF0xA) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 微软披露ConnectWise供应链攻击，Storm-0940借AI工具加速入侵 | Doonsec | [https://mp.weixin.qq.com/s/byk71lO38QVwl_1jbKFKXg](https://mp.weixin.qq.com/s/byk71lO38QVwl_1jbKFKXg) |
-| 2 | AI供应链安全（6）：把威胁看见——AI供应链安全情报应用 | Doonsec | [https://mp.weixin.qq.com/s/w58nj2HLr9a2dI71rsh11A](https://mp.weixin.qq.com/s/w58nj2HLr9a2dI71rsh11A) |
+| 1 | MCP 投毒检测深化研究：面向 MCP 供应链攻击的 Hook 检测规则设计 | Doonsec | [https://mp.weixin.qq.com/s/qpMhY8gD5cQKxiSGwYp5mQ](https://mp.weixin.qq.com/s/qpMhY8gD5cQKxiSGwYp5mQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-10/2026-W43/2026-10-23/`
+文章已归档到: `doc/2026/2026-10/2026-W43/2026-10-24/`
 
 ## 🔗 数据源说明
 
@@ -226,8 +154,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 31 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 9 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -236,5 +164,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-10-23 16:44:07*
+*生成时间: 2026-10-24 03:53:29*
 *报告工具: 微信文章安全归档系统*
