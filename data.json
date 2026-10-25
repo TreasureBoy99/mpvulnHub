@@ -52834,5 +52834,22 @@
     "https://mp.weixin.qq.com/s/WC5PSoyMyaB30XcjEZ3row": "EPS 冗余扭矩传感器的功能安全设计",
     "https://mp.weixin.qq.com/s/W9yY9RcQdSKe0qG8RTNUJQ": "数据泄露情报2026.10.24 - 18万Edge加密货币钱包数据泄露",
     "https://mp.weixin.qq.com/s/sSCEi0gw-PJ9vylEha1quQ": "CISSP，慢慢考，第1章 “实现安全治理的原则和策略”笔记",
-    "https://mp.weixin.qq.com/s/VUDNJ56kdsivJQDi3qjiNg": "php2shell漏洞全解析--带来的思考"
+    "https://mp.weixin.qq.com/s/VUDNJ56kdsivJQDi3qjiNg": "php2shell漏洞全解析--带来的思考",
+    "https://mp.weixin.qq.com/s/Ni7cAeXkQHRx1js0W1g-lg": "日本大型快递公司佐川急便系统遭入侵 致大量个人信息泄露",
+    "https://mp.weixin.qq.com/s/C_-_m_guBBjM2gtyRx2jdQ": "【已复现】Node.js Brotli 解码器越界写漏洞（CVE-2026-111497）",
+    "https://mp.weixin.qq.com/s/XeuqWvuwfM5pLxJ5m9dvFQ": "Nextcloud 命令注入 9.2 分落 Webshell CVE-2026-110447",
+    "https://mp.weixin.qq.com/s/Mu_Ldf6b3uc9WLoMQaLiOw": "银狐C2域名竟叫肉鸡在线：官方第八批通报3.2万台日控，与本报样本线索撞进同一家香港机房",
+    "https://mp.weixin.qq.com/s/3N5NFdz1AqfzyUDTmUpNwQ": "解压即入口：Brotli解码器越界写入影响Node.js（CVE-2026-111497）",
+    "https://mp.weixin.qq.com/s/PVAACKVsgT-XSRqDNBRDUg": "【一个人的SOC】(11) 诚实降级——当 AI 不可靠时，SOC 的兜底设计",
+    "https://mp.weixin.qq.com/s/PWbp9QXRRo1jMZXFQee9HQ": "君说安全｜《医疗卫生机构数据安全和个人信息保护管理办法（试行）》解读",
+    "https://mp.weixin.qq.com/s/stsKbko2wPLlt4D1ODq2jw": "Web框架漏洞盘点那些年拖垮无数网站的经典漏洞",
+    "https://mp.weixin.qq.com/s/aGu-6wkQo3_VuWkietpoZw": "【AI安全】记一次提示词注入实战：数据泄露的渗透测试复盘",
+    "https://mp.weixin.qq.com/s/SXjrIf3z8AbFkN4yUlIjHg": "数据泄露情报2026.10.25 - 636G俄罗斯1.6亿全体公民数据",
+    "https://mp.weixin.qq.com/s/mbaomg7I1upQrmcE2qyUHA": "2026年福建省大学生数据安全大赛火热报名中！",
+    "https://mp.weixin.qq.com/s/dFuZRiiv-U4AYxtZ47ziVA": "顶尖红队渗透提示词 黑掉一切",
+    "https://mp.weixin.qq.com/s/TXc5UcWBfwcLd18EorvIHw": "PHP后Oracle发布多个安全漏洞",
+    "https://mp.weixin.qq.com/s/Yw_E80BofrqIuE2ddRzOwg": "从xa0403xa0到xa0RCExa0风险：PHP2Shellxa0漏洞全面解析与xa0PHP2ShellPOC2026xa03.0xa0实战",
+    "https://mp.weixin.qq.com/s/F8K7rRt9BVIhbkxN0rzEeQ": "2026 PHP基础安全全景：从语法糖到RCE，每一个特性都是一条攻击链",
+    "https://mp.weixin.qq.com/s/a6Ua4u6CE0TFWzBqNOaDVA": "一个没打上的补丁，为什么最终变成了一起安全事件？",
+    "https://mp.weixin.qq.com/s/_5i_hSI6AjvgJfeBgGN2SA": "某TSRC大佬付费价值1000元的POC漏洞知识库，免费梭哈！"
 }
