@@ -1,20 +1,22 @@
-# 2026-10-24 安全威胁态势报告
+# 2026-10-25 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 21
+- **总文章数**: 17
 - **数据源分布**:
-  - Doonsec: 21篇
+  - Doonsec: 17篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 11篇
-- **攻击技术**: 8篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 7篇
+- **攻击技术**: 4篇
+- **信息泄露**: 2篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 5篇
+- **系统漏洞**: 2篇
 - **Web安全**: 1篇
 
 ## 🔍 匹配规则
@@ -64,27 +66,23 @@
 
 ### Doonsec
 
-- [金叶物联网大数据管理平台download接口存在任意文件读取漏洞 xa0附POC](https://mp.weixin.qq.com/s/cOFLScD2vSP-VndJRCHFhg) (发布日期: 2026-10-24)
-- [网络安全渗透测试 Agent 推荐](https://mp.weixin.qq.com/s/3hYS5KfAEl5bt8yi5YVB6g) (发布日期: 2026-10-24)
-- [用缓冲区溢出漏洞把 3090 变成 A6000](https://mp.weixin.qq.com/s/wkiF7Mu9nsZUYztqKVRm3Q) (发布日期: 2026-10-24)
-- [GEEKCON 2026停赛之后：真正的安全，不怕漏洞被发现](https://mp.weixin.qq.com/s/KL637HDvNZZCW6EZldWBNw) (发布日期: 2026-10-24)
-- [别再搜2022年的博客了：B00t2R00t把从初始立足点到域控的每一步都画好了](https://mp.weixin.qq.com/s/Jl2I2Zze46FJIskbFWbUXw) (发布日期: 2026-10-24)
-- [GEEKCON 2026停赛之后：真正的安全，不怕漏洞被发现](https://mp.weixin.qq.com/s/xxeU6jBkFbAjnnuua_Zd8w) (发布日期: 2026-10-24)
-- [十二年轮回：GitLab 满分 RCE 的解剖与警示](https://mp.weixin.qq.com/s/2wigI5nmCrFUjpOSI58_eQ) (发布日期: 2026-10-24)
-- [从Token伪造到SQL注入，四步打穿某监管平台全库](https://mp.weixin.qq.com/s/9sZc24roErlvhpxQPsBVAQ) (发布日期: 2026-10-24)
-- [速修 | WordPress 备份插件未认证 PHP 对象注入，9.8 分](https://mp.weixin.qq.com/s/Zm5I5K4tM3aNM6yAcOsM4A) (发布日期: 2026-10-24)
-- [在看 | 周报：宜春网警打击侵犯公民个人信息犯罪团伙；PHP引擎曝两个9.2分免认证RCE漏洞，多国机构紧急下线网站](https://mp.weixin.qq.com/s/t95ToAiec2HqvfqwFoF9WA) (发布日期: 2026-10-24)
-- [【已复现】Node.js Brotli 解码器远程代码执行漏洞(CVE-2026-111497)安全风险通告](https://mp.weixin.qq.com/s/vqP8hKHpfVY-o-FaJPKs1g) (发布日期: 2026-10-24)
-- [PHP2Shell漏洞如何快速响应，安天发布多平台配置加固工具](https://mp.weixin.qq.com/s/VOAoXw3uAfPl_Ficqr1vlA) (发布日期: 2026-10-24)
-- [【安全圈】荷兰白帽暗推两百万补丁！终结废弃软件僵尸网络危机](https://mp.weixin.qq.com/s/rbRm4e3kkpS-4uWkhjL0sg) (发布日期: 2026-10-24)
-- [【安全圈】Ruby正则引擎爆底层缺陷！4个GitLab满分RCE连环穿](https://mp.weixin.qq.com/s/WlJhzr8gILN1bFhBGK630Q) (发布日期: 2026-10-24)
-- [漫谈AOSP蓝牙漏洞挖掘技术](https://mp.weixin.qq.com/s/tBpoFfNle2AVhaT58Adk5Q) (发布日期: 2026-10-24)
-- [基于模拟仿真的蓝牙协议栈漏洞挖掘](https://mp.weixin.qq.com/s/807FTqiNn9NK-L-YhKBrGQ) (发布日期: 2026-10-24)
-- [PHP 爆出 php2shell 双核 RCE（CVE-2026-109618 / CVE-2026-109619）：一个未授权 POST 请求就能拿 Shell](https://mp.weixin.qq.com/s/XOzEq3h7zSGoHIzNvuAkHg) (发布日期: 2026-10-24)
-- [EPS 冗余扭矩传感器的功能安全设计](https://mp.weixin.qq.com/s/WC5PSoyMyaB30XcjEZ3row) (发布日期: 2026-10-24)
-- [数据泄露情报2026.10.24 - 18万Edge加密货币钱包数据泄露](https://mp.weixin.qq.com/s/W9yY9RcQdSKe0qG8RTNUJQ) (发布日期: 2026-10-24)
-- [CISSP，慢慢考，第1章 “实现安全治理的原则和策略”笔记](https://mp.weixin.qq.com/s/sSCEi0gw-PJ9vylEha1quQ) (发布日期: 2026-10-24)
-- [php2shell漏洞全解析--带来的思考](https://mp.weixin.qq.com/s/VUDNJ56kdsivJQDi3qjiNg) (发布日期: 2026-10-24)
+- [日本大型快递公司佐川急便系统遭入侵 致大量个人信息泄露](https://mp.weixin.qq.com/s/Ni7cAeXkQHRx1js0W1g-lg) (发布日期: 2026-10-25)
+- [【已复现】Node.js Brotli 解码器越界写漏洞（CVE-2026-111497）](https://mp.weixin.qq.com/s/C_-_m_guBBjM2gtyRx2jdQ) (发布日期: 2026-10-25)
+- [Nextcloud 命令注入 9.2 分落 Webshell CVE-2026-110447](https://mp.weixin.qq.com/s/XeuqWvuwfM5pLxJ5m9dvFQ) (发布日期: 2026-10-25)
+- [银狐C2域名竟叫肉鸡在线：官方第八批通报3.2万台日控，与本报样本线索撞进同一家香港机房](https://mp.weixin.qq.com/s/Mu_Ldf6b3uc9WLoMQaLiOw) (发布日期: 2026-10-25)
+- [解压即入口：Brotli解码器越界写入影响Node.js（CVE-2026-111497）](https://mp.weixin.qq.com/s/3N5NFdz1AqfzyUDTmUpNwQ) (发布日期: 2026-10-25)
+- [【一个人的SOC】(11) 诚实降级——当 AI 不可靠时，SOC 的兜底设计](https://mp.weixin.qq.com/s/PVAACKVsgT-XSRqDNBRDUg) (发布日期: 2026-10-25)
+- [君说安全｜《医疗卫生机构数据安全和个人信息保护管理办法（试行）》解读](https://mp.weixin.qq.com/s/PWbp9QXRRo1jMZXFQee9HQ) (发布日期: 2026-10-25)
+- [Web框架漏洞盘点那些年拖垮无数网站的经典漏洞](https://mp.weixin.qq.com/s/stsKbko2wPLlt4D1ODq2jw) (发布日期: 2026-10-25)
+- [【AI安全】记一次提示词注入实战：数据泄露的渗透测试复盘](https://mp.weixin.qq.com/s/aGu-6wkQo3_VuWkietpoZw) (发布日期: 2026-10-25)
+- [数据泄露情报2026.10.25 - 636G俄罗斯1.6亿全体公民数据](https://mp.weixin.qq.com/s/SXjrIf3z8AbFkN4yUlIjHg) (发布日期: 2026-10-25)
+- [2026年福建省大学生数据安全大赛火热报名中！](https://mp.weixin.qq.com/s/mbaomg7I1upQrmcE2qyUHA) (发布日期: 2026-10-25)
+- [顶尖红队渗透提示词 黑掉一切](https://mp.weixin.qq.com/s/dFuZRiiv-U4AYxtZ47ziVA) (发布日期: 2026-10-25)
+- [PHP后Oracle发布多个安全漏洞](https://mp.weixin.qq.com/s/TXc5UcWBfwcLd18EorvIHw) (发布日期: 2026-10-25)
+- [从xa0403xa0到xa0RCExa0风险：PHP2Shellxa0漏洞全面解析与xa0PHP2ShellPOC2026xa03.0xa0实战](https://mp.weixin.qq.com/s/Yw_E80BofrqIuE2ddRzOwg) (发布日期: 2026-10-25)
+- [2026 PHP基础安全全景：从语法糖到RCE，每一个特性都是一条攻击链](https://mp.weixin.qq.com/s/F8K7rRt9BVIhbkxN0rzEeQ) (发布日期: 2026-10-25)
+- [一个没打上的补丁，为什么最终变成了一起安全事件？](https://mp.weixin.qq.com/s/a6Ua4u6CE0TFWzBqNOaDVA) (发布日期: 2026-10-25)
+- [某TSRC大佬付费价值1000元的POC漏洞知识库，免费梭哈！](https://mp.weixin.qq.com/s/_5i_hSI6AjvgJfeBgGN2SA) (发布日期: 2026-10-25)
 
 
 ## 🎯 威胁详情分析
@@ -93,41 +91,46 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 金叶物联网大数据管理平台download接口存在任意文件读取漏洞 xa0附POC | Doonsec | [https://mp.weixin.qq.com/s/cOFLScD2vSP-VndJRCHFhg](https://mp.weixin.qq.com/s/cOFLScD2vSP-VndJRCHFhg) |
-| 2 | 用缓冲区溢出漏洞把 3090 变成 A6000 | Doonsec | [https://mp.weixin.qq.com/s/wkiF7Mu9nsZUYztqKVRm3Q](https://mp.weixin.qq.com/s/wkiF7Mu9nsZUYztqKVRm3Q) |
-| 3 | GEEKCON 2026停赛之后：真正的安全，不怕漏洞被发现 | Doonsec | [https://mp.weixin.qq.com/s/KL637HDvNZZCW6EZldWBNw](https://mp.weixin.qq.com/s/KL637HDvNZZCW6EZldWBNw) |
-| 4 | GEEKCON 2026停赛之后：真正的安全，不怕漏洞被发现 | Doonsec | [https://mp.weixin.qq.com/s/xxeU6jBkFbAjnnuua_Zd8w](https://mp.weixin.qq.com/s/xxeU6jBkFbAjnnuua_Zd8w) |
-| 5 | 在看 | 周报：宜春网警打击侵犯公民个人信息犯罪团伙；PHP引擎曝两个9.2分免认证RCE漏洞，多国机构紧急下线网站 | Doonsec | [https://mp.weixin.qq.com/s/t95ToAiec2HqvfqwFoF9WA](https://mp.weixin.qq.com/s/t95ToAiec2HqvfqwFoF9WA) |
-| 6 | 【已复现】Node.js Brotli 解码器远程代码执行漏洞(CVE-2026-111497)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/vqP8hKHpfVY-o-FaJPKs1g](https://mp.weixin.qq.com/s/vqP8hKHpfVY-o-FaJPKs1g) |
-| 7 | PHP2Shell漏洞如何快速响应，安天发布多平台配置加固工具 | Doonsec | [https://mp.weixin.qq.com/s/VOAoXw3uAfPl_Ficqr1vlA](https://mp.weixin.qq.com/s/VOAoXw3uAfPl_Ficqr1vlA) |
-| 8 | 漫谈AOSP蓝牙漏洞挖掘技术 | Doonsec | [https://mp.weixin.qq.com/s/tBpoFfNle2AVhaT58Adk5Q](https://mp.weixin.qq.com/s/tBpoFfNle2AVhaT58Adk5Q) |
-| 9 | 基于模拟仿真的蓝牙协议栈漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/807FTqiNn9NK-L-YhKBrGQ](https://mp.weixin.qq.com/s/807FTqiNn9NK-L-YhKBrGQ) |
-| 10 | PHP 爆出 php2shell 双核 RCE（CVE-2026-109618 / CVE-2026-109619）：一个未授权 POST 请求就能拿 Shell | Doonsec | [https://mp.weixin.qq.com/s/XOzEq3h7zSGoHIzNvuAkHg](https://mp.weixin.qq.com/s/XOzEq3h7zSGoHIzNvuAkHg) |
-| 11 | php2shell漏洞全解析--带来的思考 | Doonsec | [https://mp.weixin.qq.com/s/VUDNJ56kdsivJQDi3qjiNg](https://mp.weixin.qq.com/s/VUDNJ56kdsivJQDi3qjiNg) |
+| 1 | 【已复现】Node.js Brotli 解码器越界写漏洞（CVE-2026-111497） | Doonsec | [https://mp.weixin.qq.com/s/C_-_m_guBBjM2gtyRx2jdQ](https://mp.weixin.qq.com/s/C_-_m_guBBjM2gtyRx2jdQ) |
+| 2 | Nextcloud 命令注入 9.2 分落 Webshell CVE-2026-110447 | Doonsec | [https://mp.weixin.qq.com/s/XeuqWvuwfM5pLxJ5m9dvFQ](https://mp.weixin.qq.com/s/XeuqWvuwfM5pLxJ5m9dvFQ) |
+| 3 | 解压即入口：Brotli解码器越界写入影响Node.js（CVE-2026-111497） | Doonsec | [https://mp.weixin.qq.com/s/3N5NFdz1AqfzyUDTmUpNwQ](https://mp.weixin.qq.com/s/3N5NFdz1AqfzyUDTmUpNwQ) |
+| 4 | Web框架漏洞盘点那些年拖垮无数网站的经典漏洞 | Doonsec | [https://mp.weixin.qq.com/s/stsKbko2wPLlt4D1ODq2jw](https://mp.weixin.qq.com/s/stsKbko2wPLlt4D1ODq2jw) |
+| 5 | PHP后Oracle发布多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s/TXc5UcWBfwcLd18EorvIHw](https://mp.weixin.qq.com/s/TXc5UcWBfwcLd18EorvIHw) |
+| 6 | 从xa0403xa0到xa0RCExa0风险：PHP2Shellxa0漏洞全面解析与xa0PHP2ShellPOC2026xa03.0xa0实战 | Doonsec | [https://mp.weixin.qq.com/s/Yw_E80BofrqIuE2ddRzOwg](https://mp.weixin.qq.com/s/Yw_E80BofrqIuE2ddRzOwg) |
+| 7 | 某TSRC大佬付费价值1000元的POC漏洞知识库，免费梭哈！ | Doonsec | [https://mp.weixin.qq.com/s/_5i_hSI6AjvgJfeBgGN2SA](https://mp.weixin.qq.com/s/_5i_hSI6AjvgJfeBgGN2SA) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 别再搜2022年的博客了：B00t2R00t把从初始立足点到域控的每一步都画好了 | Doonsec | [https://mp.weixin.qq.com/s/Jl2I2Zze46FJIskbFWbUXw](https://mp.weixin.qq.com/s/Jl2I2Zze46FJIskbFWbUXw) |
-| 2 | 十二年轮回：GitLab 满分 RCE 的解剖与警示 | Doonsec | [https://mp.weixin.qq.com/s/2wigI5nmCrFUjpOSI58_eQ](https://mp.weixin.qq.com/s/2wigI5nmCrFUjpOSI58_eQ) |
-| 3 | 从Token伪造到SQL注入，四步打穿某监管平台全库 | Doonsec | [https://mp.weixin.qq.com/s/9sZc24roErlvhpxQPsBVAQ](https://mp.weixin.qq.com/s/9sZc24roErlvhpxQPsBVAQ) |
-| 4 | 速修 | WordPress 备份插件未认证 PHP 对象注入，9.8 分 | Doonsec | [https://mp.weixin.qq.com/s/Zm5I5K4tM3aNM6yAcOsM4A](https://mp.weixin.qq.com/s/Zm5I5K4tM3aNM6yAcOsM4A) |
-| 5 | 在看 | 周报：宜春网警打击侵犯公民个人信息犯罪团伙；PHP引擎曝两个9.2分免认证RCE漏洞，多国机构紧急下线网站 | Doonsec | [https://mp.weixin.qq.com/s/t95ToAiec2HqvfqwFoF9WA](https://mp.weixin.qq.com/s/t95ToAiec2HqvfqwFoF9WA) |
-| 6 | 【已复现】Node.js Brotli 解码器远程代码执行漏洞(CVE-2026-111497)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/vqP8hKHpfVY-o-FaJPKs1g](https://mp.weixin.qq.com/s/vqP8hKHpfVY-o-FaJPKs1g) |
-| 7 | 【安全圈】Ruby正则引擎爆底层缺陷！4个GitLab满分RCE连环穿 | Doonsec | [https://mp.weixin.qq.com/s/WlJhzr8gILN1bFhBGK630Q](https://mp.weixin.qq.com/s/WlJhzr8gILN1bFhBGK630Q) |
-| 8 | PHP 爆出 php2shell 双核 RCE（CVE-2026-109618 / CVE-2026-109619）：一个未授权 POST 请求就能拿 Shell | Doonsec | [https://mp.weixin.qq.com/s/XOzEq3h7zSGoHIzNvuAkHg](https://mp.weixin.qq.com/s/XOzEq3h7zSGoHIzNvuAkHg) |
+| 1 | Nextcloud 命令注入 9.2 分落 Webshell CVE-2026-110447 | Doonsec | [https://mp.weixin.qq.com/s/XeuqWvuwfM5pLxJ5m9dvFQ](https://mp.weixin.qq.com/s/XeuqWvuwfM5pLxJ5m9dvFQ) |
+| 2 | 【AI安全】记一次提示词注入实战：数据泄露的渗透测试复盘 | Doonsec | [https://mp.weixin.qq.com/s/aGu-6wkQo3_VuWkietpoZw](https://mp.weixin.qq.com/s/aGu-6wkQo3_VuWkietpoZw) |
+| 3 | 从xa0403xa0到xa0RCExa0风险：PHP2Shellxa0漏洞全面解析与xa0PHP2ShellPOC2026xa03.0xa0实战 | Doonsec | [https://mp.weixin.qq.com/s/Yw_E80BofrqIuE2ddRzOwg](https://mp.weixin.qq.com/s/Yw_E80BofrqIuE2ddRzOwg) |
+| 4 | 2026 PHP基础安全全景：从语法糖到RCE，每一个特性都是一条攻击链 | Doonsec | [https://mp.weixin.qq.com/s/F8K7rRt9BVIhbkxN0rzEeQ](https://mp.weixin.qq.com/s/F8K7rRt9BVIhbkxN0rzEeQ) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 银狐C2域名竟叫肉鸡在线：官方第八批通报3.2万台日控，与本报样本线索撞进同一家香港机房 | Doonsec | [https://mp.weixin.qq.com/s/Mu_Ldf6b3uc9WLoMQaLiOw](https://mp.weixin.qq.com/s/Mu_Ldf6b3uc9WLoMQaLiOw) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 某TSRC大佬付费价值1000元的POC漏洞知识库，免费梭哈！ | Doonsec | [https://mp.weixin.qq.com/s/_5i_hSI6AjvgJfeBgGN2SA](https://mp.weixin.qq.com/s/_5i_hSI6AjvgJfeBgGN2SA) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 数据泄露情报2026.10.24 - 18万Edge加密货币钱包数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/W9yY9RcQdSKe0qG8RTNUJQ](https://mp.weixin.qq.com/s/W9yY9RcQdSKe0qG8RTNUJQ) |
+| 1 | 【AI安全】记一次提示词注入实战：数据泄露的渗透测试复盘 | Doonsec | [https://mp.weixin.qq.com/s/aGu-6wkQo3_VuWkietpoZw](https://mp.weixin.qq.com/s/aGu-6wkQo3_VuWkietpoZw) |
+| 2 | 数据泄露情报2026.10.25 - 636G俄罗斯1.6亿全体公民数据 | Doonsec | [https://mp.weixin.qq.com/s/SXjrIf3z8AbFkN4yUlIjHg](https://mp.weixin.qq.com/s/SXjrIf3z8AbFkN4yUlIjHg) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-10/2026-W43/2026-10-24/`
+文章已归档到: `doc/2026/2026-10/2026-W43/2026-10-25/`
 
 ## 🔗 数据源说明
 
@@ -138,8 +141,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 5 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -148,5 +151,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-10-24 15:37:31*
+*生成时间: 2026-10-25 03:52:45*
 *报告工具: 微信文章安全归档系统*
