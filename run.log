@@ -130777,3 +130777,44 @@
 2026-10-26 09:58:29,559 - INFO - 正在发送Discord日报通知: 2026-10-26
 2026-10-26 09:58:29,821 - INFO - Discord日报发送结果: 204
 2026-10-26 09:58:29,822 - INFO - === 执行完成 ===
+2026-10-26 18:28:10,846 - INFO - === 开始执行微信文章归档工具 ===
+2026-10-26 18:28:10,846 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-10-26 18:28:10,847 - INFO - 正在发送Discord启动通知...
+2026-10-26 18:28:11,270 - INFO - Discord启动通知发送结果: 204
+2026-10-26 18:28:11,272 - INFO - 数据文件: data.json
+2026-10-26 18:28:11,272 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-10-26 18:28:11,272 - INFO - 文档目录: doc
+2026-10-26 18:28:11,331 - INFO - 已加载 52918 条历史记录
+2026-10-26 18:28:11,332 - INFO - === 开始今日拉取 ===
+2026-10-26 18:28:11,332 - INFO - 开始获取Doonsec RSS
+2026-10-26 18:28:11,332 - INFO - 目标日期: 2026-10-26
+2026-10-26 18:28:14,244 - INFO - Doonsec RSS请求成功
+2026-10-26 18:28:14,245 - INFO - RSS中共有 200 个条目
+2026-10-26 18:28:14,245 - INFO - Doonsec获取到 149 个2026-10-26的微信文章URL
+2026-10-26 18:28:14,246 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-10-26.md
+2026-10-26 18:28:14,334 - INFO - ChainReactors md文件下载状态码: 404
+2026-10-26 18:28:14,334 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-10-26.md 状态码: 404
+2026-10-26 18:28:14,334 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-10-26.md
+2026-10-26 18:28:14,414 - INFO - BruceFeIix md文件下载状态码: 200
+2026-10-26 18:28:14,415 - INFO - BruceFeIix获取到 106 个URL
+2026-10-26 18:28:14,415 - INFO - === 开始处理 2026-10-26 的数据 ===
+2026-10-26 18:28:14,415 - INFO - Doonsec原始数据: 149 个
+2026-10-26 18:28:14,415 - INFO - ChainReactors原始数据: 0 个
+2026-10-26 18:28:14,415 - INFO - BruceFeIix原始数据: 106 个
+2026-10-26 18:28:14,416 - INFO - 开始处理Doonsec数据...
+2026-10-26 18:28:14,416 - INFO - 开始处理ChainReactors数据...
+2026-10-26 18:28:14,416 - INFO - 开始处理BruceFeIix数据...
+2026-10-26 18:28:14,416 - INFO - 去重后共 186 个URL待处理，跳过 69 个重复URL
+2026-10-26 18:28:14,416 - INFO - 去重后统计 - Doonsec: 107 个, ChainReactors: 0 个, BruceFeIix: 79 个
+2026-10-26 18:28:14,416 - INFO - === 开始关键词过滤 ===
+2026-10-26 18:28:14,421 - INFO - 关键词过滤: 匹配 1 个，跳过 185 个
+2026-10-26 18:28:14,421 - INFO - 关键词过滤后统计 - Doonsec: 1 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-10-26 18:28:14,514 - INFO - 已创建每日报告: md/2026-10-26.md
+2026-10-26 18:28:14,514 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-10-26 18:28:14,514 - INFO - 正在发送Discord通知: 免费测试！腾讯云AI渗透测试面向高校开放体检
+2026-10-26 18:28:14,748 - INFO - Discord通知发送结果: 204
+2026-10-26 18:28:14,874 - INFO - 已更新data.json，添加了 1 个URL
+2026-10-26 18:28:14,913 - INFO - 已创建每日报告: md/2026-10-26.md
+2026-10-26 18:28:14,913 - INFO - 正在发送Discord日报通知: 2026-10-26
+2026-10-26 18:28:15,169 - INFO - Discord日报发送结果: 204
+2026-10-26 18:28:15,170 - INFO - === 执行完成 ===

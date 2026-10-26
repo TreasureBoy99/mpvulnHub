@@ -2,21 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 22
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 17篇
-  - BruceFeIix: 5篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **攻击技术**: 4篇
-- **威胁情报**: 2篇
-- **信息泄露**: 2篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,71 +59,10 @@
 
 ### Doonsec
 
-- [信息安全工程师5天修炼，适合新手](https://mp.weixin.qq.com/s/Qwusm4gsCkb6A_ljFbqFUw) (发布日期: 2026-10-26)
-- [雷神众测漏洞周报2026.10.19-2026.10.25](https://mp.weixin.qq.com/s/WcPB-Rxx_-JxCQFol2QniQ) (发布日期: 2026-10-26)
-- [国家计算机病毒应急处理中心检测发现84款违法违规收集使用个人信息的移动应用](https://mp.weixin.qq.com/s/bQq25zzYGHITsUAchN8wyw) (发布日期: 2026-10-26)
-- [某乎转发超30K+的Web安全攻防笔记，学网安必备](https://mp.weixin.qq.com/s/3GxBC2htAG9aij1vfnujXw) (发布日期: 2026-10-26)
-- [【漏洞预警】GitLab未授权远程代码执行漏洞（CVE-2026-110264）](https://mp.weixin.qq.com/s/SWkXpuN5YIRSRK86SN-wsA) (发布日期: 2026-10-26)
-- [PHP远程代码执行漏洞(CVE-2026-109618、CVE-2026-109619)通告](https://mp.weixin.qq.com/s/Sagz4j9BoO7OqQdGGaMAVA) (发布日期: 2026-10-26)
-- [银狐木马再升级｜“镜昙” 团伙镜像投毒、定时失活攻击专项研判](https://mp.weixin.qq.com/s/8fDUDrMtxm4_J20OCW3_QQ) (发布日期: 2026-10-26)
-- [招商银行重庆涪陵分行因“数据安全”等3项违规被罚33.5万元](https://mp.weixin.qq.com/s/kTUnKYexQNQbw-jZbwLjVQ) (发布日期: 2026-10-26)
-- [江苏电信网络安全、AI安全、数据安全技能竞赛服务采购项目成交候选人公示](https://mp.weixin.qq.com/s/a7AvtDN_qmLiETa9h3zJDg) (发布日期: 2026-10-26)
-- [2026年福建省大学生数据安全大赛火热报名中！](https://mp.weixin.qq.com/s/DytEuFQY09RagdO5cl3UFQ) (发布日期: 2026-10-26)
-- [国家计算机病毒应急处理中心通报84款App：医疗、交通、教育等行业隐私告知不全、越权采集、账号注销难等问题多发](https://mp.weixin.qq.com/s/G4IQoUfckT96bHK_S0JXQg) (发布日期: 2026-10-26)
-- [【0day预警】写进去的代码， 总有人替你执行： DedeCMS 的三个 RCE](https://mp.weixin.qq.com/s/8ol2gXy8_kiD4cIapXM_dQ) (发布日期: 2026-10-26)
-- [“2026央国企数据安全可信”专题访谈邀约](https://mp.weixin.qq.com/s/spXoXlDr85g_gpBip-wSaA) (发布日期: 2026-10-26)
-- [一次中风险漏洞处理复盘：从RSA密钥交换到全面启用TLSv1.3](https://mp.weixin.qq.com/s/k3JDYetQ9f-BqWgaLuUc-w) (发布日期: 2026-10-26)
-- [2026-10月Solar应急响应公益月赛！](https://mp.weixin.qq.com/s/0cJMTeSoWovdL1JiSOCLhg) (发布日期: 2026-10-26)
-- [php2shell：CVE-2026-109618 / 109619：PHP 的各类部署的修复方案](https://mp.weixin.qq.com/s/2X2WnSfICK3epylZ_n3gQQ) (发布日期: 2026-10-26)
-- [DSH Pentest 更新：挖洞与红队双模式，Windows EXE 修复版](https://mp.weixin.qq.com/s/p2PWmDQE5bvvTAhl8yUWyA) (发布日期: 2026-10-26)
-
-### BruceFeIix
-
-- [ ] [数据泄露情报2026.10.25 - 636G俄罗斯1.6亿](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489985&idx=1&sn=c2b7bb5c4b5c1880949f9b1ffa42095d) (发布日期: 2026-10-26)
-- [ ] [数据泄露情报2026.10.25 - 636G俄罗斯1.6亿全体公民数据](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489979&idx=1&sn=1ebc72a6d268140e5764cb5f040e3bf3) (发布日期: 2026-10-26)
-- [ ] [人比漏洞可怕](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487290&idx=1&sn=4e9b432cc478032f34fd84756fafe538) (发布日期: 2026-10-26)
-- [ ] [【攻击检测规则与迹象排查】PHP 远程代码执行漏洞(CVE-2026-109618、CVE-2026-109619)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507942&idx=1&sn=1d806a8c45e242baca7ea7cd201c68df) (发布日期: 2026-10-26)
-- [ ] [【安全圈】AI攻陷全球互联网！48小时27个核弹级漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079533&idx=3&sn=f65f1a03fd53580838c1a448c50df754) (发布日期: 2026-10-26)
+- [免费测试！腾讯云AI渗透测试面向高校开放体检](https://mp.weixin.qq.com/s/kdeTtCRMq3iKOpZJ-gjKEg) (发布日期: 2026-10-26)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 雷神众测漏洞周报2026.10.19-2026.10.25 | Doonsec | [https://mp.weixin.qq.com/s/WcPB-Rxx_-JxCQFol2QniQ](https://mp.weixin.qq.com/s/WcPB-Rxx_-JxCQFol2QniQ) |
-| 2 | 【漏洞预警】GitLab未授权远程代码执行漏洞（CVE-2026-110264） | Doonsec | [https://mp.weixin.qq.com/s/SWkXpuN5YIRSRK86SN-wsA](https://mp.weixin.qq.com/s/SWkXpuN5YIRSRK86SN-wsA) |
-| 3 | PHP远程代码执行漏洞(CVE-2026-109618、CVE-2026-109619)通告 | Doonsec | [https://mp.weixin.qq.com/s/Sagz4j9BoO7OqQdGGaMAVA](https://mp.weixin.qq.com/s/Sagz4j9BoO7OqQdGGaMAVA) |
-| 4 | 【0day预警】写进去的代码， 总有人替你执行： DedeCMS 的三个 RCE | Doonsec | [https://mp.weixin.qq.com/s/8ol2gXy8_kiD4cIapXM_dQ](https://mp.weixin.qq.com/s/8ol2gXy8_kiD4cIapXM_dQ) |
-| 5 | 一次中风险漏洞处理复盘：从RSA密钥交换到全面启用TLSv1.3 | Doonsec | [https://mp.weixin.qq.com/s/k3JDYetQ9f-BqWgaLuUc-w](https://mp.weixin.qq.com/s/k3JDYetQ9f-BqWgaLuUc-w) |
-| 6 | php2shell：CVE-2026-109618 / 109619：PHP 的各类部署的修复方案 | Doonsec | [https://mp.weixin.qq.com/s/2X2WnSfICK3epylZ_n3gQQ](https://mp.weixin.qq.com/s/2X2WnSfICK3epylZ_n3gQQ) |
-| 7 |  ] [人比漏洞可怕 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487290&idx=1&sn=4e9b432cc478032f34fd84756fafe538](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487290&idx=1&sn=4e9b432cc478032f34fd84756fafe538) |
-| 8 |  ] [【攻击检测规则与迹象排查】PHP 远程代码执行漏洞(CVE-2026-109618、CVE-2026-109619)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507942&idx=1&sn=1d806a8c45e242baca7ea7cd201c68df](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507942&idx=1&sn=1d806a8c45e242baca7ea7cd201c68df) |
-| 9 |  ] [【安全圈】AI攻陷全球互联网！48小时27个核弹级漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079533&idx=3&sn=f65f1a03fd53580838c1a448c50df754](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079533&idx=3&sn=f65f1a03fd53580838c1a448c50df754) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【漏洞预警】GitLab未授权远程代码执行漏洞（CVE-2026-110264） | Doonsec | [https://mp.weixin.qq.com/s/SWkXpuN5YIRSRK86SN-wsA](https://mp.weixin.qq.com/s/SWkXpuN5YIRSRK86SN-wsA) |
-| 2 | PHP远程代码执行漏洞(CVE-2026-109618、CVE-2026-109619)通告 | Doonsec | [https://mp.weixin.qq.com/s/Sagz4j9BoO7OqQdGGaMAVA](https://mp.weixin.qq.com/s/Sagz4j9BoO7OqQdGGaMAVA) |
-| 3 | 【0day预警】写进去的代码， 总有人替你执行： DedeCMS 的三个 RCE | Doonsec | [https://mp.weixin.qq.com/s/8ol2gXy8_kiD4cIapXM_dQ](https://mp.weixin.qq.com/s/8ol2gXy8_kiD4cIapXM_dQ) |
-| 4 |  ] [【攻击检测规则与迹象排查】PHP 远程代码执行漏洞(CVE-2026-109618、CVE-2026-109619)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507942&idx=1&sn=1d806a8c45e242baca7ea7cd201c68df](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507942&idx=1&sn=1d806a8c45e242baca7ea7cd201c68df) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 银狐木马再升级｜“镜昙” 团伙镜像投毒、定时失活攻击专项研判 | Doonsec | [https://mp.weixin.qq.com/s/8fDUDrMtxm4_J20OCW3_QQ](https://mp.weixin.qq.com/s/8fDUDrMtxm4_J20OCW3_QQ) |
-| 2 | 2026-10月Solar应急响应公益月赛！ | Doonsec | [https://mp.weixin.qq.com/s/0cJMTeSoWovdL1JiSOCLhg](https://mp.weixin.qq.com/s/0cJMTeSoWovdL1JiSOCLhg) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [数据泄露情报2026.10.25 - 636G俄罗斯1.6亿 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489985&idx=1&sn=c2b7bb5c4b5c1880949f9b1ffa42095d](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489985&idx=1&sn=c2b7bb5c4b5c1880949f9b1ffa42095d) |
-| 2 |  ] [数据泄露情报2026.10.25 - 636G俄罗斯1.6亿全体公民数据 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489979&idx=1&sn=1ebc72a6d268140e5764cb5f040e3bf3](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489979&idx=1&sn=1ebc72a6d268140e5764cb5f040e3bf3) |
 
 
 ## 📁 归档路径
@@ -145,8 +78,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -155,5 +88,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-10-26 09:58:29*
+*生成时间: 2026-10-26 18:28:14*
 *报告工具: 微信文章安全归档系统*
