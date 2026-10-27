@@ -130853,3 +130853,70 @@
 2026-10-26 23:38:43,341 - INFO - === 跳过二进制文件处理，只更新data.json ===
 2026-10-26 23:38:43,394 - INFO - 已更新data.json，添加了 0 个URL
 2026-10-26 23:38:43,394 - INFO - === 执行完成 ===
+2026-10-27 04:17:50,985 - INFO - === 开始执行微信文章归档工具 ===
+2026-10-27 04:17:50,985 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-10-27 04:17:50,985 - INFO - 正在发送Discord启动通知...
+2026-10-27 04:17:51,310 - INFO - Discord启动通知发送结果: 204
+2026-10-27 04:17:51,313 - INFO - 数据文件: data.json
+2026-10-27 04:17:51,313 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-10-27 04:17:51,313 - INFO - 文档目录: doc
+2026-10-27 04:17:51,385 - INFO - 已加载 52919 条历史记录
+2026-10-27 04:17:51,385 - INFO - === 开始今日拉取 ===
+2026-10-27 04:17:51,385 - INFO - 开始获取Doonsec RSS
+2026-10-27 04:17:51,385 - INFO - 目标日期: 2026-10-27
+2026-10-27 04:17:53,119 - INFO - Doonsec RSS请求成功
+2026-10-27 04:17:53,120 - INFO - RSS中共有 200 个条目
+2026-10-27 04:17:53,121 - INFO - Doonsec获取到 43 个2026-10-27的微信文章URL
+2026-10-27 04:17:53,122 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-10-27.md
+2026-10-27 04:17:53,205 - INFO - ChainReactors md文件下载状态码: 404
+2026-10-27 04:17:53,205 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-10-27.md 状态码: 404
+2026-10-27 04:17:53,205 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-10-27.md
+2026-10-27 04:17:53,289 - INFO - BruceFeIix md文件下载状态码: 404
+2026-10-27 04:17:53,290 - WARNING - BruceFeIix md文件下载失败: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-10-27.md 状态码: 404
+2026-10-27 04:17:53,290 - INFO - === 开始处理 2026-10-27 的数据 ===
+2026-10-27 04:17:53,290 - INFO - Doonsec原始数据: 43 个
+2026-10-27 04:17:53,290 - INFO - ChainReactors原始数据: 0 个
+2026-10-27 04:17:53,290 - INFO - BruceFeIix原始数据: 0 个
+2026-10-27 04:17:53,290 - INFO - 开始处理Doonsec数据...
+2026-10-27 04:17:53,290 - INFO - 开始处理ChainReactors数据...
+2026-10-27 04:17:53,290 - INFO - 开始处理BruceFeIix数据...
+2026-10-27 04:17:53,290 - INFO - 去重后共 43 个URL待处理，跳过 0 个重复URL
+2026-10-27 04:17:53,291 - INFO - 去重后统计 - Doonsec: 43 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-10-27 04:17:53,291 - INFO - === 开始关键词过滤 ===
+2026-10-27 04:17:53,292 - INFO - 关键词过滤: 匹配 14 个，跳过 29 个
+2026-10-27 04:17:53,292 - INFO - 关键词过滤后统计 - Doonsec: 14 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-10-27 04:17:53,307 - INFO - 已创建每日报告: md/2026-10-27.md
+2026-10-27 04:17:53,307 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-10-27 04:17:53,307 - INFO - 正在发送Discord通知: 多 Agent Harness 如何把漏洞告警变成可复核证据
+2026-10-27 04:17:53,553 - INFO - Discord通知发送结果: 204
+2026-10-27 04:17:53,554 - INFO - 正在发送Discord通知: Lazarus 用后量子加密隐藏恶意载荷，安全检测也在被 “绕路”
+2026-10-27 04:17:53,781 - INFO - Discord通知发送结果: 204
+2026-10-27 04:17:53,782 - INFO - 正在发送Discord通知: 【已复现】漏洞通告 | Node.js Brotli 解码器远程代码执行漏洞(CVE-2026-111497)
+2026-10-27 04:17:54,019 - INFO - Discord通知发送结果: 204
+2026-10-27 04:17:54,020 - INFO - 正在发送Discord通知: 内网巡检实用工具合集，上手实操要点
+2026-10-27 04:17:54,451 - INFO - Discord通知发送结果: 204
+2026-10-27 04:17:54,452 - INFO - 正在发送Discord通知: 360图龙锋攻破“逻辑漏洞”难题！研究成果再斩国际顶会
+2026-10-27 04:17:54,730 - INFO - Discord通知发送结果: 204
+2026-10-27 04:17:54,731 - INFO - 正在发送Discord通知: 银狐情报｜CTG段位单日5→8段，仿冒远程工具安装包首见
+2026-10-27 04:17:55,211 - INFO - Discord通知发送结果: 204
+2026-10-27 04:17:55,212 - INFO - 正在发送Discord通知: 每日漏洞推送  zip-rs ≤ 9.0.4 双头部脱同步（Zip Cloaking）→ 扫描器放行、解压器落盘任意文件
+2026-10-27 04:17:58,519 - INFO - Discord通知发送结果: 204
+2026-10-27 04:17:58,520 - INFO - 正在发送Discord通知: 授权培训机构2026年11月CISP培训开班计划公告
+2026-10-27 04:17:58,817 - INFO - Discord通知发送结果: 204
+2026-10-27 04:17:58,818 - INFO - 正在发送Discord通知: 【教程】情报分析 -分析师的心智与偏差
+2026-10-27 04:17:59,063 - INFO - Discord通知发送结果: 204
+2026-10-27 04:17:59,064 - INFO - 正在发送Discord通知: 资产侦察与漏洞管理平台 -- 4zreark（10月26日更新）
+2026-10-27 04:17:59,263 - INFO - Discord通知发送结果: 204
+2026-10-27 04:17:59,264 - INFO - 正在发送Discord通知: 研究员凭PHP2Shell漏洞赢得比特币挑战赛，获两千美元奖金并发布PoC
+2026-10-27 04:17:59,487 - INFO - Discord通知发送结果: 204
+2026-10-27 04:17:59,488 - INFO - 正在发送Discord通知: NodeGoat 靶场实战：Node.js 原型链污染与 NoSQL 注入
+2026-10-27 04:18:00,574 - INFO - Discord通知发送结果: 204
+2026-10-27 04:18:00,575 - INFO - 正在发送Discord通知: 【每日漏洞预警】10月27日 · TOTOLINK 10.0 未授权栈溢出，Avocent 9.8 提权
+2026-10-27 04:18:00,777 - INFO - Discord通知发送结果: 204
+2026-10-27 04:18:00,778 - INFO - 正在发送Discord通知: Tailscale SSH 漏洞可导致提权至 root
+2026-10-27 04:18:01,577 - INFO - Discord通知发送结果: 204
+2026-10-27 04:18:01,657 - INFO - 已更新data.json，添加了 14 个URL
+2026-10-27 04:18:01,659 - INFO - 已创建每日报告: md/2026-10-27.md
+2026-10-27 04:18:01,659 - INFO - 正在发送Discord日报通知: 2026-10-27
+2026-10-27 04:18:01,870 - INFO - Discord日报发送结果: 204
+2026-10-27 04:18:01,871 - INFO - === 执行完成 ===
