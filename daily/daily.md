@@ -1,16 +1,20 @@
-# 2026-10-26 安全威胁态势报告
+# 2026-10-27 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 14
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 8篇
+- **攻击技术**: 3篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -59,15 +63,55 @@
 
 ### Doonsec
 
-- [免费测试！腾讯云AI渗透测试面向高校开放体检](https://mp.weixin.qq.com/s/kdeTtCRMq3iKOpZJ-gjKEg) (发布日期: 2026-10-26)
+- [多 Agent Harness 如何把漏洞告警变成可复核证据](https://mp.weixin.qq.com/s/5vavG-wf7jX3oTL-xzbfvg) (发布日期: 2026-10-27)
+- [Lazarus 用后量子加密隐藏恶意载荷，安全检测也在被 “绕路”](https://mp.weixin.qq.com/s/NibC7ytg1k8EM-SKgNKfEA) (发布日期: 2026-10-27)
+- [【已复现】漏洞通告 | Node.js Brotli 解码器远程代码执行漏洞(CVE-2026-111497)](https://mp.weixin.qq.com/s/RZQZP6j_G6Wnl35lb_e1rg) (发布日期: 2026-10-27)
+- [内网巡检实用工具合集，上手实操要点](https://mp.weixin.qq.com/s/ia0i3RfVanDApNOLA-ICsw) (发布日期: 2026-10-27)
+- [360图龙锋攻破“逻辑漏洞”难题！研究成果再斩国际顶会](https://mp.weixin.qq.com/s/e3pRFt7ftqtLHXEQleAp7w) (发布日期: 2026-10-27)
+- [银狐情报｜CTG段位单日5→8段，仿冒远程工具安装包首见](https://mp.weixin.qq.com/s/yQ604yvJseBW_7amNSCrHA) (发布日期: 2026-10-27)
+- [每日漏洞推送  zip-rs ≤ 9.0.4 双头部脱同步（Zip Cloaking）→ 扫描器放行、解压器落盘任意文件](https://mp.weixin.qq.com/s/61fk3nlNNVmrhE7ezJWFlg) (发布日期: 2026-10-27)
+- [授权培训机构2026年11月CISP培训开班计划公告](https://mp.weixin.qq.com/s/NiPpR0_lPoV90aEwdUA98Q) (发布日期: 2026-10-27)
+- [【教程】情报分析 -分析师的心智与偏差](https://mp.weixin.qq.com/s/3yUYIcVeo5qegxwLjBB5qw) (发布日期: 2026-10-27)
+- [资产侦察与漏洞管理平台 -- 4zreark（10月26日更新）](https://mp.weixin.qq.com/s/YvqIWnIoc9GZFgzp56V2yA) (发布日期: 2026-10-27)
+- [研究员凭PHP2Shell漏洞赢得比特币挑战赛，获两千美元奖金并发布PoC](https://mp.weixin.qq.com/s/visLwiY2uhFpn8MfRprjeQ) (发布日期: 2026-10-27)
+- [NodeGoat 靶场实战：Node.js 原型链污染与 NoSQL 注入](https://mp.weixin.qq.com/s/OfBQxuXwuSEBG61r1ZIovQ) (发布日期: 2026-10-27)
+- [【每日漏洞预警】10月27日 · TOTOLINK 10.0 未授权栈溢出，Avocent 9.8 提权](https://mp.weixin.qq.com/s/IWETdbVupnjxE-agGfqEfQ) (发布日期: 2026-10-27)
+- [Tailscale SSH 漏洞可导致提权至 root](https://mp.weixin.qq.com/s/R-8iyvLV30cylod5e0h7uw) (发布日期: 2026-10-27)
 
 
 ## 🎯 威胁详情分析
 
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 多 Agent Harness 如何把漏洞告警变成可复核证据 | Doonsec | [https://mp.weixin.qq.com/s/5vavG-wf7jX3oTL-xzbfvg](https://mp.weixin.qq.com/s/5vavG-wf7jX3oTL-xzbfvg) |
+| 2 | 【已复现】漏洞通告 | Node.js Brotli 解码器远程代码执行漏洞(CVE-2026-111497) | Doonsec | [https://mp.weixin.qq.com/s/RZQZP6j_G6Wnl35lb_e1rg](https://mp.weixin.qq.com/s/RZQZP6j_G6Wnl35lb_e1rg) |
+| 3 | 360图龙锋攻破“逻辑漏洞”难题！研究成果再斩国际顶会 | Doonsec | [https://mp.weixin.qq.com/s/e3pRFt7ftqtLHXEQleAp7w](https://mp.weixin.qq.com/s/e3pRFt7ftqtLHXEQleAp7w) |
+| 4 | 每日漏洞推送  zip-rs ≤ 9.0.4 双头部脱同步（Zip Cloaking）→ 扫描器放行、解压器落盘任意文件 | Doonsec | [https://mp.weixin.qq.com/s/61fk3nlNNVmrhE7ezJWFlg](https://mp.weixin.qq.com/s/61fk3nlNNVmrhE7ezJWFlg) |
+| 5 | 资产侦察与漏洞管理平台 -- 4zreark（10月26日更新） | Doonsec | [https://mp.weixin.qq.com/s/YvqIWnIoc9GZFgzp56V2yA](https://mp.weixin.qq.com/s/YvqIWnIoc9GZFgzp56V2yA) |
+| 6 | 研究员凭PHP2Shell漏洞赢得比特币挑战赛，获两千美元奖金并发布PoC | Doonsec | [https://mp.weixin.qq.com/s/visLwiY2uhFpn8MfRprjeQ](https://mp.weixin.qq.com/s/visLwiY2uhFpn8MfRprjeQ) |
+| 7 | 【每日漏洞预警】10月27日 · TOTOLINK 10.0 未授权栈溢出，Avocent 9.8 提权 | Doonsec | [https://mp.weixin.qq.com/s/IWETdbVupnjxE-agGfqEfQ](https://mp.weixin.qq.com/s/IWETdbVupnjxE-agGfqEfQ) |
+| 8 | Tailscale SSH 漏洞可导致提权至 root | Doonsec | [https://mp.weixin.qq.com/s/R-8iyvLV30cylod5e0h7uw](https://mp.weixin.qq.com/s/R-8iyvLV30cylod5e0h7uw) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【已复现】漏洞通告 | Node.js Brotli 解码器远程代码执行漏洞(CVE-2026-111497) | Doonsec | [https://mp.weixin.qq.com/s/RZQZP6j_G6Wnl35lb_e1rg](https://mp.weixin.qq.com/s/RZQZP6j_G6Wnl35lb_e1rg) |
+| 2 | 内网巡检实用工具合集，上手实操要点 | Doonsec | [https://mp.weixin.qq.com/s/ia0i3RfVanDApNOLA-ICsw](https://mp.weixin.qq.com/s/ia0i3RfVanDApNOLA-ICsw) |
+| 3 | NodeGoat 靶场实战：Node.js 原型链污染与 NoSQL 注入 | Doonsec | [https://mp.weixin.qq.com/s/OfBQxuXwuSEBG61r1ZIovQ](https://mp.weixin.qq.com/s/OfBQxuXwuSEBG61r1ZIovQ) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 银狐情报｜CTG段位单日5→8段，仿冒远程工具安装包首见 | Doonsec | [https://mp.weixin.qq.com/s/yQ604yvJseBW_7amNSCrHA](https://mp.weixin.qq.com/s/yQ604yvJseBW_7amNSCrHA) |
+
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-10/2026-W44/2026-10-26/`
+文章已归档到: `doc/2026/2026-10/2026-W44/2026-10-27/`
 
 ## 🔗 数据源说明
 
@@ -78,8 +122,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -88,5 +132,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-10-26 18:28:14*
+*生成时间: 2026-10-27 04:18:01*
 *报告工具: 微信文章安全归档系统*
