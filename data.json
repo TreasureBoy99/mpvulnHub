@@ -52974,5 +52974,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079575&idx=2&sn=0d9cfc8565a5ceac0ae6b7b8d185746f": " ] [【安全圈】Tailscale SSH未修补漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079575&idx=3&sn=2f9ee707133b4d0ee0478e5c9ee6ae07": " ] [【安全圈】Electrum钱包漏洞：转账地址被偷换！",
     "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143045&idx=2&sn=8eec655a3525c762bc76fb4ebb7b9f2c": " ] [美网络安全保险呈现 “少发、重损” 新特征；CNCERT发布“银狐”木马“镜昙（G02）”团伙攻击态势深入分析报告”报告| 牛览",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526287&idx=1&sn=91f90ba5fde2a55a925295df2c74121d": " ] [【深信服解决方案】PHP远程代码执行漏洞(CVE-2026-109618/CVE-2026-109619)"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526287&idx=1&sn=91f90ba5fde2a55a925295df2c74121d": " ] [【深信服解决方案】PHP远程代码执行漏洞(CVE-2026-109618/CVE-2026-109619)",
+    "https://mp.weixin.qq.com/s/caROKKoNN5jVWpqXLA2vbA": "每日安全预警 ｜ MySQL 等 数据库漏洞风险通报（2026-10-28）",
+    "https://mp.weixin.qq.com/s/PtM9By0rH88jPWzWuvl-2Q": "【已复现】漏洞通告 | Linux Kernel POSIX CPU timer释放后重用漏洞(CVE-2026-98260)",
+    "https://mp.weixin.qq.com/s/ohrqilxalVrNmZuOHvKTmQ": "「AI渗透测试+MCP服务器实测：978星开源Cybermes，范围校验为何全放行」",
+    "https://mp.weixin.qq.com/s/iNeFwwFl62ZOX7NAER87uA": "一条命令跑完端口扫描到漏洞验证：vscan 把六段工具链压进了一个二进制文件",
+    "https://mp.weixin.qq.com/s/_pfLS7Wd5uP8SDaHF5GH2A": "大蚂蚁即时通信系统 upload_file.html 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/beeMwVZLX-rJeHZo_tKntg": "四款 USB 加密产品被发现硬编码密钥或隐藏账户：硬件外壳不等于安全",
+    "https://mp.weixin.qq.com/s/s3Jmblxd_S28BoGYrbNw5A": "团队成员小柠师傅入选 KCon 2026 议题《共享状态如何变成攻击面：从 KV Cache、Approximate Cache 到多租户 AI 推理安全治理》",
+    "https://mp.weixin.qq.com/s/a8lq94MwvB7p_Pd84gMDpw": "焊 4 根线、短接一脚：拆穿 Merkury 平价摄像头，挖出硬编码 RSA 私钥",
+    "https://mp.weixin.qq.com/s/JygNGAA7f2DT83aWvPSihA": "PoC 满天飞的十月：PHP2Shell、NetScaler、Atlassian……",
+    "https://mp.weixin.qq.com/s/9G116_GBS5Jn1CYSRhx-sw": "SOC 值守：一天几百条告警，怎么判断哪条是真的",
+    "https://mp.weixin.qq.com/s/3UtzbFSpreHVjL9SwYcWfA": "【教程】情报分析-分析流程：从问题到产品"
 }
