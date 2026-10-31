@@ -53313,5 +53313,20 @@
     "https://mp.weixin.qq.com/s/DDPXJ6avqVZMNWVtbEQr9w": "【热点安全风险】10月31日｜Linux 内核 9.8 分缺陷，未认证攻击者可越界写内存（CVE-2026-98432）",
     "https://mp.weixin.qq.com/s/tCpQ2NowpvIoqFGSzOfjYg": "荐片播放器暗藏后门，七天感染七十万台设备，峰值单日25万台受控",
     "https://mp.weixin.qq.com/s/aDOF8Tx1KqWdm6f2nqdKLA": "Linux内核TCP漏洞，CVSS评分9.8，影响Ubuntu、Red Hat及其他发行版",
-    "https://mp.weixin.qq.com/s/j1VHzzjVX7e2EN9kxY4X-Q": "文件上传漏洞的真相：你上传成功的那一刻，真正的攻防才刚刚开始"
+    "https://mp.weixin.qq.com/s/j1VHzzjVX7e2EN9kxY4X-Q": "文件上传漏洞的真相：你上传成功的那一刻，真正的攻防才刚刚开始",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509020&idx=1&sn=63da40e92aefadbbe0a557cc723a8ccf": " ] [已复现 | Linux kernel TCP UAF（CVE-2026-98432）",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790660&idx=1&sn=c8887a4395622a6bde214f35babd2f24": " ] [【开放申请】企业可自查PHP2Shell漏洞了！",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790660&idx=2&sn=6aae1577ea183279c10c0be20ff7fa52": " ] [突发！1day漏洞致使大量NAS用户文件被加密",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247490071&idx=1&sn=61ef93061111f36db33689c4ce9523bb": " ] [数据泄露情报2026.10.30 - 46G德国药典溶出",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623398&idx=4&sn=00bd9a3257533e4cb9f9ea9cd07fe4f0": " ] [Claude研究模型生成Linux内核漏洞利用链，实验环境可远程获取Root权限",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNzYyNzMyNg==&mid=2664232893&idx=1&sn=5174fc6de7f2bd06c522880be80a1a55": " ] [把朋友圈交给一个透明的沙箱：一次安全架构设计",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143108&idx=1&sn=af869d986a2c1bef782cdd08b7bcf169": " ] [移动安全的下半场：终端越聪明，防护越一体化",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143108&idx=2&sn=cb1c053a752d21cf7c6495f8329947ae": " ] [Google发布Gemini 4 Carbon，多项网络安全基准测试取得领先成绩；NIST发布后量子密码迁移指南，明确美国联邦机构2030‑2031落地时限|牛览",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505450&idx=1&sn=ec0b3c62d688344bf7cbc7cf6bc04c98": " ] [【开放申请】企业可自查PHP2Shell漏洞了！",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507965&idx=1&sn=fbf6db8e968619c1d4e942ec19344bbd": " ] [Linux Kernel IPv4 TCP 释放后重用漏洞(CVE-2026-98432)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500407&idx=1&sn=23020f43c7b5cecb266b7fe062cd2e88": " ] [AI与云安全事件案例分析周报｜2026.10.26 - 2026.10.30",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188570&idx=1&sn=256efa74c3309337571e6d06c481c1c3": " ] [调查了100个CISO，AI正在这样改写安全的优先级",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247496089&idx=1&sn=5e1f4016b6e2730fcd6ef3f8e9ee38f0": " ] [弗吉尼亚理工大学 | 从“能力”到“性能”：LLM 渗透测试智能体的功能属性评测",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247530589&idx=1&sn=95f1cd4438f6fbbc9c48564bbbf8163f": " ] [限免一周｜Memfit 全面升级：安全评估，流量分析与知识系统",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268170&idx=2&sn=0ce1b40f2c64d685364c7356d72a3488": " ] [前沿 | 人工智能时代数据安全治理的供需矛盾与协同路径研究"
 }
