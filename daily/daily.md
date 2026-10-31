@@ -2,21 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 27
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 27篇
+  - BruceFeIix: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 11篇
-- **安全运营**: 3篇
-- **攻击技术**: 2篇
-- **威胁情报**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 6篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 - **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
@@ -64,35 +60,23 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [【勒索解密】群晖NAS .L0CK3D勒索病毒特定条件下可解密（附解密工具）](https://mp.weixin.qq.com/s/MhVPW1c1n3FcubvkwGrzkA) (发布日期: 2026-10-31)
-- [63亿资产失窃！史上最大加密货币攻击复盘：提前36小时布局，20分钟席卷多链](https://mp.weixin.qq.com/s/UeP4yHy_xZ3umu3YGRzp_g) (发布日期: 2026-10-31)
-- [【漏洞预警】TeamViewer RCE 漏洞可致恶意主机接管，25亿设备告急](https://mp.weixin.qq.com/s/Lh515BpAbew6cCEDaGmL3w) (发布日期: 2026-10-31)
-- [【一周安全资讯1031】中央网络安全和信息化委员会印发《国家信息化“十五五”规划》；2.7万台云桌面服务器被植入恶意软件](https://mp.weixin.qq.com/s/VOvHjNGUcBp5vR52lG4GrA) (发布日期: 2026-10-31)
-- [CISA发布2030战略：聚焦网络防御、关键基础设施安全与国家韧性](https://mp.weixin.qq.com/s/GToE4e0ewQN9wYoMwFPmtw) (发布日期: 2026-10-31)
-- [500+ 漏洞的环境搭建、POC 与原理全塞进一个开源仓库：这个漏洞文库把复现周期从几天压缩到几分钟](https://mp.weixin.qq.com/s/qf6YQCxjgV7fxxG0m_VqRA) (发布日期: 2026-10-31)
-- [某企业SRC的抽奖操控漏洞](https://mp.weixin.qq.com/s/uPXrggPBXFNCpm8bGpHMng) (发布日期: 2026-10-31)
-- [赛博安全狗：node-forge修复AES-GCM认证绕过漏洞CVE-2026-119186 (10.31)](https://mp.weixin.qq.com/s/Y6fVB3M-HHmbwnRxImOL-Q) (发布日期: 2026-10-31)
-- [pypdf 一个 PDF 吃光内存，CVE-2026-119204](https://mp.weixin.qq.com/s/XMarcaff7YB9ykZx-TTDqA) (发布日期: 2026-10-31)
-- [AI编程神器遭供应链偷袭：Cursor市场Claude Code插件被塞66行后门](https://mp.weixin.qq.com/s/rFHclmkppnDaAam3yrQl_A) (发布日期: 2026-10-31)
-- [护网—2026 | 网警聚焦不履行数据安全保护义务或网络安全保护义务违法行为，依法作出行政处罚](https://mp.weixin.qq.com/s/JouyCkjKgZwIUmwerm280g) (发布日期: 2026-10-31)
-- [PraisonAI：域名检查通过了，为什么抓取器还是读走了内网密钥](https://mp.weixin.qq.com/s/VCJd22NnAiFwhzqxKAPYGA) (发布日期: 2026-10-31)
-- [安全运营的底层逻辑：漏洞、情报与数据](https://mp.weixin.qq.com/s/9xDNlRNbX_ZLNbtka09Shg) (发布日期: 2026-10-31)
-- [关于举办“复兴杯”第六届全国大学生智能安全精英赛的通知](https://mp.weixin.qq.com/s/4aScEiGt6Tm43bauL0B4wg) (发布日期: 2026-10-31)
-- [挖矿病毒-CPU爆满之后我才看清这台机器](https://mp.weixin.qq.com/s/AUCPXD1rxeovcHGjq9Z05w) (发布日期: 2026-10-31)
-- [【提高挖洞效率】Burpsuite杂包强过滤src漏洞挖掘](https://mp.weixin.qq.com/s/7P2hwIt_8B-W2xhByMU6lA) (发布日期: 2026-10-31)
-- [php2shell-scanner：拿到新工具后，怎样在一台 PHP 上分清“真漏洞”和“被探针打崩”](https://mp.weixin.qq.com/s/f8M3jhR0krt9y2-4XJZ4qw) (发布日期: 2026-10-31)
-- [2026年福建省大学生数据安全大赛火热报名中！](https://mp.weixin.qq.com/s/_NLckqJp_P8NNe3fhYbppA) (发布日期: 2026-10-31)
-- [护网—2026 | 网警聚焦不履行数据安全保护义务或网络安全保护义务违法行为，依法作出行政处罚](https://mp.weixin.qq.com/s/uJxQembUY-Bmb9xWg2Z4Jg) (发布日期: 2026-10-31)
-- [千人帮会｜网盘资源终身独享｜CISP/PTE考证底价｜18年网安大佬带队](https://mp.weixin.qq.com/s/lI9DLyrgWE_gd-D3sT-Ksw) (发布日期: 2026-10-31)
-- [人机关系拓扑视角下的智能体应用安全研究—— 1:1 / 1:N / N:1 / N:N 四类基准拓扑的场景、风险与安全需求](https://mp.weixin.qq.com/s/FQ9EP_RXx4T57FyERBZ3yg) (发布日期: 2026-10-31)
-- [仪表盘背后：车载隐私保护的缺位问题](https://mp.weixin.qq.com/s/msSU7zcQcPHRYxM6P0zAJw) (发布日期: 2026-10-31)
-- [STAF：基于大模型自动生成攻击树安全测试用例](https://mp.weixin.qq.com/s/MoxPgptEGLrnaMzxWIr5pg) (发布日期: 2026-10-31)
-- [【热点安全风险】10月31日｜Linux 内核 9.8 分缺陷，未认证攻击者可越界写内存（CVE-2026-98432）](https://mp.weixin.qq.com/s/DDPXJ6avqVZMNWVtbEQr9w) (发布日期: 2026-10-31)
-- [荐片播放器暗藏后门，七天感染七十万台设备，峰值单日25万台受控](https://mp.weixin.qq.com/s/tCpQ2NowpvIoqFGSzOfjYg) (发布日期: 2026-10-31)
-- [Linux内核TCP漏洞，CVSS评分9.8，影响Ubuntu、Red Hat及其他发行版](https://mp.weixin.qq.com/s/aDOF8Tx1KqWdm6f2nqdKLA) (发布日期: 2026-10-31)
-- [文件上传漏洞的真相：你上传成功的那一刻，真正的攻防才刚刚开始](https://mp.weixin.qq.com/s/j1VHzzjVX7e2EN9kxY4X-Q) (发布日期: 2026-10-31)
+- [ ] [已复现 | Linux kernel TCP UAF（CVE-2026-98432）](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509020&idx=1&sn=63da40e92aefadbbe0a557cc723a8ccf) (发布日期: 2026-10-31)
+- [ ] [【开放申请】企业可自查PHP2Shell漏洞了！](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790660&idx=1&sn=c8887a4395622a6bde214f35babd2f24) (发布日期: 2026-10-31)
+- [ ] [突发！1day漏洞致使大量NAS用户文件被加密](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790660&idx=2&sn=6aae1577ea183279c10c0be20ff7fa52) (发布日期: 2026-10-31)
+- [ ] [数据泄露情报2026.10.30 - 46G德国药典溶出](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247490071&idx=1&sn=61ef93061111f36db33689c4ce9523bb) (发布日期: 2026-10-31)
+- [ ] [Claude研究模型生成Linux内核漏洞利用链，实验环境可远程获取Root权限](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623398&idx=4&sn=00bd9a3257533e4cb9f9ea9cd07fe4f0) (发布日期: 2026-10-31)
+- [ ] [把朋友圈交给一个透明的沙箱：一次安全架构设计](https://mp.weixin.qq.com/s?__biz=MzAxNzYyNzMyNg==&mid=2664232893&idx=1&sn=5174fc6de7f2bd06c522880be80a1a55) (发布日期: 2026-10-31)
+- [ ] [移动安全的下半场：终端越聪明，防护越一体化](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143108&idx=1&sn=af869d986a2c1bef782cdd08b7bcf169) (发布日期: 2026-10-31)
+- [ ] [Google发布Gemini 4 Carbon，多项网络安全基准测试取得领先成绩；NIST发布后量子密码迁移指南，明确美国联邦机构2030‑2031落地时限|牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143108&idx=2&sn=cb1c053a752d21cf7c6495f8329947ae) (发布日期: 2026-10-31)
+- [ ] [【开放申请】企业可自查PHP2Shell漏洞了！](https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505450&idx=1&sn=ec0b3c62d688344bf7cbc7cf6bc04c98) (发布日期: 2026-10-31)
+- [ ] [Linux Kernel IPv4 TCP 释放后重用漏洞(CVE-2026-98432)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507965&idx=1&sn=fbf6db8e968619c1d4e942ec19344bbd) (发布日期: 2026-10-31)
+- [ ] [AI与云安全事件案例分析周报｜2026.10.26 - 2026.10.30](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500407&idx=1&sn=23020f43c7b5cecb266b7fe062cd2e88) (发布日期: 2026-10-31)
+- [ ] [调查了100个CISO，AI正在这样改写安全的优先级](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188570&idx=1&sn=256efa74c3309337571e6d06c481c1c3) (发布日期: 2026-10-31)
+- [ ] [弗吉尼亚理工大学 | 从“能力”到“性能”：LLM 渗透测试智能体的功能属性评测](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247496089&idx=1&sn=5e1f4016b6e2730fcd6ef3f8e9ee38f0) (发布日期: 2026-10-31)
+- [ ] [限免一周｜Memfit 全面升级：安全评估，流量分析与知识系统](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247530589&idx=1&sn=95f1cd4438f6fbbc9c48564bbbf8163f) (发布日期: 2026-10-31)
+- [ ] [前沿 | 人工智能时代数据安全治理的供需矛盾与协同路径研究](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268170&idx=2&sn=0ce1b40f2c64d685364c7356d72a3488) (发布日期: 2026-10-31)
 
 
 ## 🎯 威胁详情分析
@@ -101,44 +85,18 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【漏洞预警】TeamViewer RCE 漏洞可致恶意主机接管，25亿设备告急 | Doonsec | [https://mp.weixin.qq.com/s/Lh515BpAbew6cCEDaGmL3w](https://mp.weixin.qq.com/s/Lh515BpAbew6cCEDaGmL3w) |
-| 2 | 500+ 漏洞的环境搭建、POC 与原理全塞进一个开源仓库：这个漏洞文库把复现周期从几天压缩到几分钟 | Doonsec | [https://mp.weixin.qq.com/s/qf6YQCxjgV7fxxG0m_VqRA](https://mp.weixin.qq.com/s/qf6YQCxjgV7fxxG0m_VqRA) |
-| 3 | 某企业SRC的抽奖操控漏洞 | Doonsec | [https://mp.weixin.qq.com/s/uPXrggPBXFNCpm8bGpHMng](https://mp.weixin.qq.com/s/uPXrggPBXFNCpm8bGpHMng) |
-| 4 | 赛博安全狗：node-forge修复AES-GCM认证绕过漏洞CVE-2026-119186 (10.31) | Doonsec | [https://mp.weixin.qq.com/s/Y6fVB3M-HHmbwnRxImOL-Q](https://mp.weixin.qq.com/s/Y6fVB3M-HHmbwnRxImOL-Q) |
-| 5 | pypdf 一个 PDF 吃光内存，CVE-2026-119204 | Doonsec | [https://mp.weixin.qq.com/s/XMarcaff7YB9ykZx-TTDqA](https://mp.weixin.qq.com/s/XMarcaff7YB9ykZx-TTDqA) |
-| 6 | 安全运营的底层逻辑：漏洞、情报与数据 | Doonsec | [https://mp.weixin.qq.com/s/9xDNlRNbX_ZLNbtka09Shg](https://mp.weixin.qq.com/s/9xDNlRNbX_ZLNbtka09Shg) |
-| 7 | 【提高挖洞效率】Burpsuite杂包强过滤src漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/7P2hwIt_8B-W2xhByMU6lA](https://mp.weixin.qq.com/s/7P2hwIt_8B-W2xhByMU6lA) |
-| 8 | php2shell-scanner：拿到新工具后，怎样在一台 PHP 上分清“真漏洞”和“被探针打崩” | Doonsec | [https://mp.weixin.qq.com/s/f8M3jhR0krt9y2-4XJZ4qw](https://mp.weixin.qq.com/s/f8M3jhR0krt9y2-4XJZ4qw) |
-| 9 | 【热点安全风险】10月31日｜Linux 内核 9.8 分缺陷，未认证攻击者可越界写内存（CVE-2026-98432） | Doonsec | [https://mp.weixin.qq.com/s/DDPXJ6avqVZMNWVtbEQr9w](https://mp.weixin.qq.com/s/DDPXJ6avqVZMNWVtbEQr9w) |
-| 10 | Linux内核TCP漏洞，CVSS评分9.8，影响Ubuntu、Red Hat及其他发行版 | Doonsec | [https://mp.weixin.qq.com/s/aDOF8Tx1KqWdm6f2nqdKLA](https://mp.weixin.qq.com/s/aDOF8Tx1KqWdm6f2nqdKLA) |
-| 11 | 文件上传漏洞的真相：你上传成功的那一刻，真正的攻防才刚刚开始 | Doonsec | [https://mp.weixin.qq.com/s/j1VHzzjVX7e2EN9kxY4X-Q](https://mp.weixin.qq.com/s/j1VHzzjVX7e2EN9kxY4X-Q) |
+| 1 |  ] [已复现 | Linux kernel TCP UAF（CVE-2026-98432） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509020&idx=1&sn=63da40e92aefadbbe0a557cc723a8ccf](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509020&idx=1&sn=63da40e92aefadbbe0a557cc723a8ccf) |
+| 2 |  ] [【开放申请】企业可自查PHP2Shell漏洞了！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790660&idx=1&sn=c8887a4395622a6bde214f35babd2f24](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790660&idx=1&sn=c8887a4395622a6bde214f35babd2f24) |
+| 3 |  ] [突发！1day漏洞致使大量NAS用户文件被加密 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790660&idx=2&sn=6aae1577ea183279c10c0be20ff7fa52](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790660&idx=2&sn=6aae1577ea183279c10c0be20ff7fa52) |
+| 4 |  ] [Claude研究模型生成Linux内核漏洞利用链，实验环境可远程获取Root权限 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623398&idx=4&sn=00bd9a3257533e4cb9f9ea9cd07fe4f0](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623398&idx=4&sn=00bd9a3257533e4cb9f9ea9cd07fe4f0) |
+| 5 |  ] [【开放申请】企业可自查PHP2Shell漏洞了！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505450&idx=1&sn=ec0b3c62d688344bf7cbc7cf6bc04c98](https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505450&idx=1&sn=ec0b3c62d688344bf7cbc7cf6bc04c98) |
+| 6 |  ] [Linux Kernel IPv4 TCP 释放后重用漏洞(CVE-2026-98432)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507965&idx=1&sn=fbf6db8e968619c1d4e942ec19344bbd](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507965&idx=1&sn=fbf6db8e968619c1d4e942ec19344bbd) |
 
-### 攻击技术
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【漏洞预警】TeamViewer RCE 漏洞可致恶意主机接管，25亿设备告急 | Doonsec | [https://mp.weixin.qq.com/s/Lh515BpAbew6cCEDaGmL3w](https://mp.weixin.qq.com/s/Lh515BpAbew6cCEDaGmL3w) |
-| 2 | PraisonAI：域名检查通过了，为什么抓取器还是读走了内网密钥 | Doonsec | [https://mp.weixin.qq.com/s/VCJd22NnAiFwhzqxKAPYGA](https://mp.weixin.qq.com/s/VCJd22NnAiFwhzqxKAPYGA) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【勒索解密】群晖NAS .L0CK3D勒索病毒特定条件下可解密（附解密工具） | Doonsec | [https://mp.weixin.qq.com/s/MhVPW1c1n3FcubvkwGrzkA](https://mp.weixin.qq.com/s/MhVPW1c1n3FcubvkwGrzkA) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 某企业SRC的抽奖操控漏洞 | Doonsec | [https://mp.weixin.qq.com/s/uPXrggPBXFNCpm8bGpHMng](https://mp.weixin.qq.com/s/uPXrggPBXFNCpm8bGpHMng) |
-| 2 | 安全运营的底层逻辑：漏洞、情报与数据 | Doonsec | [https://mp.weixin.qq.com/s/9xDNlRNbX_ZLNbtka09Shg](https://mp.weixin.qq.com/s/9xDNlRNbX_ZLNbtka09Shg) |
-| 3 | 【提高挖洞效率】Burpsuite杂包强过滤src漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s/7P2hwIt_8B-W2xhByMU6lA](https://mp.weixin.qq.com/s/7P2hwIt_8B-W2xhByMU6lA) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | AI编程神器遭供应链偷袭：Cursor市场Claude Code插件被塞66行后门 | Doonsec | [https://mp.weixin.qq.com/s/rFHclmkppnDaAam3yrQl_A](https://mp.weixin.qq.com/s/rFHclmkppnDaAam3yrQl_A) |
+| 1 |  ] [数据泄露情报2026.10.30 - 46G德国药典溶出 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247490071&idx=1&sn=61ef93061111f36db33689c4ce9523bb](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247490071&idx=1&sn=61ef93061111f36db33689c4ce9523bb) |
 
 
 ## 📁 归档路径
@@ -154,8 +112,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -164,5 +122,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-10-31 04:45:51*
+*生成时间: 2026-10-31 14:29:12*
 *报告工具: 微信文章安全归档系统*
