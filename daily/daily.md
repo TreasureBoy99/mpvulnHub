@@ -1,24 +1,19 @@
-# 2026-10-31 安全威胁态势报告
+# 2026-11-01 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 32
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 32篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
-- **攻击技术**: 6篇
-- **威胁情报**: 2篇
+- **漏洞利用**: 1篇
+- **攻击技术**: 1篇
 - **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 3篇
-- **Web安全**: 2篇
-- **应用漏洞**: 2篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -67,38 +62,10 @@
 
 ### Doonsec
 
-- [偷完密码还让AI写报告：新型木马用大模型给受害者排优先级](https://mp.weixin.qq.com/s/f4xgGYwSg6jZ4acqZ0K2hw) (发布日期: 2026-10-31)
-- [PHP2Shell 已被用于攻击 PAN-OS 管理接口：从 PHP RCE 到防火墙 Root](https://mp.weixin.qq.com/s/WVXiSGEN1XNf133tkcS0SQ) (发布日期: 2026-10-31)
-- [用友一个月十份通告：NC 反序列化为什么补不完](https://mp.weixin.qq.com/s/CUGb94k7Z14BuJ3fr9PwDg) (发布日期: 2026-10-31)
-- [一文读懂Agent安全测试：传统思路下的测试边界重构](https://mp.weixin.qq.com/s/fKQ1tmftVyC9E8buknbYUA) (发布日期: 2026-10-31)
-- [【一个人的SOC】(15) 权限矩阵——admin/operator/viewer/auditor 端点级隔离](https://mp.weixin.qq.com/s/BiRpuoC8v_470Q9BPUSE8A) (发布日期: 2026-10-31)
-- [CVE-2026-110264：GitLab Onigmo 正则引擎整数溢出未授权 RCE 漏洞分析](https://mp.weixin.qq.com/s/DvMfj3w-wGUIlUW-GZjO7w) (发布日期: 2026-10-31)
-- [CryptoHack 实战：密码学现代应用与工程落地铁律](https://mp.weixin.qq.com/s/VpcFT_4V-DTvdEF1pBsZHw) (发布日期: 2026-10-31)
-- [PHP代码审计-PHPCMS 前台RCE漏洞](https://mp.weixin.qq.com/s/whxU3U2P_DcHJR2-bnW3Hg) (发布日期: 2026-10-31)
-- [第177篇：Struts2全版本漏洞检测工具v20.11（内存马版）+新增注入内存马功能](https://mp.weixin.qq.com/s/6Hj9P4u8zZMC1wc0z5kacQ) (发布日期: 2026-10-31)
-- [红队工具-BOF合集](https://mp.weixin.qq.com/s/j9UGBgEXa2QrHRjC7vLCCg) (发布日期: 2026-10-31)
-- [TeamViewer 严重漏洞：恶意主机可借远程支持会话反向控制技术人员电脑](https://mp.weixin.qq.com/s/dlSnxUSXz0pskDKuW0VpFQ) (发布日期: 2026-10-31)
-- [稳居榜首，华为AI防火墙2026年上半年中国区市场份额位居第一](https://mp.weixin.qq.com/s/leHPOLuq93D6Hh1PM-aQBA) (发布日期: 2026-10-31)
-- [【安全圈】Hugging Face 恶意软件活动卷土重来，劫持 GPU 进行加密货币挖矿](https://mp.weixin.qq.com/s/EDQwXmWcSQOZ_eQOAc-Z4g) (发布日期: 2026-10-31)
-- [公安机关公布3起不履行数据安全保护义务或网络安全保护义务案](https://mp.weixin.qq.com/s/CWBtohxa1lZFnOuBvB2oig) (发布日期: 2026-10-31)
-- [仿冒 CCleaner 投递 GhostDesk 木马](https://mp.weixin.qq.com/s/k671VHF4cB4YmTvf1dxcmQ) (发布日期: 2026-10-31)
-- [当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战](https://mp.weixin.qq.com/s/tMejDCIOq0Rz4xwCtw5gXQ) (发布日期: 2026-10-31)
-- [RBAC角色访问控制是什么：从告警平台分工看懂权限与边界](https://mp.weixin.qq.com/s/fxieHRuYfCNkHci_1EjfjQ) (发布日期: 2026-10-31)
-- [AI 代码审计的 3 个盲区：模型都会漏的那类洞](https://mp.weixin.qq.com/s/Cma44Qu6dEvG6rFK2ndoaA) (发布日期: 2026-10-31)
-- [【漏洞情报】2026年10月车联网漏洞态势综述](https://mp.weixin.qq.com/s/GCeZSzyULI6RuBiGOxtzFA) (发布日期: 2026-10-31)
-- [隐藏在 Windows 更新文件中的新 NetamLoader 恶意软件攻击亚洲各国政府](https://mp.weixin.qq.com/s/gTIU4mhI2_HHNLptdphyZQ) (发布日期: 2026-10-31)
-- [应急响应-Linux日志分析技巧篇](https://mp.weixin.qq.com/s/WyqTdyCOPFFGQUPQ3Sp7KA) (发布日期: 2026-10-31)
-- [CNCERT | 关于新型僵尸网络VeilDHT大范围传播的风险提示](https://mp.weixin.qq.com/s/6LElHfnkRbu-JKkj-URNZA) (发布日期: 2026-10-31)
-- [关注 | 公安机关公布3起不履行数据安全保护义务或网络安全保护义务案](https://mp.weixin.qq.com/s/CkII8XtX0d0imTVuapca1w) (发布日期: 2026-10-31)
-- [研发人员社会工程学攻击全景解析](https://mp.weixin.qq.com/s/9KtETt3-gBUYoqo_o3KkmA) (发布日期: 2026-10-31)
-- [从ftp文件上传到.net getshell，从烂土豆提权到msf框架提权比较靶机练习之devel](https://mp.weixin.qq.com/s/ammUyYByRxKcw7CsqxNgiQ) (发布日期: 2026-10-31)
-- [漏洞复现 | 智慧综合管理平台 DDiscountDevices.ashx 存在SQL注入漏洞](https://mp.weixin.qq.com/s/9Fq5sQ8xMD9yhF39lzlhRQ) (发布日期: 2026-10-31)
-- [安天AVL SDK反病毒引擎升级通告（20261031）](https://mp.weixin.qq.com/s/3D_i0leYsU_NechPx6bBpQ) (发布日期: 2026-10-31)
-- [在看 | 周报：两家农信机构因数据安全违规被“双罚”；“AI生成视频逃过人脸识别”冲上热搜](https://mp.weixin.qq.com/s/PVv81PfiGrxmtb0f872QEg) (发布日期: 2026-10-31)
-- [第114篇 AI全栈 · 逻辑漏洞背后隐藏的刷票总结](https://mp.weixin.qq.com/s/RYqpoGQ4dO-MSr1Gsy3DUw) (发布日期: 2026-10-31)
-- [数据泄露情报2026.10.31 - 400G巴西证券交易所官方授权分销商资料](https://mp.weixin.qq.com/s/btXgZiIJNVMngvTzY6ixEA) (发布日期: 2026-10-31)
-- [AI Agent 安全事件应急响应方案](https://mp.weixin.qq.com/s/J5_J09_SIYmB-5odp1v7ZQ) (发布日期: 2026-10-31)
-- [后渗透实战：从第一个 shell 到域控的完整路径（脱敏）](https://mp.weixin.qq.com/s/Qwyi99zuVJ3zFTg5vgaFUA) (发布日期: 2026-10-31)
+- [红队开工前都在跑它，一个域名换回一整张资产关系网](https://mp.weixin.qq.com/s/87z1pLYyDfOnvfxkZJgbjg) (发布日期: 2026-11-01)
+- [给 AI 黑客注入“冷静”，它真的更会挖洞了？](https://mp.weixin.qq.com/s/gSbE68yc4gPNECjr-1LSWQ) (发布日期: 2026-11-01)
+- [同一个模型，Shannon找到6个漏洞，Strix只找到1个——你追的“最强模型”可能根本不是瓶颈](https://mp.weixin.qq.com/s/LCY4XnitU6sgNaBiWjQ42A) (发布日期: 2026-11-01)
+- [哥本哈根大学数据泄露事件导致52.5万人的数据泄露](https://mp.weixin.qq.com/s/ZdEZosXJL8zlHB6KVI9HlQ) (发布日期: 2026-11-01)
 
 
 ## 🎯 威胁详情分析
@@ -107,43 +74,24 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2026-110264：GitLab Onigmo 正则引擎整数溢出未授权 RCE 漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/DvMfj3w-wGUIlUW-GZjO7w](https://mp.weixin.qq.com/s/DvMfj3w-wGUIlUW-GZjO7w) |
-| 2 | PHP代码审计-PHPCMS 前台RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/whxU3U2P_DcHJR2-bnW3Hg](https://mp.weixin.qq.com/s/whxU3U2P_DcHJR2-bnW3Hg) |
-| 3 | 第177篇：Struts2全版本漏洞检测工具v20.11（内存马版）+新增注入内存马功能 | Doonsec | [https://mp.weixin.qq.com/s/6Hj9P4u8zZMC1wc0z5kacQ](https://mp.weixin.qq.com/s/6Hj9P4u8zZMC1wc0z5kacQ) |
-| 4 | TeamViewer 严重漏洞：恶意主机可借远程支持会话反向控制技术人员电脑 | Doonsec | [https://mp.weixin.qq.com/s/dlSnxUSXz0pskDKuW0VpFQ](https://mp.weixin.qq.com/s/dlSnxUSXz0pskDKuW0VpFQ) |
-| 5 | 当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战 | Doonsec | [https://mp.weixin.qq.com/s/tMejDCIOq0Rz4xwCtw5gXQ](https://mp.weixin.qq.com/s/tMejDCIOq0Rz4xwCtw5gXQ) |
-| 6 | 【漏洞情报】2026年10月车联网漏洞态势综述 | Doonsec | [https://mp.weixin.qq.com/s/GCeZSzyULI6RuBiGOxtzFA](https://mp.weixin.qq.com/s/GCeZSzyULI6RuBiGOxtzFA) |
-| 7 | 漏洞复现 | 智慧综合管理平台 DDiscountDevices.ashx 存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/9Fq5sQ8xMD9yhF39lzlhRQ](https://mp.weixin.qq.com/s/9Fq5sQ8xMD9yhF39lzlhRQ) |
-| 8 | 第114篇 AI全栈 · 逻辑漏洞背后隐藏的刷票总结 | Doonsec | [https://mp.weixin.qq.com/s/RYqpoGQ4dO-MSr1Gsy3DUw](https://mp.weixin.qq.com/s/RYqpoGQ4dO-MSr1Gsy3DUw) |
+| 1 | 同一个模型，Shannon找到6个漏洞，Strix只找到1个——你追的“最强模型”可能根本不是瓶颈 | Doonsec | [https://mp.weixin.qq.com/s/LCY4XnitU6sgNaBiWjQ42A](https://mp.weixin.qq.com/s/LCY4XnitU6sgNaBiWjQ42A) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | PHP2Shell 已被用于攻击 PAN-OS 管理接口：从 PHP RCE 到防火墙 Root | Doonsec | [https://mp.weixin.qq.com/s/WVXiSGEN1XNf133tkcS0SQ](https://mp.weixin.qq.com/s/WVXiSGEN1XNf133tkcS0SQ) |
-| 2 | CVE-2026-110264：GitLab Onigmo 正则引擎整数溢出未授权 RCE 漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/DvMfj3w-wGUIlUW-GZjO7w](https://mp.weixin.qq.com/s/DvMfj3w-wGUIlUW-GZjO7w) |
-| 3 | PHP代码审计-PHPCMS 前台RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s/whxU3U2P_DcHJR2-bnW3Hg](https://mp.weixin.qq.com/s/whxU3U2P_DcHJR2-bnW3Hg) |
-| 4 | 第177篇：Struts2全版本漏洞检测工具v20.11（内存马版）+新增注入内存马功能 | Doonsec | [https://mp.weixin.qq.com/s/6Hj9P4u8zZMC1wc0z5kacQ](https://mp.weixin.qq.com/s/6Hj9P4u8zZMC1wc0z5kacQ) |
-| 5 | 漏洞复现 | 智慧综合管理平台 DDiscountDevices.ashx 存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/9Fq5sQ8xMD9yhF39lzlhRQ](https://mp.weixin.qq.com/s/9Fq5sQ8xMD9yhF39lzlhRQ) |
-| 6 | 后渗透实战：从第一个 shell 到域控的完整路径（脱敏） | Doonsec | [https://mp.weixin.qq.com/s/Qwyi99zuVJ3zFTg5vgaFUA](https://mp.weixin.qq.com/s/Qwyi99zuVJ3zFTg5vgaFUA) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 应急响应-Linux日志分析技巧篇 | Doonsec | [https://mp.weixin.qq.com/s/WyqTdyCOPFFGQUPQ3Sp7KA](https://mp.weixin.qq.com/s/WyqTdyCOPFFGQUPQ3Sp7KA) |
-| 2 | AI Agent 安全事件应急响应方案 | Doonsec | [https://mp.weixin.qq.com/s/J5_J09_SIYmB-5odp1v7ZQ](https://mp.weixin.qq.com/s/J5_J09_SIYmB-5odp1v7ZQ) |
+| 1 | 给 AI 黑客注入“冷静”，它真的更会挖洞了？ | Doonsec | [https://mp.weixin.qq.com/s/gSbE68yc4gPNECjr-1LSWQ](https://mp.weixin.qq.com/s/gSbE68yc4gPNECjr-1LSWQ) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 数据泄露情报2026.10.31 - 400G巴西证券交易所官方授权分销商资料 | Doonsec | [https://mp.weixin.qq.com/s/btXgZiIJNVMngvTzY6ixEA](https://mp.weixin.qq.com/s/btXgZiIJNVMngvTzY6ixEA) |
+| 1 | 哥本哈根大学数据泄露事件导致52.5万人的数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/ZdEZosXJL8zlHB6KVI9HlQ](https://mp.weixin.qq.com/s/ZdEZosXJL8zlHB6KVI9HlQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-10/2026-W44/2026-10-31/`
+文章已归档到: `doc/2026/2026-11/2026-W44/2026-11-01/`
 
 ## 🔗 数据源说明
 
@@ -154,8 +102,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -164,5 +112,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-10-31 19:47:21*
+*生成时间: 2026-11-01 05:07:51*
 *报告工具: 微信文章安全归档系统*
