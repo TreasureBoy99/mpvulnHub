@@ -132353,3 +132353,50 @@
 2026-10-31 23:10:56,294 - INFO - === 跳过二进制文件处理，只更新data.json ===
 2026-10-31 23:10:56,374 - INFO - 已更新data.json，添加了 0 个URL
 2026-10-31 23:10:56,374 - INFO - === 执行完成 ===
+2026-11-01 05:07:48,144 - INFO - === 开始执行微信文章归档工具 ===
+2026-11-01 05:07:48,144 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-11-01 05:07:48,144 - INFO - 正在发送Discord启动通知...
+2026-11-01 05:07:48,517 - INFO - Discord启动通知发送结果: 204
+2026-11-01 05:07:48,519 - INFO - 数据文件: data.json
+2026-11-01 05:07:48,519 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-11-01 05:07:48,520 - INFO - 文档目录: doc
+2026-11-01 05:07:48,640 - INFO - 已加载 53362 条历史记录
+2026-11-01 05:07:48,640 - INFO - === 开始今日拉取 ===
+2026-11-01 05:07:48,640 - INFO - 开始获取Doonsec RSS
+2026-11-01 05:07:48,640 - INFO - 目标日期: 2026-11-01
+2026-11-01 05:07:50,135 - INFO - Doonsec RSS请求成功
+2026-11-01 05:07:50,136 - INFO - RSS中共有 200 个条目
+2026-11-01 05:07:50,136 - INFO - Doonsec获取到 18 个2026-11-01的微信文章URL
+2026-11-01 05:07:50,137 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-11-01.md
+2026-11-01 05:07:50,216 - INFO - ChainReactors md文件下载状态码: 404
+2026-11-01 05:07:50,216 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-11-01.md 状态码: 404
+2026-11-01 05:07:50,216 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-11-01.md
+2026-11-01 05:07:50,294 - INFO - BruceFeIix md文件下载状态码: 404
+2026-11-01 05:07:50,294 - WARNING - BruceFeIix md文件下载失败: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-11-01.md 状态码: 404
+2026-11-01 05:07:50,294 - INFO - === 开始处理 2026-11-01 的数据 ===
+2026-11-01 05:07:50,294 - INFO - Doonsec原始数据: 18 个
+2026-11-01 05:07:50,294 - INFO - ChainReactors原始数据: 0 个
+2026-11-01 05:07:50,294 - INFO - BruceFeIix原始数据: 0 个
+2026-11-01 05:07:50,294 - INFO - 开始处理Doonsec数据...
+2026-11-01 05:07:50,295 - INFO - 开始处理ChainReactors数据...
+2026-11-01 05:07:50,295 - INFO - 开始处理BruceFeIix数据...
+2026-11-01 05:07:50,295 - INFO - 去重后共 18 个URL待处理，跳过 0 个重复URL
+2026-11-01 05:07:50,295 - INFO - 去重后统计 - Doonsec: 18 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-11-01 05:07:50,295 - INFO - === 开始关键词过滤 ===
+2026-11-01 05:07:50,296 - INFO - 关键词过滤: 匹配 4 个，跳过 14 个
+2026-11-01 05:07:50,296 - INFO - 关键词过滤后统计 - Doonsec: 4 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-11-01 05:07:50,301 - INFO - 已创建每日报告: md/2026-11-01.md
+2026-11-01 05:07:50,301 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-11-01 05:07:50,301 - INFO - 正在发送Discord通知: 红队开工前都在跑它，一个域名换回一整张资产关系网
+2026-11-01 05:07:50,604 - INFO - Discord通知发送结果: 204
+2026-11-01 05:07:50,605 - INFO - 正在发送Discord通知: 给 AI 黑客注入“冷静”，它真的更会挖洞了？
+2026-11-01 05:07:51,004 - INFO - Discord通知发送结果: 204
+2026-11-01 05:07:51,005 - INFO - 正在发送Discord通知: 同一个模型，Shannon找到6个漏洞，Strix只找到1个——你追的“最强模型”可能根本不是瓶颈
+2026-11-01 05:07:51,273 - INFO - Discord通知发送结果: 204
+2026-11-01 05:07:51,274 - INFO - 正在发送Discord通知: 哥本哈根大学数据泄露事件导致52.5万人的数据泄露
+2026-11-01 05:07:51,638 - INFO - Discord通知发送结果: 204
+2026-11-01 05:07:51,720 - INFO - 已更新data.json，添加了 4 个URL
+2026-11-01 05:07:51,721 - INFO - 已创建每日报告: md/2026-11-01.md
+2026-11-01 05:07:51,721 - INFO - 正在发送Discord日报通知: 2026-11-01
+2026-11-01 05:07:51,998 - INFO - Discord日报发送结果: 204
+2026-11-01 05:07:51,999 - INFO - === 执行完成 ===
