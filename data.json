@@ -53911,5 +53911,17 @@
     "https://mp.weixin.qq.com/s/UI3OYyjFUUZkteAAO6TKrg": "可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战",
     "https://mp.weixin.qq.com/s/x1oWwTu9GWy9afY1p_G8Ng": "[工具推荐]专为渗透测试工程师和安全研究员设计的新一代集成化安全测试平台-Venom",
     "https://mp.weixin.qq.com/s/PH3bOzQhBS8TPMCGk2i2cQ": "塔塔车联网App四类漏洞披露：从手机端凭据到车辆服务，风险边界在哪里",
-    "https://mp.weixin.qq.com/s/v63HFMNS4Mkk25BLyixshQ": "海外SRC漏洞挖掘：\\\\\\\\绕过403 + 接口不校验token字段签发JWT"
+    "https://mp.weixin.qq.com/s/v63HFMNS4Mkk25BLyixshQ": "海外SRC漏洞挖掘：\\\\\\\\绕过403 + 接口不校验token字段签发JWT",
+    "https://mp.weixin.qq.com/s/ABvC80AjSCjbeuz5bQaorQ": "AI 智能体做渗透测试（十七）：多 Agent 的成本控制与预算管理",
+    "https://mp.weixin.qq.com/s/b_uiSwAkKH7bNjBCvebA_g": "AI 智能体做渗透测试（十八）：多 Agent 的可观测性与链路追踪",
+    "https://mp.weixin.qq.com/s/i0ShK06Oe9t1azSIeZdJYg": "AI 智能体做渗透测试（十九）：多 Agent 的安全边界与权限隔离",
+    "https://mp.weixin.qq.com/s/c4fTCl34Y7_aw_2eEPpCrg": "AI 智能体做渗透测试（二十）：多 Agent 的失败恢复与断点续跑",
+    "https://mp.weixin.qq.com/s/3vqze94cPFMR6bXHy4w-Bw": "AI 智能体做渗透测试（二十一）：多 Agent 的成本控制与预算管理",
+    "https://mp.weixin.qq.com/s/pxViVWaFO1lUutp8ISRmNQ": "AI 智能体做渗透测试（二十二）：多 Agent 的可观测性——日志、追踪与回放",
+    "https://mp.weixin.qq.com/s/Jqn563MZiTPCACYz20D1Xw": "AI 智能体做渗透测试（二十三）：多 Agent 的安全边界——权限隔离与最小授权",
+    "https://mp.weixin.qq.com/s/C3ksLTjNV76h7aL5WfSdqA": "AI 智能体做渗透测试（二十四）：多 Agent 的任务编排与依赖管理",
+    "https://mp.weixin.qq.com/s/nO6OFJ430zdQFTmzLmwQdw": "Veeam备份与复制系统存在严重漏洞，允许未经身份验证的攻击者绕过授权",
+    "https://mp.weixin.qq.com/s/eoe3rDYrOLOyWu4ZQGHcSg": "白嫖一套企业级 SOC，7300+ Star 开源",
+    "https://mp.weixin.qq.com/s/YaBdOZeaYhW8YBwnuRoZqQ": "朝鲜黑客窃取开发者凭证，向GitHub和软件包中注入恶意软件",
+    "https://mp.weixin.qq.com/s/oZfNk0L-UGD0Bqql1-NMQg": "把红队工作流装进 AI 终端：dsh-redteam-model 的十个模式、十七个插件与四个安装坑"
 }
