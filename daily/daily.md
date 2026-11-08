@@ -1,21 +1,18 @@
-# 2026-11-07 安全威胁态势报告
+# 2026-11-08 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 15
+- **总文章数**: 12
 - **数据源分布**:
-  - Doonsec: 15篇
+  - Doonsec: 12篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
-- **攻击技术**: 2篇
-- **安全运营**: 1篇
+- **漏洞利用**: 1篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,21 +61,18 @@
 
 ### Doonsec
 
-- [微软数字签名？Loader All红队工具6.8.3发布](https://mp.weixin.qq.com/s/XkOMFjAblUrTRvhJD9_1nw) (发布日期: 2026-11-07)
-- [SonicWall VPN 一个旧密码跳过 MFA CVE-2026-19868](https://mp.weixin.qq.com/s/WasczGJ5tKGzBu2paKNM2g) (发布日期: 2026-11-07)
-- [安全测试平台  - Venom](https://mp.weixin.qq.com/s/ZKQdO3HOUuh1w36oqQ5kTA) (发布日期: 2026-11-07)
-- [网络安全职业路线图：从实习生到 CISO](https://mp.weixin.qq.com/s/kY3l1asfLuZfmfmHbVP1XQ) (发布日期: 2026-11-07)
-- [电力监控网的“第一张图”：别只画防火墙，分区、隔离、认证一个都不能少](https://mp.weixin.qq.com/s/ekQnxcojEnlTgz986SgOTQ) (发布日期: 2026-11-07)
-- [Microsoft Paint 远程代码执行漏洞 CVE-2026-83844 修复上架：补丁只走微软商店、不走 Windows Update](https://mp.weixin.qq.com/s/IZsSYpO3W_ZQ-nukETmKYg) (发布日期: 2026-11-07)
-- [在看 | 周报：四川乐山侦破艺人信息泄露黑产案；最高人民检察院发布检察机关依法保护公民个人信息典型案例](https://mp.weixin.qq.com/s/NEJfelutoG_DZ6gEPbfPBg) (发布日期: 2026-11-07)
-- [PHP代码审计-PHPYUN-Bypass防护实现SQL注入](https://mp.weixin.qq.com/s/3JxpZXRQmg-ZiNMcGGPYiQ) (发布日期: 2026-11-07)
-- [【安全圈】MFA 被绕过：SonicWall SSL-VPN 漏洞已在野利用](https://mp.weixin.qq.com/s/5ROf3BX_I1sOoKqiq3nr3g) (发布日期: 2026-11-07)
-- [6.34 亿美元级安全事件：币安首次公开攻击链细节，一场持续数月的多阶段入侵](https://mp.weixin.qq.com/s/iDG6q2pTln_dYBWOoAKgwA) (发布日期: 2026-11-07)
-- [给大模型装上固件审计员的骨架：一个 IoT 固件漏洞挖掘 Skill 的设计与实现](https://mp.weixin.qq.com/s/RFPFZVHPqTWC9vA_1QG4ww) (发布日期: 2026-11-07)
-- [可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战](https://mp.weixin.qq.com/s/UI3OYyjFUUZkteAAO6TKrg) (发布日期: 2026-11-07)
-- [[工具推荐]专为渗透测试工程师和安全研究员设计的新一代集成化安全测试平台-Venom](https://mp.weixin.qq.com/s/x1oWwTu9GWy9afY1p_G8Ng) (发布日期: 2026-11-07)
-- [塔塔车联网App四类漏洞披露：从手机端凭据到车辆服务，风险边界在哪里](https://mp.weixin.qq.com/s/PH3bOzQhBS8TPMCGk2i2cQ) (发布日期: 2026-11-07)
-- [海外SRC漏洞挖掘：\\\\绕过403 + 接口不校验token字段签发JWT](https://mp.weixin.qq.com/s/v63HFMNS4Mkk25BLyixshQ) (发布日期: 2026-11-07)
+- [AI 智能体做渗透测试（十七）：多 Agent 的成本控制与预算管理](https://mp.weixin.qq.com/s/ABvC80AjSCjbeuz5bQaorQ) (发布日期: 2026-11-08)
+- [AI 智能体做渗透测试（十八）：多 Agent 的可观测性与链路追踪](https://mp.weixin.qq.com/s/b_uiSwAkKH7bNjBCvebA_g) (发布日期: 2026-11-08)
+- [AI 智能体做渗透测试（十九）：多 Agent 的安全边界与权限隔离](https://mp.weixin.qq.com/s/i0ShK06Oe9t1azSIeZdJYg) (发布日期: 2026-11-08)
+- [AI 智能体做渗透测试（二十）：多 Agent 的失败恢复与断点续跑](https://mp.weixin.qq.com/s/c4fTCl34Y7_aw_2eEPpCrg) (发布日期: 2026-11-08)
+- [AI 智能体做渗透测试（二十一）：多 Agent 的成本控制与预算管理](https://mp.weixin.qq.com/s/3vqze94cPFMR6bXHy4w-Bw) (发布日期: 2026-11-08)
+- [AI 智能体做渗透测试（二十二）：多 Agent 的可观测性——日志、追踪与回放](https://mp.weixin.qq.com/s/pxViVWaFO1lUutp8ISRmNQ) (发布日期: 2026-11-08)
+- [AI 智能体做渗透测试（二十三）：多 Agent 的安全边界——权限隔离与最小授权](https://mp.weixin.qq.com/s/Jqn563MZiTPCACYz20D1Xw) (发布日期: 2026-11-08)
+- [AI 智能体做渗透测试（二十四）：多 Agent 的任务编排与依赖管理](https://mp.weixin.qq.com/s/C3ksLTjNV76h7aL5WfSdqA) (发布日期: 2026-11-08)
+- [Veeam备份与复制系统存在严重漏洞，允许未经身份验证的攻击者绕过授权](https://mp.weixin.qq.com/s/nO6OFJ430zdQFTmzLmwQdw) (发布日期: 2026-11-08)
+- [白嫖一套企业级 SOC，7300+ Star 开源](https://mp.weixin.qq.com/s/eoe3rDYrOLOyWu4ZQGHcSg) (发布日期: 2026-11-08)
+- [朝鲜黑客窃取开发者凭证，向GitHub和软件包中注入恶意软件](https://mp.weixin.qq.com/s/YaBdOZeaYhW8YBwnuRoZqQ) (发布日期: 2026-11-08)
+- [把红队工作流装进 AI 终端：dsh-redteam-model 的十个模式、十七个插件与四个安装坑](https://mp.weixin.qq.com/s/oZfNk0L-UGD0Bqql1-NMQg) (发布日期: 2026-11-08)
 
 
 ## 🎯 威胁详情分析
@@ -87,31 +81,18 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SonicWall VPN 一个旧密码跳过 MFA CVE-2026-19868 | Doonsec | [https://mp.weixin.qq.com/s/WasczGJ5tKGzBu2paKNM2g](https://mp.weixin.qq.com/s/WasczGJ5tKGzBu2paKNM2g) |
-| 2 | Microsoft Paint 远程代码执行漏洞 CVE-2026-83844 修复上架：补丁只走微软商店、不走 Windows Update | Doonsec | [https://mp.weixin.qq.com/s/IZsSYpO3W_ZQ-nukETmKYg](https://mp.weixin.qq.com/s/IZsSYpO3W_ZQ-nukETmKYg) |
-| 3 | 【安全圈】MFA 被绕过：SonicWall SSL-VPN 漏洞已在野利用 | Doonsec | [https://mp.weixin.qq.com/s/5ROf3BX_I1sOoKqiq3nr3g](https://mp.weixin.qq.com/s/5ROf3BX_I1sOoKqiq3nr3g) |
-| 4 | 给大模型装上固件审计员的骨架：一个 IoT 固件漏洞挖掘 Skill 的设计与实现 | Doonsec | [https://mp.weixin.qq.com/s/RFPFZVHPqTWC9vA_1QG4ww](https://mp.weixin.qq.com/s/RFPFZVHPqTWC9vA_1QG4ww) |
-| 5 | 可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战 | Doonsec | [https://mp.weixin.qq.com/s/UI3OYyjFUUZkteAAO6TKrg](https://mp.weixin.qq.com/s/UI3OYyjFUUZkteAAO6TKrg) |
-| 6 | 塔塔车联网App四类漏洞披露：从手机端凭据到车辆服务，风险边界在哪里 | Doonsec | [https://mp.weixin.qq.com/s/PH3bOzQhBS8TPMCGk2i2cQ](https://mp.weixin.qq.com/s/PH3bOzQhBS8TPMCGk2i2cQ) |
-| 7 | 海外SRC漏洞挖掘：\\\\绕过403 + 接口不校验token字段签发JWT | Doonsec | [https://mp.weixin.qq.com/s/v63HFMNS4Mkk25BLyixshQ](https://mp.weixin.qq.com/s/v63HFMNS4Mkk25BLyixshQ) |
+| 1 | Veeam备份与复制系统存在严重漏洞，允许未经身份验证的攻击者绕过授权 | Doonsec | [https://mp.weixin.qq.com/s/nO6OFJ430zdQFTmzLmwQdw](https://mp.weixin.qq.com/s/nO6OFJ430zdQFTmzLmwQdw) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Microsoft Paint 远程代码执行漏洞 CVE-2026-83844 修复上架：补丁只走微软商店、不走 Windows Update | Doonsec | [https://mp.weixin.qq.com/s/IZsSYpO3W_ZQ-nukETmKYg](https://mp.weixin.qq.com/s/IZsSYpO3W_ZQ-nukETmKYg) |
-| 2 | PHP代码审计-PHPYUN-Bypass防护实现SQL注入 | Doonsec | [https://mp.weixin.qq.com/s/3JxpZXRQmg-ZiNMcGGPYiQ](https://mp.weixin.qq.com/s/3JxpZXRQmg-ZiNMcGGPYiQ) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 海外SRC漏洞挖掘：\\\\绕过403 + 接口不校验token字段签发JWT | Doonsec | [https://mp.weixin.qq.com/s/v63HFMNS4Mkk25BLyixshQ](https://mp.weixin.qq.com/s/v63HFMNS4Mkk25BLyixshQ) |
+| 1 | 朝鲜黑客窃取开发者凭证，向GitHub和软件包中注入恶意软件 | Doonsec | [https://mp.weixin.qq.com/s/YaBdOZeaYhW8YBwnuRoZqQ](https://mp.weixin.qq.com/s/YaBdOZeaYhW8YBwnuRoZqQ) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-11/2026-W45/2026-11-07/`
+文章已归档到: `doc/2026/2026-11/2026-W45/2026-11-08/`
 
 ## 🔗 数据源说明
 
@@ -122,8 +103,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -132,5 +113,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-11-07 19:59:47*
+*生成时间: 2026-11-08 05:13:28*
 *报告工具: 微信文章安全归档系统*
