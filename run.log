@@ -134307,3 +134307,48 @@
 2026-11-08 05:13:28,148 - INFO - 正在发送Discord日报通知: 2026-11-08
 2026-11-08 05:13:28,502 - INFO - Discord日报发送结果: 204
 2026-11-08 05:13:28,503 - INFO - === 执行完成 ===
+2026-11-08 14:53:05,050 - INFO - === 开始执行微信文章归档工具 ===
+2026-11-08 14:53:05,050 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-11-08 14:53:05,050 - INFO - 正在发送Discord启动通知...
+2026-11-08 14:53:05,673 - INFO - Discord启动通知发送结果: 204
+2026-11-08 14:53:05,675 - INFO - 数据文件: data.json
+2026-11-08 14:53:05,675 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-11-08 14:53:05,675 - INFO - 文档目录: doc
+2026-11-08 14:53:05,766 - INFO - 已加载 53925 条历史记录
+2026-11-08 14:53:05,766 - INFO - === 开始今日拉取 ===
+2026-11-08 14:53:05,766 - INFO - 开始获取Doonsec RSS
+2026-11-08 14:53:05,766 - INFO - 目标日期: 2026-11-08
+2026-11-08 14:53:07,659 - INFO - Doonsec RSS请求成功
+2026-11-08 14:53:07,659 - INFO - RSS中共有 200 个条目
+2026-11-08 14:53:07,660 - INFO - Doonsec获取到 40 个2026-11-08的微信文章URL
+2026-11-08 14:53:07,661 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-11-08.md
+2026-11-08 14:53:07,773 - INFO - ChainReactors md文件下载状态码: 404
+2026-11-08 14:53:07,773 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-11-08.md 状态码: 404
+2026-11-08 14:53:07,773 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-11-08.md
+2026-11-08 14:53:07,860 - INFO - BruceFeIix md文件下载状态码: 200
+2026-11-08 14:53:07,861 - INFO - BruceFeIix获取到 17 个URL
+2026-11-08 14:53:07,861 - INFO - === 开始处理 2026-11-08 的数据 ===
+2026-11-08 14:53:07,861 - INFO - Doonsec原始数据: 40 个
+2026-11-08 14:53:07,861 - INFO - ChainReactors原始数据: 0 个
+2026-11-08 14:53:07,861 - INFO - BruceFeIix原始数据: 17 个
+2026-11-08 14:53:07,861 - INFO - 开始处理Doonsec数据...
+2026-11-08 14:53:07,861 - INFO - 开始处理ChainReactors数据...
+2026-11-08 14:53:07,861 - INFO - 开始处理BruceFeIix数据...
+2026-11-08 14:53:07,861 - INFO - 去重后共 45 个URL待处理，跳过 12 个重复URL
+2026-11-08 14:53:07,861 - INFO - 去重后统计 - Doonsec: 28 个, ChainReactors: 0 个, BruceFeIix: 17 个
+2026-11-08 14:53:07,861 - INFO - === 开始关键词过滤 ===
+2026-11-08 14:53:07,862 - INFO - 关键词过滤: 匹配 3 个，跳过 42 个
+2026-11-08 14:53:07,862 - INFO - 关键词过滤后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 3 个
+2026-11-08 14:53:07,866 - INFO - 已创建每日报告: md/2026-11-08.md
+2026-11-08 14:53:07,866 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-11-08 14:53:07,866 - INFO - 正在发送Discord通知:  ] [给大模型装上固件审计员的骨架：一个 IoT 固件漏洞挖掘 Skill 的设计与实现
+2026-11-08 14:53:08,079 - INFO - Discord通知发送结果: 204
+2026-11-08 14:53:08,080 - INFO - 正在发送Discord通知:  ] [可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战
+2026-11-08 14:53:08,373 - INFO - Discord通知发送结果: 204
+2026-11-08 14:53:08,374 - INFO - 正在发送Discord通知:  ] [【安全圈】MFA 被绕过：SonicWall SSL-VPN 漏洞已在野利用
+2026-11-08 14:53:08,844 - INFO - Discord通知发送结果: 204
+2026-11-08 14:53:08,924 - INFO - 已更新data.json，添加了 3 个URL
+2026-11-08 14:53:08,944 - INFO - 已创建每日报告: md/2026-11-08.md
+2026-11-08 14:53:08,944 - INFO - 正在发送Discord日报通知: 2026-11-08
+2026-11-08 14:53:09,277 - INFO - Discord日报发送结果: 204
+2026-11-08 14:53:09,278 - INFO - === 执行完成 ===

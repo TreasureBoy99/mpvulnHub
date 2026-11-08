@@ -53923,5 +53923,8 @@
     "https://mp.weixin.qq.com/s/nO6OFJ430zdQFTmzLmwQdw": "Veeam备份与复制系统存在严重漏洞，允许未经身份验证的攻击者绕过授权",
     "https://mp.weixin.qq.com/s/eoe3rDYrOLOyWu4ZQGHcSg": "白嫖一套企业级 SOC，7300+ Star 开源",
     "https://mp.weixin.qq.com/s/YaBdOZeaYhW8YBwnuRoZqQ": "朝鲜黑客窃取开发者凭证，向GitHub和软件包中注入恶意软件",
-    "https://mp.weixin.qq.com/s/oZfNk0L-UGD0Bqql1-NMQg": "把红队工作流装进 AI 终端：dsh-redteam-model 的十个模式、十七个插件与四个安装坑"
+    "https://mp.weixin.qq.com/s/oZfNk0L-UGD0Bqql1-NMQg": "把红队工作流装进 AI 终端：dsh-redteam-model 的十个模式、十七个插件与四个安装坑",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623857&idx=1&sn=4452ebefa4729f122b8231ff73cf22bc": " ] [给大模型装上固件审计员的骨架：一个 IoT 固件漏洞挖掘 Skill 的设计与实现",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623857&idx=2&sn=b3443f79121f85fcc3dc523e92166330": " ] [可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079734&idx=3&sn=2f99700fdd78fa32d3f809352bd9b144": " ] [【安全圈】MFA 被绕过：SonicWall SSL-VPN 漏洞已在野利用"
 }
