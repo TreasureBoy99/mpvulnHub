@@ -134558,3 +134558,66 @@
 2026-11-09 18:30:55,791 - INFO - 正在发送Discord日报通知: 2026-11-09
 2026-11-09 18:30:55,881 - INFO - Discord日报发送结果: 429
 2026-11-09 18:30:55,883 - INFO - === 执行完成 ===
+2026-11-10 02:36:05,857 - INFO - === 开始执行微信文章归档工具 ===
+2026-11-10 02:36:05,857 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-11-10 02:36:05,857 - INFO - 正在发送Discord启动通知...
+2026-11-10 02:36:06,170 - INFO - Discord启动通知发送结果: 204
+2026-11-10 02:36:06,171 - INFO - 数据文件: data.json
+2026-11-10 02:36:06,171 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-11-10 02:36:06,172 - INFO - 文档目录: doc
+2026-11-10 02:36:06,274 - INFO - 已加载 53994 条历史记录
+2026-11-10 02:36:06,275 - INFO - === 开始今日拉取 ===
+2026-11-10 02:36:06,275 - INFO - 开始获取Doonsec RSS
+2026-11-10 02:36:06,275 - INFO - 目标日期: 2026-11-10
+2026-11-10 02:36:08,603 - INFO - Doonsec RSS请求成功
+2026-11-10 02:36:08,604 - INFO - RSS中共有 200 个条目
+2026-11-10 02:36:08,605 - INFO - Doonsec获取到 42 个2026-11-10的微信文章URL
+2026-11-10 02:36:08,606 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-11-10.md
+2026-11-10 02:36:08,682 - INFO - ChainReactors md文件下载状态码: 404
+2026-11-10 02:36:08,682 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-11-10.md 状态码: 404
+2026-11-10 02:36:08,682 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-11-10.md
+2026-11-10 02:36:08,760 - INFO - BruceFeIix md文件下载状态码: 404
+2026-11-10 02:36:08,760 - WARNING - BruceFeIix md文件下载失败: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-11-10.md 状态码: 404
+2026-11-10 02:36:08,760 - INFO - === 开始处理 2026-11-10 的数据 ===
+2026-11-10 02:36:08,760 - INFO - Doonsec原始数据: 42 个
+2026-11-10 02:36:08,760 - INFO - ChainReactors原始数据: 0 个
+2026-11-10 02:36:08,760 - INFO - BruceFeIix原始数据: 0 个
+2026-11-10 02:36:08,760 - INFO - 开始处理Doonsec数据...
+2026-11-10 02:36:08,760 - INFO - 开始处理ChainReactors数据...
+2026-11-10 02:36:08,760 - INFO - 开始处理BruceFeIix数据...
+2026-11-10 02:36:08,760 - INFO - 去重后共 42 个URL待处理，跳过 0 个重复URL
+2026-11-10 02:36:08,760 - INFO - 去重后统计 - Doonsec: 42 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-11-10 02:36:08,760 - INFO - === 开始关键词过滤 ===
+2026-11-10 02:36:08,762 - INFO - 关键词过滤: 匹配 12 个，跳过 30 个
+2026-11-10 02:36:08,762 - INFO - 关键词过滤后统计 - Doonsec: 12 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-11-10 02:36:08,774 - INFO - 已创建每日报告: md/2026-11-10.md
+2026-11-10 02:36:08,774 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-11-10 02:36:08,775 - INFO - 正在发送Discord通知: 建行河南省分行、嵩县兴福村镇银行因“违反网络安全 数据安全”等被罚
+2026-11-10 02:36:09,006 - INFO - Discord通知发送结果: 204
+2026-11-10 02:36:09,007 - INFO - 正在发送Discord通知: 强推一个DeepSeek Harness 渗透测试插件！
+2026-11-10 02:36:09,214 - INFO - Discord通知发送结果: 204
+2026-11-10 02:36:09,215 - INFO - 正在发送Discord通知: 赛博安全狗：Webmin 2.670及以下版本Samba组件被曝命令注入漏洞CVE-2026-125391 (11.10)
+2026-11-10 02:36:09,741 - INFO - Discord通知发送结果: 204
+2026-11-10 02:36:09,742 - INFO - 正在发送Discord通知: 安恒信息MAF获公安部第三研究所大模型安全防护围栏（增强级）证书
+2026-11-10 02:36:09,966 - INFO - Discord通知发送结果: 204
+2026-11-10 02:36:09,967 - INFO - 正在发送Discord通知: AgenticPenTest v1.0 正式开放：Agent 协作渗透测试工作台
+2026-11-10 02:36:10,815 - INFO - Discord通知发送结果: 204
+2026-11-10 02:36:10,816 - INFO - 正在发送Discord通知: 允许黑客通过SSH访问Linux设备的漏洞正被积极利用
+2026-11-10 02:36:11,062 - INFO - Discord通知发送结果: 204
+2026-11-10 02:36:11,063 - INFO - 正在发送Discord通知: NetExec：内网渗透的瑞士军刀深度实战
+2026-11-10 02:36:11,414 - INFO - Discord通知发送结果: 204
+2026-11-10 02:36:11,415 - INFO - 正在发送Discord通知: 新品｜美创发布诺亚星盾终端数据安全
+2026-11-10 02:36:11,614 - INFO - Discord通知发送结果: 204
+2026-11-10 02:36:11,616 - INFO - 正在发送Discord通知: 黑客利用 SonicWall SSL-VPN 漏洞绕过多因素身份验证，发起攻击
+2026-11-10 02:36:11,860 - INFO - Discord通知发送结果: 204
+2026-11-10 02:36:11,861 - INFO - 正在发送Discord通知: Telegram安卓版漏洞允许攻击者在用户接听语音通话时运行代码
+2026-11-10 02:36:12,104 - INFO - Discord通知发送结果: 204
+2026-11-10 02:36:12,105 - INFO - 正在发送Discord通知: 黑客利用伪造的 Chocolatey 和 Microsoft 激活网站传播新型 Armorsteal 恶意软件
+2026-11-10 02:36:12,461 - INFO - Discord通知发送结果: 204
+2026-11-10 02:36:12,463 - INFO - 正在发送Discord通知: 黑客利用伪造的GitHub安全工具传播恶意软件，感染超过2000台电脑
+2026-11-10 02:36:12,659 - INFO - Discord通知发送结果: 204
+2026-11-10 02:36:12,740 - INFO - 已更新data.json，添加了 12 个URL
+2026-11-10 02:36:12,741 - INFO - 已创建每日报告: md/2026-11-10.md
+2026-11-10 02:36:12,741 - INFO - 正在发送Discord日报通知: 2026-11-10
+2026-11-10 02:36:12,977 - INFO - Discord日报发送结果: 204
+2026-11-10 02:36:12,978 - INFO - === 执行完成 ===
