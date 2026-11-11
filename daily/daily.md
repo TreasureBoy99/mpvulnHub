@@ -1,16 +1,22 @@
-# 2026-11-10 安全威胁态势报告
+# 2026-11-11 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 35
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 35篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 15篇
+- **威胁情报**: 4篇
+- **攻击技术**: 3篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 2篇
+- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -59,15 +65,92 @@
 
 ### Doonsec
 
-- [今天学习密码破解，网安入门新手特训第3章](https://mp.weixin.qq.com/s/Xvmu9GK792yUGzpwZv2Jgg) (发布日期: 2026-11-10)
+- [银狐情报｜大马机房带双供应商坐实：假火绒线C2落锤全新主体ABCCLOUD，单日11样本投放创11月次高](https://mp.weixin.qq.com/s/fPrmnJl0NjPi2ibX4YjhGw) (发布日期: 2026-11-11)
+- [靶标防护应急响应方案](https://mp.weixin.qq.com/s/T0aRGpR8mL1ofxP5TKl7bQ) (发布日期: 2026-11-11)
+- [赛博安全狗：微软Windows DHCP客户端双重释放漏洞CVE-2026-96115可远程攻击 (11.11)](https://mp.weixin.qq.com/s/5tq4wyp8apdJ6o6fObOYrA) (发布日期: 2026-11-11)
+- [深信服安全服务校招，二面面经(网络安全)](https://mp.weixin.qq.com/s/hHwzjeI_j2J3NoUJ5sYhhw) (发布日期: 2026-11-11)
+- [深信服安全服务校招，一面面经(网络安全)](https://mp.weixin.qq.com/s/FDgX8wEiCi-i-gJLlirxTA) (发布日期: 2026-11-11)
+- [微软11月补丁日多个产品安全漏洞风险通告：1个在野利用、43个紧急漏洞](https://mp.weixin.qq.com/s/1ST4x2CB5lsISa8QrXBJVA) (发布日期: 2026-11-11)
+- [OpenSSL 安全公告详述 QUIC、AES-GCM-SIV 和 CMS 中的五个漏洞](https://mp.weixin.qq.com/s/vaHRb3hQJp08_M2PajvCjw) (发布日期: 2026-11-11)
+- [【教案】LLMxa0OWASPxa0TOPxa010（下）](https://mp.weixin.qq.com/s/Be4kLa9NlKtt2dZqyKuL1g) (发布日期: 2026-11-11)
+- [【教案】LLM OWASP TOP 10（上）](https://mp.weixin.qq.com/s/EbjI2kcymZCPIemDok7fvA) (发布日期: 2026-11-11)
+- [11月10日漏洞：5个，3个认证绕过、1个未授权、1个信息泄露](https://mp.weixin.qq.com/s/ZLZiH7kAFVS0yza01v5dEA) (发布日期: 2026-11-11)
+- [【HVV 实战】校园一卡通云平台渗透：从未授权文件上传到 376 个 API 端点泄露](https://mp.weixin.qq.com/s/L5JuBVJWZ2yM1hN99feUgw) (发布日期: 2026-11-11)
+- [盲IDOR侧信道枚举漏洞](https://mp.weixin.qq.com/s/B3MgqCjnWl6tHfe8uz3rsw) (发布日期: 2026-11-11)
+- [AI 原生安全管理体系与全流程管控机制——从“制度上墙”到“卡点可证”：四层闭环、八道门禁与四类对象标准的落地设计](https://mp.weixin.qq.com/s/LIGIFNo4vTBR3-g415cQGg) (发布日期: 2026-11-11)
+- [130万台电视盒子出厂自带后门](https://mp.weixin.qq.com/s/JwQ7fDnnyoIC2w7e5oKB7g) (发布日期: 2026-11-11)
+- [AntiFox:AI 多智能体自主渗透测试平台,从侦察到交付报告全流程自动化,附下载](https://mp.weixin.qq.com/s/SXlq8U4lztITf3RZFCxnwg) (发布日期: 2026-11-11)
+- [RustScan：内网全端口超速扫描深度实测](https://mp.weixin.qq.com/s/-vugcEhHk00pdfjYCFxbFQ) (发布日期: 2026-11-11)
+- [漏洞通告|Apache OFBiz服务器端模板注入漏洞(CVE-2026-85627)](https://mp.weixin.qq.com/s/tt_gZcbuQXbwFU8JI-wRMA) (发布日期: 2026-11-11)
+- [渗透测试-如何高效率挖掘漏洞](https://mp.weixin.qq.com/s/uZpF5Qxwp62jXMvGnBXqaw) (发布日期: 2026-11-11)
+- [CVE | CVE-2026-98260漏洞复现](https://mp.weixin.qq.com/s/48DeL0zOFGQ-QD-2smMs9g) (发布日期: 2026-11-11)
+- [中关村科学城人工智能全景赋能典型案例  永信至诚AI大模型测评「数字风洞」护航AI应用安全落地](https://mp.weixin.qq.com/s/CAGfQTzg1-xuiqbNCf1VeA) (发布日期: 2026-11-11)
+- [漏洞预警 | Windows画图板越界读取漏洞](https://mp.weixin.qq.com/s/0pnfYVlJireNEUS0NRM0zQ) (发布日期: 2026-11-11)
+- [漏洞预警 | 金和OA SQL注入漏洞](https://mp.weixin.qq.com/s/A46Fo0tF8W9RV4hbLg28Xw) (发布日期: 2026-11-11)
+- [2026-11-10 数据泄露日报](https://mp.weixin.qq.com/s/kCGRN5DBbdsQ4d0jb18JmA) (发布日期: 2026-11-11)
+- [Dark Project勒索软件团伙声称在8个国家/地区攻击了38名受害者，目标主要集中在医疗保健和制造业](https://mp.weixin.qq.com/s/oQmsKZexoQit2-7E_XYsig) (发布日期: 2026-11-11)
+- [APT29利用N DAY漏洞对 iOS 和 Android 设备发起零点击攻击](https://mp.weixin.qq.com/s/mRWVj0m95bZ1JDYlWxqFVw) (发布日期: 2026-11-11)
+- [ACSAC论文精读｜模型文件也能是木马：用 eBPF 盯住模型\"干了什么\"，在 Hugging Face 抓到 41 个恶意模型](https://mp.weixin.qq.com/s/DCjvSsF0btb6EIR6N1rd2w) (发布日期: 2026-11-11)
+- [麒麟、统信也能用的应急响应工具箱：329 项基线一键体检](https://mp.weixin.qq.com/s/BlH07kY2cr_dJEkyAyngPw) (发布日期: 2026-11-11)
+- [SonicWall警告称，已停止支持的GMS软件存在未修复的漏洞](https://mp.weixin.qq.com/s/NxiXOes2OTwOZIIRzJ8-iA) (发布日期: 2026-11-11)
+- [新型 Abe Office 恶意软件诱骗 Chrome 浏览器解密其自身受保护的 Cookie](https://mp.weixin.qq.com/s/GeA4UcDqjTxnzOgfJxStiA) (发布日期: 2026-11-11)
+- [TC/VC加密容器的密码破解（二）：测试验证](https://mp.weixin.qq.com/s/2HNo7zPury8BaY_w-a3N0A) (发布日期: 2026-11-11)
+- [安全工具丨一个集资产收集、攻击面评估、漏洞验证与 AI 渗透对话于一体的安全测试平台](https://mp.weixin.qq.com/s/kXLsU-NUa_2bVUx0_gT4JQ) (发布日期: 2026-11-11)
+- [SonicWall 警告：SSL-VPN MFA 绕过漏洞已被攻击者利用](https://mp.weixin.qq.com/s/h25jk3L33FAuD8v1a524XQ) (发布日期: 2026-11-11)
+- [POC](https://mp.weixin.qq.com/s/RqXtHhfxexJRyFTw34Oe-Q) (发布日期: 2026-11-11)
+- [等级保护建设：安全运维管理—介质管理](https://mp.weixin.qq.com/s/8qOTkZiB5Ki_yBiAqo_RMw) (发布日期: 2026-11-11)
+- [美政府机构呼吁组织加强制冷控制器的网络安全防护](https://mp.weixin.qq.com/s/_Ee2YkOhHz-6mcRI9OCB1g) (发布日期: 2026-11-11)
 
 
 ## 🎯 威胁详情分析
 
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 赛博安全狗：微软Windows DHCP客户端双重释放漏洞CVE-2026-96115可远程攻击 (11.11) | Doonsec | [https://mp.weixin.qq.com/s/5tq4wyp8apdJ6o6fObOYrA](https://mp.weixin.qq.com/s/5tq4wyp8apdJ6o6fObOYrA) |
+| 2 | 微软11月补丁日多个产品安全漏洞风险通告：1个在野利用、43个紧急漏洞 | Doonsec | [https://mp.weixin.qq.com/s/1ST4x2CB5lsISa8QrXBJVA](https://mp.weixin.qq.com/s/1ST4x2CB5lsISa8QrXBJVA) |
+| 3 | OpenSSL 安全公告详述 QUIC、AES-GCM-SIV 和 CMS 中的五个漏洞 | Doonsec | [https://mp.weixin.qq.com/s/vaHRb3hQJp08_M2PajvCjw](https://mp.weixin.qq.com/s/vaHRb3hQJp08_M2PajvCjw) |
+| 4 | 11月10日漏洞：5个，3个认证绕过、1个未授权、1个信息泄露 | Doonsec | [https://mp.weixin.qq.com/s/ZLZiH7kAFVS0yza01v5dEA](https://mp.weixin.qq.com/s/ZLZiH7kAFVS0yza01v5dEA) |
+| 5 | 盲IDOR侧信道枚举漏洞 | Doonsec | [https://mp.weixin.qq.com/s/B3MgqCjnWl6tHfe8uz3rsw](https://mp.weixin.qq.com/s/B3MgqCjnWl6tHfe8uz3rsw) |
+| 6 | 漏洞通告|Apache OFBiz服务器端模板注入漏洞(CVE-2026-85627) | Doonsec | [https://mp.weixin.qq.com/s/tt_gZcbuQXbwFU8JI-wRMA](https://mp.weixin.qq.com/s/tt_gZcbuQXbwFU8JI-wRMA) |
+| 7 | 渗透测试-如何高效率挖掘漏洞 | Doonsec | [https://mp.weixin.qq.com/s/uZpF5Qxwp62jXMvGnBXqaw](https://mp.weixin.qq.com/s/uZpF5Qxwp62jXMvGnBXqaw) |
+| 8 | CVE | CVE-2026-98260漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s/48DeL0zOFGQ-QD-2smMs9g](https://mp.weixin.qq.com/s/48DeL0zOFGQ-QD-2smMs9g) |
+| 9 | 漏洞预警 | Windows画图板越界读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s/0pnfYVlJireNEUS0NRM0zQ](https://mp.weixin.qq.com/s/0pnfYVlJireNEUS0NRM0zQ) |
+| 10 | 漏洞预警 | 金和OA SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/A46Fo0tF8W9RV4hbLg28Xw](https://mp.weixin.qq.com/s/A46Fo0tF8W9RV4hbLg28Xw) |
+| 11 | APT29利用N DAY漏洞对 iOS 和 Android 设备发起零点击攻击 | Doonsec | [https://mp.weixin.qq.com/s/mRWVj0m95bZ1JDYlWxqFVw](https://mp.weixin.qq.com/s/mRWVj0m95bZ1JDYlWxqFVw) |
+| 12 | SonicWall警告称，已停止支持的GMS软件存在未修复的漏洞 | Doonsec | [https://mp.weixin.qq.com/s/NxiXOes2OTwOZIIRzJ8-iA](https://mp.weixin.qq.com/s/NxiXOes2OTwOZIIRzJ8-iA) |
+| 13 | 安全工具丨一个集资产收集、攻击面评估、漏洞验证与 AI 渗透对话于一体的安全测试平台 | Doonsec | [https://mp.weixin.qq.com/s/kXLsU-NUa_2bVUx0_gT4JQ](https://mp.weixin.qq.com/s/kXLsU-NUa_2bVUx0_gT4JQ) |
+| 14 | SonicWall 警告：SSL-VPN MFA 绕过漏洞已被攻击者利用 | Doonsec | [https://mp.weixin.qq.com/s/h25jk3L33FAuD8v1a524XQ](https://mp.weixin.qq.com/s/h25jk3L33FAuD8v1a524XQ) |
+| 15 | POC | Doonsec | [https://mp.weixin.qq.com/s/RqXtHhfxexJRyFTw34Oe-Q](https://mp.weixin.qq.com/s/RqXtHhfxexJRyFTw34Oe-Q) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | RustScan：内网全端口超速扫描深度实测 | Doonsec | [https://mp.weixin.qq.com/s/-vugcEhHk00pdfjYCFxbFQ](https://mp.weixin.qq.com/s/-vugcEhHk00pdfjYCFxbFQ) |
+| 2 | 漏洞通告|Apache OFBiz服务器端模板注入漏洞(CVE-2026-85627) | Doonsec | [https://mp.weixin.qq.com/s/tt_gZcbuQXbwFU8JI-wRMA](https://mp.weixin.qq.com/s/tt_gZcbuQXbwFU8JI-wRMA) |
+| 3 | 漏洞预警 | 金和OA SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/A46Fo0tF8W9RV4hbLg28Xw](https://mp.weixin.qq.com/s/A46Fo0tF8W9RV4hbLg28Xw) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 银狐情报｜大马机房带双供应商坐实：假火绒线C2落锤全新主体ABCCLOUD，单日11样本投放创11月次高 | Doonsec | [https://mp.weixin.qq.com/s/fPrmnJl0NjPi2ibX4YjhGw](https://mp.weixin.qq.com/s/fPrmnJl0NjPi2ibX4YjhGw) |
+| 2 | 靶标防护应急响应方案 | Doonsec | [https://mp.weixin.qq.com/s/T0aRGpR8mL1ofxP5TKl7bQ](https://mp.weixin.qq.com/s/T0aRGpR8mL1ofxP5TKl7bQ) |
+| 3 | APT29利用N DAY漏洞对 iOS 和 Android 设备发起零点击攻击 | Doonsec | [https://mp.weixin.qq.com/s/mRWVj0m95bZ1JDYlWxqFVw](https://mp.weixin.qq.com/s/mRWVj0m95bZ1JDYlWxqFVw) |
+| 4 | 麒麟、统信也能用的应急响应工具箱：329 项基线一键体检 | Doonsec | [https://mp.weixin.qq.com/s/BlH07kY2cr_dJEkyAyngPw](https://mp.weixin.qq.com/s/BlH07kY2cr_dJEkyAyngPw) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 2026-11-10 数据泄露日报 | Doonsec | [https://mp.weixin.qq.com/s/kCGRN5DBbdsQ4d0jb18JmA](https://mp.weixin.qq.com/s/kCGRN5DBbdsQ4d0jb18JmA) |
+
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-11/2026-W46/2026-11-10/`
+文章已归档到: `doc/2026/2026-11/2026-W46/2026-11-11/`
 
 ## 🔗 数据源说明
 
@@ -78,8 +161,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 15 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -88,5 +171,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-11-10 21:42:09*
+*生成时间: 2026-11-11 05:23:04*
 *报告工具: 微信文章安全归档系统*
