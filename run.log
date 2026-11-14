@@ -135739,3 +135739,44 @@
 2026-11-13 19:32:04,081 - INFO - 正在发送Discord日报通知: 2026-11-13
 2026-11-13 19:32:04,233 - INFO - Discord日报发送结果: 429
 2026-11-13 19:32:04,235 - INFO - === 执行完成 ===
+2026-11-14 00:46:50,713 - INFO - === 开始执行微信文章归档工具 ===
+2026-11-14 00:46:50,713 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-11-14 00:46:50,713 - INFO - 正在发送Discord启动通知...
+2026-11-14 00:46:51,046 - INFO - Discord启动通知发送结果: 204
+2026-11-14 00:46:51,047 - INFO - 数据文件: data.json
+2026-11-14 00:46:51,047 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-11-14 00:46:51,047 - INFO - 文档目录: doc
+2026-11-14 00:46:51,118 - INFO - 已加载 54377 条历史记录
+2026-11-14 00:46:51,118 - INFO - === 开始今日拉取 ===
+2026-11-14 00:46:51,118 - INFO - 开始获取Doonsec RSS
+2026-11-14 00:46:51,118 - INFO - 目标日期: 2026-11-14
+2026-11-14 00:46:52,233 - INFO - Doonsec RSS请求成功
+2026-11-14 00:46:52,234 - INFO - RSS中共有 200 个条目
+2026-11-14 00:46:52,234 - INFO - Doonsec获取到 8 个2026-11-14的微信文章URL
+2026-11-14 00:46:52,235 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-11-14.md
+2026-11-14 00:46:52,311 - INFO - ChainReactors md文件下载状态码: 404
+2026-11-14 00:46:52,311 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-11-14.md 状态码: 404
+2026-11-14 00:46:52,311 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-11-14.md
+2026-11-14 00:46:52,391 - INFO - BruceFeIix md文件下载状态码: 404
+2026-11-14 00:46:52,391 - WARNING - BruceFeIix md文件下载失败: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-11-14.md 状态码: 404
+2026-11-14 00:46:52,391 - INFO - === 开始处理 2026-11-14 的数据 ===
+2026-11-14 00:46:52,391 - INFO - Doonsec原始数据: 8 个
+2026-11-14 00:46:52,391 - INFO - ChainReactors原始数据: 0 个
+2026-11-14 00:46:52,391 - INFO - BruceFeIix原始数据: 0 个
+2026-11-14 00:46:52,391 - INFO - 开始处理Doonsec数据...
+2026-11-14 00:46:52,392 - INFO - 开始处理ChainReactors数据...
+2026-11-14 00:46:52,392 - INFO - 开始处理BruceFeIix数据...
+2026-11-14 00:46:52,392 - INFO - 去重后共 8 个URL待处理，跳过 0 个重复URL
+2026-11-14 00:46:52,392 - INFO - 去重后统计 - Doonsec: 8 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-11-14 00:46:52,392 - INFO - === 开始关键词过滤 ===
+2026-11-14 00:46:52,392 - INFO - 关键词过滤: 匹配 1 个，跳过 7 个
+2026-11-14 00:46:52,392 - INFO - 关键词过滤后统计 - Doonsec: 1 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-11-14 00:46:52,395 - INFO - 已创建每日报告: md/2026-11-14.md
+2026-11-14 00:46:52,395 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-11-14 00:46:52,395 - INFO - 正在发送Discord通知: 红队实战：一次护网演练里的社工钓鱼链路复盘（脱敏）
+2026-11-14 00:46:52,698 - INFO - Discord通知发送结果: 204
+2026-11-14 00:46:52,755 - INFO - 已更新data.json，添加了 1 个URL
+2026-11-14 00:46:52,755 - INFO - 已创建每日报告: md/2026-11-14.md
+2026-11-14 00:46:52,755 - INFO - 正在发送Discord日报通知: 2026-11-14
+2026-11-14 00:46:53,158 - INFO - Discord日报发送结果: 204
+2026-11-14 00:46:53,159 - INFO - === 执行完成 ===
