@@ -2,16 +2,23 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 16
 - **数据源分布**:
-  - Doonsec: 1篇
+  - BruceFeIix: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 8篇
+- **攻击技术**: 6篇
+- **供应链**: 3篇
+- **安全运营**: 2篇
+- **威胁情报**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
+- **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -58,12 +65,78 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [红队实战：一次护网演练里的社工钓鱼链路复盘（脱敏）](https://mp.weixin.qq.com/s/pWi6jeXPIk-7lDV87J2vlQ) (发布日期: 2026-11-14)
+- [ ] [航运巨头遭黑客勒索！被索要500万美元，数据安全告急](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651145062&idx=1&sn=c72fe5a6dd2ed8f6c1661392b12fa711) (发布日期: 2026-11-14)
+- [ ] [已复现！Apache HTTPD mod_http2 条件竞争远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509047&idx=1&sn=378b5e0e20a6df5a5dd427ccac017b56) (发布日期: 2026-11-14)
+- [ ] [已复现！Windows 音频服务本地提权漏洞利用链](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509047&idx=2&sn=ee30904075deafef76027d091c05b175) (发布日期: 2026-11-14)
+- [ ] [周五求职专栏 | 攻防、安全研发、数据安全，高薪岗位更新](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624223&idx=2&sn=09dc61f5da9a35ed19884ebbdba5f01a) (发布日期: 2026-11-14)
+- [ ] [AI只改动7个神经元，就能埋下隐藏后门？微软研究揭示新风险](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544503&idx=1&sn=cbe622eeacf01eadc9a4312c87005ee8) (发布日期: 2026-11-14)
+- [ ] [联合发布｜《SRC行业授权资产安全测试规范-Agent版》及配套使用手册](https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505474&idx=1&sn=6e66544afb8ca1a4d68c92b779e992d5) (发布日期: 2026-11-14)
+- [ ] [【已复现】Apache HTTP/2 远程代码执行漏洞(CVE-2026-119618)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508110&idx=1&sn=a17f6b379b7e554d96a77c11e8ccbe90) (发布日期: 2026-11-14)
+- [ ] [【风险提示-已复现】天融信关于Apache HTTP Server远程代码执行漏洞CVE-2026-119618的风险提示](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497107&idx=1&sn=e7b5c4e9dd5120cb748b91ebfe1bea70) (发布日期: 2026-11-14)
+- [ ] [【火绒安全周报】美联航限制第三方智能体访问/日本再爆严重数据泄露事件](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538861&idx=2&sn=211519ab870c695c59824d6509d31be0) (发布日期: 2026-11-14)
+- [ ] [联合发布｜《SRC行业授权资产安全测试规范-Agent版》及配套使用手册](https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486702&idx=1&sn=14ec315a14c49a23d93fa902fa88bf0d) (发布日期: 2026-11-14)
+- [ ] [【漏洞通告】Apache HTTP Server mod_http2 竞态条件远程代码执行漏洞(CVE-2026-119618)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526447&idx=1&sn=4b2864b5b260b343afc4b7315af014bd) (发布日期: 2026-11-14)
+- [ ] [Palo Alto 修复PAN-OS RCE 漏洞，可导致任意代码执行](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527740&idx=1&sn=40fa926be3e6a4177e1a0e44f1eff5f5) (发布日期: 2026-11-14)
+- [ ] [每周高级威胁情报解读(2026.11.06~11.12)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521370&idx=1&sn=66e07d88c53ade99d8c61488f6eaf8d9) (发布日期: 2026-11-14)
+- [ ] [供应链安全威胁档案周报——W46](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521370&idx=2&sn=3ff8802d5533bc48a7d5474def5ebd52) (发布日期: 2026-11-14)
+- [ ] [【漏洞通告】Apache HTTP Server远程代码执行漏洞（CVE-2026-119618）](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494081&idx=1&sn=5e1805ee53b15e8931bf0b8970da995f) (发布日期: 2026-11-14)
+- [ ] [信通院可信AI供应链安全认证 | 悬镜灵脉CodeAI 如何深挖复杂业务逻辑漏洞？](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647801265&idx=1&sn=d7f376fdf664b45a4e52504ef253f441) (发布日期: 2026-11-14)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [已复现！Apache HTTPD mod_http2 条件竞争远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509047&idx=1&sn=378b5e0e20a6df5a5dd427ccac017b56](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509047&idx=1&sn=378b5e0e20a6df5a5dd427ccac017b56) |
+| 2 |  ] [已复现！Windows 音频服务本地提权漏洞利用链 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509047&idx=2&sn=ee30904075deafef76027d091c05b175](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509047&idx=2&sn=ee30904075deafef76027d091c05b175) |
+| 3 |  ] [【已复现】Apache HTTP/2 远程代码执行漏洞(CVE-2026-119618)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508110&idx=1&sn=a17f6b379b7e554d96a77c11e8ccbe90](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508110&idx=1&sn=a17f6b379b7e554d96a77c11e8ccbe90) |
+| 4 |  ] [【风险提示-已复现】天融信关于Apache HTTP Server远程代码执行漏洞CVE-2026-119618的风险提示 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497107&idx=1&sn=e7b5c4e9dd5120cb748b91ebfe1bea70](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497107&idx=1&sn=e7b5c4e9dd5120cb748b91ebfe1bea70) |
+| 5 |  ] [【漏洞通告】Apache HTTP Server mod_http2 竞态条件远程代码执行漏洞(CVE-2026-119618) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526447&idx=1&sn=4b2864b5b260b343afc4b7315af014bd](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526447&idx=1&sn=4b2864b5b260b343afc4b7315af014bd) |
+| 6 |  ] [Palo Alto 修复PAN-OS RCE 漏洞，可导致任意代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527740&idx=1&sn=40fa926be3e6a4177e1a0e44f1eff5f5](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527740&idx=1&sn=40fa926be3e6a4177e1a0e44f1eff5f5) |
+| 7 |  ] [【漏洞通告】Apache HTTP Server远程代码执行漏洞（CVE-2026-119618） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494081&idx=1&sn=5e1805ee53b15e8931bf0b8970da995f](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494081&idx=1&sn=5e1805ee53b15e8931bf0b8970da995f) |
+| 8 |  ] [信通院可信AI供应链安全认证 | 悬镜灵脉CodeAI 如何深挖复杂业务逻辑漏洞？ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647801265&idx=1&sn=d7f376fdf664b45a4e52504ef253f441](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647801265&idx=1&sn=d7f376fdf664b45a4e52504ef253f441) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [已复现！Apache HTTPD mod_http2 条件竞争远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509047&idx=1&sn=378b5e0e20a6df5a5dd427ccac017b56](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509047&idx=1&sn=378b5e0e20a6df5a5dd427ccac017b56) |
+| 2 |  ] [【已复现】Apache HTTP/2 远程代码执行漏洞(CVE-2026-119618)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508110&idx=1&sn=a17f6b379b7e554d96a77c11e8ccbe90](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508110&idx=1&sn=a17f6b379b7e554d96a77c11e8ccbe90) |
+| 3 |  ] [【风险提示-已复现】天融信关于Apache HTTP Server远程代码执行漏洞CVE-2026-119618的风险提示 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497107&idx=1&sn=e7b5c4e9dd5120cb748b91ebfe1bea70](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497107&idx=1&sn=e7b5c4e9dd5120cb748b91ebfe1bea70) |
+| 4 |  ] [【漏洞通告】Apache HTTP Server mod_http2 竞态条件远程代码执行漏洞(CVE-2026-119618) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526447&idx=1&sn=4b2864b5b260b343afc4b7315af014bd](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526447&idx=1&sn=4b2864b5b260b343afc4b7315af014bd) |
+| 5 |  ] [Palo Alto 修复PAN-OS RCE 漏洞，可导致任意代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527740&idx=1&sn=40fa926be3e6a4177e1a0e44f1eff5f5](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527740&idx=1&sn=40fa926be3e6a4177e1a0e44f1eff5f5) |
+| 6 |  ] [【漏洞通告】Apache HTTP Server远程代码执行漏洞（CVE-2026-119618） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494081&idx=1&sn=5e1805ee53b15e8931bf0b8970da995f](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494081&idx=1&sn=5e1805ee53b15e8931bf0b8970da995f) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [每周高级威胁情报解读(2026.11.06~11.12) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521370&idx=1&sn=66e07d88c53ade99d8c61488f6eaf8d9](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521370&idx=1&sn=66e07d88c53ade99d8c61488f6eaf8d9) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [联合发布｜《SRC行业授权资产安全测试规范-Agent版》及配套使用手册 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505474&idx=1&sn=6e66544afb8ca1a4d68c92b779e992d5](https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505474&idx=1&sn=6e66544afb8ca1a4d68c92b779e992d5) |
+| 2 |  ] [联合发布｜《SRC行业授权资产安全测试规范-Agent版》及配套使用手册 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486702&idx=1&sn=14ec315a14c49a23d93fa902fa88bf0d](https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486702&idx=1&sn=14ec315a14c49a23d93fa902fa88bf0d) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【火绒安全周报】美联航限制第三方智能体访问/日本再爆严重数据泄露事件 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538861&idx=2&sn=211519ab870c695c59824d6509d31be0](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538861&idx=2&sn=211519ab870c695c59824d6509d31be0) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【火绒安全周报】美联航限制第三方智能体访问/日本再爆严重数据泄露事件 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538861&idx=2&sn=211519ab870c695c59824d6509d31be0](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538861&idx=2&sn=211519ab870c695c59824d6509d31be0) |
+| 2 |  ] [供应链安全威胁档案周报——W46 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521370&idx=2&sn=3ff8802d5533bc48a7d5474def5ebd52](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521370&idx=2&sn=3ff8802d5533bc48a7d5474def5ebd52) |
+| 3 |  ] [信通院可信AI供应链安全认证 | 悬镜灵脉CodeAI 如何深挖复杂业务逻辑漏洞？ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647801265&idx=1&sn=d7f376fdf664b45a4e52504ef253f441](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647801265&idx=1&sn=d7f376fdf664b45a4e52504ef253f441) |
 
 
 ## 📁 归档路径
@@ -79,8 +152,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -89,5 +162,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-11-14 00:46:52*
+*生成时间: 2026-11-14 11:16:24*
 *报告工具: 微信文章安全归档系统*
