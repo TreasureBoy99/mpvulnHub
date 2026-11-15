@@ -135950,3 +135950,44 @@
 2026-11-15 05:35:39,139 - INFO - === 跳过二进制文件处理，只更新data.json ===
 2026-11-15 05:35:39,210 - INFO - 已更新data.json，添加了 0 个URL
 2026-11-15 05:35:39,210 - INFO - === 执行完成 ===
+2026-11-15 15:28:39,470 - INFO - === 开始执行微信文章归档工具 ===
+2026-11-15 15:28:39,470 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-11-15 15:28:39,470 - INFO - 正在发送Discord启动通知...
+2026-11-15 15:28:40,048 - INFO - Discord启动通知发送结果: 204
+2026-11-15 15:28:40,050 - INFO - 数据文件: data.json
+2026-11-15 15:28:40,050 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-11-15 15:28:40,050 - INFO - 文档目录: doc
+2026-11-15 15:28:40,144 - INFO - 已加载 54394 条历史记录
+2026-11-15 15:28:40,145 - INFO - === 开始今日拉取 ===
+2026-11-15 15:28:40,145 - INFO - 开始获取Doonsec RSS
+2026-11-15 15:28:40,145 - INFO - 目标日期: 2026-11-15
+2026-11-15 15:28:41,812 - ERROR - Doonsec RSS解析失败: HTTPSConnectionPool(host='wechat.doonsec.com', port=443): Max retries exceeded with url: /rss.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1017)')))
+2026-11-15 15:28:41,812 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-11-15.md
+2026-11-15 15:28:41,931 - INFO - ChainReactors md文件下载状态码: 404
+2026-11-15 15:28:41,931 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-11-15.md 状态码: 404
+2026-11-15 15:28:41,931 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-11-15.md
+2026-11-15 15:28:42,033 - INFO - BruceFeIix md文件下载状态码: 200
+2026-11-15 15:28:42,033 - INFO - BruceFeIix获取到 18 个URL
+2026-11-15 15:28:42,033 - INFO - === 开始处理 2026-11-15 的数据 ===
+2026-11-15 15:28:42,033 - INFO - Doonsec原始数据: 0 个
+2026-11-15 15:28:42,033 - INFO - ChainReactors原始数据: 0 个
+2026-11-15 15:28:42,033 - INFO - BruceFeIix原始数据: 18 个
+2026-11-15 15:28:42,033 - INFO - 开始处理Doonsec数据...
+2026-11-15 15:28:42,034 - INFO - 开始处理ChainReactors数据...
+2026-11-15 15:28:42,034 - INFO - 开始处理BruceFeIix数据...
+2026-11-15 15:28:42,034 - INFO - 去重后共 17 个URL待处理，跳过 1 个重复URL
+2026-11-15 15:28:42,034 - INFO - 去重后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 17 个
+2026-11-15 15:28:42,034 - INFO - === 开始关键词过滤 ===
+2026-11-15 15:28:42,034 - INFO - 关键词过滤: 匹配 2 个，跳过 15 个
+2026-11-15 15:28:42,034 - INFO - 关键词过滤后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 2 个
+2026-11-15 15:28:42,039 - INFO - 已创建每日报告: md/2026-11-15.md
+2026-11-15 15:28:42,039 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-11-15 15:28:42,039 - INFO - 正在发送Discord通知:  ] [【安全圈】黑客在 Linux 服务器上植入 GSocket 以维持持久访问
+2026-11-15 15:28:42,344 - INFO - Discord通知发送结果: 204
+2026-11-15 15:28:42,345 - INFO - 正在发送Discord通知:  ] [【安全圈】新的 Windows SignDrop 零日漏洞让黑客获得 SYSTEM 权限
+2026-11-15 15:28:42,620 - INFO - Discord通知发送结果: 204
+2026-11-15 15:28:42,690 - INFO - 已更新data.json，添加了 2 个URL
+2026-11-15 15:28:42,690 - INFO - 已创建每日报告: md/2026-11-15.md
+2026-11-15 15:28:42,690 - INFO - 正在发送Discord日报通知: 2026-11-15
+2026-11-15 15:28:43,108 - INFO - Discord日报发送结果: 204
+2026-11-15 15:28:43,109 - INFO - === 执行完成 ===
