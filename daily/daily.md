@@ -1,17 +1,22 @@
-# 2026-11-15 安全威胁态势报告
+# 2026-11-16 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 22
 - **数据源分布**:
-  - BruceFeIix: 2篇
+  - Doonsec: 22篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 10篇
+- **攻击技术**: 4篇
+- **信息泄露**: 2篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 4篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -58,10 +63,30 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [【安全圈】黑客在 Linux 服务器上植入 GSocket 以维持持久访问](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079867&idx=2&sn=dd67e8e23c7cba109cc590ae80f5b165) (发布日期: 2026-11-15)
-- [ ] [【安全圈】新的 Windows SignDrop 零日漏洞让黑客获得 SYSTEM 权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079867&idx=3&sn=d0d6461160d63e9c129885f1d09e0e98) (发布日期: 2026-11-15)
+- [深耕AI攻防，支撑国家级漏洞治理｜中孚信息入选AIVD技术支撑单位](https://mp.weixin.qq.com/s/r6qSpmrWSAE5NsM4zcD4LA) (发布日期: 2026-11-16)
+- [CVE-2026-109445（CVSS 9.8）：PLANET GS-5220-8P2T2S V3 基于栈的缓冲区溢出漏洞已修复](https://mp.weixin.qq.com/s/OvC9xLokCjELT8OEffw0uA) (发布日期: 2026-11-16)
+- [Cursor 确认安全漏洞导致恶意 Claude Code 扩展程序出现](https://mp.weixin.qq.com/s/rxlsdL_lWGa13dxwPCuQ4w) (发布日期: 2026-11-16)
+- [「关键漏洞目录」新增「Check Point Quantum Security Gateway访问控制问题漏洞」等2个漏洞](https://mp.weixin.qq.com/s/HGs5J1qBVMHRyTTDmsT5yw) (发布日期: 2026-11-16)
+- [OpenSSH sshd最小认证延迟绕过漏洞复现(CVE-2026-60001)](https://mp.weixin.qq.com/s/5DW4zuY-GoezwKNsJDSDYA) (发布日期: 2026-11-16)
+- [黄金易炼，信任难补：周生生数据泄露事件全复盘](https://mp.weixin.qq.com/s/VtsNJHGzF1I9JIGBJT8bfA) (发布日期: 2026-11-16)
+- [8.6k星的AI渗透测试工作台，Go编写、100+工具配方、一条命令部署](https://mp.weixin.qq.com/s/qLnixvhgzl7ayKpy8bBL5Q) (发布日期: 2026-11-16)
+- [AI 赋能网络安全设备：覆盖 NDR · AI 防火墙 · 抗 DDoS · 加密流量识别](https://mp.weixin.qq.com/s/nISZO_CWvc8HdpucTAkwBg) (发布日期: 2026-11-16)
+- [PivotHub · 链透中枢 — 多层内网渗透辅助工具](https://mp.weixin.qq.com/s/2S7-SibBzT-6ZJnpNGJvPg) (发布日期: 2026-11-16)
+- [SQL注入黑盒实战：一个单引号挖出通用漏洞](https://mp.weixin.qq.com/s/VHQS_Wxe7CEjmwioKLx9HQ) (发布日期: 2026-11-16)
+- [电力行业电力监控系统安全防护评估系统已经在使用，再也不用看着excel表手搓报告](https://mp.weixin.qq.com/s/LMQ53tY93M-IppfAGxmemA) (发布日期: 2026-11-16)
+- [大会预热！2026算力互联网大会——智能安全与机密计算分论坛召开在即！](https://mp.weixin.qq.com/s/9TLo8wNDVyJVTK67yFx8_A) (发布日期: 2026-11-16)
+- [从可靠组网到安全防护，威努特护航高速ETC系统稳定运行](https://mp.weixin.qq.com/s/4S0XT2Eo87b6ZNSYfDR9qA) (发布日期: 2026-11-16)
+- [漏洞预警 | CraftCMS SQL注入漏洞](https://mp.weixin.qq.com/s/e_VTi1zv-pzyrecCRn8lAw) (发布日期: 2026-11-16)
+- [漏洞预警 | JeecgBoot SQL注入漏洞](https://mp.weixin.qq.com/s/2p6J6M21tivllQQCX4Lc_w) (发布日期: 2026-11-16)
+- [DSH 破甲版，才是安全工程师的“梦中情模”（附插件链接，按需取）](https://mp.weixin.qq.com/s/swT-IiLL85-yxMXgHslT-w) (发布日期: 2026-11-16)
+- [墨西哥国家选举机构（INE）345 万条数据泄露](https://mp.weixin.qq.com/s/UUa_lKhBJhn_9ghHR5rhkA) (发布日期: 2026-11-16)
+- [朝鲜黑客用AI冒充熟人，4亿美元加密货币被盗：视频会议也不可信了](https://mp.weixin.qq.com/s/cAsELQitttuIqlLRwQNETQ) (发布日期: 2026-11-16)
+- [ModSecurity WAF漏洞允许攻击者使用精心构造的HTTP请求绕过文件上传限制](https://mp.weixin.qq.com/s/n623jn6J6A3t4gdK4mXLww) (发布日期: 2026-11-16)
+- [银狐木马C2资产黑名单解构，50IP与165域名防线部署](https://mp.weixin.qq.com/s/mfo6Vqq07bPPHa7O8nNCRQ) (发布日期: 2026-11-16)
+- [二进制漏洞](https://mp.weixin.qq.com/s/_DQRmiv6P83vdawnCz9jeQ) (发布日期: 2026-11-16)
+- [等级保护建设：安全运维管理—网络和系统安全管理](https://mp.weixin.qq.com/s/yADUFaXPG2fTIPS0J97q5Q) (发布日期: 2026-11-16)
 
 
 ## 🎯 威胁详情分析
@@ -70,12 +95,43 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【安全圈】新的 Windows SignDrop 零日漏洞让黑客获得 SYSTEM 权限 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079867&idx=3&sn=d0d6461160d63e9c129885f1d09e0e98](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079867&idx=3&sn=d0d6461160d63e9c129885f1d09e0e98) |
+| 1 | 深耕AI攻防，支撑国家级漏洞治理｜中孚信息入选AIVD技术支撑单位 | Doonsec | [https://mp.weixin.qq.com/s/r6qSpmrWSAE5NsM4zcD4LA](https://mp.weixin.qq.com/s/r6qSpmrWSAE5NsM4zcD4LA) |
+| 2 | CVE-2026-109445（CVSS 9.8）：PLANET GS-5220-8P2T2S V3 基于栈的缓冲区溢出漏洞已修复 | Doonsec | [https://mp.weixin.qq.com/s/OvC9xLokCjELT8OEffw0uA](https://mp.weixin.qq.com/s/OvC9xLokCjELT8OEffw0uA) |
+| 3 | Cursor 确认安全漏洞导致恶意 Claude Code 扩展程序出现 | Doonsec | [https://mp.weixin.qq.com/s/rxlsdL_lWGa13dxwPCuQ4w](https://mp.weixin.qq.com/s/rxlsdL_lWGa13dxwPCuQ4w) |
+| 4 | 「关键漏洞目录」新增「Check Point Quantum Security Gateway访问控制问题漏洞」等2个漏洞 | Doonsec | [https://mp.weixin.qq.com/s/HGs5J1qBVMHRyTTDmsT5yw](https://mp.weixin.qq.com/s/HGs5J1qBVMHRyTTDmsT5yw) |
+| 5 | OpenSSH sshd最小认证延迟绕过漏洞复现(CVE-2026-60001) | Doonsec | [https://mp.weixin.qq.com/s/5DW4zuY-GoezwKNsJDSDYA](https://mp.weixin.qq.com/s/5DW4zuY-GoezwKNsJDSDYA) |
+| 6 | SQL注入黑盒实战：一个单引号挖出通用漏洞 | Doonsec | [https://mp.weixin.qq.com/s/VHQS_Wxe7CEjmwioKLx9HQ](https://mp.weixin.qq.com/s/VHQS_Wxe7CEjmwioKLx9HQ) |
+| 7 | 漏洞预警 | CraftCMS SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/e_VTi1zv-pzyrecCRn8lAw](https://mp.weixin.qq.com/s/e_VTi1zv-pzyrecCRn8lAw) |
+| 8 | 漏洞预警 | JeecgBoot SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/2p6J6M21tivllQQCX4Lc_w](https://mp.weixin.qq.com/s/2p6J6M21tivllQQCX4Lc_w) |
+| 9 | ModSecurity WAF漏洞允许攻击者使用精心构造的HTTP请求绕过文件上传限制 | Doonsec | [https://mp.weixin.qq.com/s/n623jn6J6A3t4gdK4mXLww](https://mp.weixin.qq.com/s/n623jn6J6A3t4gdK4mXLww) |
+| 10 | 二进制漏洞 | Doonsec | [https://mp.weixin.qq.com/s/_DQRmiv6P83vdawnCz9jeQ](https://mp.weixin.qq.com/s/_DQRmiv6P83vdawnCz9jeQ) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | PivotHub · 链透中枢 — 多层内网渗透辅助工具 | Doonsec | [https://mp.weixin.qq.com/s/2S7-SibBzT-6ZJnpNGJvPg](https://mp.weixin.qq.com/s/2S7-SibBzT-6ZJnpNGJvPg) |
+| 2 | SQL注入黑盒实战：一个单引号挖出通用漏洞 | Doonsec | [https://mp.weixin.qq.com/s/VHQS_Wxe7CEjmwioKLx9HQ](https://mp.weixin.qq.com/s/VHQS_Wxe7CEjmwioKLx9HQ) |
+| 3 | 漏洞预警 | CraftCMS SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/e_VTi1zv-pzyrecCRn8lAw](https://mp.weixin.qq.com/s/e_VTi1zv-pzyrecCRn8lAw) |
+| 4 | 漏洞预警 | JeecgBoot SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s/2p6J6M21tivllQQCX4Lc_w](https://mp.weixin.qq.com/s/2p6J6M21tivllQQCX4Lc_w) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 银狐木马C2资产黑名单解构，50IP与165域名防线部署 | Doonsec | [https://mp.weixin.qq.com/s/mfo6Vqq07bPPHa7O8nNCRQ](https://mp.weixin.qq.com/s/mfo6Vqq07bPPHa7O8nNCRQ) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 黄金易炼，信任难补：周生生数据泄露事件全复盘 | Doonsec | [https://mp.weixin.qq.com/s/VtsNJHGzF1I9JIGBJT8bfA](https://mp.weixin.qq.com/s/VtsNJHGzF1I9JIGBJT8bfA) |
+| 2 | 墨西哥国家选举机构（INE）345 万条数据泄露 | Doonsec | [https://mp.weixin.qq.com/s/UUa_lKhBJhn_9ghHR5rhkA](https://mp.weixin.qq.com/s/UUa_lKhBJhn_9ghHR5rhkA) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-11/2026-W46/2026-11-15/`
+文章已归档到: `doc/2026/2026-11/2026-W47/2026-11-16/`
 
 ## 🔗 数据源说明
 
@@ -86,8 +142,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 4 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -96,5 +152,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-11-15 15:28:42*
+*生成时间: 2026-11-16 05:34:42*
 *报告工具: 微信文章安全归档系统*
