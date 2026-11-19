@@ -1,21 +1,22 @@
-# 2026-11-18 安全威胁态势报告
+# 2026-11-19 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 13
+- **总文章数**: 21
 - **数据源分布**:
-  - BruceFeIix: 13篇
+  - BruceFeIix: 21篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 3篇
-- **供应链**: 2篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 16篇
+- **攻击技术**: 10篇
 - **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,19 +65,27 @@
 
 ### BruceFeIix
 
-- [ ] [《全球数据泄露态势月度报告》（2026年10月）| 附下载地址](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544555&idx=1&sn=901a7c459839a7917ce11e7e1532c19d) (发布日期: 2026-11-18)
-- [ ] [【安全圈】运维工具长出蠕虫：SCKit跳到技术员电脑](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079911&idx=2&sn=a83acfe4ccc4a76cfdbf3a930ca47aca) (发布日期: 2026-11-18)
-- [ ] [建行再因违反网络安全管理规定等被罚](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516904&idx=2&sn=8d74166572fd4f5fab2fd827710cd63c) (发布日期: 2026-11-18)
-- [ ] [勒索病毒样本分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624317&idx=1&sn=5c5a4a7d1ef0a413fe971d096d0b459f) (发布日期: 2026-11-18)
-- [ ] [【已复现】LibreOffice 远程代码执行漏洞(CVE-2026-104692、CVE-2026-104007)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508132&idx=1&sn=765cffd533b8087793a59834cabdc0dd) (发布日期: 2026-11-18)
-- [ ] [重写大语言模型中不到10个神经元就能将其变成休眠后门](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486965&idx=1&sn=b47055c58c88f2225f8f1140ddfe9400) (发布日期: 2026-11-18)
-- [ ] [0day+供应链投毒：整个职场一把梭](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188690&idx=1&sn=e35db4f06f1726f6cc678ee3f1abf5c8) (发布日期: 2026-11-18)
-- [ ] [【漏洞通告】Apache Axis 1.x远程代码执行漏洞（CVE-2026-90436）](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494099&idx=1&sn=4f3b18d3defcf972011a7d1626d9f5f5) (发布日期: 2026-11-18)
-- [ ] [【漏洞通告】LibreOffice远程代码执行漏洞（CVE-2026-104007/CVE-2026-104692）](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494099&idx=2&sn=a681712b6e01dd5a835afed611413a20) (发布日期: 2026-11-18)
-- [ ] [CNVD漏洞周报2026年第45期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502603&idx=1&sn=03ae4adf051661f5bd46329031af9650) (发布日期: 2026-11-18)
-- [ ] [Optimizely 供应链攻击波及全球178家组织机构](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527757&idx=1&sn=7c3c4ff77b2e926f70ab7041e36d0622) (发布日期: 2026-11-18)
-- [ ] [Microsoft 365 全球宕机事件由已存在几个月的漏洞引发](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527757&idx=2&sn=108761ce8c2cb657ae34fd73f55ed453) (发布日期: 2026-11-18)
-- [ ] [全面升级！破阵子2.0渗透测试智能体构建可控实战攻防体系](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247587219&idx=1&sn=261bccd4be1d1f81156c17d227d0ec94) (发布日期: 2026-11-18)
+- [ ] [NSA绝密内部网络突发宕机：漏洞补丁修复引发连锁故障](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189908&idx=1&sn=c2668dbd1e66cda92935194e2339a11d) (发布日期: 2026-11-19)
+- [ ] [雷神众测漏洞周报2026.11.9-2026.11.15](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652504029&idx=1&sn=cddb81a6677826f7aaf04b8c2b0d9bbe) (发布日期: 2026-11-19)
+- [ ] [OpenJDK 中严重漏洞Java4Shell可导致 RCE](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527770&idx=1&sn=29c50f47425bfb4309c457280d2f1d84) (发布日期: 2026-11-19)
+- [ ] [已复现！Java4Shell OpenJDK Base64 解码远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509050&idx=1&sn=880957697b6b18ea66bdaac6b502e32d) (发布日期: 2026-11-19)
+- [ ] [OpenJDK Java4Shell Base64解码远程代码执行漏洞（CVE-2026-114938）](https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247486425&idx=1&sn=a79b346d585971698fe43b28fba843aa) (发布日期: 2026-11-19)
+- [ ] [【漏洞通告】Java4Shell：OpenJDK Base64 解码器远程代码执行漏洞（CVE-2026-114938）](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493530&idx=1&sn=865eb63039791a288333820a3a3f9b8f) (发布日期: 2026-11-19)
+- [ ] [【已复现】OpenJDK Base64 解码器远程代码执行漏洞(CVE-2026-114938)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508147&idx=1&sn=a380d08925c7f4a6ad99f7f72e36bb34) (发布日期: 2026-11-19)
+- [ ] [行业动态 | 2026年“数据安全咨询（高级）”培训开启报名！](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544571&idx=2&sn=9434007a8395ecf0ea89542977c6b307) (发布日期: 2026-11-19)
+- [ ] [OpenJDK曝出Java4Shell高危漏洞：特定条件下可实现未授权远程代码执行](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624328&idx=2&sn=1563433e45143fefb5f8b120f464e601) (发布日期: 2026-11-19)
+- [ ] [天才程序员上线：AI 逆向与安全开发全栈实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624328&idx=3&sn=549e0aa788c2ffb8d3ceed7b9489c801) (发布日期: 2026-11-19)
+- [ ] [解读 | 以中国之治探索回应智能时代之问——《人工智能安全治理框架3.0》解读](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268613&idx=2&sn=20c985d9fd293f99ee9236dca1045c47) (发布日期: 2026-11-19)
+- [ ] [【安全圈】50个品牌被冒名：开发者自己粘了木马命令](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079922&idx=3&sn=2cc0a23eeab25d51e8bec5ba208bd4c1) (发布日期: 2026-11-19)
+- [ ] [【漏洞通告】OpenJDK Java4Shell 远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247498121&idx=1&sn=c5a09f7b579c7e691df81a205067686d) (发布日期: 2026-11-19)
+- [ ] [【风险提示-已复现】天融信关于OpenJDK Base64解码器远程代码执行漏洞CVE-2026-114938(Java4Shell)的风险提示](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497113&idx=1&sn=c0de90433b6d9fccf882b656fa96f850) (发布日期: 2026-11-19)
+- [ ] [【漏洞通告】Oracle Java SE JIT 编译器堆越界写入漏洞(CVE-2026-114938)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526470&idx=1&sn=79fb96bf22aa27b48bc41c17a72dfcdc) (发布日期: 2026-11-19)
+- [ ] [【漏洞通告】LibreOffice JDBC 链式远程代码执行漏洞(CVE-2026-104007/CVE-2026-104692)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526470&idx=2&sn=04faa4bb00aa1737b65994c73a68573d) (发布日期: 2026-11-19)
+- [ ] [ChatGPT 锁定模式绕过：网络钓鱼、恶意软件投递与静默数据泄露](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486966&idx=1&sn=e234b57e0f229433f5b608c64473a334) (发布日期: 2026-11-19)
+- [ ] [【已复现】OpenJDK远程代码执行漏洞（CVE-2026-114938）](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494104&idx=1&sn=e25893a3e467f71c35bdc005b84bdec8) (发布日期: 2026-11-19)
+- [ ] [【公告】关于延期恢复授权测试及漏洞收录的通知](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727851443&idx=1&sn=22a2fb97acc099867a3d51152e898757) (发布日期: 2026-11-19)
+- [ ] [GTIG首次观测无人在环的漏洞发现与利用：拆解 exploit_agent 自动化漏洞利用链](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521414&idx=1&sn=7b5cca3655051388b0ed7f1343fa8cb8) (发布日期: 2026-11-19)
+- [ ] [供应链攻击盯上浏览器：全球178家机构网站被同一漏洞“收割”](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247587233&idx=1&sn=3e96b1bf6a5e87c88b2dba5dbbb791ac) (发布日期: 2026-11-19)
 
 
 ## 🎯 威胁详情分析
@@ -85,44 +94,54 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【已复现】LibreOffice 远程代码执行漏洞(CVE-2026-104692、CVE-2026-104007)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508132&idx=1&sn=765cffd533b8087793a59834cabdc0dd](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508132&idx=1&sn=765cffd533b8087793a59834cabdc0dd) |
-| 2 |  ] [0day+供应链投毒：整个职场一把梭 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188690&idx=1&sn=e35db4f06f1726f6cc678ee3f1abf5c8](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188690&idx=1&sn=e35db4f06f1726f6cc678ee3f1abf5c8) |
-| 3 |  ] [【漏洞通告】Apache Axis 1.x远程代码执行漏洞（CVE-2026-90436） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494099&idx=1&sn=4f3b18d3defcf972011a7d1626d9f5f5](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494099&idx=1&sn=4f3b18d3defcf972011a7d1626d9f5f5) |
-| 4 |  ] [【漏洞通告】LibreOffice远程代码执行漏洞（CVE-2026-104007/CVE-2026-104692） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494099&idx=2&sn=a681712b6e01dd5a835afed611413a20](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494099&idx=2&sn=a681712b6e01dd5a835afed611413a20) |
-| 5 |  ] [CNVD漏洞周报2026年第45期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502603&idx=1&sn=03ae4adf051661f5bd46329031af9650](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502603&idx=1&sn=03ae4adf051661f5bd46329031af9650) |
-| 6 |  ] [Microsoft 365 全球宕机事件由已存在几个月的漏洞引发 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527757&idx=2&sn=108761ce8c2cb657ae34fd73f55ed453](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527757&idx=2&sn=108761ce8c2cb657ae34fd73f55ed453) |
+| 1 |  ] [NSA绝密内部网络突发宕机：漏洞补丁修复引发连锁故障 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189908&idx=1&sn=c2668dbd1e66cda92935194e2339a11d](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189908&idx=1&sn=c2668dbd1e66cda92935194e2339a11d) |
+| 2 |  ] [雷神众测漏洞周报2026.11.9-2026.11.15 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652504029&idx=1&sn=cddb81a6677826f7aaf04b8c2b0d9bbe](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652504029&idx=1&sn=cddb81a6677826f7aaf04b8c2b0d9bbe) |
+| 3 |  ] [OpenJDK 中严重漏洞Java4Shell可导致 RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527770&idx=1&sn=29c50f47425bfb4309c457280d2f1d84](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527770&idx=1&sn=29c50f47425bfb4309c457280d2f1d84) |
+| 4 |  ] [已复现！Java4Shell OpenJDK Base64 解码远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509050&idx=1&sn=880957697b6b18ea66bdaac6b502e32d](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509050&idx=1&sn=880957697b6b18ea66bdaac6b502e32d) |
+| 5 |  ] [OpenJDK Java4Shell Base64解码远程代码执行漏洞（CVE-2026-114938） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247486425&idx=1&sn=a79b346d585971698fe43b28fba843aa](https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247486425&idx=1&sn=a79b346d585971698fe43b28fba843aa) |
+| 6 |  ] [【漏洞通告】Java4Shell：OpenJDK Base64 解码器远程代码执行漏洞（CVE-2026-114938） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493530&idx=1&sn=865eb63039791a288333820a3a3f9b8f](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493530&idx=1&sn=865eb63039791a288333820a3a3f9b8f) |
+| 7 |  ] [【已复现】OpenJDK Base64 解码器远程代码执行漏洞(CVE-2026-114938)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508147&idx=1&sn=a380d08925c7f4a6ad99f7f72e36bb34](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508147&idx=1&sn=a380d08925c7f4a6ad99f7f72e36bb34) |
+| 8 |  ] [OpenJDK曝出Java4Shell高危漏洞：特定条件下可实现未授权远程代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624328&idx=2&sn=1563433e45143fefb5f8b120f464e601](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624328&idx=2&sn=1563433e45143fefb5f8b120f464e601) |
+| 9 |  ] [【漏洞通告】OpenJDK Java4Shell 远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247498121&idx=1&sn=c5a09f7b579c7e691df81a205067686d](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247498121&idx=1&sn=c5a09f7b579c7e691df81a205067686d) |
+| 10 |  ] [【风险提示-已复现】天融信关于OpenJDK Base64解码器远程代码执行漏洞CVE-2026-114938(Java4Shell)的风险提示 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497113&idx=1&sn=c0de90433b6d9fccf882b656fa96f850](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497113&idx=1&sn=c0de90433b6d9fccf882b656fa96f850) |
+| 11 |  ] [【漏洞通告】Oracle Java SE JIT 编译器堆越界写入漏洞(CVE-2026-114938) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526470&idx=1&sn=79fb96bf22aa27b48bc41c17a72dfcdc](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526470&idx=1&sn=79fb96bf22aa27b48bc41c17a72dfcdc) |
+| 12 |  ] [【漏洞通告】LibreOffice JDBC 链式远程代码执行漏洞(CVE-2026-104007/CVE-2026-104692) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526470&idx=2&sn=04faa4bb00aa1737b65994c73a68573d](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526470&idx=2&sn=04faa4bb00aa1737b65994c73a68573d) |
+| 13 |  ] [【已复现】OpenJDK远程代码执行漏洞（CVE-2026-114938） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494104&idx=1&sn=e25893a3e467f71c35bdc005b84bdec8](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494104&idx=1&sn=e25893a3e467f71c35bdc005b84bdec8) |
+| 14 |  ] [【公告】关于延期恢复授权测试及漏洞收录的通知 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727851443&idx=1&sn=22a2fb97acc099867a3d51152e898757](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727851443&idx=1&sn=22a2fb97acc099867a3d51152e898757) |
+| 15 |  ] [GTIG首次观测无人在环的漏洞发现与利用：拆解 exploit_agent 自动化漏洞利用链 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521414&idx=1&sn=7b5cca3655051388b0ed7f1343fa8cb8](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521414&idx=1&sn=7b5cca3655051388b0ed7f1343fa8cb8) |
+| 16 |  ] [供应链攻击盯上浏览器：全球178家机构网站被同一漏洞“收割” | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247587233&idx=1&sn=3e96b1bf6a5e87c88b2dba5dbbb791ac](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247587233&idx=1&sn=3e96b1bf6a5e87c88b2dba5dbbb791ac) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【已复现】LibreOffice 远程代码执行漏洞(CVE-2026-104692、CVE-2026-104007)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508132&idx=1&sn=765cffd533b8087793a59834cabdc0dd](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508132&idx=1&sn=765cffd533b8087793a59834cabdc0dd) |
-| 2 |  ] [【漏洞通告】Apache Axis 1.x远程代码执行漏洞（CVE-2026-90436） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494099&idx=1&sn=4f3b18d3defcf972011a7d1626d9f5f5](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494099&idx=1&sn=4f3b18d3defcf972011a7d1626d9f5f5) |
-| 3 |  ] [【漏洞通告】LibreOffice远程代码执行漏洞（CVE-2026-104007/CVE-2026-104692） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494099&idx=2&sn=a681712b6e01dd5a835afed611413a20](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494099&idx=2&sn=a681712b6e01dd5a835afed611413a20) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [勒索病毒样本分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624317&idx=1&sn=5c5a4a7d1ef0a413fe971d096d0b459f](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624317&idx=1&sn=5c5a4a7d1ef0a413fe971d096d0b459f) |
+| 1 |  ] [OpenJDK 中严重漏洞Java4Shell可导致 RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527770&idx=1&sn=29c50f47425bfb4309c457280d2f1d84](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527770&idx=1&sn=29c50f47425bfb4309c457280d2f1d84) |
+| 2 |  ] [已复现！Java4Shell OpenJDK Base64 解码远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509050&idx=1&sn=880957697b6b18ea66bdaac6b502e32d](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509050&idx=1&sn=880957697b6b18ea66bdaac6b502e32d) |
+| 3 |  ] [OpenJDK Java4Shell Base64解码远程代码执行漏洞（CVE-2026-114938） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247486425&idx=1&sn=a79b346d585971698fe43b28fba843aa](https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247486425&idx=1&sn=a79b346d585971698fe43b28fba843aa) |
+| 4 |  ] [【漏洞通告】Java4Shell：OpenJDK Base64 解码器远程代码执行漏洞（CVE-2026-114938） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493530&idx=1&sn=865eb63039791a288333820a3a3f9b8f](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493530&idx=1&sn=865eb63039791a288333820a3a3f9b8f) |
+| 5 |  ] [【已复现】OpenJDK Base64 解码器远程代码执行漏洞(CVE-2026-114938)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508147&idx=1&sn=a380d08925c7f4a6ad99f7f72e36bb34](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508147&idx=1&sn=a380d08925c7f4a6ad99f7f72e36bb34) |
+| 6 |  ] [OpenJDK曝出Java4Shell高危漏洞：特定条件下可实现未授权远程代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624328&idx=2&sn=1563433e45143fefb5f8b120f464e601](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624328&idx=2&sn=1563433e45143fefb5f8b120f464e601) |
+| 7 |  ] [【漏洞通告】OpenJDK Java4Shell 远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247498121&idx=1&sn=c5a09f7b579c7e691df81a205067686d](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247498121&idx=1&sn=c5a09f7b579c7e691df81a205067686d) |
+| 8 |  ] [【风险提示-已复现】天融信关于OpenJDK Base64解码器远程代码执行漏洞CVE-2026-114938(Java4Shell)的风险提示 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497113&idx=1&sn=c0de90433b6d9fccf882b656fa96f850](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497113&idx=1&sn=c0de90433b6d9fccf882b656fa96f850) |
+| 9 |  ] [【漏洞通告】LibreOffice JDBC 链式远程代码执行漏洞(CVE-2026-104007/CVE-2026-104692) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526470&idx=2&sn=04faa4bb00aa1737b65994c73a68573d](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526470&idx=2&sn=04faa4bb00aa1737b65994c73a68573d) |
+| 10 |  ] [【已复现】OpenJDK远程代码执行漏洞（CVE-2026-114938） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494104&idx=1&sn=e25893a3e467f71c35bdc005b84bdec8](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494104&idx=1&sn=e25893a3e467f71c35bdc005b84bdec8) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [《全球数据泄露态势月度报告》（2026年10月）| 附下载地址 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544555&idx=1&sn=901a7c459839a7917ce11e7e1532c19d](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544555&idx=1&sn=901a7c459839a7917ce11e7e1532c19d) |
+| 1 |  ] [ChatGPT 锁定模式绕过：网络钓鱼、恶意软件投递与静默数据泄露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486966&idx=1&sn=e234b57e0f229433f5b608c64473a334](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486966&idx=1&sn=e234b57e0f229433f5b608c64473a334) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [0day+供应链投毒：整个职场一把梭 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188690&idx=1&sn=e35db4f06f1726f6cc678ee3f1abf5c8](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188690&idx=1&sn=e35db4f06f1726f6cc678ee3f1abf5c8) |
-| 2 |  ] [Optimizely 供应链攻击波及全球178家组织机构 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527757&idx=1&sn=7c3c4ff77b2e926f70ab7041e36d0622](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527757&idx=1&sn=7c3c4ff77b2e926f70ab7041e36d0622) |
+| 1 |  ] [供应链攻击盯上浏览器：全球178家机构网站被同一漏洞“收割” | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247587233&idx=1&sn=3e96b1bf6a5e87c88b2dba5dbbb791ac](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247587233&idx=1&sn=3e96b1bf6a5e87c88b2dba5dbbb791ac) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-11/2026-W47/2026-11-18/`
+文章已归档到: `doc/2026/2026-11/2026-W47/2026-11-19/`
 
 ## 🔗 数据源说明
 
@@ -133,8 +152,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 16 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -143,5 +162,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-11-18 17:01:50*
+*生成时间: 2026-11-19 12:38:12*
 *报告工具: 微信文章安全归档系统*
