@@ -1,22 +1,20 @@
-# 2026-11-20 安全威胁态势报告
+# 2026-11-21 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 24
+- **总文章数**: 23
 - **数据源分布**:
-  - BruceFeIix: 24篇
+  - BruceFeIix: 23篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 16篇
-- **攻击技术**: 10篇
-- **信息泄露**: 2篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 13篇
+- **攻击技术**: 5篇
+- **供应链**: 3篇
 - **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
 - **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
@@ -66,30 +64,29 @@
 
 ### BruceFeIix
 
-- [ ] [AI加速漏洞发现与利用，关基安全防护面临更高要求，如何破局?](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651145165&idx=1&sn=2f0aad40aa28567d4a65f57e7a3cd3b3) (发布日期: 2026-11-20)
-- [ ] [已复现！nginx2root nginx http2 远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509063&idx=1&sn=45c71724375b83415bf880558c549bf0) (发布日期: 2026-11-20)
-- [ ] [安全漏洞太低级！头部AI催收平台敏感数据全部暴露](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516921&idx=1&sn=745c3a5168a49f3896e90497c3f1a8a3) (发布日期: 2026-11-20)
-- [ ] [nginx2root nginx多个远程代码执行漏洞安全风险通告](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516921&idx=2&sn=c654d35b0f9bc5aa8a151f48d031894d) (发布日期: 2026-11-20)
-- [ ] [PHP 远程代码执行漏洞等多个严重高危漏洞通告（含CVE-2026-129289等）](https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247486429&idx=1&sn=508beeac8227cb1bad570ebc718642af) (发布日期: 2026-11-20)
-- [ ] [PHP：多个严重漏洞影响所有受支持版本](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527780&idx=1&sn=ef8015706f59031c1348599f8951ae27) (发布日期: 2026-11-20)
-- [ ] [AI挖出Nginx潜伏十余年的RCE漏洞：无需认证，数千万服务器面临风险](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624349&idx=2&sn=5c135b90ad62216dc12ad4487b582ba3) (发布日期: 2026-11-20)
-- [ ] [数据泄露情报2026.11.19：nvidia遭受攻击，泄露130万用户信息](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247490155&idx=1&sn=2a6acd8f323029547323e24ceb30b4db) (发布日期: 2026-11-20)
-- [ ] [【安全圈】NGINX潜伏十年漏洞曝光：无需认证直接远程执行代码](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079933&idx=1&sn=c777c98c39cf538af3ea38c136824b5d) (发布日期: 2026-11-20)
-- [ ] [【安全圈】F5曝六枚严重漏洞：可打崩流量核心并导致代码执行](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079933&idx=3&sn=afd36dee0869537f935ee6d2ac224253) (发布日期: 2026-11-20)
-- [ ] [因“数据安全 科技外包”等问题兴业银行被罚695万元](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247505622&idx=1&sn=65ecd57011f8e673dc9fd00f685412df) (发布日期: 2026-11-20)
-- [ ] [电子病历、远程问诊、AI辅助诊断都在用的医疗软件，安全合规到底怎么落地？](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143329&idx=1&sn=aca10de27aa9a9e12695be17e454168f) (发布日期: 2026-11-20)
-- [ ] [ChatGPT、Gemini 和 Claude 若发生大规模数据泄露，数百万用户或面临隐私与身份盗用风险；NSA 内部网络中断，数万员工错峰登录| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143329&idx=2&sn=5eb936cdddbcfbb4e05cdfb17c87f9ab) (发布日期: 2026-11-20)
-- [ ] [MiSRC发布｜《SRC行业授权资产安全测试规范-Agent版》及配套使用手册](https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247521102&idx=1&sn=327d36a0d925baeba32121731d21d4fe) (发布日期: 2026-11-20)
-- [ ] [从分散告警到攻击链还原：图数据库在SOC中的落地实践](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544605&idx=2&sn=5561c95f2945b347c4d484000270090c) (发布日期: 2026-11-20)
-- [ ] [【风险提示-已复现】天融信关于nginx多个远程代码执行漏洞(nginx2root)的风险提示](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497123&idx=1&sn=cfd39d346153ede80330af078230b598) (发布日期: 2026-11-20)
-- [ ] [36,411 次蜜罐 API 调用：AI 安全测试为何打到真实网站？](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521438&idx=1&sn=98af9520c1b6ac0521333092818857b7) (发布日期: 2026-11-20)
-- [ ] [首尔特辑 | 白泽PoC 2026 参会小记](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247500218&idx=1&sn=12da220a9236d67a9253fdf8893e3034) (发布日期: 2026-11-20)
-- [ ] [微步入选Gartner®技术成熟度曲线威胁情报数据分析代表厂商](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188697&idx=1&sn=91bd6e6877efb02f19f931a9f991d251) (发布日期: 2026-11-20)
-- [ ] [【漏洞通告】nginx多模块内存安全漏洞链式远程代码执行漏洞(nginx2root)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526508&idx=1&sn=31b47e13eeb1b8828d52cb90d456de24) (发布日期: 2026-11-20)
-- [ ] [【漏洞通告】Vite 开发服务器虚拟模块注入远程代码执行漏洞(SF_2026_47139)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526508&idx=2&sn=ca0a32750a69f45993adc16941608714) (发布日期: 2026-11-20)
-- [ ] [【漏洞通告】Apache Axis SOAP Fault 反序列化远程代码执行漏洞(CVE-2026-90436)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526508&idx=3&sn=c0e869b486af2228d4413ad825cada01) (发布日期: 2026-11-20)
-- [ ] [看视频｜PHP、Linux连爆漏洞，到处挖洞的AI如何被治住?](https://mp.weixin.qq.com/s?__biz=MzUyOTkwNTQ5Mg==&mid=2247489516&idx=1&sn=a7c3899442c65206392ba4deaf06ac1f) (发布日期: 2026-11-20)
-- [ ] [【漏洞通告】Nginx多个远程代码执行漏洞（CVE-2026-123007/CVE-2026-123634/CVE-2026-123633/CVE-2026-121810/CVE-2026-113425）](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494194&idx=1&sn=b93d99674014b95b3e122f45d9008bba) (发布日期: 2026-11-20)
+- [ ] [实力入选！AI赋能工业安全、强化AI应用治理，威努特再获认可](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651145179&idx=1&sn=18d6da713551d27759fa1596dd352a20) (发布日期: 2026-11-21)
+- [ ] [感谢同行，共守边界｜TSRC安全测试规范v2.0正式发布](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208850&idx=1&sn=cc75b9cd3f6f9671bc8ab0e714a80a84) (发布日期: 2026-11-21)
+- [ ] [华硕提醒注意 Control Center Express 中的严重硬编码密钥漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527795&idx=2&sn=e3b0eb0475a1074985f75eeb0fc8348f) (发布日期: 2026-11-21)
+- [ ] [phpAfterShell：从PHP会话缺陷到代码执行](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527795&idx=1&sn=f49679953c3552007ca6130152a7a334) (发布日期: 2026-11-21)
+- [ ] [VMware vCenter曝出CVSS 9.8严重零日漏洞，黑客已利用数月绕过认证](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624360&idx=3&sn=218adceed0e08c2de1c303e925c5a008) (发布日期: 2026-11-21)
+- [ ] [看不见≠不存在：拆解 GhostMap，一个藏身于两大供应链攻击背后的 eBPF Rootkit](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521462&idx=2&sn=658b0b589425488dda58a7b36d7344d8) (发布日期: 2026-11-21)
+- [ ] [AI与云安全事件案例分析周报 | 2026年11月16日至11月20日](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500454&idx=1&sn=c154baf2f564d0276ba521d11f410cb1) (发布日期: 2026-11-21)
+- [ ] [【安全圈】Windows锁屏曝零日漏洞：无需密码绕过屏幕锁运行程序](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079944&idx=3&sn=2c2d5cac849a0463046767c1a08c8fb2) (发布日期: 2026-11-21)
+- [ ] [【安全圈】VMware曝9.8分零日漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079944&idx=2&sn=169d2011f57187ae08f15408372fdc78) (发布日期: 2026-11-21)
+- [ ] [【安全圈】群晖DSM曝9.8分严重漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079944&idx=1&sn=5b3509c80b236854f9a85bd7dcd0cd3e) (发布日期: 2026-11-21)
+- [ ] [AI攻击持续来袭，企业安全如何“无忧”](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651390887&idx=1&sn=4c7cd4e17e61dc3dcc9afc99f90956f6) (发布日期: 2026-11-21)
+- [ ] [国家网络安全通报中心发布Java4Shell高危漏洞预警，境外观测到探测利用；AI 简历筛选引发对抗博弈：求职者改写 CV 绕过自动化初审 |牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143335&idx=2&sn=50ebbbd65114c6ee4b6c3d51037c2d8d) (发布日期: 2026-11-21)
+- [ ] [【火绒安全周报】178家知名网站遭供应链攻击被投毒/香港迪士尼乐园票务系统遭入侵](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538920&idx=2&sn=6ada3176d1f7538942a834ab77684533) (发布日期: 2026-11-21)
+- [ ] [【风险提示-已复现】天融信关于PHP反序列化远程代码执行漏洞phpAfterShell（CVE-2026-126714）的风险提示](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497129&idx=1&sn=a37fd4951cee3b1d6140328ecf1159ad) (发布日期: 2026-11-21)
+- [ ] [【漏洞通告】Ruby 字符串大小写转换堆越界写入漏洞(CVE-2026-132825)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526537&idx=3&sn=d3994fc9cd73ceb292a7ed2a9d6f65f6) (发布日期: 2026-11-21)
+- [ ] [【漏洞通告】VMware vCenter 认证绕过漏洞(CVE-2026-123890)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526537&idx=2&sn=57ef0f46346644211dab70cf3c236d11) (发布日期: 2026-11-21)
+- [ ] [【漏洞通告】PHP 多个安全漏洞](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526537&idx=1&sn=c9538af4fae785647a200693d9a3f900) (发布日期: 2026-11-21)
+- [ ] [EchoLeak 漏洞教训我们：所有模型都易受提示词注入攻击](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486967&idx=1&sn=0b8f554cb4beedad228fc44542ceabcc) (发布日期: 2026-11-21)
+- [ ] [Optimizely遭供应链攻击：178家机构网站被植入恶意代码，BBC、CNN等受影响](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544613&idx=1&sn=764fc106602728b2e8f392755283ccd4) (发布日期: 2026-11-21)
+- [ ] [【漏洞通告】Ruby远程代码执行漏洞（CVE-2026-132825）](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494212&idx=2&sn=e53b088391f020973f3fdb5ae146ab2d) (发布日期: 2026-11-21)
+- [ ] [【漏洞通告】PHP远程代码执行漏洞（CVE-2026-126714）](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494212&idx=1&sn=6a538230b1fa15acf64d2d18135d0026) (发布日期: 2026-11-21)
+- [ ] [报名启动｜“复兴杯” 第六届全国大学生智能安全精英赛 -YAK 赛道](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247530690&idx=1&sn=51b054cbfc5e162413bfcb0bd05d4c63) (发布日期: 2026-11-21)
+- [ ] [Heyiwei，似像非像的 IoT 僵尸网络](https://mp.weixin.qq.com/s?__biz=MzIyOTY1NDE5Mg==&mid=2247485780&idx=1&sn=0cf7d4c9e32cefb406f7af81e9244c2b) (发布日期: 2026-11-21)
 
 
 ## 🎯 威胁详情分析
@@ -98,61 +95,48 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [AI加速漏洞发现与利用，关基安全防护面临更高要求，如何破局? | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651145165&idx=1&sn=2f0aad40aa28567d4a65f57e7a3cd3b3](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651145165&idx=1&sn=2f0aad40aa28567d4a65f57e7a3cd3b3) |
-| 2 |  ] [已复现！nginx2root nginx http2 远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509063&idx=1&sn=45c71724375b83415bf880558c549bf0](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509063&idx=1&sn=45c71724375b83415bf880558c549bf0) |
-| 3 |  ] [安全漏洞太低级！头部AI催收平台敏感数据全部暴露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516921&idx=1&sn=745c3a5168a49f3896e90497c3f1a8a3](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516921&idx=1&sn=745c3a5168a49f3896e90497c3f1a8a3) |
-| 4 |  ] [nginx2root nginx多个远程代码执行漏洞安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516921&idx=2&sn=c654d35b0f9bc5aa8a151f48d031894d](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516921&idx=2&sn=c654d35b0f9bc5aa8a151f48d031894d) |
-| 5 |  ] [PHP 远程代码执行漏洞等多个严重高危漏洞通告（含CVE-2026-129289等） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247486429&idx=1&sn=508beeac8227cb1bad570ebc718642af](https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247486429&idx=1&sn=508beeac8227cb1bad570ebc718642af) |
-| 6 |  ] [PHP：多个严重漏洞影响所有受支持版本 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527780&idx=1&sn=ef8015706f59031c1348599f8951ae27](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527780&idx=1&sn=ef8015706f59031c1348599f8951ae27) |
-| 7 |  ] [AI挖出Nginx潜伏十余年的RCE漏洞：无需认证，数千万服务器面临风险 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624349&idx=2&sn=5c135b90ad62216dc12ad4487b582ba3](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624349&idx=2&sn=5c135b90ad62216dc12ad4487b582ba3) |
-| 8 |  ] [【安全圈】NGINX潜伏十年漏洞曝光：无需认证直接远程执行代码 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079933&idx=1&sn=c777c98c39cf538af3ea38c136824b5d](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079933&idx=1&sn=c777c98c39cf538af3ea38c136824b5d) |
-| 9 |  ] [【安全圈】F5曝六枚严重漏洞：可打崩流量核心并导致代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079933&idx=3&sn=afd36dee0869537f935ee6d2ac224253](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079933&idx=3&sn=afd36dee0869537f935ee6d2ac224253) |
-| 10 |  ] [【风险提示-已复现】天融信关于nginx多个远程代码执行漏洞(nginx2root)的风险提示 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497123&idx=1&sn=cfd39d346153ede80330af078230b598](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497123&idx=1&sn=cfd39d346153ede80330af078230b598) |
-| 11 |  ] [首尔特辑 | 白泽PoC 2026 参会小记 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247500218&idx=1&sn=12da220a9236d67a9253fdf8893e3034](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247500218&idx=1&sn=12da220a9236d67a9253fdf8893e3034) |
-| 12 |  ] [【漏洞通告】nginx多模块内存安全漏洞链式远程代码执行漏洞(nginx2root) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526508&idx=1&sn=31b47e13eeb1b8828d52cb90d456de24](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526508&idx=1&sn=31b47e13eeb1b8828d52cb90d456de24) |
-| 13 |  ] [【漏洞通告】Vite 开发服务器虚拟模块注入远程代码执行漏洞(SF_2026_47139) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526508&idx=2&sn=ca0a32750a69f45993adc16941608714](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526508&idx=2&sn=ca0a32750a69f45993adc16941608714) |
-| 14 |  ] [【漏洞通告】Apache Axis SOAP Fault 反序列化远程代码执行漏洞(CVE-2026-90436) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526508&idx=3&sn=c0e869b486af2228d4413ad825cada01](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526508&idx=3&sn=c0e869b486af2228d4413ad825cada01) |
-| 15 |  ] [看视频｜PHP、Linux连爆漏洞，到处挖洞的AI如何被治住? | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUyOTkwNTQ5Mg==&mid=2247489516&idx=1&sn=a7c3899442c65206392ba4deaf06ac1f](https://mp.weixin.qq.com/s?__biz=MzUyOTkwNTQ5Mg==&mid=2247489516&idx=1&sn=a7c3899442c65206392ba4deaf06ac1f) |
-| 16 |  ] [【漏洞通告】Nginx多个远程代码执行漏洞（CVE-2026-123007/CVE-2026-123634/CVE-2026-123633/CVE-2026-121810/CVE-2026-113425） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494194&idx=1&sn=b93d99674014b95b3e122f45d9008bba](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494194&idx=1&sn=b93d99674014b95b3e122f45d9008bba) |
+| 1 |  ] [华硕提醒注意 Control Center Express 中的严重硬编码密钥漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527795&idx=2&sn=e3b0eb0475a1074985f75eeb0fc8348f](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527795&idx=2&sn=e3b0eb0475a1074985f75eeb0fc8348f) |
+| 2 |  ] [VMware vCenter曝出CVSS 9.8严重零日漏洞，黑客已利用数月绕过认证 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624360&idx=3&sn=218adceed0e08c2de1c303e925c5a008](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624360&idx=3&sn=218adceed0e08c2de1c303e925c5a008) |
+| 3 |  ] [【安全圈】Windows锁屏曝零日漏洞：无需密码绕过屏幕锁运行程序 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079944&idx=3&sn=2c2d5cac849a0463046767c1a08c8fb2](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079944&idx=3&sn=2c2d5cac849a0463046767c1a08c8fb2) |
+| 4 |  ] [【安全圈】VMware曝9.8分零日漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079944&idx=2&sn=169d2011f57187ae08f15408372fdc78](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079944&idx=2&sn=169d2011f57187ae08f15408372fdc78) |
+| 5 |  ] [【安全圈】群晖DSM曝9.8分严重漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079944&idx=1&sn=5b3509c80b236854f9a85bd7dcd0cd3e](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079944&idx=1&sn=5b3509c80b236854f9a85bd7dcd0cd3e) |
+| 6 |  ] [国家网络安全通报中心发布Java4Shell高危漏洞预警，境外观测到探测利用；AI 简历筛选引发对抗博弈：求职者改写 CV 绕过自动化初审 |牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143335&idx=2&sn=50ebbbd65114c6ee4b6c3d51037c2d8d](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143335&idx=2&sn=50ebbbd65114c6ee4b6c3d51037c2d8d) |
+| 7 |  ] [【风险提示-已复现】天融信关于PHP反序列化远程代码执行漏洞phpAfterShell（CVE-2026-126714）的风险提示 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497129&idx=1&sn=a37fd4951cee3b1d6140328ecf1159ad](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497129&idx=1&sn=a37fd4951cee3b1d6140328ecf1159ad) |
+| 8 |  ] [【漏洞通告】Ruby 字符串大小写转换堆越界写入漏洞(CVE-2026-132825) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526537&idx=3&sn=d3994fc9cd73ceb292a7ed2a9d6f65f6](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526537&idx=3&sn=d3994fc9cd73ceb292a7ed2a9d6f65f6) |
+| 9 |  ] [【漏洞通告】VMware vCenter 认证绕过漏洞(CVE-2026-123890) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526537&idx=2&sn=57ef0f46346644211dab70cf3c236d11](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526537&idx=2&sn=57ef0f46346644211dab70cf3c236d11) |
+| 10 |  ] [【漏洞通告】PHP 多个安全漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526537&idx=1&sn=c9538af4fae785647a200693d9a3f900](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526537&idx=1&sn=c9538af4fae785647a200693d9a3f900) |
+| 11 |  ] [EchoLeak 漏洞教训我们：所有模型都易受提示词注入攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486967&idx=1&sn=0b8f554cb4beedad228fc44542ceabcc](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486967&idx=1&sn=0b8f554cb4beedad228fc44542ceabcc) |
+| 12 |  ] [【漏洞通告】Ruby远程代码执行漏洞（CVE-2026-132825） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494212&idx=2&sn=e53b088391f020973f3fdb5ae146ab2d](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494212&idx=2&sn=e53b088391f020973f3fdb5ae146ab2d) |
+| 13 |  ] [【漏洞通告】PHP远程代码执行漏洞（CVE-2026-126714） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494212&idx=1&sn=6a538230b1fa15acf64d2d18135d0026](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494212&idx=1&sn=6a538230b1fa15acf64d2d18135d0026) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [已复现！nginx2root nginx http2 远程代码执行漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509063&idx=1&sn=45c71724375b83415bf880558c549bf0](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509063&idx=1&sn=45c71724375b83415bf880558c549bf0) |
-| 2 |  ] [nginx2root nginx多个远程代码执行漏洞安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516921&idx=2&sn=c654d35b0f9bc5aa8a151f48d031894d](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516921&idx=2&sn=c654d35b0f9bc5aa8a151f48d031894d) |
-| 3 |  ] [PHP 远程代码执行漏洞等多个严重高危漏洞通告（含CVE-2026-129289等） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247486429&idx=1&sn=508beeac8227cb1bad570ebc718642af](https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247486429&idx=1&sn=508beeac8227cb1bad570ebc718642af) |
-| 4 |  ] [AI挖出Nginx潜伏十余年的RCE漏洞：无需认证，数千万服务器面临风险 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624349&idx=2&sn=5c135b90ad62216dc12ad4487b582ba3](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624349&idx=2&sn=5c135b90ad62216dc12ad4487b582ba3) |
-| 5 |  ] [【安全圈】F5曝六枚严重漏洞：可打崩流量核心并导致代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079933&idx=3&sn=afd36dee0869537f935ee6d2ac224253](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079933&idx=3&sn=afd36dee0869537f935ee6d2ac224253) |
-| 6 |  ] [【风险提示-已复现】天融信关于nginx多个远程代码执行漏洞(nginx2root)的风险提示 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497123&idx=1&sn=cfd39d346153ede80330af078230b598](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497123&idx=1&sn=cfd39d346153ede80330af078230b598) |
-| 7 |  ] [【漏洞通告】nginx多模块内存安全漏洞链式远程代码执行漏洞(nginx2root) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526508&idx=1&sn=31b47e13eeb1b8828d52cb90d456de24](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526508&idx=1&sn=31b47e13eeb1b8828d52cb90d456de24) |
-| 8 |  ] [【漏洞通告】Vite 开发服务器虚拟模块注入远程代码执行漏洞(SF_2026_47139) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526508&idx=2&sn=ca0a32750a69f45993adc16941608714](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526508&idx=2&sn=ca0a32750a69f45993adc16941608714) |
-| 9 |  ] [【漏洞通告】Apache Axis SOAP Fault 反序列化远程代码执行漏洞(CVE-2026-90436) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526508&idx=3&sn=c0e869b486af2228d4413ad825cada01](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526508&idx=3&sn=c0e869b486af2228d4413ad825cada01) |
-| 10 |  ] [【漏洞通告】Nginx多个远程代码执行漏洞（CVE-2026-123007/CVE-2026-123634/CVE-2026-123633/CVE-2026-121810/CVE-2026-113425） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494194&idx=1&sn=b93d99674014b95b3e122f45d9008bba](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494194&idx=1&sn=b93d99674014b95b3e122f45d9008bba) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [微步入选Gartner®技术成熟度曲线威胁情报数据分析代表厂商 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188697&idx=1&sn=91bd6e6877efb02f19f931a9f991d251](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188697&idx=1&sn=91bd6e6877efb02f19f931a9f991d251) |
+| 1 |  ] [phpAfterShell：从PHP会话缺陷到代码执行 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527795&idx=1&sn=f49679953c3552007ca6130152a7a334](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527795&idx=1&sn=f49679953c3552007ca6130152a7a334) |
+| 2 |  ] [【风险提示-已复现】天融信关于PHP反序列化远程代码执行漏洞phpAfterShell（CVE-2026-126714）的风险提示 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497129&idx=1&sn=a37fd4951cee3b1d6140328ecf1159ad](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247497129&idx=1&sn=a37fd4951cee3b1d6140328ecf1159ad) |
+| 3 |  ] [EchoLeak 漏洞教训我们：所有模型都易受提示词注入攻击 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486967&idx=1&sn=0b8f554cb4beedad228fc44542ceabcc](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486967&idx=1&sn=0b8f554cb4beedad228fc44542ceabcc) |
+| 4 |  ] [【漏洞通告】Ruby远程代码执行漏洞（CVE-2026-132825） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494212&idx=2&sn=e53b088391f020973f3fdb5ae146ab2d](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494212&idx=2&sn=e53b088391f020973f3fdb5ae146ab2d) |
+| 5 |  ] [【漏洞通告】PHP远程代码执行漏洞（CVE-2026-126714） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494212&idx=1&sn=6a538230b1fa15acf64d2d18135d0026](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494212&idx=1&sn=6a538230b1fa15acf64d2d18135d0026) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [MiSRC发布｜《SRC行业授权资产安全测试规范-Agent版》及配套使用手册 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247521102&idx=1&sn=327d36a0d925baeba32121731d21d4fe](https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247521102&idx=1&sn=327d36a0d925baeba32121731d21d4fe) |
+| 1 |  ] [感谢同行，共守边界｜TSRC安全测试规范v2.0正式发布 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208850&idx=1&sn=cc75b9cd3f6f9671bc8ab0e714a80a84](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208850&idx=1&sn=cc75b9cd3f6f9671bc8ab0e714a80a84) |
 
-### 信息泄露
+### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [数据泄露情报2026.11.19：nvidia遭受攻击，泄露130万用户信息 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247490155&idx=1&sn=2a6acd8f323029547323e24ceb30b4db](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247490155&idx=1&sn=2a6acd8f323029547323e24ceb30b4db) |
-| 2 |  ] [ChatGPT、Gemini 和 Claude 若发生大规模数据泄露，数百万用户或面临隐私与身份盗用风险；NSA 内部网络中断，数万员工错峰登录| 牛览 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143329&idx=2&sn=5eb936cdddbcfbb4e05cdfb17c87f9ab](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143329&idx=2&sn=5eb936cdddbcfbb4e05cdfb17c87f9ab) |
+| 1 |  ] [看不见≠不存在：拆解 GhostMap，一个藏身于两大供应链攻击背后的 eBPF Rootkit | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521462&idx=2&sn=658b0b589425488dda58a7b36d7344d8](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521462&idx=2&sn=658b0b589425488dda58a7b36d7344d8) |
+| 2 |  ] [【火绒安全周报】178家知名网站遭供应链攻击被投毒/香港迪士尼乐园票务系统遭入侵 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538920&idx=2&sn=6ada3176d1f7538942a834ab77684533](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538920&idx=2&sn=6ada3176d1f7538942a834ab77684533) |
+| 3 |  ] [Optimizely遭供应链攻击：178家机构网站被植入恶意代码，BBC、CNN等受影响 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544613&idx=1&sn=764fc106602728b2e8f392755283ccd4](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544613&idx=1&sn=764fc106602728b2e8f392755283ccd4) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-11/2026-W47/2026-11-20/`
+文章已归档到: `doc/2026/2026-11/2026-W47/2026-11-21/`
 
 ## 🔗 数据源说明
 
@@ -163,8 +147,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 16 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -173,5 +157,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-11-20 16:48:51*
+*生成时间: 2026-11-21 12:17:50*
 *报告工具: 微信文章安全归档系统*
