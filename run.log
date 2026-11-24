@@ -137678,3 +137678,64 @@
 2026-11-24 03:03:38,423 - INFO - === 跳过二进制文件处理，只更新data.json ===
 2026-11-24 03:03:38,528 - INFO - 已更新data.json，添加了 0 个URL
 2026-11-24 03:03:38,528 - INFO - === 执行完成 ===
+2026-11-24 14:39:18,381 - INFO - === 开始执行微信文章归档工具 ===
+2026-11-24 14:39:18,381 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-11-24 14:39:18,381 - INFO - 正在发送Discord启动通知...
+2026-11-24 14:39:18,873 - INFO - Discord启动通知发送结果: 204
+2026-11-24 14:39:18,875 - INFO - 数据文件: data.json
+2026-11-24 14:39:18,875 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-11-24 14:39:18,875 - INFO - 文档目录: doc
+2026-11-24 14:39:18,980 - INFO - 已加载 54852 条历史记录
+2026-11-24 14:39:18,980 - INFO - === 开始今日拉取 ===
+2026-11-24 14:39:18,981 - INFO - 开始获取Doonsec RSS
+2026-11-24 14:39:18,981 - INFO - 目标日期: 2026-11-24
+2026-11-24 14:48:35,463 - ERROR - Doonsec RSS解析失败: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2026-11-24 14:48:35,464 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-11-24.md
+2026-11-24 14:48:35,580 - INFO - ChainReactors md文件下载状态码: 404
+2026-11-24 14:48:35,580 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-11-24.md 状态码: 404
+2026-11-24 14:48:35,580 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-11-24.md
+2026-11-24 14:48:35,695 - INFO - BruceFeIix md文件下载状态码: 200
+2026-11-24 14:48:35,696 - INFO - BruceFeIix获取到 42 个URL
+2026-11-24 14:48:35,696 - INFO - === 开始处理 2026-11-24 的数据 ===
+2026-11-24 14:48:35,696 - INFO - Doonsec原始数据: 0 个
+2026-11-24 14:48:35,696 - INFO - ChainReactors原始数据: 0 个
+2026-11-24 14:48:35,696 - INFO - BruceFeIix原始数据: 42 个
+2026-11-24 14:48:35,696 - INFO - 开始处理Doonsec数据...
+2026-11-24 14:48:35,696 - INFO - 开始处理ChainReactors数据...
+2026-11-24 14:48:35,696 - INFO - 开始处理BruceFeIix数据...
+2026-11-24 14:48:35,696 - INFO - 去重后共 42 个URL待处理，跳过 0 个重复URL
+2026-11-24 14:48:35,696 - INFO - 去重后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 42 个
+2026-11-24 14:48:35,696 - INFO - === 开始关键词过滤 ===
+2026-11-24 14:48:35,697 - INFO - 关键词过滤: 匹配 12 个，跳过 30 个
+2026-11-24 14:48:35,697 - INFO - 关键词过滤后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 12 个
+2026-11-24 14:48:35,703 - INFO - 已创建每日报告: md/2026-11-24.md
+2026-11-24 14:48:35,703 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-11-24 14:48:35,703 - INFO - 正在发送Discord通知:  ] [雷神众测漏洞周报2026.11.16-2026.11.22
+2026-11-24 14:48:36,134 - INFO - Discord通知发送结果: 204
+2026-11-24 14:48:36,135 - INFO - 正在发送Discord通知:  ] [FBI史诗级数据泄露：全球通缉数据库疑遭窃取
+2026-11-24 14:48:36,410 - INFO - Discord通知发送结果: 204
+2026-11-24 14:48:36,411 - INFO - 正在发送Discord通知:  ] [SonicWall：因AI攻击风险，将不再修复 Gen 6 防火墙漏洞
+2026-11-24 14:48:37,088 - INFO - Discord通知发送结果: 204
+2026-11-24 14:48:37,089 - INFO - 正在发送Discord通知:  ] [F5紧急修复多个严重的 BIG-IP RCE 漏洞
+2026-11-24 14:48:37,331 - INFO - Discord通知发送结果: 204
+2026-11-24 14:48:37,332 - INFO - 正在发送Discord通知:  ] [OpenAI GPT-6.2 Astra挖出多个0Day：权限绕过、远程代码执行全部涉及
+2026-11-24 14:48:38,093 - INFO - Discord通知发送结果: 204
+2026-11-24 14:48:38,094 - INFO - 正在发送Discord通知:  ] [AI SOC 如何走向自主化？从辅助分析到自动处置的五级演进路径
+2026-11-24 14:48:38,360 - INFO - Discord通知发送结果: 204
+2026-11-24 14:48:38,361 - INFO - 正在发送Discord通知:  ] [牛司牛聘 | 集团招聘网络安全架构师/数据安全架构师/AI安全架构师（智能体安全防护方向）
+2026-11-24 14:48:38,728 - INFO - Discord通知发送结果: 204
+2026-11-24 14:48:38,729 - INFO - 正在发送Discord通知:  ] [漏洞利用成功率53.5%：GPT-6.2网安能力达Critical，系统卡里藏着三个更危险的信号
+2026-11-24 14:48:39,060 - INFO - Discord通知发送结果: 204
+2026-11-24 14:48:39,061 - INFO - 正在发送Discord通知:  ] [假外挂真窃密丨借《逃离塔科夫》Loader投放的反射注入木马分析
+2026-11-24 14:48:39,485 - INFO - Discord通知发送结果: 204
+2026-11-24 14:48:39,486 - INFO - 正在发送Discord通知:  ] [【安全圈】CISA紧急预警：VMware与Cisco等四枚高危遭在野利用
+2026-11-24 14:48:39,749 - INFO - Discord通知发送结果: 204
+2026-11-24 14:48:39,750 - INFO - 正在发送Discord通知:  ] [【安全圈】AI Agent自主挖掘零日漏洞：11分钟拿下医疗服务器
+2026-11-24 14:48:40,041 - INFO - Discord通知发送结果: 204
+2026-11-24 14:48:40,042 - INFO - 正在发送Discord通知:  ] [人物专访 | 关保联盟秘书长黄一玲对话子芽：面对智能体的动态风险，企业该如何构建AI原生安全治理体系
+2026-11-24 14:48:40,404 - INFO - Discord通知发送结果: 204
+2026-11-24 14:48:40,496 - INFO - 已更新data.json，添加了 12 个URL
+2026-11-24 14:48:40,496 - INFO - 已创建每日报告: md/2026-11-24.md
+2026-11-24 14:48:40,496 - INFO - 正在发送Discord日报通知: 2026-11-24
+2026-11-24 14:48:40,757 - INFO - Discord日报发送结果: 204
+2026-11-24 14:48:40,758 - INFO - === 执行完成 ===

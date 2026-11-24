@@ -54850,5 +54850,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493574&idx=2&sn=fa6556997dc76f69e9fe5503d753a9fe": " ] [【已复现】无需凭据获取管理员会话——VMware vCenter 认证绕过漏洞（CVE-2026-123890）",
     "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493574&idx=1&sn=c30ca613b32361daac820495c188a69c": " ] [【已复现】帆软 FineReport FVS 插件复用资源导入未授权远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508224&idx=1&sn=2ab11be61822d4389080836c4f6663af": " ] [【已复现】Artifex Ghostscript -dSAFER 沙箱绕过漏洞(CVE-2026-125396)安全风险通告",
-    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497355&idx=1&sn=ddfb08256c271d8101aa6b540ff17472": " ] [跨域间接提示注入形式化建模"
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497355&idx=1&sn=ddfb08256c271d8101aa6b540ff17472": " ] [跨域间接提示注入形式化建模",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652504037&idx=1&sn=ebf6c4bd93a334e7891d8aabdc592297": " ] [雷神众测漏洞周报2026.11.16-2026.11.22",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516931&idx=1&sn=404d25d01211b1ccb7ec8ab1b35d43d2": " ] [FBI史诗级数据泄露：全球通缉数据库疑遭窃取",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527801&idx=2&sn=445f90ed290803183aa6a74d8ada6a0d": " ] [SonicWall：因AI攻击风险，将不再修复 Gen 6 防火墙漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527801&idx=1&sn=23bfb7c301a06f1b257852ad186ba983": " ] [F5紧急修复多个严重的 BIG-IP RCE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624444&idx=3&sn=7ec4d0204cc2cc1cd4c114162ef68c34": " ] [OpenAI GPT-6.2 Astra挖出多个0Day：权限绕过、远程代码执行全部涉及",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544620&idx=1&sn=98003a9031f8044af07be9142beece56": " ] [AI SOC 如何走向自主化？从辅助分析到自动处置的五级演进路径",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143370&idx=2&sn=9b1ccdf71aa6c5c8794bad7425465560": " ] [牛司牛聘 | 集团招聘网络安全架构师/数据安全架构师/AI安全架构师（智能体安全防护方向）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143370&idx=1&sn=3e2da4a9d685ed29b61501f774d85960": " ] [漏洞利用成功率53.5%：GPT-6.2网安能力达Critical，系统卡里藏着三个更危险的信号",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247539006&idx=1&sn=c6c9fbcaeaf2490de4feac11cbee2580": " ] [假外挂真窃密丨借《逃离塔科夫》Loader投放的反射注入木马分析",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080032&idx=3&sn=cd19a06b8fed5919a4de9fec4b756e3a": " ] [【安全圈】CISA紧急预警：VMware与Cisco等四枚高危遭在野利用",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080032&idx=2&sn=0979762f073753e029a45dc071f89129": " ] [【安全圈】AI Agent自主挖掘零日漏洞：11分钟拿下医疗服务器",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647801546&idx=1&sn=982a508c43049c05c44845cf7b5c164e": " ] [人物专访 | 关保联盟秘书长黄一玲对话子芽：面对智能体的动态风险，企业该如何构建AI原生安全治理体系"
 }
