@@ -1,17 +1,16 @@
-# 2026-11-24 安全威胁态势报告
+# 2026-11-25 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 12
+- **总文章数**: 7
 - **数据源分布**:
-  - BruceFeIix: 12篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
+- **漏洞利用**: 5篇
 - **攻击技术**: 3篇
-- **信息泄露**: 1篇
 
 ### 漏洞类型分析
 - **系统漏洞**: 1篇
@@ -61,20 +60,15 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [雷神众测漏洞周报2026.11.16-2026.11.22](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652504037&idx=1&sn=ebf6c4bd93a334e7891d8aabdc592297) (发布日期: 2026-11-24)
-- [ ] [FBI史诗级数据泄露：全球通缉数据库疑遭窃取](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516931&idx=1&sn=404d25d01211b1ccb7ec8ab1b35d43d2) (发布日期: 2026-11-24)
-- [ ] [SonicWall：因AI攻击风险，将不再修复 Gen 6 防火墙漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527801&idx=2&sn=445f90ed290803183aa6a74d8ada6a0d) (发布日期: 2026-11-24)
-- [ ] [F5紧急修复多个严重的 BIG-IP RCE 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527801&idx=1&sn=23bfb7c301a06f1b257852ad186ba983) (发布日期: 2026-11-24)
-- [ ] [OpenAI GPT-6.2 Astra挖出多个0Day：权限绕过、远程代码执行全部涉及](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624444&idx=3&sn=7ec4d0204cc2cc1cd4c114162ef68c34) (发布日期: 2026-11-24)
-- [ ] [AI SOC 如何走向自主化？从辅助分析到自动处置的五级演进路径](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544620&idx=1&sn=98003a9031f8044af07be9142beece56) (发布日期: 2026-11-24)
-- [ ] [牛司牛聘 | 集团招聘网络安全架构师/数据安全架构师/AI安全架构师（智能体安全防护方向）](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143370&idx=2&sn=9b1ccdf71aa6c5c8794bad7425465560) (发布日期: 2026-11-24)
-- [ ] [漏洞利用成功率53.5%：GPT-6.2网安能力达Critical，系统卡里藏着三个更危险的信号](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143370&idx=1&sn=3e2da4a9d685ed29b61501f774d85960) (发布日期: 2026-11-24)
-- [ ] [假外挂真窃密丨借《逃离塔科夫》Loader投放的反射注入木马分析](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247539006&idx=1&sn=c6c9fbcaeaf2490de4feac11cbee2580) (发布日期: 2026-11-24)
-- [ ] [【安全圈】CISA紧急预警：VMware与Cisco等四枚高危遭在野利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080032&idx=3&sn=cd19a06b8fed5919a4de9fec4b756e3a) (发布日期: 2026-11-24)
-- [ ] [【安全圈】AI Agent自主挖掘零日漏洞：11分钟拿下医疗服务器](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080032&idx=2&sn=0979762f073753e029a45dc071f89129) (发布日期: 2026-11-24)
-- [ ] [人物专访 | 关保联盟秘书长黄一玲对话子芽：面对智能体的动态风险，企业该如何构建AI原生安全治理体系](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647801546&idx=1&sn=982a508c43049c05c44845cf7b5c164e) (发布日期: 2026-11-24)
+- [【已复现】GeoServer未认证远程代码执行漏洞（CVExa0链）安全风险通告](https://mp.weixin.qq.com/s/p5H7W3stxgKy7pLsNLwhgw) (发布日期: 2026-11-25)
+- [【已复现】GeoServer 认证前远程代码执行漏洞利用链](https://mp.weixin.qq.com/s/zLMFOazsQKhTgL06xYbT0A) (发布日期: 2026-11-25)
+- [TLS1.3流量威胁检测解密方案浅析](https://mp.weixin.qq.com/s/FIpnvNkeCTQfS8W8e965oA) (发布日期: 2026-11-25)
+- [你扫的是源代码，攻击者读的是你正在发布的那个字节——JS硬编码密钥的2026年真相](https://mp.weixin.qq.com/s/i6OJXQWsps5ZQadWR3CfZA) (发布日期: 2026-11-25)
+- [Fastjson 漏洞](https://mp.weixin.qq.com/s/cj8-eW4Z9m_fLJqxGMlHJA) (发布日期: 2026-11-25)
+- [Broadcom发布VMware安全更新 VMSA-2026-0011: 一次性修复23个漏洞，4个Critical漏洞需紧急处理](https://mp.weixin.qq.com/s/kDYYAjXWBqk4m44bSgC6Mg) (发布日期: 2026-11-25)
+- [【附exp】geoserver 未授权RCE！五个cve组合拳！](https://mp.weixin.qq.com/s/5HuEQj3nB4dkduj0uP3u3w) (发布日期: 2026-11-25)
 
 
 ## 🎯 威胁详情分析
@@ -83,31 +77,24 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [雷神众测漏洞周报2026.11.16-2026.11.22 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652504037&idx=1&sn=ebf6c4bd93a334e7891d8aabdc592297](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652504037&idx=1&sn=ebf6c4bd93a334e7891d8aabdc592297) |
-| 2 |  ] [SonicWall：因AI攻击风险，将不再修复 Gen 6 防火墙漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527801&idx=2&sn=445f90ed290803183aa6a74d8ada6a0d](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527801&idx=2&sn=445f90ed290803183aa6a74d8ada6a0d) |
-| 3 |  ] [F5紧急修复多个严重的 BIG-IP RCE 漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527801&idx=1&sn=23bfb7c301a06f1b257852ad186ba983](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527801&idx=1&sn=23bfb7c301a06f1b257852ad186ba983) |
-| 4 |  ] [OpenAI GPT-6.2 Astra挖出多个0Day：权限绕过、远程代码执行全部涉及 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624444&idx=3&sn=7ec4d0204cc2cc1cd4c114162ef68c34](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624444&idx=3&sn=7ec4d0204cc2cc1cd4c114162ef68c34) |
-| 5 |  ] [漏洞利用成功率53.5%：GPT-6.2网安能力达Critical，系统卡里藏着三个更危险的信号 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143370&idx=1&sn=3e2da4a9d685ed29b61501f774d85960](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143370&idx=1&sn=3e2da4a9d685ed29b61501f774d85960) |
-| 6 |  ] [【安全圈】AI Agent自主挖掘零日漏洞：11分钟拿下医疗服务器 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080032&idx=2&sn=0979762f073753e029a45dc071f89129](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080032&idx=2&sn=0979762f073753e029a45dc071f89129) |
+| 1 | 【已复现】GeoServer未认证远程代码执行漏洞（CVExa0链）安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/p5H7W3stxgKy7pLsNLwhgw](https://mp.weixin.qq.com/s/p5H7W3stxgKy7pLsNLwhgw) |
+| 2 | 【已复现】GeoServer 认证前远程代码执行漏洞利用链 | Doonsec | [https://mp.weixin.qq.com/s/zLMFOazsQKhTgL06xYbT0A](https://mp.weixin.qq.com/s/zLMFOazsQKhTgL06xYbT0A) |
+| 3 | Fastjson 漏洞 | Doonsec | [https://mp.weixin.qq.com/s/cj8-eW4Z9m_fLJqxGMlHJA](https://mp.weixin.qq.com/s/cj8-eW4Z9m_fLJqxGMlHJA) |
+| 4 | Broadcom发布VMware安全更新 VMSA-2026-0011: 一次性修复23个漏洞，4个Critical漏洞需紧急处理 | Doonsec | [https://mp.weixin.qq.com/s/kDYYAjXWBqk4m44bSgC6Mg](https://mp.weixin.qq.com/s/kDYYAjXWBqk4m44bSgC6Mg) |
+| 5 | 【附exp】geoserver 未授权RCE！五个cve组合拳！ | Doonsec | [https://mp.weixin.qq.com/s/5HuEQj3nB4dkduj0uP3u3w](https://mp.weixin.qq.com/s/5HuEQj3nB4dkduj0uP3u3w) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [F5紧急修复多个严重的 BIG-IP RCE 漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527801&idx=1&sn=23bfb7c301a06f1b257852ad186ba983](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527801&idx=1&sn=23bfb7c301a06f1b257852ad186ba983) |
-| 2 |  ] [OpenAI GPT-6.2 Astra挖出多个0Day：权限绕过、远程代码执行全部涉及 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624444&idx=3&sn=7ec4d0204cc2cc1cd4c114162ef68c34](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624444&idx=3&sn=7ec4d0204cc2cc1cd4c114162ef68c34) |
-| 3 |  ] [假外挂真窃密丨借《逃离塔科夫》Loader投放的反射注入木马分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247539006&idx=1&sn=c6c9fbcaeaf2490de4feac11cbee2580](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247539006&idx=1&sn=c6c9fbcaeaf2490de4feac11cbee2580) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [FBI史诗级数据泄露：全球通缉数据库疑遭窃取 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516931&idx=1&sn=404d25d01211b1ccb7ec8ab1b35d43d2](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516931&idx=1&sn=404d25d01211b1ccb7ec8ab1b35d43d2) |
+| 1 | 【已复现】GeoServer未认证远程代码执行漏洞（CVExa0链）安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s/p5H7W3stxgKy7pLsNLwhgw](https://mp.weixin.qq.com/s/p5H7W3stxgKy7pLsNLwhgw) |
+| 2 | 【已复现】GeoServer 认证前远程代码执行漏洞利用链 | Doonsec | [https://mp.weixin.qq.com/s/zLMFOazsQKhTgL06xYbT0A](https://mp.weixin.qq.com/s/zLMFOazsQKhTgL06xYbT0A) |
+| 3 | 【附exp】geoserver 未授权RCE！五个cve组合拳！ | Doonsec | [https://mp.weixin.qq.com/s/5HuEQj3nB4dkduj0uP3u3w](https://mp.weixin.qq.com/s/5HuEQj3nB4dkduj0uP3u3w) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-11/2026-W48/2026-11-24/`
+文章已归档到: `doc/2026/2026-11/2026-W48/2026-11-25/`
 
 ## 🔗 数据源说明
 
@@ -118,7 +105,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
 - **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -128,5 +115,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-11-24 14:48:40*
+*生成时间: 2026-11-25 00:27:36*
 *报告工具: 微信文章安全归档系统*
