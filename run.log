@@ -137739,3 +137739,56 @@
 2026-11-24 14:48:40,496 - INFO - 正在发送Discord日报通知: 2026-11-24
 2026-11-24 14:48:40,757 - INFO - Discord日报发送结果: 204
 2026-11-24 14:48:40,758 - INFO - === 执行完成 ===
+2026-11-25 00:27:31,683 - INFO - === 开始执行微信文章归档工具 ===
+2026-11-25 00:27:31,684 - INFO - 🚀 Security Monitor Starting... Platform: Discord
+2026-11-25 00:27:31,684 - INFO - 正在发送Discord启动通知...
+2026-11-25 00:27:32,449 - INFO - Discord启动通知发送结果: 204
+2026-11-25 00:27:32,451 - INFO - 数据文件: data.json
+2026-11-25 00:27:32,451 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2026-11-25 00:27:32,451 - INFO - 文档目录: doc
+2026-11-25 00:27:32,562 - INFO - 已加载 54864 条历史记录
+2026-11-25 00:27:32,563 - INFO - === 开始今日拉取 ===
+2026-11-25 00:27:32,563 - INFO - 开始获取Doonsec RSS
+2026-11-25 00:27:32,563 - INFO - 目标日期: 2026-11-25
+2026-11-25 00:27:34,031 - INFO - Doonsec RSS请求成功
+2026-11-25 00:27:34,032 - INFO - RSS中共有 200 个条目
+2026-11-25 00:27:34,032 - INFO - Doonsec获取到 15 个2026-11-25的微信文章URL
+2026-11-25 00:27:34,033 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-11-25.md
+2026-11-25 00:27:34,138 - INFO - ChainReactors md文件下载状态码: 404
+2026-11-25 00:27:34,139 - WARNING - ChainReactors md文件下载失败: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2026/2026-11-25.md 状态码: 404
+2026-11-25 00:27:34,139 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-11-25.md
+2026-11-25 00:27:34,241 - INFO - BruceFeIix md文件下载状态码: 404
+2026-11-25 00:27:34,241 - WARNING - BruceFeIix md文件下载失败: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2026/2026-11-25.md 状态码: 404
+2026-11-25 00:27:34,241 - INFO - === 开始处理 2026-11-25 的数据 ===
+2026-11-25 00:27:34,242 - INFO - Doonsec原始数据: 15 个
+2026-11-25 00:27:34,242 - INFO - ChainReactors原始数据: 0 个
+2026-11-25 00:27:34,242 - INFO - BruceFeIix原始数据: 0 个
+2026-11-25 00:27:34,242 - INFO - 开始处理Doonsec数据...
+2026-11-25 00:27:34,242 - INFO - 开始处理ChainReactors数据...
+2026-11-25 00:27:34,242 - INFO - 开始处理BruceFeIix数据...
+2026-11-25 00:27:34,242 - INFO - 去重后共 15 个URL待处理，跳过 0 个重复URL
+2026-11-25 00:27:34,242 - INFO - 去重后统计 - Doonsec: 15 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-11-25 00:27:34,242 - INFO - === 开始关键词过滤 ===
+2026-11-25 00:27:34,242 - INFO - 关键词过滤: 匹配 7 个，跳过 8 个
+2026-11-25 00:27:34,242 - INFO - 关键词过滤后统计 - Doonsec: 7 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2026-11-25 00:27:34,247 - INFO - 已创建每日报告: md/2026-11-25.md
+2026-11-25 00:27:34,247 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2026-11-25 00:27:34,247 - INFO - 正在发送Discord通知: 【已复现】GeoServer未认证远程代码执行漏洞（CVExa0链）安全风险通告
+2026-11-25 00:27:34,540 - INFO - Discord通知发送结果: 204
+2026-11-25 00:27:34,541 - INFO - 正在发送Discord通知: 【已复现】GeoServer 认证前远程代码执行漏洞利用链
+2026-11-25 00:27:34,805 - INFO - Discord通知发送结果: 204
+2026-11-25 00:27:34,806 - INFO - 正在发送Discord通知: TLS1.3流量威胁检测解密方案浅析
+2026-11-25 00:27:35,077 - INFO - Discord通知发送结果: 204
+2026-11-25 00:27:35,078 - INFO - 正在发送Discord通知: 你扫的是源代码，攻击者读的是你正在发布的那个字节——JS硬编码密钥的2026年真相
+2026-11-25 00:27:35,334 - INFO - Discord通知发送结果: 204
+2026-11-25 00:27:35,335 - INFO - 正在发送Discord通知: Fastjson 漏洞
+2026-11-25 00:27:35,655 - INFO - Discord通知发送结果: 204
+2026-11-25 00:27:35,656 - INFO - 正在发送Discord通知: Broadcom发布VMware安全更新 VMSA-2026-0011: 一次性修复23个漏洞，4个Critical漏洞需紧急处理
+2026-11-25 00:27:35,878 - INFO - Discord通知发送结果: 204
+2026-11-25 00:27:35,879 - INFO - 正在发送Discord通知: 【附exp】geoserver 未授权RCE！五个cve组合拳！
+2026-11-25 00:27:36,183 - INFO - Discord通知发送结果: 204
+2026-11-25 00:27:36,265 - INFO - 已更新data.json，添加了 7 个URL
+2026-11-25 00:27:36,266 - INFO - 已创建每日报告: md/2026-11-25.md
+2026-11-25 00:27:36,266 - INFO - 正在发送Discord日报通知: 2026-11-25
+2026-11-25 00:27:36,653 - INFO - Discord日报发送结果: 204
+2026-11-25 00:27:36,654 - INFO - === 执行完成 ===
