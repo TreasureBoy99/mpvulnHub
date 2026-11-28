@@ -1,17 +1,25 @@
-# 2026-11-27 安全威胁态势报告
+# 2026-11-28 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 35
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 22篇
+  - BruceFeIix: 13篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
+- **漏洞利用**: 15篇
+- **攻击技术**: 7篇
+- **信息泄露**: 3篇
+- **安全运营**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 4篇
+- **Web安全**: 3篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,9 +68,44 @@
 
 ### Doonsec
 
-- [俄罗斯黑客利用 Zimbra 0-Day 漏洞，零点击邮箱秒没](https://mp.weixin.qq.com/s/V3OinR4jGBuxYgz-re79ew) (发布日期: 2026-11-27)
-- [Node 单线程也有竞态：Parse Server 多 OAuth2 Provider CVE-2026-32242漏洞分析](https://mp.weixin.qq.com/s/rKC3cCHyeEamnFoj5haqIg) (发布日期: 2026-11-27)
-- [中央网信办数据与技术保障中心发布‖共八家机构通过数据安全风险评估服务认证](https://mp.weixin.qq.com/s/Fa1HR41FV16LmAPNkQKOkA) (发布日期: 2026-11-27)
+- [安天AVL SDK反病毒引擎升级通告（20261128）](https://mp.weixin.qq.com/s/cPz39NGwGVGTfsr8HUz97Q) (发布日期: 2026-11-28)
+- [【一周安全资讯1128】《关键信息基础设施安全运维指南》等25项公共安全行业标准发布；FBI史诗级数据泄露：全球通缉数据库疑遭窃取](https://mp.weixin.qq.com/s/YxW7BVgzNUlKWswx8UylAg) (发布日期: 2026-11-28)
+- [Fail2Install：把系统限制变成 Drupal 的预认证 RCE](https://mp.weixin.qq.com/s/bdrmFn0KgQCOzXBdmWzEcQ) (发布日期: 2026-11-28)
+- [只凭一个 SQL Server 弱口令就能拿下整台 Windows 主机：SqlKnife 把命令执行、权限提升、驻留后门全焊进了一个 3 万行的命令行](https://mp.weixin.qq.com/s/v7p4OGnUNM9c9SpouUs-Fw) (发布日期: 2026-11-28)
+- [Cacti曝出4HTTP2ROOT零日漏洞: 无需认证，4个HTTP请求即可实现远程命令执行](https://mp.weixin.qq.com/s/QRxF-m720FwXv9-tJV3RlA) (发布日期: 2026-11-28)
+- [11月27日漏洞：448条，OpenScape 满分、文件上传与 SSO 绕过](https://mp.weixin.qq.com/s/2kOCMxbR_jnaqOFN-qMwZg) (发布日期: 2026-11-28)
+- [安全能力重构 | D036篇 一次攻击为什么往往不止一个漏洞](https://mp.weixin.qq.com/s/MERCrvgaEpI9rM47nFu2IQ) (发布日期: 2026-11-28)
+- [PRISM 2027 征稿通知 | 第二届攻击溯源与智能安全推理研讨会](https://mp.weixin.qq.com/s/5SD31kpfiSZqaMIvA6o55g) (发布日期: 2026-11-28)
+- [巴西证监会DLT试点推进证券代币化，CertiK参与ABToken项目安全评估](https://mp.weixin.qq.com/s/zS24TJLk-iWHmSYksG_e9g) (发布日期: 2026-11-28)
+- [Cryptomator：文件上传网盘前先在本地加密，桌面版免费](https://mp.weixin.qq.com/s/3uYTFRcw7oV3-0LqJu5bjg) (发布日期: 2026-11-28)
+- [四个请求，从游客到 Shell：Cacti 未授权 RCE 深度分析（QVD-2026-117631·附PoC）](https://mp.weixin.qq.com/s/NuED70FGZkCFwRomVEv-zA) (发布日期: 2026-11-28)
+- [交易所安全架构05｜财资与支付渠道](https://mp.weixin.qq.com/s/fkQ2J5-N1eNb6BL-iv6PrA) (发布日期: 2026-11-28)
+- [API 渗透测试](https://mp.weixin.qq.com/s/ZWQmERPM8OHu96OFJMClfw) (发布日期: 2026-11-28)
+- [AI 渗透测试智能体，如何保证被测环境安全——从“相信模型”到“约束架构”：五个可落地的控制机制](https://mp.weixin.qq.com/s/WmnLo8BVcRsc9OKfyx-JHA) (发布日期: 2026-11-28)
+- [Silver Fox黑客利用虚假软件下载传播Gh0stRAT恶意软件，该软件可以监视电脑](https://mp.weixin.qq.com/s/GdpPGVfyNNMJlf8wSUZU5Q) (发布日期: 2026-11-28)
+- [客户端相似度91.1%能否证成软件同一性，私服案四步推论仅一步有鉴定的证据链拆解](https://mp.weixin.qq.com/s/oFPwBXkDnWkf5kEh5K_Oxw) (发布日期: 2026-11-28)
+- [美国网络安全和基础设施安全局 (CISA) 警告：黑客正在积极利用思科、VMware、SAP 和 Apache 的漏洞](https://mp.weixin.qq.com/s/cguMd15zYiDtMxmjrsKSaw) (发布日期: 2026-11-28)
+- [XSS 凉了，这门手艺却越来越值钱](https://mp.weixin.qq.com/s/7mXsVND0BrUCtyrqxOTpRw) (发布日期: 2026-11-28)
+- [TG SRC试运营中](https://mp.weixin.qq.com/s/zROlVy02ivaSx_8ubag2QA) (发布日期: 2026-11-28)
+- [LiteLLM MCP OAuth2 passthrough 认证绕过复现与分析](https://mp.weixin.qq.com/s/kJME5Zo4j0Kz9j3WMp9JBA) (发布日期: 2026-11-28)
+- [Agent 自己写了个扫描器：AI 造出来的安全工具，凭什么信](https://mp.weixin.qq.com/s/PLs-8uHRgOeB_cpNPXHnSA) (发布日期: 2026-11-28)
+- [Palo Alto Networks 警告：黑客利用了 Fragnesia 漏洞攻击了 PAN-OS 系统](https://mp.weixin.qq.com/s/GzTcylo5XZ_D8ZuAUEZxJQ) (发布日期: 2026-11-28)
+
+### BruceFeIix
+
+- [ ] [SolarWinds Serv-U 多个严重漏洞可被用于获得 root 权限并接管服务器](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527836&idx=2&sn=c9631dedc33e3de6e7a37fdd26faf2c7) (发布日期: 2026-11-28)
+- [ ] [Drupal：站点接管超危漏洞已遭活跃利用](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527836&idx=1&sn=fac7a708c33af8fa161e4a45247948ab) (发布日期: 2026-11-28)
+- [ ] [AI与云安全事件案例分析周报 | 2026年11月23日至11月27日](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500463&idx=1&sn=322cdcc41efcdbb9415de44895916eea) (发布日期: 2026-11-28)
+- [ ] [AI加速漏洞发现，但谁来解决漏洞修复难题？](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544669&idx=1&sn=cdaa5c64ac63e7b26ae946ceda98e141) (发布日期: 2026-11-28)
+- [ ] [【安全圈】Cacti在野0-day遭公开：仅需4次HTTP请求即可远程RCE](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080078&idx=3&sn=eda2b9b2a61749313ce2612c6a945ced) (发布日期: 2026-11-28)
+- [ ] [【安全圈】Linux内核曝12年老漏洞：NFS2ROOT允许远程提权Root](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080078&idx=2&sn=34f5dff3800adc37817a255f0e87851d) (发布日期: 2026-11-28)
+- [ ] [【安全圈】香港接连发生大规模数据泄露：健身售票等十余机构遭入侵](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080078&idx=1&sn=74657d60bdc2c50b1e559ea7d9cc874f) (发布日期: 2026-11-28)
+- [ ] [评论 | 切断黑色链条，堵住“简历开盒”漏洞](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268789&idx=5&sn=669dd92318a19b913b3ee704e3a25eb3) (发布日期: 2026-11-28)
+- [ ] [【漏洞通告】Cacti远程代码执行漏洞（4http2shell）](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494345&idx=2&sn=af749b2d53a53c28ab268b1425be5f53) (发布日期: 2026-11-28)
+- [ ] [【漏洞通告】Linux内核NFS越界写入漏洞（CVE-2026-99362）](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494345&idx=1&sn=b554a329de0ef9c022e6e8cc7392d4d4) (发布日期: 2026-11-28)
+- [ ] [阿里云安全Agentic SOC招聘AI安全研发专家](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652999188&idx=1&sn=3cb2d229d0bcea2609a8172cd1a28d90) (发布日期: 2026-11-28)
+- [ ] [【火绒安全周报】三星确认第三方数据泄露/美国中情局疑遭网络入侵](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247539076&idx=2&sn=9a146c0b30d91a44c8d512ed07518974) (发布日期: 2026-11-28)
+- [ ] [Tor Browser曝高危漏洞：恶意网站点击一次即可获取用户真实IP地址](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624654&idx=3&sn=798a28ca968f34b34b9d1c2cffbb6689) (发布日期: 2026-11-28)
 
 
 ## 🎯 威胁详情分析
@@ -71,13 +114,58 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 俄罗斯黑客利用 Zimbra 0-Day 漏洞，零点击邮箱秒没 | Doonsec | [https://mp.weixin.qq.com/s/V3OinR4jGBuxYgz-re79ew](https://mp.weixin.qq.com/s/V3OinR4jGBuxYgz-re79ew) |
-| 2 | Node 单线程也有竞态：Parse Server 多 OAuth2 Provider CVE-2026-32242漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s/rKC3cCHyeEamnFoj5haqIg](https://mp.weixin.qq.com/s/rKC3cCHyeEamnFoj5haqIg) |
+| 1 | Cacti曝出4HTTP2ROOT零日漏洞: 无需认证，4个HTTP请求即可实现远程命令执行 | Doonsec | [https://mp.weixin.qq.com/s/QRxF-m720FwXv9-tJV3RlA](https://mp.weixin.qq.com/s/QRxF-m720FwXv9-tJV3RlA) |
+| 2 | 11月27日漏洞：448条，OpenScape 满分、文件上传与 SSO 绕过 | Doonsec | [https://mp.weixin.qq.com/s/2kOCMxbR_jnaqOFN-qMwZg](https://mp.weixin.qq.com/s/2kOCMxbR_jnaqOFN-qMwZg) |
+| 3 | 安全能力重构 | D036篇 一次攻击为什么往往不止一个漏洞 | Doonsec | [https://mp.weixin.qq.com/s/MERCrvgaEpI9rM47nFu2IQ](https://mp.weixin.qq.com/s/MERCrvgaEpI9rM47nFu2IQ) |
+| 4 | 四个请求，从游客到 Shell：Cacti 未授权 RCE 深度分析（QVD-2026-117631·附PoC） | Doonsec | [https://mp.weixin.qq.com/s/NuED70FGZkCFwRomVEv-zA](https://mp.weixin.qq.com/s/NuED70FGZkCFwRomVEv-zA) |
+| 5 | 美国网络安全和基础设施安全局 (CISA) 警告：黑客正在积极利用思科、VMware、SAP 和 Apache 的漏洞 | Doonsec | [https://mp.weixin.qq.com/s/cguMd15zYiDtMxmjrsKSaw](https://mp.weixin.qq.com/s/cguMd15zYiDtMxmjrsKSaw) |
+| 6 | LiteLLM MCP OAuth2 passthrough 认证绕过复现与分析 | Doonsec | [https://mp.weixin.qq.com/s/kJME5Zo4j0Kz9j3WMp9JBA](https://mp.weixin.qq.com/s/kJME5Zo4j0Kz9j3WMp9JBA) |
+| 7 | Palo Alto Networks 警告：黑客利用了 Fragnesia 漏洞攻击了 PAN-OS 系统 | Doonsec | [https://mp.weixin.qq.com/s/GzTcylo5XZ_D8ZuAUEZxJQ](https://mp.weixin.qq.com/s/GzTcylo5XZ_D8ZuAUEZxJQ) |
+| 8 |  ] [SolarWinds Serv-U 多个严重漏洞可被用于获得 root 权限并接管服务器 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527836&idx=2&sn=c9631dedc33e3de6e7a37fdd26faf2c7](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527836&idx=2&sn=c9631dedc33e3de6e7a37fdd26faf2c7) |
+| 9 |  ] [Drupal：站点接管超危漏洞已遭活跃利用 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527836&idx=1&sn=fac7a708c33af8fa161e4a45247948ab](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527836&idx=1&sn=fac7a708c33af8fa161e4a45247948ab) |
+| 10 |  ] [AI加速漏洞发现，但谁来解决漏洞修复难题？ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544669&idx=1&sn=cdaa5c64ac63e7b26ae946ceda98e141](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544669&idx=1&sn=cdaa5c64ac63e7b26ae946ceda98e141) |
+| 11 |  ] [【安全圈】Linux内核曝12年老漏洞：NFS2ROOT允许远程提权Root | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080078&idx=2&sn=34f5dff3800adc37817a255f0e87851d](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080078&idx=2&sn=34f5dff3800adc37817a255f0e87851d) |
+| 12 |  ] [评论 | 切断黑色链条，堵住“简历开盒”漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268789&idx=5&sn=669dd92318a19b913b3ee704e3a25eb3](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268789&idx=5&sn=669dd92318a19b913b3ee704e3a25eb3) |
+| 13 |  ] [【漏洞通告】Cacti远程代码执行漏洞（4http2shell） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494345&idx=2&sn=af749b2d53a53c28ab268b1425be5f53](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494345&idx=2&sn=af749b2d53a53c28ab268b1425be5f53) |
+| 14 |  ] [【漏洞通告】Linux内核NFS越界写入漏洞（CVE-2026-99362） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494345&idx=1&sn=b554a329de0ef9c022e6e8cc7392d4d4](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494345&idx=1&sn=b554a329de0ef9c022e6e8cc7392d4d4) |
+| 15 |  ] [Tor Browser曝高危漏洞：恶意网站点击一次即可获取用户真实IP地址 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624654&idx=3&sn=798a28ca968f34b34b9d1c2cffbb6689](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624654&idx=3&sn=798a28ca968f34b34b9d1c2cffbb6689) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Fail2Install：把系统限制变成 Drupal 的预认证 RCE | Doonsec | [https://mp.weixin.qq.com/s/bdrmFn0KgQCOzXBdmWzEcQ](https://mp.weixin.qq.com/s/bdrmFn0KgQCOzXBdmWzEcQ) |
+| 2 | 只凭一个 SQL Server 弱口令就能拿下整台 Windows 主机：SqlKnife 把命令执行、权限提升、驻留后门全焊进了一个 3 万行的命令行 | Doonsec | [https://mp.weixin.qq.com/s/v7p4OGnUNM9c9SpouUs-Fw](https://mp.weixin.qq.com/s/v7p4OGnUNM9c9SpouUs-Fw) |
+| 3 | Cacti曝出4HTTP2ROOT零日漏洞: 无需认证，4个HTTP请求即可实现远程命令执行 | Doonsec | [https://mp.weixin.qq.com/s/QRxF-m720FwXv9-tJV3RlA](https://mp.weixin.qq.com/s/QRxF-m720FwXv9-tJV3RlA) |
+| 4 | 四个请求，从游客到 Shell：Cacti 未授权 RCE 深度分析（QVD-2026-117631·附PoC） | Doonsec | [https://mp.weixin.qq.com/s/NuED70FGZkCFwRomVEv-zA](https://mp.weixin.qq.com/s/NuED70FGZkCFwRomVEv-zA) |
+| 5 | XSS 凉了，这门手艺却越来越值钱 | Doonsec | [https://mp.weixin.qq.com/s/7mXsVND0BrUCtyrqxOTpRw](https://mp.weixin.qq.com/s/7mXsVND0BrUCtyrqxOTpRw) |
+| 6 |  ] [【安全圈】Cacti在野0-day遭公开：仅需4次HTTP请求即可远程RCE | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080078&idx=3&sn=eda2b9b2a61749313ce2612c6a945ced](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080078&idx=3&sn=eda2b9b2a61749313ce2612c6a945ced) |
+| 7 |  ] [【漏洞通告】Cacti远程代码执行漏洞（4http2shell） | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494345&idx=2&sn=af749b2d53a53c28ab268b1425be5f53](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247494345&idx=2&sn=af749b2d53a53c28ab268b1425be5f53) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | TG SRC试运营中 | Doonsec | [https://mp.weixin.qq.com/s/zROlVy02ivaSx_8ubag2QA](https://mp.weixin.qq.com/s/zROlVy02ivaSx_8ubag2QA) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【一周安全资讯1128】《关键信息基础设施安全运维指南》等25项公共安全行业标准发布；FBI史诗级数据泄露：全球通缉数据库疑遭窃取 | Doonsec | [https://mp.weixin.qq.com/s/YxW7BVgzNUlKWswx8UylAg](https://mp.weixin.qq.com/s/YxW7BVgzNUlKWswx8UylAg) |
+| 2 |  ] [【安全圈】香港接连发生大规模数据泄露：健身售票等十余机构遭入侵 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080078&idx=1&sn=74657d60bdc2c50b1e559ea7d9cc874f](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080078&idx=1&sn=74657d60bdc2c50b1e559ea7d9cc874f) |
+| 3 |  ] [【火绒安全周报】三星确认第三方数据泄露/美国中情局疑遭网络入侵 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247539076&idx=2&sn=9a146c0b30d91a44c8d512ed07518974](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247539076&idx=2&sn=9a146c0b30d91a44c8d512ed07518974) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【火绒安全周报】三星确认第三方数据泄露/美国中情局疑遭网络入侵 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247539076&idx=2&sn=9a146c0b30d91a44c8d512ed07518974](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247539076&idx=2&sn=9a146c0b30d91a44c8d512ed07518974) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2026/2026-11/2026-W48/2026-11-27/`
+文章已归档到: `doc/2026/2026-11/2026-W48/2026-11-28/`
 
 ## 🔗 数据源说明
 
@@ -88,8 +176,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 15 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 4 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -98,5 +186,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2026-11-27 23:56:58*
+*生成时间: 2026-11-28 16:42:43*
 *报告工具: 微信文章安全归档系统*
